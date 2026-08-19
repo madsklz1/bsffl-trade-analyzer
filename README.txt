@@ -351,3 +351,9 @@ V2.9.2 DISPLAY CALIBRATION
 - Displayed trade advantage is now confidence-scaled using Current/Dynasty + Pick value before salary.
 - Goal: salary can flip a trade and matter heavily without making modest player-for-player trades appear like blockbuster blowouts.
 - Cap-flexibility remains 1.38.
+
+v3.1 calibration update (2026-08-19)
+- Updated valuation-status explanation to reflect current BSFFL calibration methodology.
+- Compressed displayed advantage percentages without changing underlying player, pick, salary, or contract values.
+- Calibration excludes franchise-tag trades materially forced by BSFFL salary rules.
+- Audited contract-surplus math used in the Charbonnet example; no formula change made. The displayed deficit follows the current replacement-cost design and salary inputs.
