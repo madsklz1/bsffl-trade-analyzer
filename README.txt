@@ -357,3 +357,11 @@ v3.1 calibration update (2026-08-19)
 - Compressed displayed advantage percentages without changing underlying player, pick, salary, or contract values.
 - Calibration excludes franchise-tag trades materially forced by BSFFL salary rules.
 - Audited contract-surplus math used in the Charbonnet example; no formula change made. The displayed deficit follows the current replacement-cost design and salary inputs.
+
+
+v3.2 advantage calibration update (2026-08-19)
+- Keeps v3.1 compression for normal football/pick-value mismatches.
+- Adds smooth salary-driven confidence restoration only when a trade transfers more than $2M of weighted 2026/2027 salary.
+- Salary restoration ramps to a capped +0.18 display-confidence boost by a $10M weighted salary swing.
+- No player, pick, contract-surplus, or cap-flex underlying values changed.
+- Calibration targets: Charbonnet + 2026 1.02 for Javonte remains about 17-18%; Tuten for Jonathan Taylor with roughly $13M nominal two-year salary transfer returns toward 24-26%.

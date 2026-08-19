@@ -586,7 +586,15 @@ function analyze(){
   // but compress the headline percentage so a clear overpay does not read like
   // an absurd mismatch. Calibrated against usable BSFFL trade history and the
   // Charbonnet + 2026 1.02 for Javonte Williams test case (~17-18% display edge).
-  const displayConfidence=Math.min(0.65,Math.max(0.28,preSalaryScale/155));
+  const baseDisplayConfidence=Math.min(0.65,Math.max(0.28,preSalaryScale/155));
+  // Preserve more of the headline gap when the trade itself transfers a major
+  // amount of weighted salary. Small/ordinary salary differences receive no
+  // boost; the effect ramps smoothly above $2M and caps at +0.18 confidence
+  // by a $10M weighted swing. This avoids special-casing individual players.
+  const cfg=bsfflSettings();
+  const weightedSalarySwing=Math.abs(impactA.d26 + cfg.futureSalaryWeight*impactA.d27)/1_000_000;
+  const salaryDrivenConfidenceBoost=0.18*Math.max(0,Math.min(1,(weightedSalarySwing-2)/8));
+  const displayConfidence=Math.min(0.83,baseDisplayConfidence+salaryDrivenConfidenceBoost);
   const adv=rawAdv*displayConfidence;
   let verdict=Math.abs(adv)<5?"Near-even value":adv>0?`${teamName(state.A.team)} advantage ${Math.abs(adv).toFixed(1)}%`:`${teamName(state.B.team)} advantage ${Math.abs(adv).toFixed(1)}%`;
   const legality=legalA&&legalB?'<span class="ok">VALID</span>':'<span class="bad">INVALID — cap exceeded</span>';
