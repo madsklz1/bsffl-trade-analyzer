@@ -1,0 +1,1637 @@
+{
+  "meta": {
+    "league": "BSFFL",
+    "leagueId": "42684",
+    "note": "Historical completed trades used as calibration/diagnostic context; completed does not imply perfectly fair."
+  },
+  "summary": {
+    "trades2025": 64,
+    "valid2025": 61,
+    "valid2026": 22,
+    "totalValid": 83
+  },
+  "trades": [
+    {
+      "season": 2025,
+      "number": 1,
+      "teams": [
+        "Dragons",
+        "Rough Riders"
+      ],
+      "valid": true,
+      "sides": [
+        {
+          "team": "Dragons",
+          "raw": "[Bates Jake](javascript\\:launch_player_modal\\('42684','16846'\\); \"Salary: $500,000, 1st Contract Year: 2024 , Final Contract Year: 2026 , 2026 Contract: , Week 18: at Bears Sun 4:25 p.m. ET\") DET PK"
+        },
+        {
+          "team": "Rough Riders",
+          "raw": "[Romo, John Parker FA PK](javascript\\:launch_player_modal\\('42684','16405'\\); \"Salary: $0, 1st Contract Year: , Final Contract Year: , 2026 Contract: , Week 18: Bye\")"
+        }
+      ]
+    },
+    {
+      "season": 2025,
+      "number": 2,
+      "teams": [
+        "Blackjacks",
+        "Dragons"
+      ],
+      "valid": true,
+      "sides": [
+        {
+          "team": "Blackjacks",
+          "raw": "[McLaurin Terry](javascript\\:launch_player_modal\\('42684','14109'\\); \"Salary: $1,242,000, 1st Contract Year: 2024 , Final Contract Year: 2026 , 2026 Contract: 1878000, Week 18: at Eagles Sun 4:25 p.m. ET\") WAS WR ; [Giants, New ](javascript\\:launch_player_modal\\('42684','0517'\\); \"Salary: $712,000, 1st Contract Year: 2025, Final Contract Year: 2027, 2026 Contract: 1068000, Week 18: vs Cowboys Sun 1:00 p.m. ET\") [York](javascript\\:launch_player_modal\\('42684','0517'\\); \"Salary: $712,000, 1st Contract Year: 2025, Final Contract Year: 2027, 2026 Contract: 1068000, Week 18: vs Cowboys Sun 1:00 p.m. ET\") [ NYG Def](javascript\\:launch_player_modal\\('42684','0517'\\); \"Salary: $712,000, 1st Contract Year: 2025, Final Contract Year: 2027, 2026 Contract: 1068000, Week 18: vs Cowboys Sun 1:00 p.m. ET\")"
+        },
+        {
+          "team": "Dragons",
+          "raw": "[McConkey Ladd](javascript\\:launch_player_modal\\('42684','16627'\\); \"Salary: $2,139,000, 1st Contract Year: 2024 , Final Contract Year: 2026 , 2026 Contract: 500000, Week 18: at Broncos Sun 4:25 p.m. ET\") LAC WR ; [Ravens, Baltimore BAL Def](javascript\\:launch_player_modal\\('42684','0531'\\); \"Salary: $1,300,000, 1st Contract Year: 2025, Final Contract Year: 2027, 2026 Contract: 1300000, Week 18: at Steelers Sun 8:20 p.m. ET\")"
+        }
+      ]
+    },
+    {
+      "season": 2025,
+      "number": 3,
+      "teams": [
+        "Chiefs",
+        "Dragons"
+      ],
+      "valid": true,
+      "sides": [
+        {
+          "team": "Chiefs",
+          "raw": "[Commanders, ](javascript\\:launch_player_modal\\('42684','0520'\\); \"Salary: $924,000, 1st Contract Year: 2024 , Final Contract Year: 2026 , 2026 Contract: , Week 18: at Eagles Sun 4:25 p.m. ET\") [Washington](javascript\\:launch_player_modal\\('42684','0520'\\); \"Salary: $924,000, 1st Contract Year: 2024 , Final Contract Year: 2026 , 2026 Contract: , Week 18: at Eagles Sun 4:25 p.m. ET\") [ WAS Def](javascript\\:launch_player_modal\\('42684','0520'\\); \"Salary: $924,000, 1st Contract Year: 2024 , Final Contract Year: 2026 , 2026 Contract: , Week 18: at Eagles Sun 4:25 p.m. ET\")"
+        },
+        {
+          "team": "Dragons",
+          "raw": "[Broncos, Denver DEN Def](javascript\\:launch_player_modal\\('42684','0511'\\); \"Salary: $1,468,246, 1st Contract Year: 2025, Final Contract Year: 2027, 2026 Contract: 2111754, Week 18: vs Chargers Sun 4:25 p.m. ET\")"
+        }
+      ]
+    },
+    {
+      "season": 2025,
+      "number": 4,
+      "teams": [
+        "Dragons",
+        "The Silver Bullet"
+      ],
+      "valid": true,
+      "sides": [
+        {
+          "team": "Dragons",
+          "raw": "[Fannin Harold](javascript\\:launch_player_modal\\('42684','17103'\\); \"Salary: $450,000, 1st Contract Year: 2025, Final Contract Year: 2026, 2026 Contract: , Week 18: at Bengals Sun 1:00 p.m. ET\") CLE TE"
+        },
+        {
+          "team": "The Silver Bullet",
+          "raw": "[Sanders Shedeur](javascript\\:launch_player_modal\\('42684','17031'\\); \"Salary: $500,000, 1st Contract Year: 2025, Final Contract Year: 2027, 2026 Contract: 500000, Week 18: at Bengals Sun 1:00 p.m. ET\") CLE QB"
+        }
+      ]
+    },
+    {
+      "season": 2025,
+      "number": 5,
+      "teams": [
+        "Chiefs",
+        "Tguns"
+      ],
+      "valid": true,
+      "sides": [
+        {
+          "team": "Chiefs",
+          "raw": "[Dobbins J.K.](javascript\\:launch_player_modal\\('42684','14800'\\); \"Salary: $2,700,000, 1st Contract Year: 2025, Final Contract Year: 2026, 2026 Contract: , Week 18: vs Chargers Sun 4:25 p.m. ET\") DEN RB ; [Evans Mike](javascript\\:launch_player_modal\\('42684','11671'\\); \"Salary: $2,035,000, 1st Contract Year: 2023 , Final Contract Year: 2025 , 2026 Contract: , Week 18: vs Panthers Sat 4:30 p.m. ET\") TBB WR ; [Johnston Quentin](javascript\\:launch_player_modal\\('42684','16188'\\); \"Salary: $957,600, 1st Contract Year: 2025, Final Contract Year: 2026, 2026 Contract: , Week 18: at Broncos Sun 4:25 p.m. ET\") LAC WR ; [Colts, Indianapolis IND Def](javascript\\:launch_player_modal\\('42684','0502'\\); \"Salary: $1,668,000, 1st Contract Year: 2024 , Final Contract Year: 2026 , 2026 Contract: , Week 18: at Texans Sun 1:00 p.m. ET\"); Year 2027 Round 4 Draft Pick from Tguns"
+        },
+        {
+          "team": "Tguns",
+          "raw": "[Walker](javascript\\:launch_player_modal\\('42684','15711'\\); \"Salary: $5,600,000, 1st Contract Year: 2025, Final Contract Year: 2026, 2026 Contract: , Week 18: at 49ers Sat 8:00 p.m. ET\") [ III, Kenneth SEA RB ](javascript\\:launch_player_modal\\('42684','15711'\\); \"Salary: $5,600,000, 1st Contract Year: 2025, Final Contract Year: 2026, 2026 Contract: , Week 18: at 49ers Sat 8:00 p.m. ET\"); [Bateman Rashod](javascript\\:launch_player_modal\\('42684','15293'\\); \"Salary: $500,000, 1st Contract Year: 2024 , Final Contract Year: 2026 , 2026 Contract: , Week 18: at Steelers Sun 8:20 p.m. ET\") BAL WR ; [Badgley Mike](javascript\\:launch_player_modal\\('42684','13980'\\); \"Salary: $233,333, 1st Contract Year: 2025, Final Contract Year: 2026, 2026 Contract: , Week 18: vs Jets Sun 4:25 p.m. ET\") BUF PK ; [Commanders, ](javascript\\:launch_player_modal\\('42684','0520'\\); \"Salary: $924,000, 1st Contract Year: 2024 , Final Contract Year: 2026 , 2026 Contract: , Week 18: at Eagles Sun 4:25 p.m. ET\") [Washington](javascript\\:launch_player_modal\\('42684','0520'\\); \"Salary: $924,000, 1st Contract Year: 2024 , Final Contract Year: 2026 , 2026 Contract: , Week 18: at Eagles Sun 4:25 p.m. ET\") [ WAS Def](javascript\\:launch_player_modal\\('42684','0520'\\); \"Salary: $924,000, 1st Contract Year: 2024 , Final Contract Year: 2026 , 2026 Contract: , Week 18: at Eagles Sun 4:25 p.m. ET\")"
+        }
+      ]
+    },
+    {
+      "season": 2025,
+      "number": 6,
+      "teams": [
+        "Smugglers",
+        "Rough Riders"
+      ],
+      "valid": true,
+      "sides": [
+        {
+          "team": "Smugglers",
+          "raw": "[Waddle Jaylen](javascript\\:launch_player_modal\\('42684','15284'\\); \"Salary: $2,700,000, 1st Contract Year: 2024 , Final Contract Year: 2025 , 2026 Contract: , Week 18: at Patriots Sun 4:25 p.m. ET\") MIA WR"
+        },
+        {
+          "team": "Rough Riders",
+          "raw": "[Jennings Jauan](javascript\\:launch_player_modal\\('42684','14860'\\); \"Salary: $1,335,000, 1st Contract Year: 2025, Final Contract Year: 2026, 2026 Contract: , Week 18: vs Seahawks Sat 8:00 p.m. ET\") SFO WR"
+        }
+      ]
+    },
+    {
+      "season": 2025,
+      "number": 7,
+      "teams": [
+        "Dragons",
+        "Blackjacks"
+      ],
+      "valid": true,
+      "sides": [
+        {
+          "team": "Dragons",
+          "raw": "[Charbonnet Zach](javascript\\:launch_player_modal\\('42684','16169'\\); \"Salary: $1,000,000, 1st Contract Year: 2023 , Final Contract Year: 2025 , 2026 Contract: , Week 18: at 49ers Sat 8:00 p.m. ET\") SEA RB"
+        },
+        {
+          "team": "Blackjacks",
+          "raw": "[Tuten Bhayshul](javascript\\:launch_player_modal\\('42684','17052'\\); \"Salary: $500,000, 1st Contract Year: 2025, Final Contract Year: 2027, 2026 Contract: 500000, Week 18: vs Titans Sun 1:00 p.m. ET\") JAC RB"
+        }
+      ]
+    },
+    {
+      "season": 2025,
+      "number": 8,
+      "teams": [
+        "Saints",
+        "Blackjacks"
+      ],
+      "valid": true,
+      "sides": [
+        {
+          "team": "Saints",
+          "raw": "[Henry Derrick](javascript\\:launch_player_modal\\('42684','12626'\\); \"Salary: $3,261,000, 1st Contract Year: 2024 , Final Contract Year: 2026 , 2026 Contract: , Week 18: at Steelers Sun 8:20 p.m. ET\") BAL RB ; [Eagles, Philadelphia PHI Def](javascript\\:launch_player_modal\\('42684','0518'\\); \"Salary: $1,010,000, 1st Contract Year: 2024 , Final Contract Year: 2026 , 2026 Contract: 1160000, Week 18: vs Commanders Sun 4:25 p.m. ET\"); Year 2028 Round 1 Draft Pick from The Silver Bullet"
+        },
+        {
+          "team": "Blackjacks",
+          "raw": "[Barkley Saquon](javascript\\:launch_player_modal\\('42684','13604'\\); \"Salary: $4,477,000, 1st Contract Year: 2024 , Final Contract Year: 2026 , 2026 Contract: , Week 18: vs Commanders Sun 4:25 p.m. ET\") PHI RB ; [Panthers, Carolina CAR Def](javascript\\:launch_player_modal\\('42684','0527'\\); \"Salary: $264,000, 1st Contract Year: 2025, Final Contract Year: 2026, 2026 Contract: , Week 18: at Buccaneers Sat 4:30 p.m. ET\"); Year 2027 Round 2 Draft Pick from Tguns"
+        }
+      ]
+    },
+    {
+      "season": 2025,
+      "number": 9,
+      "teams": [
+        "Dragons",
+        "The Silver Bullet"
+      ],
+      "valid": true,
+      "sides": [
+        {
+          "team": "Dragons",
+          "raw": "[Higgins Tee](javascript\\:launch_player_modal\\('42684','14835'\\); \"Salary: $4,300,000, 1st Contract Year: 2023 , Final Contract Year: 2025 , 2026 Contract: , Week 18: vs Browns Sun 1:00 p.m. ET\") CIN WR"
+        },
+        {
+          "team": "The Silver Bullet",
+          "raw": "[Hill Tyreek](javascript\\:launch_player_modal\\('42684','12801'\\); \"Salary: $0, 1st Contract Year: , Final Contract Year: , 2026 Contract: , Week 18: at Patriots Sun 4:25 p.m. ET\") MIA WR ; Year 2027 Round 2 Draft Pick from The Silver Bullet"
+        }
+      ]
+    },
+    {
+      "season": 2025,
+      "number": 10,
+      "teams": [
+        "Saints",
+        "Rough Riders"
+      ],
+      "valid": true,
+      "sides": [
+        {
+          "team": "Saints",
+          "raw": "[Pickens George](javascript\\:launch_player_modal\\('42684','15762'\\); \"Salary: $2,700,000, 1st Contract Year: 2025, Final Contract Year: 2026, 2026 Contract: , Week 18: at Giants Sun 1:00 p.m. ET\") DAL WR"
+        },
+        {
+          "team": "Rough Riders",
+          "raw": "[Wilson Garrett](javascript\\:launch_player_modal\\('42684','15753'\\); \"Salary: $2,400,000, 1st Contract Year: 2025, Final Contract Year: 2027, 2026 Contract: 2400000, Week 18: at Bills Sun 4:25 p.m. ET\") NYJ WR"
+        }
+      ]
+    },
+    {
+      "season": 2025,
+      "number": 11,
+      "teams": [
+        "Tguns",
+        "Westeros Kingslayers"
+      ],
+      "valid": true,
+      "sides": [
+        {
+          "team": "Tguns",
+          "raw": "[Smith DeVonta](javascript\\:launch_player_modal\\('42684','15282'\\); \"Salary: $1,383,706, 1st Contract Year: 2024 , Final Contract Year: 2026 , 2026 Contract: , Week 18: vs Commanders Sun 4:25 p.m. ET\") PHI WR ; [Rams, Los Angeles LAR Def](javascript\\:launch_player_modal\\('42684','0528'\\); \"Salary: $1,160,000, 1st Contract Year: 2023 , Final Contract Year: 2025 , 2026 Contract: , Week 18: vs Cardinals Sun 4:25 p.m. ET\")"
+        },
+        {
+          "team": "Westeros Kingslayers",
+          "raw": "[Ward Cam](javascript\\:launch_player_modal\\('42684','17030'\\); \"Salary: $1,273,517, 1st Contract Year: 2025, Final Contract Year: 2027, 2026 Contract: 726483, Week 18: at Jaguars Sun 1:00 p.m. ET\") TEN QB ; [Texans, ](javascript\\:launch_player_modal\\('42684','0532'\\); \"Salary: $1,332,749, 1st Contract Year: 2024 , Final Contract Year: 2026 , 2026 Contract: , Week 18: vs Colts Sun 1:00 p.m. ET\") [Houston](javascript\\:launch_player_modal\\('42684','0532'\\); \"Salary: $1,332,749, 1st Contract Year: 2024 , Final Contract Year: 2026 , 2026 Contract: , Week 18: vs Colts Sun 1:00 p.m. ET\") [ HOU Def](javascript\\:launch_player_modal\\('42684','0532'\\); \"Salary: $1,332,749, 1st Contract Year: 2024 , Final Contract Year: 2026 , 2026 Contract: , Week 18: vs Colts Sun 1:00 p.m. ET\")"
+        }
+      ]
+    },
+    {
+      "season": 2025,
+      "number": 12,
+      "teams": [
+        "Reapers",
+        "Dragons"
+      ],
+      "valid": true,
+      "sides": [
+        {
+          "team": "Reapers",
+          "raw": "[Andrews Mark](javascript\\:launch_player_modal\\('42684','13671'\\); \"Salary: $0, 1st Contract Year: , Final Contract Year: , 2026 Contract: , Week 18: at Steelers Sun 8:20 p.m. ET\") BAL TE"
+        },
+        {
+          "team": "Dragons",
+          "raw": "[Purdy Brock](javascript\\:launch_player_modal\\('42684','15698'\\); \"Salary: $3,335,000, 1st Contract Year: 2023 , Final Contract Year: 2025 , 2026 Contract: , Week 18: vs Seahawks Sat 8:00 p.m. ET\") SFO QB"
+        }
+      ]
+    },
+    {
+      "season": 2025,
+      "number": 13,
+      "teams": [
+        "Dragons",
+        "The Silver Bullet"
+      ],
+      "valid": true,
+      "sides": [
+        {
+          "team": "Dragons",
+          "raw": "[Robinson Brian](javascript\\:launch_player_modal\\('42684','15716'\\); \"Salary: $3,900,000, 1st Contract Year: 2025, Final Contract Year: 2026, 2026 Contract: , Week 18: vs Seahawks Sat 8:00 p.m. ET\") SFO RB"
+        },
+        {
+          "team": "The Silver Bullet",
+          "raw": "[Purdy Brock](javascript\\:launch_player_modal\\('42684','15698'\\); \"Salary: $3,335,000, 1st Contract Year: 2023 , Final Contract Year: 2025 , 2026 Contract: , Week 18: vs Seahawks Sat 8:00 p.m. ET\") SFO QB"
+        }
+      ]
+    },
+    {
+      "season": 2025,
+      "number": 14,
+      "teams": [
+        "Blackjacks",
+        "Dragons"
+      ],
+      "valid": true,
+      "sides": [
+        {
+          "team": "Blackjacks",
+          "raw": "[Lutz Wil](javascript\\:launch_player_modal\\('42684','12956'\\); \"Salary: $1,600,000, 1st Contract Year: 2025, Final Contract Year: 2026, 2026 Contract: , Week 18: vs Chargers Sun 4:25 p.m. ET\") DEN PK ; Year 2027 Round 3 Draft Pick from Blackjacks"
+        },
+        {
+          "team": "Dragons",
+          "raw": "[Aubrey Brandon](javascript\\:launch_player_modal\\('42684','16414'\\); \"Salary: $1,940,000, 1st Contract Year: 2023 , Final Contract Year: 2025 , 2026 Contract: , Week 18: at Giants Sun 1:00 p.m. ET\") DAL PK"
+        }
+      ]
+    },
+    {
+      "season": 2025,
+      "number": 15,
+      "teams": [
+        "Reapers",
+        "Dragons"
+      ],
+      "valid": true,
+      "sides": [
+        {
+          "team": "Reapers",
+          "raw": "[Marks Woody](javascript\\:launch_player_modal\\('42684','17053'\\); \"Salary: $500,000, 1st Contract Year: 2025, Final Contract Year: 2027, 2026 Contract: 500000, Week 18: vs Colts Sun 1:00 p.m. ET\") HOU RB"
+        },
+        {
+          "team": "Dragons",
+          "raw": "[Davis Ray](javascript\\:launch_player_modal\\('42684','16603'\\); \"Salary: $992,000, 1st Contract Year: 2024 , Final Contract Year: 2026 , 2026 Contract: 500000, Week 18: vs Jets Sun 4:25 p.m. ET\") BUF RB"
+        }
+      ]
+    },
+    {
+      "season": 2025,
+      "number": 16,
+      "teams": [
+        "Reapers",
+        "Dragons"
+      ],
+      "valid": true,
+      "sides": [
+        {
+          "team": "Reapers",
+          "raw": "[Bates Jake](javascript\\:launch_player_modal\\('42684','16846'\\); \"Salary: $500,000, 1st Contract Year: 2024 , Final Contract Year: 2026 , 2026 Contract: , Week 18: at Bears Sun 4:25 p.m. ET\") DET PK ; Year 2027 Round 4 Draft Pick from Reapers"
+        },
+        {
+          "team": "Dragons",
+          "raw": "[Reichard Will](javascript\\:launch_player_modal\\('42684','16681'\\); \"Salary: $500,000, 1st Contract Year: 2024 , Final Contract Year: 2026 , 2026 Contract: , Week 18: vs Packers Sun 1:00 p.m. ET\") MIN PK"
+        }
+      ]
+    },
+    {
+      "season": 2025,
+      "number": 17,
+      "teams": [
+        "Saints",
+        "Tguns"
+      ],
+      "valid": true,
+      "sides": [
+        {
+          "team": "Saints",
+          "raw": "Year 2026 Round 6 Draft Pick from Saints"
+        },
+        {
+          "team": "Tguns",
+          "raw": "| Tue Oct 14 7:38:02 a.m. ET 2025 | | | | | ------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- | - |"
+        }
+      ]
+    },
+    {
+      "season": 2025,
+      "number": 18,
+      "teams": [
+        "Saints",
+        "The Silver Bullet"
+      ],
+      "valid": true,
+      "sides": [
+        {
+          "team": "Saints",
+          "raw": "[Nix Bo](javascript\\:launch_player_modal\\('42684','16582'\\); \"Salary: $500,000, 1st Contract Year: 2024 , Final Contract Year: 2026 , 2026 Contract: , Week 18: vs Chargers Sun 4:25 p.m. ET\") DEN QB ; [Brown Chase](javascript\\:launch_player_modal\\('42684','16181'\\); \"Salary: $500,000, 1st Contract Year: 2023 , Final Contract Year: 2025 , 2026 Contract: , Week 18: vs Browns Sun 1:00 p.m. ET\") CIN RB; [Kamara Alvin](javascript\\:launch_player_modal\\('42684','13132'\\); \"Salary: $3,261,000, 1st Contract Year: 2024 , Final Contract Year: 2025 , 2026 Contract: , Week 18: at Falcons Sun 1:00 p.m. ET\") NOS RB ; Year 2028 Round 2 Draft Pick from Saints"
+        },
+        {
+          "team": "The Silver Bullet",
+          "raw": "[Dart Jaxson](javascript\\:launch_player_modal\\('42684','17032'\\); \"Salary: $1,500,000, 1st Contract Year: 2025, Final Contract Year: 2027, 2026 Contract: 500000, Week 18: vs Cowboys Sun 1:00 p.m. ET\") NYG QB ; [Hubbard Chuba](javascript\\:launch_player_modal\\('42684','15261'\\); \"Salary: $2,500,000, 1st Contract Year: 2024 , Final Contract Year: 2025 , 2026 Contract: , Week 18: at Buccaneers Sat 4:30 p.m. ET\") CAR RB ; [Taylor Mason](javascript\\:launch_player_modal\\('42684','17106'\\); \"Salary: $700,000, 1st Contract Year: 2025, Final Contract Year: 2027, 2026 Contract: 1050000, Week 18: at Bills Sun 4:25 p.m. ET\") NYJ TE; Year 2028 Round 1 Draft Pick from The Silver Bullet"
+        }
+      ]
+    },
+    {
+      "season": 2025,
+      "number": 19,
+      "teams": [
+        "Chiefs",
+        "Blackjacks"
+      ],
+      "valid": true,
+      "sides": [
+        {
+          "team": "Chiefs",
+          "raw": "[Hampton Omarion](javascript\\:launch_player_modal\\('42684','17044'\\); \"Salary: $1,500,000, 1st Contract Year: 2025, Final Contract Year: 2027, 2026 Contract: 500000, Week 18: at Broncos Sun 4:25 p.m. ET\") LAC RB ; [Mixon Joe](javascript\\:launch_player_modal\\('42684','13131'\\); \"Salary: $3,400,000, 1st Contract Year: 2025, Final Contract Year: 2026, 2026 Contract: , Week 18: vs Colts Sun 1:00 p.m. ET\") HOU RB ; Year 2027 Round 2 Draft Pick from Chiefs"
+        },
+        {
+          "team": "Blackjacks",
+          "raw": "[Dobbins J.K.](javascript\\:launch_player_modal\\('42684','14800'\\); \"Salary: $2,700,000, 1st Contract Year: 2025, Final Contract Year: 2026, 2026 Contract: , Week 18: vs Chargers Sun 4:25 p.m. ET\") DEN RB ; [Johnston Quentin](javascript\\:launch_player_modal\\('42684','16188'\\); \"Salary: $957,600, 1st Contract Year: 2025, Final Contract Year: 2026, 2026 Contract: , Week 18: at Broncos Sun 4:25 p.m. ET\") LAC WR ; Year 2027 Round 1 Draft Pick from Rough Riders"
+        }
+      ]
+    },
+    {
+      "season": 2025,
+      "number": 20,
+      "teams": [
+        "Saints",
+        "Blackjacks"
+      ],
+      "valid": true,
+      "sides": [
+        {
+          "team": "Saints",
+          "raw": "[Coleman Keon](javascript\\:launch_player_modal\\('42684','16617'\\); \"Salary: $1,050,000, 1st Contract Year: 2024 , Final Contract Year: 2026 , 2026 Contract: 875000, Week 18: vs Jets Sun 4:25 p.m. ET\") BUF WR ; Year 2027 Round 2 Draft Pick from Tguns"
+        },
+        {
+          "team": "Blackjacks",
+          "raw": "[Pickens George](javascript\\:launch_player_modal\\('42684','15762'\\); \"Salary: $2,700,000, 1st Contract Year: 2025, Final Contract Year: 2026, 2026 Contract: , Week 18: at Giants Sun 1:00 p.m. ET\") DAL WR"
+        }
+      ]
+    },
+    {
+      "season": 2025,
+      "number": 21,
+      "teams": [
+        "Smugglers",
+        "Dragons"
+      ],
+      "valid": true,
+      "sides": [
+        {
+          "team": "Smugglers",
+          "raw": "[Young Bryce](javascript\\:launch_player_modal\\('42684','16148'\\); \"Salary: $0, 1st Contract Year: , Final Contract Year: , 2026 Contract: , Week 18: at Buccaneers Sat 4:30 p.m. ET\") CAR QB ; [Thomas](javascript\\:launch_player_modal\\('42684','16618'\\); \"Salary: $700,000, 1st Contract Year: 2024 , Final Contract Year: 2026 , 2026 Contract: , Week 18: vs Titans Sun 1:00 p.m. ET\") [ Jr., Brian JAC WR ](javascript\\:launch_player_modal\\('42684','16618'\\); \"Salary: $700,000, 1st Contract Year: 2024 , Final Contract Year: 2026 , 2026 Contract: , Week 18: vs Titans Sun 1:00 p.m. ET\"); Year 2026 Round 2 Draft Pick from Dragons"
+        },
+        {
+          "team": "Dragons",
+          "raw": "[Brooks Tahj](javascript\\:launch_player_modal\\('42684','17058'\\); \"Salary: $500,000, 1st Contract Year: 2025, Final Contract Year: 2027, 2026 Contract: 500000, Week 18: vs Browns Sun 1:00 p.m. ET\") CIN RB ; [Ridley Calvin](javascript\\:launch_player_modal\\('42684','13629'\\); \"Salary: $3,100,000, 1st Contract Year: 2025, Final Contract Year: 2027, 2026 Contract: 1700000, Week 18: at Jaguars Sun 1:00 p.m. ET\") TEN WR ; Year 2026 Round 1 Draft Pick from Smugglers; Year 2026 Round 2 Draft Pick from Smugglers; Year 2027 Round 3 Draft Pick from Dragons"
+        }
+      ]
+    },
+    {
+      "season": 2025,
+      "number": 22,
+      "teams": [
+        "Blackjacks",
+        "Smugglers"
+      ],
+      "valid": true,
+      "sides": [
+        {
+          "team": "Blackjacks",
+          "raw": "[Mayfield Baker](javascript\\:launch_player_modal\\('42684','13590'\\); \"Salary: $3,447,500, 1st Contract Year: 2025, Final Contract Year: 2026, 2026 Contract: , Week 18: vs Panthers Sat 4:30 p.m. ET\") TBB QB; Year 2026 Round 2 Draft Pick from The Silver Bullet"
+        },
+        {
+          "team": "Smugglers",
+          "raw": "[Williams Caleb](javascript\\:launch_player_modal\\('42684','16579'\\); \"Salary: $1,763,986, 1st Contract Year: 2024 , Final Contract Year: 2026 , 2026 Contract: 2017248, Week 18: vs Lions Sun 4:25 p.m. ET\") CHI QB"
+        }
+      ]
+    },
+    {
+      "season": 2025,
+      "number": 23,
+      "teams": [
+        "Saints",
+        "Reapers"
+      ],
+      "valid": true,
+      "sides": [
+        {
+          "team": "Saints",
+          "raw": "[Rattler Spencer](javascript\\:launch_player_modal\\('42684','16586'\\); \"Salary: $500,000, 1st Contract Year: 2024 , Final Contract Year: 2026 , 2026 Contract: , Week 18: at Falcons Sun 1:00 p.m. ET\") NOS QB ; Year 2026 Round 4 Draft Pick from Saints"
+        },
+        {
+          "team": "Reapers",
+          "raw": "Year 2026 Round 3 Draft Pick from Reapers"
+        }
+      ]
+    },
+    {
+      "season": 2025,
+      "number": 24,
+      "teams": [
+        "Blackjacks",
+        "Rough Riders"
+      ],
+      "valid": true,
+      "sides": [
+        {
+          "team": "Blackjacks",
+          "raw": "[Blue Jaydon](javascript\\:launch_player_modal\\('42684','17069'\\); \"Salary: $500,000, 1st Contract Year: 2025, Final Contract Year: 2027, 2026 Contract: 500000, Week 18: at Giants Sun 1:00 p.m. ET\") DAL RB ; Year 2026 Round 2 Draft Pick from Blackjacks"
+        },
+        {
+          "team": "Rough Riders",
+          "raw": "[Johnson Diontae](javascript\\:launch_player_modal\\('42684','14208'\\); \"Salary: $0, 1st Contract Year: , Final Contract Year: , 2026 Contract: , Week 18: Bye\") FA WR ; Year 2027 Round 1 Draft Pick from Rough Riders"
+        }
+      ]
+    },
+    {
+      "season": 2025,
+      "number": 25,
+      "teams": [
+        "Dragons",
+        "Smugglers"
+      ],
+      "valid": true,
+      "sides": [
+        {
+          "team": "Dragons",
+          "raw": "[Vikings, Minnesota MIN Def](javascript\\:launch_player_modal\\('42684','0524'\\); \"Salary: $1,490,000, 1st Contract Year: 2024 , Final Contract Year: 2025 , 2026 Contract: , Week 18: vs Packers Sun 1:00 p.m. ET\"); Year 2026 Round 2 Draft Pick from Dragons"
+        },
+        {
+          "team": "Smugglers",
+          "raw": "[Broncos, Denver DEN Def](javascript\\:launch_player_modal\\('42684','0511'\\); \"Salary: $1,468,246, 1st Contract Year: 2025, Final Contract Year: 2027, 2026 Contract: 2111754, Week 18: vs Chargers Sun 4:25 p.m. ET\"); [Ravens, Baltimore BAL Def](javascript\\:launch_player_modal\\('42684','0531'\\); \"Salary: $1,300,000, 1st Contract Year: 2025, Final Contract Year: 2027, 2026 Contract: 1300000, Week 18: at Steelers Sun 8:20 p.m. ET\")"
+        }
+      ]
+    },
+    {
+      "season": 2025,
+      "number": 26,
+      "teams": [
+        "Blackjacks",
+        "The Silver Bullet"
+      ],
+      "valid": true,
+      "sides": [
+        {
+          "team": "Blackjacks",
+          "raw": "Year 2026 Round 5 Draft Pick from Blackjacks"
+        },
+        {
+          "team": "The Silver Bullet",
+          "raw": "Year 2025 Draft Pick 6.02; Year 2025 Draft Pick 6.12"
+        }
+      ]
+    },
+    {
+      "season": 2025,
+      "number": 27,
+      "teams": [
+        "Smugglers",
+        "Reapers"
+      ],
+      "valid": true,
+      "sides": [
+        {
+          "team": "Smugglers",
+          "raw": "Year 2025 Draft Pick 1.10"
+        },
+        {
+          "team": "Reapers",
+          "raw": "Year 2025 Draft Pick 2.08; Year 2026 Round 2 Draft Pick from Reapers"
+        }
+      ]
+    },
+    {
+      "season": 2025,
+      "number": 28,
+      "teams": [
+        "Chiefs",
+        "Reapers"
+      ],
+      "valid": true,
+      "sides": [
+        {
+          "team": "Chiefs",
+          "raw": "Year 2025 Draft Pick 5.09; Year 2025 Draft Pick 6.09"
+        },
+        {
+          "team": "Reapers",
+          "raw": "Year 2026 Round 5 Draft Pick from Reapers"
+        }
+      ]
+    },
+    {
+      "season": 2025,
+      "number": 29,
+      "teams": [
+        "Chiefs",
+        "The Silver Bullet"
+      ],
+      "valid": true,
+      "sides": [
+        {
+          "team": "Chiefs",
+          "raw": "[Etienne Travis](javascript\\:launch_player_modal\\('42684','15253'\\); \"Salary: $4,477,000, 1st Contract Year: 2024 , Final Contract Year: 2026 , 2026 Contract: , Week 18: vs Titans Sun 1:00 p.m. ET\") JAC RB; Year 2025 Draft Pick 5.06"
+        },
+        {
+          "team": "The Silver Bullet",
+          "raw": "[Diggs Stefon](javascript\\:launch_player_modal\\('42684','12186'\\); \"Salary: $1,800,000, 1st Contract Year: 2025, Final Contract Year: 2027, 2026 Contract: 1800000, Week 18: vs Dolphins Sun 4:25 p.m. ET\") NEP WR ; [Colts, Indianapolis IND Def](javascript\\:launch_player_modal\\('42684','0502'\\); \"Salary: $1,668,000, 1st Contract Year: 2024 , Final Contract Year: 2026 , 2026 Contract: , Week 18: at Texans Sun 1:00 p.m. ET\")"
+        }
+      ]
+    },
+    {
+      "season": 2025,
+      "number": 30,
+      "teams": [
+        "The Silver Bullet",
+        "Rough Riders"
+      ],
+      "valid": false,
+      "sides": [
+        {
+          "team": "The Silver Bullet",
+          "raw": "- [Rough Riders](https://www48.myfantasyleague.com/2025/options?L=42684\\&F=0002\\&O=01 \"Owner: Chad Voss, Record: 10-5-0, PF: 1844.80\") gave up Year 2025 Draft Pick 3.14"
+        }
+      ]
+    },
+    {
+      "season": 2025,
+      "number": 31,
+      "teams": [
+        "Dragons",
+        "Rough Riders"
+      ],
+      "valid": true,
+      "sides": [
+        {
+          "team": "Dragons",
+          "raw": "Year 2026 Round 3 Draft Pick from Saints"
+        },
+        {
+          "team": "Rough Riders",
+          "raw": "[Strange Brenton](javascript\\:launch_player_modal\\('42684','16269'\\); \"Salary: $500,000, 1st Contract Year: 2025, Final Contract Year: 2027, 2026 Contract: 562000, Week 18: vs Titans Sun 1:00 p.m. ET\") JAC TE"
+        }
+      ]
+    },
+    {
+      "season": 2025,
+      "number": 32,
+      "teams": [
+        "Dragons",
+        "The Silver Bullet"
+      ],
+      "valid": true,
+      "sides": [
+        {
+          "team": "Dragons",
+          "raw": "[Hill Tyreek](javascript\\:launch_player_modal\\('42684','12801'\\); \"Salary: $0, 1st Contract Year: , Final Contract Year: , 2026 Contract: , Week 18: at Patriots Sun 4:25 p.m. ET\") MIA WR ; [Samuel Deebo](javascript\\:launch_player_modal\\('42684','14136'\\); \"Salary: $1,800,000, 1st Contract Year: 2025, Final Contract Year: 2026, 2026 Contract: , Week 18: at Eagles Sun 4:25 p.m. ET\") WAS WR"
+        },
+        {
+          "team": "The Silver Bullet",
+          "raw": "[Higgins Tee](javascript\\:launch_player_modal\\('42684','14835'\\); \"Salary: $4,300,000, 1st Contract Year: 2023 , Final Contract Year: 2025 , 2026 Contract: , Week 18: vs Browns Sun 1:00 p.m. ET\") CIN WR"
+        }
+      ]
+    },
+    {
+      "season": 2025,
+      "number": 33,
+      "teams": [
+        "Westeros Kingslayers",
+        "Rough Riders"
+      ],
+      "valid": true,
+      "sides": [
+        {
+          "team": "Westeros Kingslayers",
+          "raw": "[Corum Blake](javascript\\:launch_player_modal\\('42684','16593'\\); \"Salary: $900,000, 1st Contract Year: 2024 , Final Contract Year: 2026 , 2026 Contract: , Week 18: vs Cardinals Sun 4:25 p.m. ET\") LAR RB ; Year 2025 Draft Pick 3.07"
+        },
+        {
+          "team": "Rough Riders",
+          "raw": "Year 2026 Round 2 Draft Pick from Rough Riders; Year 2027 Round 3 Draft Pick from Rough Riders"
+        }
+      ]
+    },
+    {
+      "season": 2025,
+      "number": 34,
+      "teams": [
+        "Reapers",
+        "Westeros Kingslayers"
+      ],
+      "valid": true,
+      "sides": [
+        {
+          "team": "Reapers",
+          "raw": "Year 2027 Round 5 Draft Pick from Reapers"
+        },
+        {
+          "team": "Westeros Kingslayers",
+          "raw": "[Herbert Khalil](javascript\\:launch_player_modal\\('42684','15271'\\); \"Salary: $0, 1st Contract Year: , Final Contract Year: , 2026 Contract: , Week 18: at Bills Sun 4:25 p.m. ET\") NYJ RB"
+        }
+      ]
+    },
+    {
+      "season": 2025,
+      "number": 35,
+      "teams": [
+        "Blackjacks",
+        "Tguns"
+      ],
+      "valid": true,
+      "sides": [
+        {
+          "team": "Blackjacks",
+          "raw": "[Penix](javascript\\:launch_player_modal\\('42684','16583'\\); \"Salary: $1,200,000, 1st Contract Year: 2024 , Final Contract Year: 2026 , 2026 Contract: 1000000, Week 18: vs Saints Sun 1:00 p.m. ET\") [ Jr., Michael ATL QB](javascript\\:launch_player_modal\\('42684','16583'\\); \"Salary: $1,200,000, 1st Contract Year: 2024 , Final Contract Year: 2026 , 2026 Contract: 1000000, Week 18: vs Saints Sun 1:00 p.m. ET\")"
+        },
+        {
+          "team": "Tguns",
+          "raw": "[Prescott Dak](javascript\\:launch_player_modal\\('42684','12620'\\); \"Salary: $1,435,000, 1st Contract Year: 2025, Final Contract Year: 2027, 2026 Contract: 1435000, Week 18: at Giants Sun 1:00 p.m. ET\") DAL QB"
+        }
+      ]
+    },
+    {
+      "season": 2025,
+      "number": 36,
+      "teams": [
+        "The Silver Bullet",
+        "Blackjacks"
+      ],
+      "valid": false,
+      "sides": [
+        {
+          "team": "The Silver Bullet",
+          "raw": "- [Blackjacks](https://www48.myfantasyleague.com/2025/options?L=42684\\&F=0006\\&O=01 \"Owner: Tim Underwood, Record: 10-5-0, PF: 1855.70\") gave up [Grupe Blake](javascript\\:launch_player_modal\\('42684','16444'\\); \"Salary: $1,310,000, 1st Contract Year: 2025, Final Contract Year: 2027, 2026 Contract: 1310000, Week 18: at Texans Sun 1:00 p.m. ET\") IND PK"
+        }
+      ]
+    },
+    {
+      "season": 2025,
+      "number": 37,
+      "teams": [
+        "Reapers",
+        "Westeros Kingslayers"
+      ],
+      "valid": true,
+      "sides": [
+        {
+          "team": "Reapers",
+          "raw": "Year 2026 Round 4 Draft Pick from Reapers"
+        },
+        {
+          "team": "Westeros Kingslayers",
+          "raw": "[Kupp Cooper](javascript\\:launch_player_modal\\('42684','13164'\\); \"Salary: $0, 1st Contract Year: , Final Contract Year: , 2026 Contract: , Week 18: at 49ers Sat 8:00 p.m. ET\") SEA WR"
+        }
+      ]
+    },
+    {
+      "season": 2025,
+      "number": 38,
+      "teams": [
+        "Chiefs",
+        "Dragons"
+      ],
+      "valid": true,
+      "sides": [
+        {
+          "team": "Chiefs",
+          "raw": "[Samuel Deebo](javascript\\:launch_player_modal\\('42684','14136'\\); \"Salary: $1,800,000, 1st Contract Year: 2025, Final Contract Year: 2026, 2026 Contract: , Week 18: at Eagles Sun 4:25 p.m. ET\") WAS WR"
+        },
+        {
+          "team": "Dragons",
+          "raw": "| Sun Aug 10 12:18:44 p.m. ET 2025 | | | | | -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- | - |"
+        }
+      ]
+    },
+    {
+      "season": 2025,
+      "number": 39,
+      "teams": [
+        "Dragons",
+        "Blackjacks"
+      ],
+      "valid": true,
+      "sides": [
+        {
+          "team": "Dragons",
+          "raw": "Year 2026 Round 3 Draft Pick from Blackjacks"
+        },
+        {
+          "team": "Blackjacks",
+          "raw": "| Sun Aug 10 12:16:26 p.m. ET 2025 | | | | | -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----- | - |"
+        }
+      ]
+    },
+    {
+      "season": 2025,
+      "number": 40,
+      "teams": [
+        "Saints",
+        "Tguns"
+      ],
+      "valid": true,
+      "sides": [
+        {
+          "team": "Saints",
+          "raw": "[Pacheco Isiah](javascript\\:launch_player_modal\\('42684','15749'\\); \"Salary: $3,447,500, 1st Contract Year: 2025, Final Contract Year: 2026, 2026 Contract: , Week 18: at Raiders Sun 4:25 p.m. ET\") KCC RB"
+        },
+        {
+          "team": "Tguns",
+          "raw": "Year 2025 Draft Pick 3.09"
+        }
+      ]
+    },
+    {
+      "season": 2025,
+      "number": 41,
+      "teams": [
+        "Dragons",
+        "Reapers"
+      ],
+      "valid": false,
+      "sides": [
+        {
+          "team": "Dragons",
+          "raw": "- [Reapers](https://www48.myfantasyleague.com/2025/options?L=42684\\&F=0007\\&O=01 \"Owner: Chris Weber, Record: 13-2-0, PF: 1927.50\") gave up [Ridley Calvin](javascript\\:launch_player_modal\\('42684','13629'\\); \"Salary: $3,100,000, 1st Contract Year: 2025, Final Contract Year: 2027, 2026 Contract: 1700000, Week 18: at Jaguars Sun 1:00 p.m. ET\") TEN WR"
+        }
+      ]
+    },
+    {
+      "season": 2025,
+      "number": 42,
+      "teams": [
+        "Blackjacks",
+        "Saints"
+      ],
+      "valid": true,
+      "sides": [
+        {
+          "team": "Blackjacks",
+          "raw": "[Brown A.J.](javascript\\:launch_player_modal\\('42684','14104'\\); \"Salary: $4,491,000, 1st Contract Year: 2025, Final Contract Year: 2027, 2026 Contract: 4491000, Week 18: vs Commanders Sun 4:25 p.m. ET\") PHI WR"
+        },
+        {
+          "team": "Saints",
+          "raw": "| Sun Aug 10 10:51:10 a.m. ET 2025 | | | | | -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----- | - |"
+        }
+      ]
+    },
+    {
+      "season": 2025,
+      "number": 43,
+      "teams": [
+        "Blackjacks",
+        "Reapers"
+      ],
+      "valid": true,
+      "sides": [
+        {
+          "team": "Blackjacks",
+          "raw": "Year 2027 Round 1 Draft Pick from Tguns"
+        },
+        {
+          "team": "Reapers",
+          "raw": "[Swift D'Andre](javascript\\:launch_player_modal\\('42684','14797'\\); \"Salary: $3,447,500, 1st Contract Year: 2025, Final Contract Year: 2026, 2026 Contract: , Week 18: vs Lions Sun 4:25 p.m. ET\") CHI RB"
+        }
+      ]
+    },
+    {
+      "season": 2025,
+      "number": 44,
+      "teams": [
+        "Smugglers",
+        "Dragons"
+      ],
+      "valid": true,
+      "sides": [
+        {
+          "team": "Smugglers",
+          "raw": "[Stevenson Rhamondre](javascript\\:launch_player_modal\\('42684','15259'\\); \"Salary: $1,261,000, 1st Contract Year: 2024 , Final Contract Year: 2026 , 2026 Contract: , Week 18: vs Dolphins Sun 4:25 p.m. ET\") NEP RB ; Year 2026 Round 1 Draft Pick from Smugglers; Year 2026 Round 2 Draft Pick from Smugglers"
+        },
+        {
+          "team": "Dragons",
+          "raw": "[Pollard Tony](javascript\\:launch_player_modal\\('42684','14085'\\); \"Salary: $3,261,000, 1st Contract Year: 2024 , Final Contract Year: 2026 , 2026 Contract: , Week 18: at Jaguars Sun 1:00 p.m. ET\") TEN RB"
+        }
+      ]
+    },
+    {
+      "season": 2025,
+      "number": 45,
+      "teams": [
+        "Blackjacks",
+        "Smugglers"
+      ],
+      "valid": true,
+      "sides": [
+        {
+          "team": "Blackjacks",
+          "raw": "[Freiermuth Pat](javascript\\:launch_player_modal\\('42684','15331'\\); \"Salary: $800,000, 1st Contract Year: 2024 , Final Contract Year: 2026 , 2026 Contract: , Week 18: vs Ravens Sun 8:20 p.m. ET\") PIT TE ; Year 2025 Draft Pick 3.10"
+        },
+        {
+          "team": "Smugglers",
+          "raw": "Year 2025 Draft Pick 3.04"
+        }
+      ]
+    },
+    {
+      "season": 2025,
+      "number": 46,
+      "teams": [
+        "Blackjacks",
+        "Westeros Kingslayers"
+      ],
+      "valid": true,
+      "sides": [
+        {
+          "team": "Blackjacks",
+          "raw": "[Sinnott Ben](javascript\\:launch_player_modal\\('42684','16644'\\); \"Salary: $0, 1st Contract Year: , Final Contract Year: , 2026 Contract: , Week 18: at Eagles Sun 4:25 p.m. ET\") WAS TE"
+        },
+        {
+          "team": "Westeros Kingslayers",
+          "raw": "[Freiermuth Pat](javascript\\:launch_player_modal\\('42684','15331'\\); \"Salary: $800,000, 1st Contract Year: 2024 , Final Contract Year: 2026 , 2026 Contract: , Week 18: vs Ravens Sun 8:20 p.m. ET\") PIT TE"
+        }
+      ]
+    },
+    {
+      "season": 2025,
+      "number": 47,
+      "teams": [
+        "The Silver Bullet",
+        "Blackjacks"
+      ],
+      "valid": true,
+      "sides": [
+        {
+          "team": "The Silver Bullet",
+          "raw": "Year 2025 Draft Pick 1.09; Year 2027 Round 1 Draft Pick from Blackjacks"
+        },
+        {
+          "team": "Blackjacks",
+          "raw": "[Brooks Jonathon](javascript\\:launch_player_modal\\('42684','16597'\\); \"Salary: $1,050,000, 1st Contract Year: 2024 , Final Contract Year: 2026 , 2026 Contract: 875000, Week 18: at Buccaneers Sat 4:30 p.m. ET\") CAR RB ; [Hubbard Chuba](javascript\\:launch_player_modal\\('42684','15261'\\); \"Salary: $2,500,000, 1st Contract Year: 2024 , Final Contract Year: 2025 , 2026 Contract: , Week 18: at Buccaneers Sat 4:30 p.m. ET\") CAR RB ; Year 2025 Draft Pick 2.10"
+        }
+      ]
+    },
+    {
+      "season": 2025,
+      "number": 48,
+      "teams": [
+        "Dragons",
+        "Reapers"
+      ],
+      "valid": true,
+      "sides": [
+        {
+          "team": "Dragons",
+          "raw": "[Hurts Jalen](javascript\\:launch_player_modal\\('42684','14783'\\); \"Salary: $4,477,000, 1st Contract Year: 2024 , Final Contract Year: 2026 , 2026 Contract: , Week 18: vs Commanders Sun 4:25 p.m. ET\") PHI QB ; [Taylor Jonathan](javascript\\:launch_player_modal\\('42684','14802'\\); \"Salary: $4,503,000, 1st Contract Year: 2023 , Final Contract Year: 2025 , 2026 Contract: , Week 18: at Texans Sun 1:00 p.m. ET\") IND RB ; Year 2025 Draft Pick 1.04"
+        },
+        {
+          "team": "Reapers",
+          "raw": "[Daniels Jayden](javascript\\:launch_player_modal\\('42684','16581'\\); \"Salary: $1,200,000, 1st Contract Year: 2024 , Final Contract Year: 2026 , 2026 Contract: , Week 18: at Eagles Sun 4:25 p.m. ET\") WAS QB ; [Pollard Tony](javascript\\:launch_player_modal\\('42684','14085'\\); \"Salary: $3,261,000, 1st Contract Year: 2024 , Final Contract Year: 2026 , 2026 Contract: , Week 18: at Jaguars Sun 1:00 p.m. ET\") TEN RB ; [Hill Tyreek](javascript\\:launch_player_modal\\('42684','12801'\\); \"Salary: $0, 1st Contract Year: , Final Contract Year: , 2026 Contract: , Week 18: at Patriots Sun 4:25 p.m. ET\") MIA WR ; Year 2025 Draft Pick 1.03"
+        }
+      ]
+    },
+    {
+      "season": 2025,
+      "number": 49,
+      "teams": [
+        "Dragons",
+        "Rough Riders"
+      ],
+      "valid": true,
+      "sides": [
+        {
+          "team": "Dragons",
+          "raw": "[Lawrence Trevor](javascript\\:launch_player_modal\\('42684','15237'\\); \"Salary: $1,681,500, 1st Contract Year: 2024 , Final Contract Year: 2025 , 2026 Contract: , Week 18: vs Titans Sun 1:00 p.m. ET\") JAC QB ; [Mingo Jonathan](javascript\\:launch_player_modal\\('42684','16197'\\); \"Salary: $0, 1st Contract Year: , Final Contract Year: , 2026 Contract: , Week 18: at Giants Sun 1:00 p.m. ET\") DAL WR ; [Pittman Michael](javascript\\:launch_player_modal\\('42684','14842'\\); \"Salary: $1,432,000, 1st Contract Year: 2023 , Final Contract Year: 2025 , 2026 Contract: , Week 18: at Texans Sun 1:00 p.m. ET\") IND WR ; [LaPorta Sam](javascript\\:launch_player_modal\\('42684','16214'\\); \"Salary: $1,533,000, 1st Contract Year: 2023 , Final Contract Year: 2025 , 2026 Contract: , Week 18: at Bears Sun 4:25 p.m. ET\") DET TE"
+        },
+        {
+          "team": "Rough Riders",
+          "raw": "[Hurts Jalen](javascript\\:launch_player_modal\\('42684','14783'\\); \"Salary: $4,477,000, 1st Contract Year: 2024 , Final Contract Year: 2026 , 2026 Contract: , Week 18: vs Commanders Sun 4:25 p.m. ET\") PHI QB ; [Shakir Khalil](javascript\\:launch_player_modal\\('42684','15761'\\); \"Salary: $889,200, 1st Contract Year: 2024 , Final Contract Year: 2026 , 2026 Contract: 1065000, Week 18: vs Jets Sun 4:25 p.m. ET\") BUF WR ; [Reichard Will](javascript\\:launch_player_modal\\('42684','16681'\\); \"Salary: $500,000, 1st Contract Year: 2024 , Final Contract Year: 2026 , 2026 Contract: , Week 18: vs Packers Sun 1:00 p.m. ET\") MIN PK"
+        }
+      ]
+    },
+    {
+      "season": 2025,
+      "number": 50,
+      "teams": [
+        "Blackjacks",
+        "Westeros Kingslayers"
+      ],
+      "valid": true,
+      "sides": [
+        {
+          "team": "Blackjacks",
+          "raw": "[Smith-Njigba Jaxon](javascript\\:launch_player_modal\\('42684','16185'\\); \"Salary: $1,000,000, 1st Contract Year: 2023 , Final Contract Year: 2025 , 2026 Contract: , Week 18: at 49ers Sat 8:00 p.m. ET\") SEA WR"
+        },
+        {
+          "team": "Westeros Kingslayers",
+          "raw": "Year 2025 Draft Pick 2.05; Year 2025 Draft Pick 2.09"
+        }
+      ]
+    },
+    {
+      "season": 2025,
+      "number": 51,
+      "teams": [
+        "Saints",
+        "Rough Riders"
+      ],
+      "valid": true,
+      "sides": [
+        {
+          "team": "Saints",
+          "raw": "[Reichard Will](javascript\\:launch_player_modal\\('42684','16681'\\); \"Salary: $500,000, 1st Contract Year: 2024 , Final Contract Year: 2026 , 2026 Contract: , Week 18: vs Packers Sun 1:00 p.m. ET\") MIN PK ; [Bears, Chicago CHI Def](javascript\\:launch_player_modal\\('42684','0521'\\); \"Salary: $1,284,000, 1st Contract Year: 2024 , Final Contract Year: 2026 , 2026 Contract: , Week 18: vs Lions Sun 4:25 p.m. ET\")"
+        },
+        {
+          "team": "Rough Riders",
+          "raw": "[Fairbairn Ka'imi](javascript\\:launch_player_modal\\('42684','12860'\\); \"Salary: $1,368,000, 1st Contract Year: 2024 , Final Contract Year: 2026 , 2026 Contract: , Week 18: vs Colts Sun 1:00 p.m. ET\") HOU PK ; [Eagles, Philadelphia PHI Def](javascript\\:launch_player_modal\\('42684','0518'\\); \"Salary: $1,010,000, 1st Contract Year: 2024 , Final Contract Year: 2026 , 2026 Contract: 1160000, Week 18: vs Commanders Sun 4:25 p.m. ET\")"
+        }
+      ]
+    },
+    {
+      "season": 2025,
+      "number": 52,
+      "teams": [
+        "Saints",
+        "Westeros Kingslayers"
+      ],
+      "valid": true,
+      "sides": [
+        {
+          "team": "Saints",
+          "raw": "Year 2026 Round 3 Draft Pick from Smugglers; Year 2027 Round 5 Draft Pick from Saints"
+        },
+        {
+          "team": "Westeros Kingslayers",
+          "raw": "Year 2025 Draft Pick 3.05"
+        }
+      ]
+    },
+    {
+      "season": 2025,
+      "number": 53,
+      "teams": [
+        "Saints",
+        "The Silver Bullet"
+      ],
+      "valid": true,
+      "sides": [
+        {
+          "team": "Saints",
+          "raw": "Year 2025 Draft Pick 1.09; Year 2028 Round 1 Draft Pick from Saints; Year 2029 Round 1 Draft Pick from Saints"
+        },
+        {
+          "team": "The Silver Bullet",
+          "raw": "[Brown Chase](javascript\\:launch_player_modal\\('42684','16181'\\); \"Salary: $500,000, 1st Contract Year: 2023 , Final Contract Year: 2025 , 2026 Contract: , Week 18: vs Browns Sun 1:00 p.m. ET\") CIN RB; Year 2025 Draft Pick 2.02"
+        }
+      ]
+    },
+    {
+      "season": 2025,
+      "number": 54,
+      "teams": [
+        "Dragons",
+        "Saints"
+      ],
+      "valid": true,
+      "sides": [
+        {
+          "team": "Dragons",
+          "raw": "Year 2025 Draft Pick 1.09"
+        },
+        {
+          "team": "Saints",
+          "raw": "Year 2025 Draft Pick 1.08"
+        }
+      ]
+    },
+    {
+      "season": 2025,
+      "number": 55,
+      "teams": [
+        "Blackjacks",
+        "Tguns"
+      ],
+      "valid": true,
+      "sides": [
+        {
+          "team": "Blackjacks",
+          "raw": "[Burrow Joe](javascript\\:launch_player_modal\\('42684','14777'\\); \"Salary: $3,201,000, 1st Contract Year: 2023 , Final Contract Year: 2025 , 2026 Contract: , Week 18: vs Browns Sun 1:00 p.m. ET\") CIN QB ; [Burton Jermaine](javascript\\:launch_player_modal\\('42684','16632'\\); \"Salary: $900,000, 1st Contract Year: 2024 , Final Contract Year: 2026 , 2026 Contract: , Week 18: Bye\") FA WR"
+        },
+        {
+          "team": "Tguns",
+          "raw": "Year 2027 Round 1 Draft Pick from Tguns; Year 2027 Round 3 Draft Pick from Tguns"
+        }
+      ]
+    },
+    {
+      "season": 2025,
+      "number": 56,
+      "teams": [
+        "Dragons",
+        "Tguns"
+      ],
+      "valid": true,
+      "sides": [
+        {
+          "team": "Dragons",
+          "raw": "Year 2025 Draft Pick 3.09"
+        },
+        {
+          "team": "Tguns",
+          "raw": "| Mon May 5 10:02:41 a.m. ET 2025 | | | | | ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----- | - |"
+        }
+      ]
+    },
+    {
+      "season": 2025,
+      "number": 57,
+      "teams": [
+        "Saints",
+        "Tguns"
+      ],
+      "valid": true,
+      "sides": [
+        {
+          "team": "Saints",
+          "raw": "[Smith DeVonta](javascript\\:launch_player_modal\\('42684','15282'\\); \"Salary: $1,383,706, 1st Contract Year: 2024 , Final Contract Year: 2026 , 2026 Contract: , Week 18: vs Commanders Sun 4:25 p.m. ET\") PHI WR ; Year 2026 Round 5 Draft Pick from Saints"
+        },
+        {
+          "team": "Tguns",
+          "raw": "[Reichard Will](javascript\\:launch_player_modal\\('42684','16681'\\); \"Salary: $500,000, 1st Contract Year: 2024 , Final Contract Year: 2026 , 2026 Contract: , Week 18: vs Packers Sun 1:00 p.m. ET\") MIN PK"
+        }
+      ]
+    },
+    {
+      "season": 2025,
+      "number": 58,
+      "teams": [
+        "Tguns",
+        "Chiefs"
+      ],
+      "valid": true,
+      "sides": [
+        {
+          "team": "Tguns",
+          "raw": "Year 2027 Round 4 Draft Pick from Tguns"
+        },
+        {
+          "team": "Chiefs",
+          "raw": "[Mooney Darnell](javascript\\:launch_player_modal\\('42684','14974'\\); \"Salary: $1,292,000, 1st Contract Year: 2024 , Final Contract Year: 2025 , 2026 Contract: , Week 18: vs Saints Sun 1:00 p.m. ET\") ATL WR ; [Hopkins Dustin](javascript\\:launch_player_modal\\('42684','11387'\\); \"Salary: $1,490,000, 1st Contract Year: 2023 , Final Contract Year: 2025 , 2026 Contract: , Week 18: Bye\") FA PK ; [Rams, Los Angeles LAR Def](javascript\\:launch_player_modal\\('42684','0528'\\); \"Salary: $1,160,000, 1st Contract Year: 2023 , Final Contract Year: 2025 , 2026 Contract: , Week 18: vs Cardinals Sun 4:25 p.m. ET\")"
+        }
+      ]
+    },
+    {
+      "season": 2025,
+      "number": 59,
+      "teams": [
+        "Dragons",
+        "Chiefs"
+      ],
+      "valid": true,
+      "sides": [
+        {
+          "team": "Dragons",
+          "raw": "[Jackson Lamar](javascript\\:launch_player_modal\\('42684','13593'\\); \"Salary: $4,503,000, 1st Contract Year: 2023 , Final Contract Year: 2025 , 2026 Contract: , Week 18: at Steelers Sun 8:20 p.m. ET\") BAL QB ; [Butker Harrison](javascript\\:launch_player_modal\\('42684','13354'\\); \"Salary: $1,550,000, 1st Contract Year: 2024 , Final Contract Year: 2025 , 2026 Contract: , Week 18: at Raiders Sun 4:25 p.m. ET\") KCC PK; Year 2025 Draft Pick 2.06; Year 2025 Draft Pick 5.06"
+        },
+        {
+          "team": "Chiefs",
+          "raw": "Year 2025 Draft Pick 1.09; Year 2025 Draft Pick 3.09; Year 2025 Draft Pick 4.09"
+        }
+      ]
+    },
+    {
+      "season": 2025,
+      "number": 60,
+      "teams": [
+        "Saints",
+        "Tguns"
+      ],
+      "valid": true,
+      "sides": [
+        {
+          "team": "Saints",
+          "raw": "[Harris Najee](javascript\\:launch_player_modal\\('42684','15254'\\); \"Salary: $4,800,000, 1st Contract Year: 2024 , Final Contract Year: 2025 , 2026 Contract: , Week 18: at Broncos Sun 4:25 p.m. ET\") LAC RB"
+        },
+        {
+          "team": "Tguns",
+          "raw": "Year 2026 Round 3 Draft Pick from Smugglers"
+        }
+      ]
+    },
+    {
+      "season": 2025,
+      "number": 61,
+      "teams": [
+        "Saints",
+        "Chiefs"
+      ],
+      "valid": true,
+      "sides": [
+        {
+          "team": "Saints",
+          "raw": "[Rice Rashee](javascript\\:launch_player_modal\\('42684','16194'\\); \"Salary: $500,000, 1st Contract Year: 2023 , Final Contract Year: 2025 , 2026 Contract: , Week 18: at Raiders Sun 4:25 p.m. ET\") KCC WR ; Year 2026 Round 1 Draft Pick from Rough Riders; Year 2027 Round 1 Draft Pick from Saints"
+        },
+        {
+          "team": "Chiefs",
+          "raw": "[Lamb CeeDee](javascript\\:launch_player_modal\\('42684','14832'\\); \"Salary: $4,503,000, 1st Contract Year: 2023 , Final Contract Year: 2025 , 2026 Contract: , Week 18: at Giants Sun 1:00 p.m. ET\") DAL WR"
+        }
+      ]
+    },
+    {
+      "season": 2025,
+      "number": 62,
+      "teams": [
+        "Dragons",
+        "Smugglers"
+      ],
+      "valid": true,
+      "sides": [
+        {
+          "team": "Dragons",
+          "raw": "[Spears Tyjae](javascript\\:launch_player_modal\\('42684','16165'\\); \"Salary: $1,018,000, 1st Contract Year: 2023 , Final Contract Year: 2025 , 2026 Contract: , Week 18: at Jaguars Sun 1:00 p.m. ET\") TEN RB ; Year 2025 Draft Pick 1.07; Year 2025 Draft Pick 4.06"
+        },
+        {
+          "team": "Smugglers",
+          "raw": "Year 2025 Draft Pick 1.04"
+        }
+      ]
+    },
+    {
+      "season": 2025,
+      "number": 63,
+      "teams": [
+        "Dragons",
+        "Chiefs"
+      ],
+      "valid": true,
+      "sides": [
+        {
+          "team": "Dragons",
+          "raw": "Year 2025 Draft Pick 1.02"
+        },
+        {
+          "team": "Chiefs",
+          "raw": "Year 2025 Draft Pick 1.01"
+        }
+      ]
+    },
+    {
+      "season": 2025,
+      "number": 64,
+      "teams": [
+        "Blackjacks",
+        "Saints"
+      ],
+      "valid": true,
+      "sides": [
+        {
+          "team": "Blackjacks",
+          "raw": "[Henry Derrick](javascript\\:launch_player_modal\\('42684','12626'\\); \"Salary: $3,261,000, 1st Contract Year: 2024 , Final Contract Year: 2026 , 2026 Contract: , Week 18: at Steelers Sun 8:20 p.m. ET\") BAL RB ; [Douglas Demario](javascript\\:launch_player_modal\\('42684','16342'\\); \"Salary: $0, 1st Contract Year: , Final Contract Year: , 2026 Contract: , Week 18: vs Dolphins Sun 4:25 p.m. ET\") NEP WR"
+        },
+        {
+          "team": "Saints",
+          "raw": "[Brooks Jonathon](javascript\\:launch_player_modal\\('42684','16597'\\); \"Salary: $1,050,000, 1st Contract Year: 2024 , Final Contract Year: 2026 , 2026 Contract: 875000, Week 18: at Buccaneers Sat 4:30 p.m. ET\") CAR RB ; [Hubbard Chuba](javascript\\:launch_player_modal\\('42684','15261'\\); \"Salary: $2,500,000, 1st Contract Year: 2024 , Final Contract Year: 2025 , 2026 Contract: , Week 18: at Buccaneers Sat 4:30 p.m. ET\") CAR RB ; [McLaurin Terry](javascript\\:launch_player_modal\\('42684','14109'\\); \"Salary: $1,242,000, 1st Contract Year: 2024 , Final Contract Year: 2026 , 2026 Contract: 1878000, Week 18: at Eagles Sun 4:25 p.m. ET\") WAS WR"
+        }
+      ]
+    },
+    {
+      "season": 2026,
+      "number": 1,
+      "teams": [
+        "Chiefs",
+        "Westeros Kingslayers"
+      ],
+      "valid": true,
+      "sides": [
+        {
+          "team": "Chiefs",
+          "raw": "2026 2.07"
+        },
+        {
+          "team": "Westeros Kingslayers",
+          "raw": "2026 3.03 + 3.05"
+        }
+      ]
+    },
+    {
+      "season": 2026,
+      "number": 2,
+      "teams": [
+        "Dragons",
+        "Westeros Kingslayers"
+      ],
+      "valid": true,
+      "sides": [
+        {
+          "team": "Dragons",
+          "raw": "Harold Fannin"
+        },
+        {
+          "team": "Westeros Kingslayers",
+          "raw": "Sam LaPorta"
+        }
+      ]
+    },
+    {
+      "season": 2026,
+      "number": 3,
+      "teams": [
+        "Dragons",
+        "Chiefs"
+      ],
+      "valid": true,
+      "sides": [
+        {
+          "team": "Dragons",
+          "raw": "Justin Fields + Brenton Strange + 2026 5.02"
+        },
+        {
+          "team": "Chiefs",
+          "raw": "Elijah Arroyo + 2026 4.07"
+        }
+      ]
+    },
+    {
+      "season": 2026,
+      "number": 4,
+      "teams": [
+        "Reapers",
+        "Dragons"
+      ],
+      "valid": true,
+      "sides": [
+        {
+          "team": "Reapers",
+          "raw": "2027 Saints 1st + 2028 Reapers 2nd"
+        },
+        {
+          "team": "Dragons",
+          "raw": "2026 1.03"
+        }
+      ]
+    },
+    {
+      "season": 2026,
+      "number": 5,
+      "teams": [
+        "Westeros Kingslayers",
+        "Rough Riders"
+      ],
+      "valid": true,
+      "sides": [
+        {
+          "team": "Westeros Kingslayers",
+          "raw": "Dalton Kincaid"
+        },
+        {
+          "team": "Rough Riders",
+          "raw": "Sam LaPorta"
+        }
+      ]
+    },
+    {
+      "season": 2026,
+      "number": 6,
+      "teams": [
+        "Reapers",
+        "Westeros Kingslayers"
+      ],
+      "valid": true,
+      "sides": [
+        {
+          "team": "Reapers",
+          "raw": "Jordan Love"
+        },
+        {
+          "team": "Westeros Kingslayers",
+          "raw": "Ollie Gordon"
+        }
+      ]
+    },
+    {
+      "season": 2026,
+      "number": 7,
+      "teams": [
+        "Saints",
+        "Smugglers"
+      ],
+      "valid": true,
+      "sides": [
+        {
+          "team": "Saints",
+          "raw": "Rico Dowdle"
+        },
+        {
+          "team": "Smugglers",
+          "raw": "Kyle Pitts + 2027 Smugglers 3rd"
+        }
+      ]
+    },
+    {
+      "season": 2026,
+      "number": 8,
+      "teams": [
+        "Blackjacks",
+        "Dragons"
+      ],
+      "valid": true,
+      "sides": [
+        {
+          "team": "Blackjacks",
+          "raw": "Brandon Aubrey"
+        },
+        {
+          "team": "Dragons",
+          "raw": "2028 Dragons 2nd"
+        }
+      ]
+    },
+    {
+      "season": 2026,
+      "number": 11,
+      "teams": [
+        "Chiefs",
+        "Reapers"
+      ],
+      "valid": true,
+      "sides": [
+        {
+          "team": "Chiefs",
+          "raw": "Jaylen Wright"
+        },
+        {
+          "team": "Reapers",
+          "raw": "DJ Giddens"
+        }
+      ]
+    },
+    {
+      "season": 2026,
+      "number": 12,
+      "teams": [
+        "Chiefs",
+        "Reapers"
+      ],
+      "valid": true,
+      "sides": [
+        {
+          "team": "Chiefs",
+          "raw": "2027 Saints 1st"
+        },
+        {
+          "team": "Reapers",
+          "raw": "Jonathan Taylor"
+        }
+      ]
+    },
+    {
+      "season": 2026,
+      "number": 13,
+      "teams": [
+        "The Silver Bullet",
+        "Smugglers"
+      ],
+      "valid": true,
+      "sides": [
+        {
+          "team": "The Silver Bullet",
+          "raw": "2026 1.06 + 2027 Silver Bullet 1st"
+        },
+        {
+          "team": "Smugglers",
+          "raw": "Puka Nacua"
+        }
+      ]
+    },
+    {
+      "season": 2026,
+      "number": 14,
+      "teams": [
+        "Chiefs",
+        "Reapers"
+      ],
+      "valid": true,
+      "sides": [
+        {
+          "team": "Chiefs",
+          "raw": "De'Von Achane"
+        },
+        {
+          "team": "Reapers",
+          "raw": "2027 Tguns 1st + 2027 Saints 1st"
+        }
+      ]
+    },
+    {
+      "season": 2026,
+      "number": 15,
+      "teams": [
+        "Chiefs",
+        "Reapers"
+      ],
+      "valid": true,
+      "sides": [
+        {
+          "team": "Chiefs",
+          "raw": "2027 Saints 1st + 2027 Rough Riders 1st"
+        },
+        {
+          "team": "Reapers",
+          "raw": "Ja'Marr Chase"
+        }
+      ]
+    },
+    {
+      "season": 2026,
+      "number": 16,
+      "teams": [
+        "Reapers",
+        "Smugglers"
+      ],
+      "valid": true,
+      "sides": [
+        {
+          "team": "Reapers",
+          "raw": "Kenneth Gainwell + Kyle Pitts"
+        },
+        {
+          "team": "Smugglers",
+          "raw": "George Kittle"
+        }
+      ]
+    },
+    {
+      "season": 2026,
+      "number": 17,
+      "teams": [
+        "Dragons",
+        "Smugglers"
+      ],
+      "valid": true,
+      "sides": [
+        {
+          "team": "Dragons",
+          "raw": "Jayden Daniels"
+        },
+        {
+          "team": "Smugglers",
+          "raw": "2027 Smugglers 1st + 2027 Smugglers 2nd + 2028 Smugglers 2nd"
+        }
+      ]
+    },
+    {
+      "season": 2026,
+      "number": 18,
+      "teams": [
+        "Blackjacks",
+        "Smugglers"
+      ],
+      "valid": true,
+      "sides": [
+        {
+          "team": "Blackjacks",
+          "raw": "Shedeur Sanders + Keon Coleman"
+        },
+        {
+          "team": "Smugglers",
+          "raw": "Jayden Reed + 2026 2.09"
+        }
+      ]
+    },
+    {
+      "season": 2026,
+      "number": 19,
+      "teams": [
+        "Blackjacks",
+        "Westeros Kingslayers"
+      ],
+      "valid": true,
+      "sides": [
+        {
+          "team": "Blackjacks",
+          "raw": "Jacory Croskey-Merritt + Rachaad White"
+        },
+        {
+          "team": "Westeros Kingslayers",
+          "raw": "Jordan Mason"
+        }
+      ]
+    },
+    {
+      "season": 2026,
+      "number": 20,
+      "teams": [
+        "Blackjacks",
+        "Saints"
+      ],
+      "valid": true,
+      "sides": [
+        {
+          "team": "Blackjacks",
+          "raw": "Tyler Allgeier"
+        },
+        {
+          "team": "Saints",
+          "raw": "Jacory Croskey-Merritt + Rachaad White"
+        }
+      ]
+    },
+    {
+      "season": 2026,
+      "number": 21,
+      "teams": [
+        "Dragons",
+        "Chiefs"
+      ],
+      "valid": true,
+      "sides": [
+        {
+          "team": "Dragons",
+          "raw": "Jaylen Wright"
+        },
+        {
+          "team": "Chiefs",
+          "raw": "Christian Kirk"
+        }
+      ]
+    },
+    {
+      "season": 2026,
+      "number": 22,
+      "teams": [
+        "Dragons",
+        "Tguns"
+      ],
+      "valid": true,
+      "sides": [
+        {
+          "team": "Dragons",
+          "raw": "Wan'Dale Robinson + NYG DEF + 2026 3.01 + 2026 4.02"
+        },
+        {
+          "team": "Tguns",
+          "raw": "HOU DEF"
+        }
+      ]
+    },
+    {
+      "season": 2026,
+      "number": 23,
+      "teams": [
+        "Dragons",
+        "Smugglers"
+      ],
+      "valid": true,
+      "sides": [
+        {
+          "team": "Dragons",
+          "raw": "Bucky Irving + Brian Thomas Jr. + 2026 1.04 + 2026 3.02"
+        },
+        {
+          "team": "Smugglers",
+          "raw": "Quinshon Judkins + 2026 1.03"
+        }
+      ]
+    },
+    {
+      "season": 2026,
+      "number": 24,
+      "teams": [
+        "Blackjacks",
+        "Dragons"
+      ],
+      "valid": true,
+      "sides": [
+        {
+          "team": "Blackjacks",
+          "raw": "Harold Fannin + 2027 Blackjacks 1st + 2028 Blackjacks 1st"
+        },
+        {
+          "team": "Dragons",
+          "raw": "Colston Loveland + 2026 2.02 + 2027 Silver Bullet 2nd"
+        }
+      ]
+    }
+  ]
+}

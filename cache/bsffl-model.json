@@ -1,0 +1,2449 @@
+{
+  "savedAt": "2026-08-19T01:31:26.551Z",
+  "data": {
+    "players": {
+      "9694": {
+        "score": 0,
+        "rank": 131,
+        "name": "Gano, Graham",
+        "position": "PK",
+        "team": "FA",
+        "components": {
+          "current": null,
+          "projection": 0,
+          "y2025": 0,
+          "y2024": 0
+        }
+      },
+      "11244": {
+        "score": 31.13644219263845,
+        "rank": 67,
+        "name": "Kelce, Travis",
+        "position": "TE",
+        "team": "KCC",
+        "components": {
+          "current": null,
+          "projection": 23.651045077710837,
+          "y2025": 38.29157512741407,
+          "y2024": 29.63210236145189
+        }
+      },
+      "11671": {
+        "score": 28.66667992309596,
+        "rank": 73,
+        "name": "Evans, Mike",
+        "position": "WR",
+        "team": "SFO",
+        "components": {
+          "current": null,
+          "projection": 55.24501584985949,
+          "y2025": 0,
+          "y2024": 43.79115722101441
+        }
+      },
+      "11675": {
+        "score": 51.653236446585716,
+        "rank": 29,
+        "name": "Adams, Davante",
+        "position": "WR",
+        "team": "LAR",
+        "components": {
+          "current": null,
+          "projection": 60.09478937078602,
+          "y2025": 48.93377941598717,
+          "y2024": 37.30079974051386
+        }
+      },
+      "11945": {
+        "score": 10.558496339253308,
+        "rank": 110,
+        "name": "Santos, Cairo",
+        "position": "PK",
+        "team": "CHI",
+        "components": {
+          "current": null,
+          "projection": 26.396240848133267,
+          "y2025": 0,
+          "y2024": 0
+        }
+      },
+      "11947": {
+        "score": 0,
+        "rank": 132,
+        "name": "McManus, Brandon",
+        "position": "PK",
+        "team": "FA",
+        "components": {
+          "current": null,
+          "projection": 0,
+          "y2025": 0,
+          "y2024": 0
+        }
+      },
+      "12186": {
+        "score": 9.127264761434086,
+        "rank": 114,
+        "name": "Diggs, Stefon",
+        "position": "WR",
+        "team": "WAS",
+        "components": {
+          "current": null,
+          "projection": 0,
+          "y2025": 20.282810580964636,
+          "y2024": 0
+        }
+      },
+      "12437": {
+        "score": 32.91445431544393,
+        "rank": 61,
+        "name": "Myers, Jason",
+        "position": "PK",
+        "team": "SEA",
+        "components": {
+          "current": null,
+          "projection": 22.806090469702763,
+          "y2025": 52.87115139458407,
+          "y2024": 0
+        }
+      },
+      "12620": {
+        "score": 30.9693090214461,
+        "rank": 69,
+        "name": "Prescott, Dak",
+        "position": "QB",
+        "team": "DAL",
+        "components": {
+          "current": null,
+          "projection": 0,
+          "y2025": 68.82068671432467,
+          "y2024": 0
+        }
+      },
+      "12626": {
+        "score": 81.06215510388813,
+        "rank": 8,
+        "name": "Henry, Derrick",
+        "position": "RB",
+        "team": "BAL",
+        "components": {
+          "current": null,
+          "projection": 68.34651651636308,
+          "y2025": 86.48065074677976,
+          "y2024": 98.71503774194666
+        }
+      },
+      "12860": {
+        "score": 27.5494462492831,
+        "rank": 75,
+        "name": "Fairbairn, Ka'imi",
+        "position": "PK",
+        "team": "HOU",
+        "components": {
+          "current": null,
+          "projection": 0,
+          "y2025": 48.71773518462231,
+          "y2024": 37.509769441353704
+        }
+      },
+      "13116": {
+        "score": 62.23972886332917,
+        "rank": 21,
+        "name": "Mahomes, Patrick",
+        "position": "QB",
+        "team": "KCC",
+        "components": {
+          "current": null,
+          "projection": 79.55963193949177,
+          "y2025": 55.4279476795438,
+          "y2024": 36.48866421158502
+        }
+      },
+      "13130": {
+        "score": 82.46261503089028,
+        "rank": 5,
+        "name": "McCaffrey, Christian",
+        "position": "RB",
+        "team": "SFO",
+        "components": {
+          "current": null,
+          "projection": 94.75965154195791,
+          "y2025": 99.01945425357134,
+          "y2024": 0
+        }
+      },
+      "13163": {
+        "score": 11.207736007689366,
+        "rank": 109,
+        "name": "Godwin, Chris",
+        "position": "WR",
+        "team": "TBB",
+        "components": {
+          "current": null,
+          "projection": 28.019340019223414,
+          "y2025": 0,
+          "y2024": 0
+        }
+      },
+      "13189": {
+        "score": 0,
+        "rank": 133,
+        "name": "Engram, Evan",
+        "position": "TE",
+        "team": "DEN",
+        "components": {
+          "current": null,
+          "projection": 0,
+          "y2025": 0,
+          "y2024": 0
+        }
+      },
+      "13192": {
+        "score": 1.0553963170954395,
+        "rank": 130,
+        "name": "Njoku, David",
+        "position": "TE",
+        "team": "LAC",
+        "components": {
+          "current": null,
+          "projection": 0,
+          "y2025": 0,
+          "y2024": 7.0359754473029295
+        }
+      },
+      "13299": {
+        "score": 43.544353008292745,
+        "rank": 38,
+        "name": "Kittle, George",
+        "position": "TE",
+        "team": "SFO",
+        "components": {
+          "current": null,
+          "projection": 53.347234040614545,
+          "y2025": 28.499759418630727,
+          "y2024": 62.53711769108735
+        }
+      },
+      "13303": {
+        "score": 7.306549953820498,
+        "rank": 119,
+        "name": "Elliott, Jake",
+        "position": "PK",
+        "team": "PHI",
+        "components": {
+          "current": null,
+          "projection": 18.266374884551244,
+          "y2025": 0,
+          "y2024": 0
+        }
+      },
+      "13319": {
+        "score": 23.92020388582506,
+        "rank": 82,
+        "name": "Jones, Aaron",
+        "position": "RB",
+        "team": "MIN",
+        "components": {
+          "current": null,
+          "projection": 38.11042269456982,
+          "y2025": 0,
+          "y2024": 57.84023205331423
+        }
+      },
+      "13589": {
+        "score": 88.58688604807551,
+        "rank": 4,
+        "name": "Allen, Josh",
+        "position": "QB",
+        "team": "BUF",
+        "components": {
+          "current": null,
+          "projection": 96.19860059087547,
+          "y2025": 85.93000782454135,
+          "y2024": 76.25961527121143
+        }
+      },
+      "13593": {
+        "score": 52.28595136081983,
+        "rank": 27,
+        "name": "Jackson, Lamar",
+        "position": "QB",
+        "team": "BAL",
+        "components": {
+          "current": null,
+          "projection": 96.75804734088429,
+          "y2025": 0,
+          "y2024": 90.55154949644074
+        }
+      },
+      "13604": {
+        "score": 78.27295853997958,
+        "rank": 10,
+        "name": "Barkley, Saquon",
+        "position": "RB",
+        "team": "PHI",
+        "components": {
+          "current": null,
+          "projection": 90.41394283993266,
+          "y2025": 60.23862534223671,
+          "y2024": 100
+        }
+      },
+      "13629": {
+        "score": 3.0434580315809834,
+        "rank": 127,
+        "name": "Ridley, Calvin",
+        "position": "WR",
+        "team": "TEN",
+        "components": {
+          "current": null,
+          "projection": 0,
+          "y2025": 0,
+          "y2024": 20.28972021053989
+        }
+      },
+      "13630": {
+        "score": 23.38358354226754,
+        "rank": 84,
+        "name": "Sutton, Courtland",
+        "position": "WR",
+        "team": "DEN",
+        "components": {
+          "current": null,
+          "projection": 0,
+          "y2025": 38.56607021919524,
+          "y2024": 40.19234629086455
+        }
+      },
+      "13633": {
+        "score": 0,
+        "rank": 134,
+        "name": "Kirk, Christian",
+        "position": "WR",
+        "team": "SFO",
+        "components": {
+          "current": null,
+          "projection": 0,
+          "y2025": 0,
+          "y2024": 0
+        }
+      },
+      "13635": {
+        "score": 10.536495571091837,
+        "rank": 111,
+        "name": "Moore, D.J.",
+        "position": "WR",
+        "team": "BUF",
+        "components": {
+          "current": null,
+          "projection": 0,
+          "y2025": 14.705261838484764,
+          "y2024": 26.127518291824614
+        }
+      },
+      "13674": {
+        "score": 42.495660927225686,
+        "rank": 43,
+        "name": "Goedert, Dallas",
+        "position": "TE",
+        "team": "PHI",
+        "components": {
+          "current": null,
+          "projection": 57.4225595343328,
+          "y2025": 43.392526918872356,
+          "y2024": 0
+        }
+      },
+      "13772": {
+        "score": 8.202828317419746,
+        "rank": 117,
+        "name": "Schultz, Dalton",
+        "position": "TE",
+        "team": "HOU",
+        "components": {
+          "current": null,
+          "projection": 0,
+          "y2025": 18.22850737204388,
+          "y2024": 0
+        }
+      },
+      "14056": {
+        "score": 36.12560848838969,
+        "rank": 55,
+        "name": "Murray, Kyler",
+        "position": "QB",
+        "team": "MIN",
+        "components": {
+          "current": null,
+          "projection": 70.60651305627997,
+          "y2025": 0,
+          "y2024": 52.55335510585132
+        }
+      },
+      "14059": {
+        "score": 26.640484366130085,
+        "rank": 76,
+        "name": "Jones, Daniel",
+        "position": "QB",
+        "team": "IND",
+        "components": {
+          "current": null,
+          "projection": 66.60121091532521,
+          "y2025": 0,
+          "y2024": 0
+        }
+      },
+      "14071": {
+        "score": 20.74504871498978,
+        "rank": 88,
+        "name": "Montgomery, David",
+        "position": "RB",
+        "team": "HOU",
+        "components": {
+          "current": null,
+          "projection": 0,
+          "y2025": 28.360622251896515,
+          "y2024": 53.218458010908996
+        }
+      },
+      "14073": {
+        "score": 67.91672122944371,
+        "rank": 17,
+        "name": "Jacobs, Josh",
+        "position": "RB",
+        "team": "GBP",
+        "components": {
+          "current": null,
+          "projection": 67.40675236922226,
+          "y2025": 63.47862526062534,
+          "y2024": 82.59092609648937
+        }
+      },
+      "14085": {
+        "score": 39.07275129790247,
+        "rank": 46,
+        "name": "Pollard, Tony",
+        "position": "RB",
+        "team": "TEN",
+        "components": {
+          "current": null,
+          "projection": 37.59188938059831,
+          "y2025": 39.844105493987875,
+          "y2024": 40.707653822457324
+        }
+      },
+      "14102": {
+        "score": 19.63884495566788,
+        "rank": 89,
+        "name": "Metcalf, DK",
+        "position": "WR",
+        "team": "PIT",
+        "components": {
+          "current": null,
+          "projection": 22.371648958770233,
+          "y2025": 23.755967493688416,
+          "y2024": 0
+        }
+      },
+      "14104": {
+        "score": 47.016534577388114,
+        "rank": 34,
+        "name": "Brown, A.J.",
+        "position": "WR",
+        "team": "NEP",
+        "components": {
+          "current": null,
+          "projection": 64.65732120553679,
+          "y2025": 36.16651597316406,
+          "y2024": 32.524492714997116
+        }
+      },
+      "14105": {
+        "score": 0,
+        "rank": 135,
+        "name": "Brown, Marquise",
+        "position": "WR",
+        "team": "PHI",
+        "components": {
+          "current": null,
+          "projection": 0,
+          "y2025": 0,
+          "y2024": 0
+        }
+      },
+      "14109": {
+        "score": 24.931588485307763,
+        "rank": 80,
+        "name": "McLaurin, Terry",
+        "position": "WR",
+        "team": "WAS",
+        "components": {
+          "current": null,
+          "projection": 41.67729664862145,
+          "y2025": 0,
+          "y2024": 55.07113217239454
+        }
+      },
+      "14127": {
+        "score": 1.2812025356934933,
+        "rank": 128,
+        "name": "Meyers, Jakobi",
+        "position": "WR",
+        "team": "JAC",
+        "components": {
+          "current": null,
+          "projection": 0,
+          "y2025": 0,
+          "y2024": 8.541350237956623
+        }
+      },
+      "14136": {
+        "score": 0,
+        "rank": 136,
+        "name": "Samuel, Deebo",
+        "position": "WR",
+        "team": "SFO",
+        "components": {
+          "current": null,
+          "projection": 0,
+          "y2025": 0,
+          "y2024": 0
+        }
+      },
+      "14138": {
+        "score": 11.75477269281983,
+        "rank": 107,
+        "name": "Hockenson, T.J.",
+        "position": "TE",
+        "team": "MIN",
+        "components": {
+          "current": null,
+          "projection": 29.386931732049575,
+          "y2025": 0,
+          "y2024": 0
+        }
+      },
+      "14777": {
+        "score": 43.96819782813745,
+        "rank": 37,
+        "name": "Burrow, Joe",
+        "position": "QB",
+        "team": "CIN",
+        "components": {
+          "current": null,
+          "projection": 80.78369815826466,
+          "y2025": 0,
+          "y2024": 77.69812376554388
+        }
+      },
+      "14779": {
+        "score": 65.20886177137174,
+        "rank": 19,
+        "name": "Herbert, Justin",
+        "position": "QB",
+        "team": "LAC",
+        "components": {
+          "current": null,
+          "projection": 85.2750557459966,
+          "y2025": 59.37881677716842,
+          "y2024": 29.189146154982087
+        }
+      },
+      "14782": {
+        "score": 13.379051485278438,
+        "rank": 104,
+        "name": "Love, Jordan",
+        "position": "QB",
+        "team": "GBP",
+        "components": {
+          "current": null,
+          "projection": 33.447628713196096,
+          "y2025": 0,
+          "y2024": 0
+        }
+      },
+      "14783": {
+        "score": 67.01959304895179,
+        "rank": 18,
+        "name": "Hurts, Jalen",
+        "position": "QB",
+        "team": "PHI",
+        "components": {
+          "current": null,
+          "projection": 81.2077624796299,
+          "y2025": 59.00010727301983,
+          "y2024": 53.242931894939346
+        }
+      },
+      "14797": {
+        "score": 51.71722753267923,
+        "rank": 28,
+        "name": "Swift, D'Andre",
+        "position": "RB",
+        "team": "CHI",
+        "components": {
+          "current": null,
+          "projection": 43.74518058412361,
+          "y2025": 60.80507695880538,
+          "y2024": 45.71247111711575
+        }
+      },
+      "14800": {
+        "score": 14.7039553564389,
+        "rank": 100,
+        "name": "Dobbins, J.K.",
+        "position": "RB",
+        "team": "DEN",
+        "components": {
+          "current": null,
+          "projection": 22.589914117219564,
+          "y2025": 0,
+          "y2024": 37.78659806367383
+        }
+      },
+      "14802": {
+        "score": 89.43541674442284,
+        "rank": 2,
+        "name": "Taylor, Jonathan",
+        "position": "RB",
+        "team": "IND",
+        "components": {
+          "current": null,
+          "projection": 84.52371902328358,
+          "y2025": 100,
+          "y2024": 70.839527567396
+        }
+      },
+      "14823": {
+        "score": 29.263211166398328,
+        "rank": 72,
+        "name": "Dowdle, Rico",
+        "position": "RB",
+        "team": "PIT",
+        "components": {
+          "current": null,
+          "projection": 0,
+          "y2025": 51.76219561141865,
+          "y2024": 39.80148760839957
+        }
+      },
+      "14832": {
+        "score": 36.6013768639172,
+        "rank": 54,
+        "name": "Lamb, CeeDee",
+        "position": "WR",
+        "team": "DAL",
+        "components": {
+          "current": null,
+          "projection": 51.85470756605933,
+          "y2025": 21.048467276349232,
+          "y2024": 42.58455708757544
+        }
+      },
+      "14833": {
+        "score": 4.997393797060359,
+        "rank": 124,
+        "name": "Jeudy, Jerry",
+        "position": "WR",
+        "team": "CLE",
+        "components": {
+          "current": null,
+          "projection": 0,
+          "y2025": 0,
+          "y2024": 33.31595864706906
+        }
+      },
+      "14835": {
+        "score": 47.825315105283096,
+        "rank": 33,
+        "name": "Higgins, Tee",
+        "position": "WR",
+        "team": "CIN",
+        "components": {
+          "current": null,
+          "projection": 58.6066544098769,
+          "y2025": 43.026338709967064,
+          "y2024": 33.47200614564771
+        }
+      },
+      "14836": {
+        "score": 30.99408354432096,
+        "rank": 68,
+        "name": "Jefferson, Justin",
+        "position": "WR",
+        "team": "MIN",
+        "components": {
+          "current": null,
+          "projection": 52.512907894953834,
+          "y2025": 0,
+          "y2024": 66.59280257559618
+        }
+      },
+      "14840": {
+        "score": 0,
+        "rank": 137,
+        "name": "Aiyuk, Brandon",
+        "position": "WR",
+        "team": "SFO",
+        "components": {
+          "current": null,
+          "projection": 0,
+          "y2025": null,
+          "y2024": 0
+        }
+      },
+      "15238": {
+        "score": 0,
+        "rank": 138,
+        "name": "Fields, Justin",
+        "position": "QB",
+        "team": "KCC",
+        "components": {
+          "current": null,
+          "projection": 0,
+          "y2025": 0,
+          "y2024": 0
+        }
+      },
+      "15253": {
+        "score": 52.96368101939511,
+        "rank": 26,
+        "name": "Etienne, Travis",
+        "position": "RB",
+        "team": "NOS",
+        "components": {
+          "current": null,
+          "projection": 55.24501584985949,
+          "y2025": 68.59038817655846,
+          "y2024": 0
+        }
+      },
+      "15254": {
+        "score": 6.514904545749636,
+        "rank": 121,
+        "name": "Harris, Najee",
+        "position": "RB",
+        "team": "FA",
+        "components": {
+          "current": null,
+          "projection": 0,
+          "y2025": 0,
+          "y2024": 43.43269697166424
+        }
+      },
+      "15255": {
+        "score": 15.223805060047546,
+        "rank": 96,
+        "name": "Gainwell, Kenneth",
+        "position": "RB",
+        "team": "TBB",
+        "components": {
+          "current": null,
+          "projection": 0,
+          "y2025": 33.83067791121677,
+          "y2024": 0
+        }
+      },
+      "15256": {
+        "score": 54.47408032212805,
+        "rank": 25,
+        "name": "Williams, Javonte",
+        "position": "RB",
+        "team": "DAL",
+        "components": {
+          "current": null,
+          "projection": 61.70619550172697,
+          "y2025": 66.20356026986059,
+          "y2024": 0
+        }
+      },
+      "15259": {
+        "score": 32.526113685298455,
+        "rank": 62,
+        "name": "Stevenson, Rhamondre",
+        "position": "RB",
+        "team": "NEP",
+        "components": {
+          "current": null,
+          "projection": 30.210254386030822,
+          "y2025": 35.65244797224313,
+          "y2024": 29.32273562251145
+        }
+      },
+      "15261": {
+        "score": 27.925687055873198,
+        "rank": 74,
+        "name": "Hubbard, Chuba",
+        "position": "RB",
+        "team": "CAR",
+        "components": {
+          "current": null,
+          "projection": 46.78055172426982,
+          "y2025": 0,
+          "y2024": 61.42310910776844
+        }
+      },
+      "15281": {
+        "score": 81.10052550704009,
+        "rank": 7,
+        "name": "Chase, Ja'Marr",
+        "position": "WR",
+        "team": "CIN",
+        "components": {
+          "current": null,
+          "projection": 100,
+          "y2025": 62.219836200986876,
+          "y2024": 87.34399477730655
+        }
+      },
+      "15282": {
+        "score": 23.857110749563347,
+        "rank": 83,
+        "name": "Smith, DeVonta",
+        "position": "WR",
+        "team": "PHI",
+        "components": {
+          "current": null,
+          "projection": 33.73975328768189,
+          "y2025": 19.621954465506573,
+          "y2024": 10.208866166750868
+        }
+      },
+      "15284": {
+        "score": 21.271453388240182,
+        "rank": 86,
+        "name": "Waddle, Jaylen",
+        "position": "WR",
+        "team": "DEN",
+        "components": {
+          "current": null,
+          "projection": 24.062398439177482,
+          "y2025": 25.881097805709313,
+          "y2024": 0
+        }
+      },
+      "15287": {
+        "score": 71.97144157008574,
+        "rank": 15,
+        "name": "St. Brown, Amon-Ra",
+        "position": "WR",
+        "team": "DET",
+        "components": {
+          "current": null,
+          "projection": 79.49793388295376,
+          "y2025": 68.70563393944558,
+          "y2024": 61.698218294358234
+        }
+      },
+      "15290": {
+        "score": 49.05058913263488,
+        "rank": 31,
+        "name": "Collins, Nico",
+        "position": "WR",
+        "team": "HOU",
+        "components": {
+          "current": null,
+          "projection": 61.387298299743634,
+          "y2025": 45.75895384009652,
+          "y2024": 26.02760389795992
+        }
+      },
+      "15329": {
+        "score": 32.47734925227251,
+        "rank": 63,
+        "name": "Pitts, Kyle",
+        "position": "TE",
+        "team": "ATL",
+        "components": {
+          "current": null,
+          "projection": 31.79300075421949,
+          "y2025": 41.97145905883456,
+          "y2024": 5.819949160727714
+        }
+      },
+      "15368": {
+        "score": 11.552669845935423,
+        "rank": 108,
+        "name": "McPherson, Evan",
+        "position": "PK",
+        "team": "CIN",
+        "components": {
+          "current": null,
+          "projection": 28.881674614838555,
+          "y2025": 0,
+          "y2024": 0
+        }
+      },
+      "15698": {
+        "score": 34.5836575507494,
+        "rank": 60,
+        "name": "Purdy, Brock",
+        "position": "QB",
+        "team": "SFO",
+        "components": {
+          "current": null,
+          "projection": 73.26668991318053,
+          "y2025": 0,
+          "y2024": 35.17987723651459
+        }
+      },
+      "15708": {
+        "score": 39.77505534304663,
+        "rank": 45,
+        "name": "Hall, Breece",
+        "position": "RB",
+        "team": "NYJ",
+        "components": {
+          "current": null,
+          "projection": 23.85760834528098,
+          "y2025": 49.25606904283717,
+          "y2024": 53.778539571050054
+        }
+      },
+      "15710": {
+        "score": 71.97166360237816,
+        "rank": 14,
+        "name": "Williams, Kyren",
+        "position": "RB",
+        "team": "LAR",
+        "components": {
+          "current": null,
+          "projection": 68.56155590407953,
+          "y2025": 73.5621669410526,
+          "y2024": 76.2937741151512
+        }
+      },
+      "15711": {
+        "score": 36.865951779903476,
+        "rank": 52,
+        "name": "Walker III, Kenneth",
+        "position": "RB",
+        "team": "KCC",
+        "components": {
+          "current": null,
+          "projection": 40.96481172669695,
+          "y2025": 41.27452601654313,
+          "y2024": 12.709935878535228
+        }
+      },
+      "15712": {
+        "score": 0,
+        "rank": 139,
+        "name": "Allgeier, Tyler",
+        "position": "RB",
+        "team": "ARI",
+        "components": {
+          "current": null,
+          "projection": 0,
+          "y2025": 0,
+          "y2024": 0
+        }
+      },
+      "15715": {
+        "score": 79.21921420081881,
+        "rank": 9,
+        "name": "Cook, James",
+        "position": "RB",
+        "team": "BUF",
+        "components": {
+          "current": null,
+          "projection": 71.778199417916,
+          "y2025": 87.90218000109637,
+          "y2024": 73.01302288772703
+        }
+      },
+      "15721": {
+        "score": 5.170364906592833,
+        "rank": 123,
+        "name": "White, Rachaad",
+        "position": "RB",
+        "team": "WAS",
+        "components": {
+          "current": null,
+          "projection": 0,
+          "y2025": 0,
+          "y2024": 34.46909937728555
+        }
+      },
+      "15742": {
+        "score": 35.62310464983166,
+        "rank": 56,
+        "name": "Warren, Jaylen",
+        "position": "RB",
+        "team": "PIT",
+        "components": {
+          "current": null,
+          "projection": 32.10018664019918,
+          "y2025": 50.62895554167108,
+          "y2024": 0
+        }
+      },
+      "15749": {
+        "score": 0,
+        "rank": 140,
+        "name": "Pacheco, Isiah",
+        "position": "RB",
+        "team": "DET",
+        "components": {
+          "current": null,
+          "projection": 0,
+          "y2025": 0,
+          "y2024": 0
+        }
+      },
+      "15751": {
+        "score": 56.105716676556774,
+        "rank": 24,
+        "name": "London, Drake",
+        "position": "WR",
+        "team": "ATL",
+        "components": {
+          "current": null,
+          "projection": 85.79135747080251,
+          "y2025": 31.152273352375058,
+          "y2024": 51.8043378644466
+        }
+      },
+      "15753": {
+        "score": 32.14581484794191,
+        "rank": 64,
+        "name": "Wilson, Garrett",
+        "position": "WR",
+        "team": "NYJ",
+        "components": {
+          "current": null,
+          "projection": 66.74839609133284,
+          "y2025": 0,
+          "y2024": 36.30970940939182
+        }
+      },
+      "15754": {
+        "score": 44.45108337454742,
+        "rank": 36,
+        "name": "Olave, Chris",
+        "position": "WR",
+        "team": "NOS",
+        "components": {
+          "current": null,
+          "projection": 51.7599956923551,
+          "y2025": 52.77130021690084,
+          "y2024": 0
+        }
+      },
+      "15756": {
+        "score": 34.91753008944367,
+        "rank": 59,
+        "name": "Williams, Jameson",
+        "position": "WR",
+        "team": "DET",
+        "components": {
+          "current": null,
+          "projection": 23.020236862403845,
+          "y2025": 44.88616638218785,
+          "y2024": 36.737736483317335
+        }
+      },
+      "15757": {
+        "score": 17.688693728544976,
+        "rank": 90,
+        "name": "Robinson, Wan'Dale",
+        "position": "WR",
+        "team": "TEN",
+        "components": {
+          "current": null,
+          "projection": 20.54220863546955,
+          "y2025": 21.048467276349232,
+          "y2024": 0
+        }
+      },
+      "15761": {
+        "score": 0,
+        "rank": 141,
+        "name": "Shakir, Khalil",
+        "position": "WR",
+        "team": "BUF",
+        "components": {
+          "current": null,
+          "projection": 0,
+          "y2025": 0,
+          "y2024": 0
+        }
+      },
+      "15762": {
+        "score": 31.99142587904658,
+        "rank": 65,
+        "name": "Pickens, George",
+        "position": "WR",
+        "team": "DAL",
+        "components": {
+          "current": null,
+          "projection": 6.265314896766319,
+          "y2025": 65.52288871186678,
+          "y2024": 0
+        }
+      },
+      "15789": {
+        "score": 0,
+        "rank": 142,
+        "name": "Watson, Christian",
+        "position": "WR",
+        "team": "GBP",
+        "components": {
+          "current": null,
+          "projection": 0,
+          "y2025": 0,
+          "y2024": 0
+        }
+      },
+      "15794": {
+        "score": 74.88328653367519,
+        "rank": 11,
+        "name": "McBride, Trey",
+        "position": "TE",
+        "team": "ARI",
+        "components": {
+          "current": null,
+          "projection": 86.30457056774699,
+          "y2025": 72.80544561633013,
+          "y2024": 50.66005186151883
+        }
+      },
+      "15798": {
+        "score": 13.798423456734502,
+        "rank": 103,
+        "name": "Likely, Isaiah",
+        "position": "TE",
+        "team": "NYG",
+        "components": {
+          "current": null,
+          "projection": 33.447628713196096,
+          "y2025": 0,
+          "y2024": 2.795813143040426
+        }
+      },
+      "15799": {
+        "score": 14.86888902236793,
+        "rank": 99,
+        "name": "Ferguson, Jake",
+        "position": "TE",
+        "team": "DAL",
+        "components": {
+          "current": null,
+          "projection": 0,
+          "y2025": 33.04197560526207,
+          "y2024": 0
+        }
+      },
+      "15972": {
+        "score": 0,
+        "rank": 143,
+        "name": "Mason, Jordan",
+        "position": "RB",
+        "team": "MIN",
+        "components": {
+          "current": null,
+          "projection": 0,
+          "y2025": 0,
+          "y2024": 0
+        }
+      },
+      "16080": {
+        "score": 0,
+        "rank": 144,
+        "name": "Shaheed, Rashid",
+        "position": "WR",
+        "team": "SEA",
+        "components": {
+          "current": null,
+          "projection": 0,
+          "y2025": 0,
+          "y2024": 0
+        }
+      },
+      "16161": {
+        "score": 94.30601029765754,
+        "rank": 1,
+        "name": "Robinson, Bijan",
+        "position": "RB",
+        "team": "ATL",
+        "components": {
+          "current": null,
+          "projection": 96.55498720659209,
+          "y2025": 94.43927345817532,
+          "y2024": 87.90894905894537
+        }
+      },
+      "16162": {
+        "score": 88.70785752723775,
+        "rank": 3,
+        "name": "Gibbs, Jahmyr",
+        "position": "RB",
+        "team": "DET",
+        "components": {
+          "current": null,
+          "projection": 81.02629239253919,
+          "y2025": 92.77712507244907,
+          "y2024": 96.98422858413322
+        }
+      },
+      "16164": {
+        "score": 0,
+        "rank": 145,
+        "name": "Bigsby, Tank",
+        "position": "RB",
+        "team": "PHI",
+        "components": {
+          "current": null,
+          "projection": 0,
+          "y2025": 0,
+          "y2024": 0
+        }
+      },
+      "16165": {
+        "score": 0,
+        "rank": 146,
+        "name": "Spears, Tyjae",
+        "position": "RB",
+        "team": "TEN",
+        "components": {
+          "current": null,
+          "projection": 0,
+          "y2025": 0,
+          "y2024": 0
+        }
+      },
+      "16167": {
+        "score": 82.42460848273124,
+        "rank": 6,
+        "name": "Achane, De'Von",
+        "position": "RB",
+        "team": "MIA",
+        "components": {
+          "current": null,
+          "projection": 88.32760858125846,
+          "y2025": 81.87543281039983,
+          "y2024": 68.33080190365285
+        }
+      },
+      "16169": {
+        "score": 22.607317001203615,
+        "rank": 85,
+        "name": "Charbonnet, Zach",
+        "position": "RB",
+        "team": "SEA",
+        "components": {
+          "current": null,
+          "projection": 0,
+          "y2025": 41.52930946095538,
+          "y2024": 26.127518291824614
+        }
+      },
+      "16181": {
+        "score": 62.389562619597946,
+        "rank": 20,
+        "name": "Brown, Chase",
+        "position": "RB",
+        "team": "CIN",
+        "components": {
+          "current": null,
+          "projection": 57.59320644704387,
+          "y2025": 67.23125905479405,
+          "y2024": 60.65475644082051
+        }
+      },
+      "16184": {
+        "score": 4.179717272415917,
+        "rank": 126,
+        "name": "Reed, Jayden",
+        "position": "WR",
+        "team": "GBP",
+        "components": {
+          "current": null,
+          "projection": 0,
+          "y2025": 0,
+          "y2024": 27.86478181610611
+        }
+      },
+      "16185": {
+        "score": 72.45377803708692,
+        "rank": 13,
+        "name": "Smith-Njigba, Jaxon",
+        "position": "WR",
+        "team": "SEA",
+        "components": {
+          "current": null,
+          "projection": 76.41372847794999,
+          "y2025": 81.35845568984385,
+          "y2024": 35.17987723651459
+        }
+      },
+      "16186": {
+        "score": 4.830369015451088,
+        "rank": 125,
+        "name": "Addison, Jordan",
+        "position": "WR",
+        "team": "MIN",
+        "components": {
+          "current": null,
+          "projection": 0,
+          "y2025": 0,
+          "y2024": 32.202460103007255
+        }
+      },
+      "16188": {
+        "score": 7.234214591750354,
+        "rank": 120,
+        "name": "Johnston, Quentin",
+        "position": "WR",
+        "team": "LAC",
+        "components": {
+          "current": null,
+          "projection": 0,
+          "y2025": 16.076032426111897,
+          "y2024": 0
+        }
+      },
+      "16190": {
+        "score": 37.7142508280962,
+        "rank": 50,
+        "name": "Flowers, Zay",
+        "position": "WR",
+        "team": "BAL",
+        "components": {
+          "current": null,
+          "projection": 32.25268244696141,
+          "y2025": 49.14887398858688,
+          "y2024": 17.97456369631696
+        }
+      },
+      "16194": {
+        "score": 24.362328743888973,
+        "rank": 81,
+        "name": "Rice, Rashee",
+        "position": "WR",
+        "team": "KCC",
+        "components": {
+          "current": null,
+          "projection": 60.90582185972243,
+          "y2025": 0,
+          "y2024": 0
+        }
+      },
+      "16211": {
+        "score": 74.50534617679335,
+        "rank": 12,
+        "name": "Nacua, Puka",
+        "position": "WR",
+        "team": "LAR",
+        "components": {
+          "current": null,
+          "projection": 92.92963771715358,
+          "y2025": 82.96331353318202,
+          "y2024": 0
+        }
+      },
+      "16213": {
+        "score": 8.311879482399346,
+        "rank": 116,
+        "name": "Kincaid, Dalton",
+        "position": "TE",
+        "team": "BUF",
+        "components": {
+          "current": null,
+          "projection": 20.779698705998367,
+          "y2025": 0,
+          "y2024": 0
+        }
+      },
+      "16214": {
+        "score": 25.037352954084348,
+        "rank": 79,
+        "name": "LaPorta, Sam",
+        "position": "TE",
+        "team": "DET",
+        "components": {
+          "current": null,
+          "projection": 47.50910247994021,
+          "y2025": 0,
+          "y2024": 40.224746414055105
+        }
+      },
+      "16222": {
+        "score": 15.478410459626879,
+        "rank": 94,
+        "name": "Kraft, Tucker",
+        "position": "TE",
+        "team": "GBP",
+        "components": {
+          "current": null,
+          "projection": 23.442661763950774,
+          "y2025": 0,
+          "y2024": 40.67563836031046
+        }
+      },
+      "16269": {
+        "score": 0,
+        "rank": 147,
+        "name": "Strange, Brenton",
+        "position": "TE",
+        "team": "JAC",
+        "components": {
+          "current": null,
+          "projection": 0,
+          "y2025": 0,
+          "y2024": 0
+        }
+      },
+      "16287": {
+        "score": 0,
+        "rank": 148,
+        "name": "Tucker, Tre",
+        "position": "WR",
+        "team": "LVR",
+        "components": {
+          "current": null,
+          "projection": 0,
+          "y2025": 0,
+          "y2024": 0
+        }
+      },
+      "16414": {
+        "score": 37.15689810300006,
+        "rank": 51,
+        "name": "Aubrey, Brandon",
+        "position": "PK",
+        "team": "DAL",
+        "components": {
+          "current": null,
+          "projection": 21.246716539030025,
+          "y2025": 46.8411445953685,
+          "y2024": 50.531309463148176
+        }
+      },
+      "16432": {
+        "score": 0,
+        "rank": 149,
+        "name": "Wilson, Emanuel",
+        "position": "RB",
+        "team": "SEA",
+        "components": {
+          "current": null,
+          "projection": 0,
+          "y2025": 0,
+          "y2024": 0
+        }
+      },
+      "16444": {
+        "score": 0,
+        "rank": 150,
+        "name": "Grupe, Blake",
+        "position": "PK",
+        "team": "IND",
+        "components": {
+          "current": null,
+          "projection": 0,
+          "y2025": 0,
+          "y2024": 0
+        }
+      },
+      "16579": {
+        "score": 50.79959711385234,
+        "rank": 30,
+        "name": "Williams, Caleb",
+        "position": "QB",
+        "team": "CHI",
+        "components": {
+          "current": null,
+          "projection": 52.699455224525096,
+          "y2025": 66.04403338676067,
+          "y2024": 0
+        }
+      },
+      "16580": {
+        "score": 61.456945363912695,
+        "rank": 23,
+        "name": "Maye, Drake",
+        "position": "QB",
+        "team": "NEP",
+        "components": {
+          "current": null,
+          "projection": 62.809586536945936,
+          "y2025": 80.74024610918738,
+          "y2024": 0
+        }
+      },
+      "16581": {
+        "score": 44.65459965920008,
+        "rank": 35,
+        "name": "Daniels, Jayden",
+        "position": "QB",
+        "team": "WAS",
+        "components": {
+          "current": null,
+          "projection": 85.84853265706953,
+          "y2025": 0,
+          "y2024": 68.7679106424818
+        }
+      },
+      "16583": {
+        "score": 0,
+        "rank": 151,
+        "name": "Penix Jr., Michael",
+        "position": "QB",
+        "team": "ATL",
+        "components": {
+          "current": null,
+          "projection": 0,
+          "y2025": 0,
+          "y2024": 0
+        }
+      },
+      "16584": {
+        "score": 0,
+        "rank": 152,
+        "name": "McCarthy, J.J.",
+        "position": "QB",
+        "team": "MIN",
+        "components": {
+          "current": null,
+          "projection": 0,
+          "y2025": 0,
+          "y2024": null
+        }
+      },
+      "16593": {
+        "score": 0,
+        "rank": 153,
+        "name": "Corum, Blake",
+        "position": "RB",
+        "team": "LAR",
+        "components": {
+          "current": null,
+          "projection": 0,
+          "y2025": 0,
+          "y2024": 0
+        }
+      },
+      "16596": {
+        "score": 0,
+        "rank": 154,
+        "name": "Allen, Braelon",
+        "position": "RB",
+        "team": "NYJ",
+        "components": {
+          "current": null,
+          "projection": 0,
+          "y2025": 0,
+          "y2024": 0
+        }
+      },
+      "16597": {
+        "score": 0,
+        "rank": 155,
+        "name": "Brooks, Jonathon",
+        "position": "RB",
+        "team": "CAR",
+        "components": {
+          "current": null,
+          "projection": 0,
+          "y2025": null,
+          "y2024": 0
+        }
+      },
+      "16598": {
+        "score": 31.58185812796293,
+        "rank": 66,
+        "name": "Irving, Bucky",
+        "position": "RB",
+        "team": "TBB",
+        "components": {
+          "current": null,
+          "projection": 56.648287346342585,
+          "y2025": 0,
+          "y2024": 59.48362126283929
+        }
+      },
+      "16603": {
+        "score": 0,
+        "rank": 156,
+        "name": "Davis, Ray",
+        "position": "RB",
+        "team": "BUF",
+        "components": {
+          "current": null,
+          "projection": 0,
+          "y2025": 0,
+          "y2024": 0
+        }
+      },
+      "16604": {
+        "score": 0,
+        "rank": 157,
+        "name": "Lloyd, MarShawn",
+        "position": "RB",
+        "team": "GBP",
+        "components": {
+          "current": null,
+          "projection": 0,
+          "y2025": null,
+          "y2024": 0
+        }
+      },
+      "16610": {
+        "score": 0,
+        "rank": 158,
+        "name": "Wright, Jaylen",
+        "position": "RB",
+        "team": "MIA",
+        "components": {
+          "current": null,
+          "projection": 0,
+          "y2025": 0,
+          "y2024": 0
+        }
+      },
+      "16614": {
+        "score": 14.26026613997146,
+        "rank": 102,
+        "name": "Harrison Jr., Marvin",
+        "position": "WR",
+        "team": "ARI",
+        "components": {
+          "current": null,
+          "projection": 28.539867609706736,
+          "y2025": 0,
+          "y2024": 18.962127307258424
+        }
+      },
+      "16615": {
+        "score": 35.57924033605794,
+        "rank": 57,
+        "name": "Nabers, Malik",
+        "position": "WR",
+        "team": "NYG",
+        "components": {
+          "current": null,
+          "projection": 72.79638076176437,
+          "y2025": 0,
+          "y2024": 43.07125354234798
+        }
+      },
+      "16616": {
+        "score": 16.85823823152507,
+        "rank": 93,
+        "name": "Odunze, Rome",
+        "position": "WR",
+        "team": "CHI",
+        "components": {
+          "current": null,
+          "projection": 42.145595578812674,
+          "y2025": 0,
+          "y2024": 0
+        }
+      },
+      "16617": {
+        "score": 0,
+        "rank": 159,
+        "name": "Coleman, Keon",
+        "position": "WR",
+        "team": "BUF",
+        "components": {
+          "current": null,
+          "projection": 0,
+          "y2025": 0,
+          "y2024": 0
+        }
+      },
+      "16618": {
+        "score": 8.889630708435565,
+        "rank": 115,
+        "name": "Thomas Jr., Brian",
+        "position": "WR",
+        "team": "JAC",
+        "components": {
+          "current": null,
+          "projection": 0,
+          "y2025": 0,
+          "y2024": 59.26420472290377
+        }
+      },
+      "16620": {
+        "score": 0,
+        "rank": 160,
+        "name": "Worthy, Xavier",
+        "position": "WR",
+        "team": "KCC",
+        "components": {
+          "current": null,
+          "projection": 0,
+          "y2025": 0,
+          "y2024": 0
+        }
+      },
+      "16622": {
+        "score": 0,
+        "rank": 161,
+        "name": "Pearsall, Ricky",
+        "position": "WR",
+        "team": "SFO",
+        "components": {
+          "current": null,
+          "projection": 0,
+          "y2025": 0,
+          "y2024": 0
+        }
+      },
+      "16627": {
+        "score": 25.752972171111075,
+        "rank": 77,
+        "name": "McConkey, Ladd",
+        "position": "WR",
+        "team": "LAC",
+        "components": {
+          "current": null,
+          "projection": 49.72939530705652,
+          "y2025": 0,
+          "y2024": 39.07476032192312
+        }
+      },
+      "16641": {
+        "score": 62.169883146576225,
+        "rank": 22,
+        "name": "Bowers, Brock",
+        "position": "TE",
+        "team": "LVR",
+        "components": {
+          "current": null,
+          "projection": 93.822959833683,
+          "y2025": 34.98040439993685,
+          "y2024": 59.33011488754295
+        }
+      },
+      "16649": {
+        "score": 0,
+        "rank": 162,
+        "name": "Johnson, Theo",
+        "position": "TE",
+        "team": "NYG",
+        "components": {
+          "current": null,
+          "projection": 0,
+          "y2025": 0,
+          "y2024": 0
+        }
+      },
+      "16681": {
+        "score": 15.17974930977471,
+        "rank": 97,
+        "name": "Reichard, Will",
+        "position": "PK",
+        "team": "MIN",
+        "components": {
+          "current": null,
+          "projection": 10.85184372661754,
+          "y2025": 24.086692931394875,
+          "y2024": 0
+        }
+      },
+      "16723": {
+        "score": 7.938150950084599,
+        "rank": 118,
+        "name": "Barner, AJ",
+        "position": "TE",
+        "team": "SEA",
+        "components": {
+          "current": null,
+          "projection": 0,
+          "y2025": 17.64033544463244,
+          "y2024": 0
+        }
+      },
+      "16843": {
+        "score": 17.380464290801882,
+        "rank": 91,
+        "name": "Mevis, Harrison",
+        "position": "PK",
+        "team": "LAR",
+        "components": {
+          "current": null,
+          "projection": 36.933486617954,
+          "y2025": 0,
+          "y2024": null
+        }
+      },
+      "16896": {
+        "score": 0,
+        "rank": 163,
+        "name": "Shrader, Spencer",
+        "position": "PK",
+        "team": "IND",
+        "components": {
+          "current": null,
+          "projection": 0,
+          "y2025": 0,
+          "y2024": 0
+        }
+      },
+      "17030": {
+        "score": 0,
+        "rank": 164,
+        "name": "Ward, Cam",
+        "position": "QB",
+        "team": "TEN",
+        "components": {
+          "current": null,
+          "projection": 0,
+          "y2025": 0,
+          "y2024": null
+        }
+      },
+      "17031": {
+        "score": 0,
+        "rank": 165,
+        "name": "Sanders, Shedeur",
+        "position": "QB",
+        "team": "CLE",
+        "components": {
+          "current": null,
+          "projection": 0,
+          "y2025": 0,
+          "y2024": null
+        }
+      },
+      "17032": {
+        "score": 38.4181124194889,
+        "rank": 48,
+        "name": "Dart, Jaxson",
+        "position": "QB",
+        "team": "NYG",
+        "components": {
+          "current": null,
+          "projection": 72.32301330274755,
+          "y2025": 8.280422745481202,
+          "y2024": null
+        }
+      },
+      "17033": {
+        "score": 0,
+        "rank": 166,
+        "name": "Milroe, Jalen",
+        "position": "QB",
+        "team": "SEA",
+        "components": {
+          "current": null,
+          "projection": 0,
+          "y2025": 0,
+          "y2024": null
+        }
+      },
+      "17042": {
+        "score": 71.9439124816991,
+        "rank": 16,
+        "name": "Jeanty, Ashton",
+        "position": "RB",
+        "team": "LVR",
+        "components": {
+          "current": null,
+          "projection": 87.82621791631362,
+          "y2025": 57.82630765093067,
+          "y2024": null
+        }
+      },
+      "17043": {
+        "score": 25.648054452724747,
+        "rank": 78,
+        "name": "Henderson, TreVeyon",
+        "position": "RB",
+        "team": "NEP",
+        "components": {
+          "current": null,
+          "projection": 0,
+          "y2025": 48.44632507736897,
+          "y2024": null
+        }
+      },
+      "17044": {
+        "score": 39.77586777566285,
+        "rank": 44,
+        "name": "Hampton, Omarion",
+        "position": "RB",
+        "team": "LAC",
+        "components": {
+          "current": null,
+          "projection": 84.52371902328358,
+          "y2025": 0,
+          "y2024": null
+        }
+      },
+      "17045": {
+        "score": 36.8547935103905,
+        "rank": 53,
+        "name": "Skattebo, Cam",
+        "position": "RB",
+        "team": "NYG",
+        "components": {
+          "current": null,
+          "projection": 78.31643620957982,
+          "y2025": 0,
+          "y2024": null
+        }
+      },
+      "17047": {
+        "score": 0,
+        "rank": 167,
+        "name": "Sampson, Dylan",
+        "position": "RB",
+        "team": "CLE",
+        "components": {
+          "current": null,
+          "projection": 0,
+          "y2025": 0,
+          "y2024": null
+        }
+      },
+      "17048": {
+        "score": 0,
+        "rank": 168,
+        "name": "Johnson, Kaleb",
+        "position": "RB",
+        "team": "PIT",
+        "components": {
+          "current": null,
+          "projection": 0,
+          "y2025": 0,
+          "y2024": null
+        }
+      },
+      "17051": {
+        "score": 38.959231959531316,
+        "rank": 47,
+        "name": "Judkins, Quinshon",
+        "position": "RB",
+        "team": "CLE",
+        "components": {
+          "current": null,
+          "projection": 50.41535040469193,
+          "y2025": 28.776015563832992,
+          "y2024": null
+        }
+      },
+      "17052": {
+        "score": 30.2119403672463,
+        "rank": 70,
+        "name": "Tuten, Bhayshul",
+        "position": "RB",
+        "team": "JAC",
+        "components": {
+          "current": null,
+          "projection": 64.2003732803984,
+          "y2025": 0,
+          "y2024": null
+        }
+      },
+      "17053": {
+        "score": 0,
+        "rank": 169,
+        "name": "Marks, Woody",
+        "position": "RB",
+        "team": "HOU",
+        "components": {
+          "current": null,
+          "projection": 0,
+          "y2025": 0,
+          "y2024": null
+        }
+      },
+      "17058": {
+        "score": 0,
+        "rank": 170,
+        "name": "Brooks, Tahj",
+        "position": "RB",
+        "team": "CIN",
+        "components": {
+          "current": null,
+          "projection": 0,
+          "y2025": 0,
+          "y2024": null
+        }
+      },
+      "17059": {
+        "score": 0,
+        "rank": 171,
+        "name": "Gordon, Ollie",
+        "position": "RB",
+        "team": "MIA",
+        "components": {
+          "current": null,
+          "projection": 0,
+          "y2025": 0,
+          "y2024": null
+        }
+      },
+      "17060": {
+        "score": 0,
+        "rank": 172,
+        "name": "Giddens, DJ",
+        "position": "RB",
+        "team": "IND",
+        "components": {
+          "current": null,
+          "projection": 0,
+          "y2025": 0,
+          "y2024": null
+        }
+      },
+      "17066": {
+        "score": 0,
+        "rank": 173,
+        "name": "Monangai, Kyle",
+        "position": "RB",
+        "team": "CHI",
+        "components": {
+          "current": null,
+          "projection": 0,
+          "y2025": 0,
+          "y2024": null
+        }
+      },
+      "17068": {
+        "score": 29.60366089182564,
+        "rank": 71,
+        "name": "Harvey, RJ",
+        "position": "RB",
+        "team": "DEN",
+        "components": {
+          "current": null,
+          "projection": 15.973481458707676,
+          "y2025": 41.719375943486064,
+          "y2024": null
+        }
+      },
+      "17069": {
+        "score": 0,
+        "rank": 174,
+        "name": "Blue, Jaydon",
+        "position": "RB",
+        "team": "DAL",
+        "components": {
+          "current": null,
+          "projection": 0,
+          "y2025": 0,
+          "y2024": null
+        }
+      },
+      "17070": {
+        "score": 0,
+        "rank": 175,
+        "name": "Burden, Luther",
+        "position": "WR",
+        "team": "CHI",
+        "components": {
+          "current": null,
+          "projection": 0,
+          "y2025": 0,
+          "y2024": null
+        }
+      },
+      "17071": {
+        "score": 43.29187341854915,
+        "rank": 39,
+        "name": "McMillan, Tetairoa",
+        "position": "WR",
+        "team": "CAR",
+        "components": {
+          "current": null,
+          "projection": 50.41535040469193,
+          "y2025": 36.95989387531114,
+          "y2024": null
+        }
+      },
+      "17072": {
+        "score": 0,
+        "rank": 176,
+        "name": "Harris, Tre",
+        "position": "WR",
+        "team": "LAC",
+        "components": {
+          "current": null,
+          "projection": 0,
+          "y2025": 0,
+          "y2024": null
+        }
+      },
+      "17073": {
+        "score": 0,
+        "rank": 177,
+        "name": "Ayomanor, Elic",
+        "position": "WR",
+        "team": "TEN",
+        "components": {
+          "current": null,
+          "projection": 0,
+          "y2025": 0,
+          "y2024": null
+        }
+      },
+      "17074": {
+        "score": 0,
+        "rank": 178,
+        "name": "Hunter, Travis",
+        "position": "WR",
+        "team": "JAC",
+        "components": {
+          "current": null,
+          "projection": 0,
+          "y2025": 0,
+          "y2024": null
+        }
+      },
+      "17075": {
+        "score": 0,
+        "rank": 179,
+        "name": "Golden, Matthew",
+        "position": "WR",
+        "team": "GBP",
+        "components": {
+          "current": null,
+          "projection": 0,
+          "y2025": 0,
+          "y2024": null
+        }
+      },
+      "17081": {
+        "score": 14.989813018443137,
+        "rank": 98,
+        "name": "Egbuka, Emeka",
+        "position": "WR",
+        "team": "TBB",
+        "components": {
+          "current": null,
+          "projection": 0,
+          "y2025": 28.31409125705926,
+          "y2024": null
+        }
+      },
+      "17083": {
+        "score": 0,
+        "rank": 180,
+        "name": "Higgins, Jayden",
+        "position": "WR",
+        "team": "HOU",
+        "components": {
+          "current": null,
+          "projection": 0,
+          "y2025": 0,
+          "y2024": null
+        }
+      },
+      "17102": {
+        "score": 35.48029132611094,
+        "rank": 58,
+        "name": "Warren, Tyler",
+        "position": "TE",
+        "team": "IND",
+        "components": {
+          "current": null,
+          "projection": 36.12756811114087,
+          "y2025": 34.90493418386212,
+          "y2024": null
+        }
+      },
+      "17103": {
+        "score": 43.193792312081754,
+        "rank": 41,
+        "name": "Fannin, Harold",
+        "position": "TE",
+        "team": "CLE",
+        "components": {
+          "current": null,
+          "projection": 49.333138830302026,
+          "y2025": 37.73659540699707,
+          "y2024": null
+        }
+      },
+      "17104": {
+        "score": 38.08280094363256,
+        "rank": 49,
+        "name": "Loveland, Colston",
+        "position": "TE",
+        "team": "CHI",
+        "components": {
+          "current": null,
+          "projection": 46.35909672191039,
+          "y2025": 30.72609358516339,
+          "y2024": null
+        }
+      },
+      "17106": {
+        "score": 0,
+        "rank": 181,
+        "name": "Taylor, Mason",
+        "position": "TE",
+        "team": "NYJ",
+        "components": {
+          "current": null,
+          "projection": 0,
+          "y2025": 0,
+          "y2024": null
+        }
+      },
+      "17108": {
+        "score": 0,
+        "rank": 182,
+        "name": "Arroyo, Elijah",
+        "position": "TE",
+        "team": "SEA",
+        "components": {
+          "current": null,
+          "projection": 0,
+          "y2025": 0,
+          "y2024": null
+        }
+      },
+      "17220": {
+        "score": 11.793533923324965,
+        "rank": 106,
+        "name": "Borregales, Andres",
+        "position": "PK",
+        "team": "NEP",
+        "components": {
+          "current": null,
+          "projection": 25.061259587065553,
+          "y2025": 0,
+          "y2024": null
+        }
+      },
+      "17222": {
+        "score": 17.25497193242632,
+        "rank": 92,
+        "name": "Loop, Tyler",
+        "position": "PK",
+        "team": "BAL",
+        "components": {
+          "current": null,
+          "projection": 36.66681535640593,
+          "y2025": 0,
+          "y2024": null
+        }
+      },
+      "17256": {
+        "score": 9.952033354773768,
+        "rank": 113,
+        "name": "Croskey-Merritt, Jacory",
+        "position": "RB",
+        "team": "WAS",
+        "components": {
+          "current": null,
+          "projection": 0,
+          "y2025": 18.798285225683784,
+          "y2024": null
+        }
+      },
+      "0504": {
+        "score": 0,
+        "rank": 183,
+        "name": "Patriots, New England",
+        "position": "Def",
+        "team": "NEP",
+        "components": {
+          "current": null,
+          "projection": 0,
+          "y2025": 0,
+          "y2024": 0
+        }
+      },
+      "0521": {
+        "score": 5.316295979727123,
+        "rank": 122,
+        "name": "Bears, Chicago",
+        "position": "Def",
+        "team": "CHI",
+        "components": {
+          "current": null,
+          "projection": 13.290739949317807,
+          "y2025": 0,
+          "y2024": 0
+        }
+      },
+      "0512": {
+        "score": 0,
+        "rank": 184,
+        "name": "Chiefs, Kansas City",
+        "position": "Def",
+        "team": "KCC",
+        "components": {
+          "current": null,
+          "projection": 0,
+          "y2025": 0,
+          "y2024": 0
+        }
+      },
+      "0511": {
+        "score": 43.289826161135224,
+        "rank": 40,
+        "name": "Broncos, Denver",
+        "position": "Def",
+        "team": "DEN",
+        "components": {
+          "current": null,
+          "projection": 70.39772054477264,
+          "y2025": 14.524822344353169,
+          "y2024": 57.29711925511493
+        }
+      },
+      "0502": {
+        "score": 0,
+        "rank": 185,
+        "name": "Colts, Indianapolis",
+        "position": "Def",
+        "team": "IND",
+        "components": {
+          "current": null,
+          "projection": 0,
+          "y2025": 0,
+          "y2024": 0
+        }
+      },
+      "0517": {
+        "score": 0,
+        "rank": 186,
+        "name": "Giants, New York",
+        "position": "Def",
+        "team": "NYG",
+        "components": {
+          "current": null,
+          "projection": 0,
+          "y2025": 0,
+          "y2024": 0
+        }
+      },
+      "0505": {
+        "score": 0,
+        "rank": 187,
+        "name": "Jets, New York",
+        "position": "Def",
+        "team": "NYJ",
+        "components": {
+          "current": null,
+          "projection": 0,
+          "y2025": 0,
+          "y2024": 0
+        }
+      },
+      "0518": {
+        "score": 14.656946302921916,
+        "rank": 101,
+        "name": "Eagles, Philadelphia",
+        "position": "Def",
+        "team": "PHI",
+        "components": {
+          "current": null,
+          "projection": 20.301940619907477,
+          "y2025": 14.524822344353169,
+          "y2024": 0
+        }
+      },
+      "0531": {
+        "score": 10.408722846035154,
+        "rank": 112,
+        "name": "Ravens, Baltimore",
+        "position": "Def",
+        "team": "BAL",
+        "components": {
+          "current": null,
+          "projection": 26.021807115087885,
+          "y2025": 0,
+          "y2024": 0
+        }
+      },
+      "0522": {
+        "score": 1.082813774210318,
+        "rank": 129,
+        "name": "Lions, Detroit",
+        "position": "Def",
+        "team": "DET",
+        "components": {
+          "current": null,
+          "projection": 0,
+          "y2025": 0,
+          "y2024": 7.218758494735454
+        }
+      },
+      "0528": {
+        "score": 15.396663354504135,
+        "rank": 95,
+        "name": "Rams, Los Angeles",
+        "position": "Def",
+        "team": "LAR",
+        "components": {
+          "current": null,
+          "projection": 22.151233248863026,
+          "y2025": 14.524822344353169,
+          "y2024": 0
+        }
+      },
+      "0514": {
+        "score": 13.261172081881739,
+        "rank": 105,
+        "name": "Chargers, Los Angeles",
+        "position": "Def",
+        "team": "LAC",
+        "components": {
+          "current": null,
+          "projection": 33.15293020470435,
+          "y2025": 0,
+          "y2024": 0
+        }
+      },
+      "0524": {
+        "score": 20.877638693708143,
+        "rank": 87,
+        "name": "Vikings, Minnesota",
+        "position": "Def",
+        "team": "MIN",
+        "components": {
+          "current": null,
+          "projection": 12.132730126960741,
+          "y2025": 21.787233516529753,
+          "y2024": 41.46861040323637
+        }
+      },
+      "0515": {
+        "score": 48.95329345482305,
+        "rank": 32,
+        "name": "Seahawks, Seattle",
+        "position": "Def",
+        "team": "SEA",
+        "components": {
+          "current": null,
+          "projection": 56.21352813895641,
+          "y2025": 50.83687820523609,
+          "y2024": 23.941913379228232
+        }
+      },
+      "0532": {
+        "score": 42.780077152743786,
+        "rank": 42,
+        "name": "Texans, Houston",
+        "position": "Def",
+        "team": "HOU",
+        "components": {
+          "current": null,
+          "projection": 48.530920507842914,
+          "y2025": 41.719375943486064,
+          "y2024": 30.626598500252598
+        }
+      }
+    },
+    "meta": {
+      "mappedPlayers": 187,
+      "refreshHours": 6,
+      "currentSeasonDataUsed": false,
+      "weights": {
+        "projection": 0.4,
+        "y2025": 0.45,
+        "y2024": 0.15
+      },
+      "note": "Beta verification model. It does not affect the trade score yet."
+    }
+  }
+}

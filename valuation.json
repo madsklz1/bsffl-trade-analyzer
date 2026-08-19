@@ -1,0 +1,20 @@
+{
+  "settings": {
+    "season": 2026,
+    "currentWeight": 0.6,
+    "dynastyWeight": 0.4,
+    "salaryEfficiencyWeight": 0.2,
+    "contractWeight": 0.1,
+    "teamFitWeight": 0.1,
+    "note": "Provider-ready valuation layer. Populate redraft/dynasty values from licensed/approved sources."
+  },
+  "players": {},
+  "picks": {
+    "1": 20,
+    "2": 12,
+    "3": 7,
+    "4": 4,
+    "5": 2.5,
+    "6": 1.5
+  }
+}

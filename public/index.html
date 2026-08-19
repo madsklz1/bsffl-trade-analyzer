@@ -1,0 +1,735 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>BSFFL Trade Analyzer v3.0</title>
+<style>
+:root{--bg:#06110a;--panel:#0d2115;--line:#285139;--muted:#a4b9aa;--text:#eef8f0;--accent:#79bd83;--good:#78d89c;--warn:#e6c875;--bad:#ef8989}
+*{box-sizing:border-box} body{margin:0;font-family:Inter,Segoe UI,Arial,sans-serif;background:linear-gradient(135deg,#051008 0%,#0b2012 48%,#12301c 72%,#07150c 100%);background-attachment:fixed;color:var(--text)}
+header{padding:24px 28px;border-bottom:1px solid var(--line);display:flex;justify-content:space-between;gap:16px;align-items:center}
+h1{margin:0;font-size:24px} .sub{color:var(--muted);font-size:13px;margin-top:4px}
+main{padding:22px;max-width:1500px;margin:auto}
+.grid{display:grid;grid-template-columns:1fr 1fr;gap:18px}.panel{background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:16px}
+select,button,input{background:#0a1a10;color:var(--text);border:1px solid var(--line);border-radius:8px;padding:9px}
+select{width:100%;font-size:15px} button{cursor:pointer} button.primary{background:var(--accent);color:#07130b;font-weight:700;border:0}
+.toolbar{display:flex;gap:10px;align-items:center}.status{font-size:13px;color:var(--muted)}
+.teamhead{display:flex;justify-content:space-between;gap:12px;align-items:end;margin-bottom:12px}
+.cap{font-size:12px;color:var(--muted);text-align:right}
+.assets{display:grid;grid-template-columns:1fr;gap:12px}.box{border:1px solid var(--line);border-radius:10px;overflow:hidden}
+.boxtitle{padding:10px 12px;background:#0a1a10;font-size:13px;font-weight:700}.scroll{max-height:440px;overflow:auto}.pickscroll{max-height:220px;overflow:auto}.poshead{padding:7px 10px;background:#173622;border-top:1px solid var(--line);font-size:12px;font-weight:800;letter-spacing:.04em}.salarycols{display:grid;grid-template-columns:92px 92px 105px;gap:8px;text-align:right;font-size:12px}.assethead{display:flex;gap:8px;align-items:center;padding:7px 10px;border-top:1px solid #1b3b27;color:var(--muted);font-size:11px}.assethead .grow{flex:1}
+.asset{display:flex;gap:8px;align-items:center;padding:8px 10px;border-top:1px solid #1b3b27;font-size:13px}
+.asset:hover{background:#16351f}.asset .grow{flex:1}.money{font-variant-numeric:tabular-nums;color:#d8ecdc}.muted{color:var(--muted)}
+.results{margin-top:18px}.scorebar{display:grid;grid-template-columns:1fr auto 1fr;gap:12px;align-items:center;margin:12px 0}
+.score{font-size:42px;font-weight:800}.right{text-align:right}.verdict{text-align:center;font-weight:700}
+.metricgrid{display:grid;grid-template-columns:repeat(4,1fr);gap:10px}.metric{padding:12px;border:1px solid var(--line);border-radius:10px}.metric b{display:block;font-size:20px;margin-top:4px}
+details{border-top:1px solid var(--line);padding:11px 0}summary{cursor:pointer;font-weight:700}
+.ok{color:var(--good)}.warn{color:var(--warn)}.bad{color:var(--bad)}
+.note{padding:10px 12px;border:1px solid var(--line);border-radius:9px;color:var(--muted);font-size:12px;margin-top:10px}
+@media(max-width:900px){.grid,.assets,.metricgrid{grid-template-columns:1fr}.scorebar{grid-template-columns:1fr}.right{text-align:left}}
+</style>
+<style>
+:root{--green:#79c85b;--line:rgba(121,200,91,.34);--panel:rgba(2,17,10,.92)}
+html{background:#031008}body{min-height:100vh;color:#f5f7f5!important;background:linear-gradient(rgba(1,12,7,.74),rgba(1,15,8,.84)),url('/assets/stadium-reference.png') center top/cover fixed no-repeat!important;font-family:Inter,Segoe UI,Arial,sans-serif!important}
+body:before{content:"";position:fixed;inset:0;z-index:-1;pointer-events:none;background:linear-gradient(90deg,transparent 49.85%,rgba(255,255,255,.08) 50%,transparent 50.15%),repeating-linear-gradient(0deg,rgba(255,255,255,.025) 0 1px,transparent 1px 74px)}
+header,.topbar{background:rgba(1,12,7,.9)!important;backdrop-filter:blur(10px);border-bottom:1px solid var(--line)!important}
+.card,.panel,.trade-result,#result,.result,.team-panel,.team-card,details,.status-card{background:var(--panel)!important;border-color:var(--line)!important;backdrop-filter:blur(8px);box-shadow:0 14px 34px rgba(0,0,0,.4)}
+button{background:linear-gradient(180deg,#8bd16f,#68b84f)!important;color:#041008!important;font-weight:800!important;border:1px solid rgba(145,225,110,.55)!important;border-radius:10px!important}
+button:hover{filter:brightness(1.08)}select,input{background:rgba(2,15,9,.94)!important;color:#fff!important;border:1px solid var(--line)!important;border-radius:10px!important}
+summary{color:#fff!important;font-weight:800!important}table{background:rgba(2,14,8,.9)!important}th{background:rgba(9,37,21,.96)!important;color:#a5e47d!important}td,th{border-color:rgba(113,190,89,.2)!important}
+a{color:#a6e983!important}#app,.app,.container,main{max-width:1500px!important;margin-left:auto!important;margin-right:auto!important}
+::-webkit-scrollbar{width:12px}::-webkit-scrollbar-track{background:#031008}::-webkit-scrollbar-thumb{background:#315f3d;border:3px solid #031008;border-radius:10px}
+</style><style>
+/* ===== BSFFL v2.1 STADIUM LAYER FIX + DASHBOARD POLISH ===== */
+html,body{min-height:100%!important;background-color:#020b06!important}
+body{
+  background-image:
+    linear-gradient(rgba(1,10,6,.52),rgba(1,12,7,.68)),
+    url('/assets/stadium-reference.png')!important;
+  background-position:center top!important;
+  background-size:cover!important;
+  background-repeat:no-repeat!important;
+  background-attachment:fixed!important;
+}
+body>div, #app, .app, .page, .wrapper, .container, main{
+  background-color:transparent!important;
+  background-image:none!important;
+}
+header,.topbar{
+  background:rgba(1,12,7,.86)!important;
+  backdrop-filter:blur(12px)!important;
+}
+.card,.panel,.team-panel,.team-card,.trade-result,#result,.result,details,.status-card{
+  background:rgba(2,16,10,.88)!important;
+  border:1px solid rgba(121,200,91,.32)!important;
+  box-shadow:0 12px 28px rgba(0,0,0,.38)!important;
+  backdrop-filter:blur(9px)!important;
+}
+.trade-result,#result,.result{border-radius:16px!important}
+button{transition:.15s ease!important}
+button:active{transform:translateY(1px)!important}
+.bsffl-v21-tools{
+  max-width:1500px;margin:10px auto 0;padding:10px 14px;
+  display:flex;gap:10px;align-items:center;flex-wrap:wrap;
+  background:rgba(2,16,10,.86);border:1px solid rgba(121,200,91,.28);
+  border-radius:12px;backdrop-filter:blur(8px)
+}
+.bsffl-v21-tools button{padding:8px 12px}
+.bsffl-v21-status{font-size:12px;color:#b9d4c0;margin-left:auto}
+.bsffl-about{
+  display:none;max-width:1500px;margin:8px auto;padding:12px 14px;
+  background:rgba(2,16,10,.92);border:1px solid rgba(121,200,91,.3);
+  border-radius:12px;color:#d8e7dc;font-size:13px
+}
+.bsffl-about.open{display:block}
+@media(max-width:800px){body{background-attachment:scroll!important}.bsffl-v21-status{width:100%;margin-left:0}}
+</style>
+
+
+
+
+
+
+<script id="bsffl-v25-settings">
+(()=>{
+ const KEY="bsfflSalarySettings";
+ const defaults={y2026:1.00,y2027:0.80,pointsPerMillion:1.35,maxAdjustment:22};
+ const get=()=>{try{return {...defaults,...JSON.parse(localStorage.getItem(KEY)||"{}")}}catch{return {...defaults}}};
+ window.bsfflSalarySettings=get;
+ window.setBsfflSalarySettings=(v)=>{localStorage.setItem(KEY,JSON.stringify({...get(),...v}));location.reload()};
+ window.resetBsfflSalarySettings=()=>{localStorage.removeItem(KEY);location.reload()};
+})();
+</script>
+
+<style id="bsffl-v26-design">
+:root{--lime:#7dcc62;--line:rgba(126,204,98,.38);--glass:rgba(1,17,10,.91)}
+html,body{min-height:100%;background:#020805!important}
+body{
+ margin:0!important;color:#f4f7f4!important;
+ background:
+ linear-gradient(rgba(0,10,6,.30),rgba(0,9,5,.52)),
+ url("/assets/stadium-clean-v26.jpg") center top/cover fixed no-repeat!important;
+}
+header,.header,.topbar{
+ background:rgba(1,11,7,.94)!important;border-bottom:1px solid var(--line)!important;
+ backdrop-filter:blur(10px)!important
+}
+.container,.wrapper,.shell,.page,main{background:transparent!important}
+.team,.team-card,.team-panel,.card,.panel,.result,.trade-result,#result,details,section{
+ background:var(--glass)!important;border:1px solid var(--line)!important;
+ box-shadow:0 14px 34px rgba(0,0,0,.45)!important;backdrop-filter:blur(9px)!important
+}
+button{background:linear-gradient(#8bd36f,#65b84f)!important;color:#041006!important;
+ border:1px solid #a6df91!important;border-radius:9px!important;font-weight:800!important}
+select,input{background:#04170c!important;color:#fff!important;border-color:#377244!important}
+.salary-added{color:#ff5d5d!important;font-weight:900!important}
+.salary-saved{color:#65e58d!important;font-weight:900!important}
+.salary-neutral{color:#e7eee9!important;font-weight:800!important}
+.salaryline{display:block;margin:7px 0}.salarydetail{color:#c0d4c5;font-size:.94em}
+.v25-badge{display:none!important}
+</style>
+
+<style id="bsffl-v27-surplus">
+.contract-surplus{color:#65e58d!important;font-weight:900!important}
+.contract-deficit{color:#ff5d5d!important;font-weight:900!important}
+.contract-neutral{color:#e7eee9!important;font-weight:800!important}
+.surplus-detail{font-size:.92em;color:#bdd0c1}
+</style>
+</head>
+<body>
+
+
+
+<div class="bsffl-about" id="bsfflAbout">
+  <b>BSFFL Trade Analyzer v2.1</b><br>
+  League 42684 • Season 2026<br>
+  Sources: MFL Live • FantasyPros • FantasyCalc • MFL ADP • BSFFL Model<br>
+  FantasyPros normally uses the six-hour cache. “Refresh Rankings Now” forces a new browser request and cache-busting reload.
+</div>
+
+<header>
+  <div><h1>BSFFL Trade Analyzer</h1><div class="sub">Live MFL prototype • League 42684 • 2026</div></div>
+  <div class="toolbar"><span id="status" class="status">Loading MFL data…</span><button id="reload">Refresh MFL</button><span class="v25-badge">v3.0</span></div>
+</header>
+<main>
+  <div class="grid">
+    <section class="panel" id="sideA"></section>
+    <section class="panel" id="sideB"></section>
+  </div>
+
+  <section class="panel results">
+    <div class="toolbar" style="justify-content:space-between">
+      <div><b>Trade Result</b><div class="sub">Live MFL • FantasyPros + FantasyCalc + MFL ADP • BSFFL Model Rank</div></div>
+      <button onclick="clearTrade()">Clear Trade</button> <button class="primary" id="analyze">Analyze Trade</button>
+    </div>
+    <div id="result"><div class="note">Select two teams and trade assets, then click Analyze Trade.</div></div>
+  </section>
+</main>
+<script>
+let DATA=null, VAL=null, FP=null, FC=null, MADP=null, BMODEL=null;
+const CAP=40000000;
+const BSFFL_DEFAULTS={
+  futureSalaryWeight:0.85,
+  contractPointsPerMillion:2.15,
+  capFlexPointsPerMillion:1.38,
+  maxContractAdjustment:26,
+  maxCapFlexAdjustment:18
+};
+function bsfflSettings(){
+  try{return {...BSFFL_DEFAULTS,...JSON.parse(localStorage.getItem("bsfflValuationSettings")||"{}")}}
+  catch{return {...BSFFL_DEFAULTS}}
+}
+
+const state={A:{team:null,selected:new Set()},B:{team:null,selected:new Set()}};
+
+const fmt=n=>new Intl.NumberFormat("en-US",{style:"currency",currency:"USD",maximumFractionDigits:0}).format(Number(n||0));
+const clean=s=>String(s??"").trim();
+function allPlayers(){
+  const arr=DATA?.players?.players?.player || [];
+  const m=new Map(); for(const p of arr)m.set(String(p.id),p); return m;
+}
+function franchises(){return DATA?.league?.league?.franchises?.franchise || []}
+function rosterByTeam(id){return (DATA?.rosters?.rosters?.franchise||[]).find(x=>x.id===id)?.player || []}
+function picksByTeam(id){
+  const future=(DATA?.picks?.futureDraftPicks?.franchise||[]).find(x=>x.id===id)?.futureDraftPick || [];
+  const current=(DATA?.currentDraftPicks?.byFranchise?.[id]||[]).map(p=>({...p,_current:true}));
+  return [...current,...future];
+}
+function teamName(id){return franchises().find(f=>f.id===id)?.name || id}
+function pickLabel(p){
+  const base=`${p.year} ${teamName(p.originalPickFor)} R${p.round}`;
+  if(Number(p.year)===2026 && p.pick)return `${base} • Pick ${p.pick}`;
+  return base;
+}
+function salaryTotal(id){return rosterByTeam(id).reduce((s,p)=>s+Number(p.salary||0),0)}
+function salaryRecords(){
+  const root=DATA?.salaries?.salaries || DATA?.salaries?.salary || DATA?.salaries || {};
+  const out=[];
+  function walk(x,ctx={}){
+    if(!x)return;
+    if(Array.isArray(x)){for(const v of x)walk(v,ctx);return}
+    if(typeof x!=="object")return;
+    const nctx={...ctx};
+    if(x.id && /^00\d\d$/.test(String(x.id))) nctx.franchise=String(x.id);
+    if(x.franchise_id)nctx.franchise=String(x.franchise_id);
+    if(x.player_id || (x.id && !/^00\d\d$/.test(String(x.id)))){
+      const pid=String(x.player_id||x.id);
+      const year=String(x.year||x.season||x.salaryYear||"");
+      const amount=x.salary ?? x.amount ?? x.value;
+      if(amount!==undefined)out.push({franchise:nctx.franchise,player:pid,year,amount:Number(amount)||0,raw:x});
+    }
+    for(const [k,v] of Object.entries(x)){
+      if(typeof v==="object")walk(v,nctx);
+    }
+  }
+  walk(root); return out;
+}
+function futureSalary(teamId,playerId,year){
+  const roster=rosterByTeam(teamId).find(p=>String(p.id)===String(playerId));
+  if(!roster)return null;
+  if(Number(year)===2027){
+    const v=clean(roster.contractInfo);
+    return v!=="" ? Number(v)||0 : null;
+  }
+  return null;
+}
+function finalContractYear(p){
+  return clean(p.contractStatus||p.contractYear||p.contract_year||p.contract||"—");
+}
+function optionText(p){
+  const raw=JSON.stringify(p).toLowerCase();
+  if(raw.includes("option")) return "Option";
+  return "";
+}
+const POSORDER={QB:1,RB:2,WR:3,TE:4,PK:5,K:5,Def:6,DEF:6};
+function lastName(n){return clean(n).split(",")[0].trim().toLowerCase()}
+
+function selected(side,type,key){return state[side].selected.has(`${type}:${key}`)}
+function toggle(side,type,key){const k=`${type}:${key}`; selected(side,type,key)?state[side].selected.delete(k):state[side].selected.add(k)}
+function sideAssets(side){
+  const id=state[side].team, pm=allPlayers(), out={players:[],picks:[]};
+  if(!id)return out;
+  for(const p of rosterByTeam(id)){
+    const meta=pm.get(String(p.id))||{};
+    out.players.push({...p,_name:clean(meta.name)||`Player ${p.id}`,_pos:meta.position||"",_nfl:meta.team||""});
+  }
+  out.picks=picksByTeam(id);
+  return out;
+}
+function renderSide(side){
+  const root=document.getElementById(side==="A"?"sideA":"sideB");
+  const choices=franchises().map(f=>`<option value="${f.id}" ${state[side].team===f.id?"selected":""}>${f.name}</option>`).join("");
+  const a=sideAssets(side), sal=state[side].team?salaryTotal(state[side].team):0;
+  const sorted=a.players.sort((x,y)=>{
+    const px=POSORDER[x._pos]||99, py=POSORDER[y._pos]||99;
+    return px-py || lastName(x._name).localeCompare(lastName(y._name)) || x._name.localeCompare(y._name);
+  });
+  let currentPos="", playerRows="";
+  for(const p of sorted){
+    if(p._pos!==currentPos){currentPos=p._pos;playerRows+=`<div class="poshead">${p._pos==="PK"?"K":p._pos}</div>`}
+    const s27=futureSalary(state[side].team,p.id,2027);
+    const finalYr=finalContractYear(p), opt=optionText(p);
+    playerRows+=`<label class="asset"><input type="checkbox" ${selected(side,"p",p.id)?"checked":""} onchange="toggle('${side}','p','${p.id}')">
+      <span class="grow"><b>${p._name}</b> <span class="muted">${p._nfl}</span></span>
+      <span class="salarycols"><span class="money">${fmt(p.salary)}</span><span class="money">${s27===null?"—":fmt(s27)}</span><span>${finalYr}${opt?` • ${opt}`:""}</span></span></label>`;
+  }
+  const players=playerRows;
+  const picks=a.picks.sort((x,y)=>Number(x.year)-Number(y.year)||Number(x.round)-Number(y.round)||Number(x.pick||0)-Number(y.pick||0)).map((p,i)=>{
+    const key=`${p.originalPickFor}-${p.year}-${p.round}-${p.pick||0}-${p.draftId||""}`;
+    return `<label class="asset"><input type="checkbox" ${selected(side,"d",key)?"checked":""} onchange="toggle('${side}','d','${key}')"><span>${pickLabel(p)}</span></label>`;
+  }).join("");
+  root.innerHTML=`
+    <div class="teamhead"><div style="flex:1"><div class="sub">Team ${side}</div><select onchange="changeTeam('${side}',this.value)"><option value="">Select team</option>${choices}</select></div>
+    <div class="cap">${state[side].team?`Current salary<br><b>${fmt(sal)}</b><br>${fmt(CAP-sal)} cap room`:""}</div></div>
+    <div class="assets">
+    <div class="box"><div class="boxtitle">Players</div>
+      <div class="assethead"><span style="width:18px"></span><span class="grow">Player</span><span class="salarycols"><span>2026 Salary</span><span>2027 Contract</span><span>Final Year</span></span></div>
+      <div class="scroll">${players||'<div class="asset muted">Select a team</div>'}</div>
+    </div>
+    <div class="box"><div class="boxtitle">Draft Picks</div><div class="pickscroll">${picks||'<div class="asset muted">Select a team</div>'}</div></div>
+    </div>`;
+}
+function changeTeam(side,id){
+  state[side].team=id||null; state[side].selected.clear();
+  if(side==="A" && state.B.team===id){state.B.team=null;state.B.selected.clear()}
+  if(side==="B" && state.A.team===id){state.A.team=null;state.A.selected.clear()}
+  renderSide("A");renderSide("B");
+}
+function outgoing(side){
+  const a=sideAssets(side); let salary=0, players=[],picks=[];
+  for(const p of a.players)if(selected(side,"p",p.id)){salary+=Number(p.salary||0);players.push(p)}
+  for(const p of a.picks){const k=`${p.originalPickFor}-${p.year}-${p.round}-${p.pick||0}-${p.draftId||""}`;if(selected(side,"d",k))picks.push(p)}
+  return {salary,players,picks};
+}
+function seasonWeights(){
+  const now=new Date();
+  const m=now.getMonth()+1;
+  // Current-season emphasis is highest Aug-Oct, then tapers.
+  if(m<=7)return {current:.50,dynasty:.50};
+  if(m<=10)return {current:.65,dynasty:.35};
+  if(m===11)return {current:.55,dynasty:.45};
+  if(m===12)return {current:.40,dynasty:.60};
+  return {current:.35,dynasty:.65};
+}
+function rankToMarketValue(rank){
+  rank=Number(rank||9999);
+  if(rank<=0||rank>=9999)return 0;
+  return Math.max(0,100*Math.exp(-(rank-1)/72));
+}
+function fpRanks(p){
+  const rec=FP?.players?.[String(p.id)]||{};
+  return {
+    redraft: rec.redraft ?? rec.redraftRank ?? null,
+    dynasty: rec.dynasty ?? rec.dynastyRank ?? null
+  };
+}
+function playerBaseValue(p){
+  const id=String(p.id), fp=FP?.players?.[id]||null, fc=FC?.players?.[id]||null, adp=MADP?.players?.[id]||null;
+  const w=seasonWeights();
+  const redSources=[], dynSources=[];
+
+  // FantasyPros: expert consensus. Free tier may omit most players.
+  if(fp && (fp.redraft||fp.dynasty)){
+    if(fp.redraft)redSources.push({v:Number(fp.redraft),wt:.25});
+    if(fp.dynasty)dynSources.push({v:Number(fp.dynasty),wt:.25});
+  }
+
+  // FantasyCalc: actual trade-market value; strongest market signal.
+  if(fc && (fc.redraft||fc.dynasty)){
+    const all=Object.values(FC?.players||{});
+    const maxR=Math.max(1,...all.map(x=>Number(x.redraft||0)));
+    const maxD=Math.max(1,...all.map(x=>Number(x.dynasty||0)));
+    if(fc.redraft)redSources.push({v:100*Number(fc.redraft)/maxR,wt:.50});
+    if(fc.dynasty)dynSources.push({v:100*Number(fc.dynasty)/maxD,wt:.50});
+  }
+
+  // MFL ADP: actual draft market. Current-season only, deliberately moderate weight.
+  if(adp?.adp)redSources.push({v:rankToMarketValue(Number(adp.adp)),wt:.25});
+
+  function weighted(srcs){
+    if(!srcs.length)return null;
+    const denom=srcs.reduce((a,x)=>a+x.wt,0);
+    return srcs.reduce((a,x)=>a+x.v*x.wt,0)/denom;
+  }
+
+  const red=weighted(redSources), dyn=weighted(dynSources);
+  if(red===null && dyn===null)return null;
+  const current=red!==null?red:dyn, dynasty=dyn!==null?dyn:red;
+  return current*w.current + dynasty*w.dynasty;
+}
+function posNormForCap(p){
+  const x=String(p?._pos||p?.position||"").toUpperCase();
+  if(x==="PK"||x==="K")return "K";
+  if(x==="DST"||x==="DEF"||x==="D/ST")return "DEF";
+  return x;
+}
+function player2027Salary(p){
+  const v=Number(clean(p?.contractInfo)||0);
+  return Number.isFinite(v)&&v>0?v:0;
+}
+function playerTwoYearSalary(p){
+  return Number(p?.salary||0)+player2027Salary(p);
+}
+function capRosterPlayers(){
+  const out=[];
+  const pm=allPlayers();
+  for(const f of (DATA?.rosters?.rosters?.franchise||[])){
+    for(const p of (f.player||[])){
+      const id=String(p.id||"");
+      const meta=pm.get(id)||{};
+      if(!id)continue;
+      out.push({
+        ...p,
+        id,
+        salary:Number(p.salary||0),
+        _name:clean(meta.name)||`Player ${id}`,
+        _pos:meta.position||"",
+        _nfl:meta.team||""
+      });
+    }
+  }
+  return out;
+}
+let _replacementProfileCache=null;
+function replacementProfile(){
+  if(_replacementProfileCache)return _replacementProfileCache;
+  // League-specific replacement baselines:
+  // starters + flex depth for a 10-team, 1QB/2RB/2WR/1TE/FLEX/K/DEF league.
+  const replRank={QB:10,RB:25,WR:30,TE:12,K:10,DEF:10};
+  const groups={QB:[],RB:[],WR:[],TE:[],K:[],DEF:[]};
+  for(const p of capRosterPlayers()){
+    const pos=posNormForCap(p);
+    if(!groups[pos])continue;
+    const base=playerBaseValue(p);
+    if(base===null)continue;
+    groups[pos].push({p,base,s26:Number(p.salary||0),s27:player2027Salary(p)});
+  }
+  const out={};
+  for(const [pos,rows] of Object.entries(groups)){
+    rows.sort((a,b)=>b.base-a.base);
+    if(!rows.length)continue;
+    const idx=Math.min(rows.length-1,Math.max(0,(replRank[pos]||10)-1));
+    const repl=rows[idx];
+    // Expected cost of replacement-level production = median salary among a band
+    // around the replacement rank, not one player's contract.
+    const lo=Math.max(0,idx-3), hi=Math.min(rows.length,idx+4);
+    const band=rows.slice(lo,hi);
+    const med=(vals)=>{const a=vals.filter(v=>v>0).sort((a,b)=>a-b);if(!a.length)return 500000;const m=Math.floor(a.length/2);return a.length%2?a[m]:(a[m-1]+a[m])/2};
+    out[pos]={
+      replacementValue:repl.base,
+      replacementSalary2026:med(band.map(x=>x.s26)),
+      replacementSalary2027:med(band.map(x=>x.s27)),
+      rank:idx+1
+    };
+  }
+  _replacementProfileCache=out;
+  return out;
+}
+function contractSurplusInfo(p,base){
+  if(base===null)return {points:0,surplusDollar:0,marketSalary:0,actualSalary:0,pos:posNormForCap(p)};
+  const pos=posNormForCap(p);
+  const prof=replacementProfile()[pos];
+  if(!prof)return {points:0,surplusDollar:0,marketSalary:0,actualSalary:playerTwoYearSalary(p),pos};
+
+  // Value above replacement determines how much salary the player's production
+  // can justify. The curve is intentionally nonlinear: elite players can justify
+  // expensive contracts, but replaceable players cannot.
+  const over=Math.max(0,base-prof.replacementValue);
+  const maxOver=Math.max(8,100-prof.replacementValue);
+  const talentFrac=Math.min(1,Math.sqrt(over/maxOver));
+
+  // Position-specific max spend reflects BSFFL replacement availability.
+  // QB is intentionally lower because usable QBs are frequently available;
+  // WR/RB/TE allow more spend for elite scarcity/production.
+  const maxAnnual={QB:5.5,RB:9.0,WR:10.0,TE:7.0,K:1.5,DEF:1.8}[pos]||5.0; // millions
+  const replAnnual=((prof.replacementSalary2026||500000)+(prof.replacementSalary2027||500000))/2/1e6;
+  const justifiedAnnual=replAnnual + talentFrac*Math.max(0,maxAnnual-replAnnual);
+
+  // Two-year market cost: current year full weight, future year 85%.
+  const cfg=bsfflSettings();
+  const marketSalary=(justifiedAnnual*1e6) + (justifiedAnnual*1e6*cfg.futureSalaryWeight);
+  const actualSalary=Number(p.salary||0) + player2027Salary(p)*cfg.futureSalaryWeight;
+  const surplusDollar=marketSalary-actualSalary;
+
+  // Convert cap surplus to trade-value points. Cheap elite players receive a strong
+  // premium; overpaid replaceable players take a strong penalty.
+  let points=(surplusDollar/1e6)*cfg.contractPointsPerMillion;
+  points=Math.max(-cfg.maxContractAdjustment,Math.min(cfg.maxContractAdjustment,points));
+  return {points,surplusDollar,marketSalary,actualSalary,pos,replacementValue:prof.replacementValue,justifiedAnnual};
+}
+function contractMarketModifier(p,base){
+  return contractSurplusInfo(p,base).points;
+}
+function exactPickKey(p){
+  if(Number(p.year)!==2026 || !p.pick)return null;
+  return `${p.year}-${Number(p.round)}.${String(Number(p.pick)).padStart(2,"0")}`;
+}
+function currentPickMarketValue(p){
+  const key=exactPickKey(p);
+  const rec=key ? FC?.picks?.[key] : null;
+  if(!rec?.dynasty)return null;
+
+  // Put exact rookie-pick market values on the same 0-100 scale used for
+  // FantasyCalc player values. This makes 1.02 comparable to a player whose
+  // trade-market value is similar, rather than treating all firsts alike.
+  const denom=Number(FC?.meta?.maxDynastyPlayer||0) ||
+    Math.max(1,...Object.values(FC?.players||{}).map(x=>Number(x.dynasty||0)));
+  return 100*Number(rec.dynasty)/Math.max(1,denom);
+}
+function fallbackPickValue(p){
+  // Used only when an exact current-year FantasyCalc slot is unavailable,
+  // or for future picks whose exact draft slot is not known yet.
+  const round=Number(p.round);
+  const generic=({1:20,2:12,3:7,4:4,5:2.5,6:1.5}[round]||1);
+  const distance=Math.max(1,Number(p.year)-2026);
+  return generic*Math.pow(.88,distance-1);
+}
+function structuredAssetValue(o){
+  let total=0, known=0, unknown=[];
+  const parts={currentDynasty:0,salaryContract:0,picks:0};
+  for(const p of o.players){
+    const base=playerBaseValue(p);
+    if(base===null){unknown.push(p._name); continue}
+    known++;
+    const contractAdj=contractMarketModifier(p,base);
+    parts.currentDynasty += base;
+    parts.salaryContract += contractAdj;
+    total += base + contractAdj;
+  }
+  for(const p of o.picks){
+    const exact=currentPickMarketValue(p);
+    const v=exact!==null ? exact : fallbackPickValue(p);
+    parts.picks += v;
+    total += v;
+  }
+  return {total,known,unknown,parts};
+}
+
+
+function outgoingSalaryByYear(o){
+  const y26=o.players.reduce((sum,p)=>sum+Number(p.salary||0),0);
+  const y27=o.players.reduce((sum,p)=>sum+player2027Salary(p),0);
+  return {y26,y27,total:y26+y27};
+}
+function salaryTradeImpact(received,sent){
+  // Positive = team takes on salary; negative = team saves salary.
+  const d26=received.y26-sent.y26;
+  const d27=received.y27-sent.y27;
+  return {d26,d27,total:d26+d27};
+}
+function salaryImpactClass(v){return v>0?"salary-added":v<0?"salary-saved":"salary-neutral"}
+function salaryImpactWord(v){return v>0?"added":v<0?"saved":"difference"}
+function salaryImpactHtml(v){
+  return `<span class="${salaryImpactClass(v)}">${fmt(Math.abs(v))} ${salaryImpactWord(v)}</span>`;
+}
+function tradeSalaryValueAdjustment(impact){
+  // Contract surplus is the primary salary valuation. This smaller second layer
+  // prices the optionality of cap room that can be redeployed elsewhere without
+  // double-counting the full contract difference.
+  const cfg=bsfflSettings();
+  const weightedMillions=(impact.d26 + cfg.futureSalaryWeight*impact.d27)/1_000_000;
+  let points=-weightedMillions*cfg.capFlexPointsPerMillion;
+  return Math.max(-cfg.maxCapFlexAdjustment,Math.min(cfg.maxCapFlexAdjustment,points));
+}
+
+function tradeDiagnostic(rawA,rawB,valA,valB,impactA,impactB){
+  const footballGap=Math.abs(valA.parts.currentDynasty-valB.parts.currentDynasty);
+  const salaryGap=Math.abs(valA.parts.salaryContract-valB.parts.salaryContract);
+  const flags=[];
+  if(salaryGap>footballGap*1.35 && footballGap>=15) flags.push("Salary influence exceeds the football-value gap; review contract assumptions.");
+  if(Math.abs(impactA.total)>=10_000_000) flags.push("Mega cap swing: at least $10M of two-year salary changes hands.");
+  const ratio=Math.max(rawA,rawB,1)/Math.max(Math.min(rawA,rawB),1);
+  if(ratio>2.0) flags.push("Extreme result: one side values at more than 2× the other.");
+  return flags;
+}
+function clearTrade(){
+  state.A.selected.clear();
+  state.B.selected.clear();
+  renderSide("A"); renderSide("B");
+  document.getElementById("result").innerHTML='<div class="note">Select two teams and trade assets, then click Analyze Trade.</div>';
+}
+function analyze(){
+  _replacementProfileCache=null;
+  if(!state.A.team||!state.B.team){document.getElementById("result").innerHTML='<div class="note bad">Select two teams first.</div>';return}
+  const A=outgoing("A"),B=outgoing("B");
+  if(!A.players.length&&!A.picks.length&&!B.players.length&&!B.picks.length){document.getElementById("result").innerHTML='<div class="note bad">Select at least one asset.</div>';return}
+  const tradeSalA=outgoingSalaryByYear(A), tradeSalB=outgoingSalaryByYear(B);
+  const impactA=salaryTradeImpact(tradeSalB,tradeSalA), impactB=salaryTradeImpact(tradeSalA,tradeSalB);
+  const tradeSalaryAdjA=tradeSalaryValueAdjustment(impactA), tradeSalaryAdjB=tradeSalaryValueAdjustment(impactB);
+  const salA0=salaryTotal(state.A.team),salB0=salaryTotal(state.B.team);
+  const salA1=salA0-A.salary+B.salary, salB1=salB0-B.salary+A.salary;
+  const legalA=salA1<=CAP, legalB=salB1<=CAP;
+  const valA=structuredAssetValue(B), valB=structuredAssetValue(A); // value RECEIVED
+  // Individual contract modifiers remain part of each player's value.
+  // This additional team-level adjustment prices the NET 2026+2027 cap obligation
+  // created by the trade, which is crucial in a $40M hard-cap league.
+  valA.parts.salaryContract += tradeSalaryAdjA;
+  valB.parts.salaryContract += tradeSalaryAdjB;
+  const rawA=valA.total + tradeSalaryAdjA, rawB=valB.total + tradeSalaryAdjB;
+  const diagnostics=tradeDiagnostic(rawA,rawB,valA,valB,impactA,impactB);
+  const max=Math.max(rawA,rawB,1); const scoreA=Math.round(rawA/max*100),scoreB=Math.round(rawB/max*100);
+  // Advantage is a symmetric percentage difference, using the average of both
+  // sides as the denominator. This prevents the displayed percentage from
+  // exploding simply because the losing side has a small value.
+  const avgRaw=(rawA+rawB)/2;
+  const rawAdv=avgRaw>0?((rawA-rawB)/avgRaw)*100:0;
+  // Compress the DISPLAYED percentage using football + pick value BEFORE salary.
+  // This lets salary decide who wins without making a modest player/pick trade
+  // look like a blockbuster simply because contract value creates a large swing.
+  // Underlying Current/Dynasty, Salary/Contract, and Pick values are unchanged.
+  const preSalaryScale=Math.max(
+    0,
+    valA.parts.currentDynasty + valA.parts.picks +
+    valB.parts.currentDynasty + valB.parts.picks
+  );
+  // Small trades receive stronger visual compression; premium trades approach
+  // the full raw percentage. Floor prevents genuinely meaningful edges vanishing.
+  const displayConfidence=Math.min(1,Math.max(0.28,preSalaryScale/95));
+  const adv=rawAdv*displayConfidence;
+  let verdict=Math.abs(adv)<5?"Near-even value":adv>0?`${teamName(state.A.team)} advantage ${Math.abs(adv).toFixed(1)}%`:`${teamName(state.B.team)} advantage ${Math.abs(adv).toFixed(1)}%`;
+  const legality=legalA&&legalB?'<span class="ok">VALID</span>':'<span class="bad">INVALID — cap exceeded</span>';
+  document.getElementById("result").innerHTML=`
+    <div class="scorebar"><div><div class="sub">${teamName(state.A.team)}</div><div class="score">${scoreA}</div></div>
+    <div class="verdict">${verdict}<div class="sub">Structured BSFFL valuation</div></div>
+    <div class="right"><div class="sub">${teamName(state.B.team)}</div><div class="score">${scoreB}</div></div></div>
+    <div class="metricgrid">
+      <div class="metric">Roster Status<b>${legality}</b></div>
+      <div class="metric">${teamName(state.A.team)} post-trade salary<b>${fmt(salA1)}</b><span class="${legalA?'ok':'bad'}">${fmt(CAP-salA1)} cap room</span></div>
+      <div class="metric">${teamName(state.B.team)} post-trade salary<b>${fmt(salB1)}</b><span class="${legalB?'ok':'bad'}">${fmt(CAP-salB1)} cap room</span></div>
+      <div class="metric">Assets selected<b>${A.players.length+A.picks.length} ↔ ${B.players.length+B.picks.length}</b></div>
+    </div>
+    <div class="note"><b>Valuation status:</b> the engine uses weighted FantasyPros/FantasyCalc market data plus MFL ADP for the current-season component, dynamic redraft/dynasty weighting, BSFFL replacement-cost contract surplus/deficit plus a bounded net 2026/2027 cap-flexibility adjustment, and exact-slot 2026 rookie-pick market values with future-pick discounting. Player values use live market/consensus sources when available. The BSFFL Model Rank is currently shown for verification only and does not affect the trade score until we calibrate it. Displayed advantage percentages are confidence-scaled by the underlying football/draft-pick value so salary can determine the winner without overstating smaller trades.<br><br><b>Roster rules:</b> This analyzer enforces the $40M cap. Position-minimum and transaction-rule checks are not currently enforced because they require BSFFL-specific rule logic beyond MFL's generic roster limits.</div>
+    ${(A.players.length||B.players.length)?`<details open><summary>Salary & Contracts</summary><p>
+      <span class="salaryline"><b>${teamName(state.A.team)}</b> sends <b>${fmt(tradeSalA.total)} total</b> (${fmt(tradeSalA.y26)} in 2026 and ${fmt(tradeSalA.y27)} in 2027) and receives <b>${fmt(tradeSalB.total)} total</b>. Net: ${salaryImpactHtml(impactA.total)}. <span class="salarydetail">2026: ${salaryImpactHtml(impactA.d26)}; 2027: ${salaryImpactHtml(impactA.d27)}.</span></span>
+      <span class="salaryline"><b>${teamName(state.B.team)}</b> sends <b>${fmt(tradeSalB.total)} total</b> (${fmt(tradeSalB.y26)} in 2026 and ${fmt(tradeSalB.y27)} in 2027) and receives <b>${fmt(tradeSalA.total)} total</b>. Net: ${salaryImpactHtml(impactB.total)}. <span class="salarydetail">2026: ${salaryImpactHtml(impactB.d26)}; 2027: ${salaryImpactHtml(impactB.d27)}.</span></span>
+    </p></details>`:''}
+    <details open><summary>Draft Picks</summary><p>
+      ${teamName(state.A.team)} sends: ${A.picks.map(p=>{const v=currentPickMarketValue(p);return `${pickLabel(p)}${v!==null?` (market ${v.toFixed(1)})`:""}`}).join(", ")||"None"}<br>
+      ${teamName(state.B.team)} sends: ${B.picks.map(p=>{const v=currentPickMarketValue(p);return `${pickLabel(p)}${v!==null?` (market ${v.toFixed(1)})`:""}`}).join(", ")||"None"}
+    </p></details>
+    <details open><summary>Value Breakdown</summary>
+      <p>${teamName(state.A.team)} receives — Current/Dynasty: ${valA.parts.currentDynasty.toFixed(1)}, Salary/Contract: ${valA.parts.salaryContract.toFixed(1)}, Picks: ${valA.parts.picks.toFixed(1)}.<br>
+      ${teamName(state.B.team)} receives — Current/Dynasty: ${valB.parts.currentDynasty.toFixed(1)}, Salary/Contract: ${valB.parts.salaryContract.toFixed(1)}, Picks: ${valB.parts.picks.toFixed(1)}.</p>
+      <p><b>Contract surplus / deficit</b><br>
+      ${[...B.players,...A.players].map(p=>{
+        const base=playerBaseValue(p);
+        const c=contractSurplusInfo(p,base);
+        const cls=c.surplusDollar>0?"contract-surplus":c.surplusDollar<0?"contract-deficit":"contract-neutral";
+        const label=c.surplusDollar>0?"surplus":"deficit";
+        return `${p._name}: <span class="${cls}">${fmt(Math.abs(c.surplusDollar))} ${label}</span> <span class="surplus-detail">(${c.pos}, justified annual cost ≈ ${fmt(c.justifiedAnnual*1e6)}, actual 2026+weighted-2027 cost ${fmt(c.actualSalary)})</span>`;
+      }).join("<br>")}</p>
+      ${diagnostics.length?`<p><b>Model diagnostics</b><br>${diagnostics.map(x=>`⚠ ${x}`).join("<br>")}</p>`:""}
+      <p><b>Source verification</b><br>
+      ${[...B.players,...A.players].map(p=>{
+        const r=fpRanks(p),f=FC?.players?.[String(p.id)]||{};
+        const used=[];
+        if(r.redraft||r.dynasty)used.push("FantasyPros");
+        if(f.redraftRank||f.dynastyRank)used.push("FantasyCalc");
+        const m=MADP?.players?.[String(p.id)]||{};
+        if(m.adp)used.push("MFL ADP");
+        const bm=BMODEL?.players?.[String(p.id)]||{};
+        return `${p._name}: FantasyPros Redraft ${r.redraft?`#${r.redraft}`:"—"} / Dynasty ${r.dynasty?`#${r.dynasty}`:"—"} | FantasyCalc Redraft ${f.redraftRank?`#${f.redraftRank}`:"—"} / Dynasty ${f.dynastyRank?`#${f.dynastyRank}`:"—"} | MFL ADP ${m.adp?Number(m.adp).toFixed(1):"—"} | BSFFL Model ${bm.rank?`#${bm.rank} (${Number(bm.score).toFixed(1)})`:"—"} | Trade-score sources: ${used.join(" + ")||"none"}`;
+      }).join("<br>")||"No players selected"}</p>
+      ${(valA.unknown.length||valB.unknown.length)?`<p class="warn"><b>Missing provider values:</b> ${[...valA.unknown,...valB.unknown].join(", ")}. These players are not scored yet.</p>`:""}
+    </details>`;
+}
+function sourceStatus(label,obj,countText){
+  const count=countText();
+  if(!count)return `${label} unavailable`;
+  const r=obj?._resilience;
+  if(r?.source==="cache"){
+    const when=r.savedAt?new Date(r.savedAt).toLocaleString():"unknown";
+    return `${label} cached (${count}) • ${when}`;
+  }
+  return `${label} ${count}`;
+}
+async function load(){
+  document.getElementById("status").textContent="Loading MFL data…";
+  try{
+    const [r,v,fp,fc,madp,bmodel]=await Promise.all([
+      fetch("/api/bootstrap",{cache:"no-store"}),
+      fetch("/api/valuation",{cache:"no-store"}),
+      fetch("/api/fantasypros",{cache:"no-store"}),
+      fetch("/api/fantasycalc",{cache:"no-store"}),
+      fetch("/api/mfl-adp",{cache:"no-store"}),
+      fetch("/api/bsffl-model",{cache:"no-store"})
+    ]);
+    if(!r.ok){
+      const j=await r.json().catch(()=>({}));
+      throw new Error(j.error||"League data is temporarily unavailable. Please try Refresh MFL.");
+    }
+    DATA=await r.json(); VAL=v.ok?await v.json():{settings:{},players:{},picks:{}};
+    FP=fp.ok?await fp.json():{players:{},error:(await fp.json().catch(()=>({}))).error||"FantasyPros unavailable"};
+    FC=fc.ok?await fc.json():{players:{},error:(await fc.json().catch(()=>({}))).error||"FantasyCalc unavailable"};
+    MADP=madp.ok?await madp.json():{players:{},error:(await madp.json().catch(()=>({}))).error||"MFL ADP unavailable"};
+    BMODEL=bmodel.ok?await bmodel.json():{players:{},error:(await bmodel.json().catch(()=>({}))).error||"BSFFL Model unavailable"};
+    document.getElementById("status").textContent=
+      `MFL live • ${sourceStatus("FantasyPros",FP,()=>Object.keys(FP?.players||{}).length?`${Object.keys(FP.players).length} mapped`:"")} • ${sourceStatus("FantasyCalc",FC,()=>Object.keys(FC?.players||{}).length?`${Object.keys(FC.players).length} mapped`:"")} • ${sourceStatus("MFL ADP",MADP,()=>Object.keys(MADP?.players||{}).length?`${Object.keys(MADP.players).length} players`:"")} • ${sourceStatus("BSFFL Model",BMODEL,()=>Object.keys(BMODEL?.players||{}).length?`${Object.keys(BMODEL.players).length} ranked`:"")} • ${new Date().toLocaleTimeString()}`;
+    renderSide("A");renderSide("B");
+  }catch(e){
+    document.getElementById("status").textContent="League data unavailable";
+    document.getElementById("result").innerHTML=`<div class="note bad"><b>Unable to load league data.</b><br>${e.message}<br><br>Use Refresh MFL to try again.</div>`;
+  }
+}
+window.toggle=toggle; window.changeTeam=changeTeam;
+document.getElementById("analyze").onclick=analyze;
+document.getElementById("reload").onclick=load;
+load();
+</script>
+
+<script>
+(function(){
+  const qs=(s)=>document.querySelector(s), qsa=(s)=>Array.from(document.querySelectorAll(s));
+  const status=qs('#bsfflCacheStatus');
+  function stamp(){ if(status) status.textContent='Page loaded: '+new Date().toLocaleTimeString()+' • FantasyPros cache window: 6 hours'; }
+  stamp();
+
+  qs('#bsfflAboutBtn')?.addEventListener('click',()=>qs('#bsfflAbout')?.classList.toggle('open'));
+
+  qs('#bsfflRefreshBtn')?.addEventListener('click',()=>{
+    sessionStorage.setItem('bsfflScroll',String(window.scrollY));
+    const u=new URL(location.href); u.searchParams.set('_refresh',Date.now()); location.href=u.toString();
+  });
+
+  qs('#bsfflClearBtn')?.addEventListener('click',()=>{
+    const clear=qsa('button').find(b=>/clear/i.test(b.textContent||'') && b.id!=='bsfflClearBtn');
+    if(clear){ clear.click(); return; }
+    qsa('input[type=checkbox]:checked').forEach(x=>x.click());
+  });
+
+  // Persist viewport position through trade-selection redraws and page reloads.
+  let lastY=Number(sessionStorage.getItem('bsfflScroll')||0);
+  if(lastY) requestAnimationFrame(()=>window.scrollTo(0,lastY));
+  window.addEventListener('scroll',()=>sessionStorage.setItem('bsfflScroll',String(window.scrollY)),{passive:true});
+  document.addEventListener('click',()=>{ lastY=window.scrollY; setTimeout(()=>{ if(Math.abs(window.scrollY-lastY)>150) window.scrollTo(0,lastY); },0); },true);
+
+  // Keep selectors unchosen on a fresh session when the existing app allows it.
+  if(!sessionStorage.getItem('bsfflTeamsInitialized')){
+    qsa('select').forEach(sel=>{
+      const opt=Array.from(sel.options).find(o=>/select team/i.test(o.textContent||''));
+      if(opt){ sel.value=opt.value; sel.dispatchEvent(new Event('change',{bubbles:true})); }
+    });
+    sessionStorage.setItem('bsfflTeamsInitialized','1');
+  }
+})();
+</script>
+
+
+
+<script id="bsffl-v28-tools">
+window.showBsfflSettings=function(){
+  const c=bsfflSettings();
+  const next=prompt(
+`BSFFL valuation settings (JSON)
+futureSalaryWeight: 2027 discount
+contractPointsPerMillion: player contract surplus value
+capFlexPointsPerMillion: separate cap-room optionality
+maxContractAdjustment / maxCapFlexAdjustment: bounds`,
+JSON.stringify(c,null,2));
+  if(!next)return;
+  try{localStorage.setItem("bsfflValuationSettings",JSON.stringify(JSON.parse(next)));location.reload()}
+  catch(e){alert("Invalid JSON")}
+};
+</script>
+</body>
+</html>

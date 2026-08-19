@@ -1,0 +1,1936 @@
+{
+  "savedAt": "2026-08-19T01:31:25.785Z",
+  "data": {
+    "players": {
+      "7836": {
+        "adp": 130.5,
+        "minPick": 8,
+        "maxPick": 199,
+        "draftPct": 13
+      },
+      "9431": {
+        "adp": 63.11,
+        "minPick": 4,
+        "maxPick": 116,
+        "draftPct": 36
+      },
+      "10700": {
+        "adp": 127.9,
+        "minPick": 15,
+        "maxPick": 234,
+        "draftPct": 13
+      },
+      "11150": {
+        "adp": 150,
+        "minPick": 18,
+        "maxPick": 289,
+        "draftPct": 13
+      },
+      "11244": {
+        "adp": 86.84,
+        "minPick": 36,
+        "maxPick": 133,
+        "draftPct": 40
+      },
+      "11671": {
+        "adp": 69.15,
+        "minPick": 26,
+        "maxPick": 127,
+        "draftPct": 44
+      },
+      "11675": {
+        "adp": 52.59,
+        "minPick": 27,
+        "maxPick": 108,
+        "draftPct": 42
+      },
+      "11936": {
+        "adp": 148.08,
+        "minPick": 33,
+        "maxPick": 251,
+        "draftPct": 17
+      },
+      "11945": {
+        "adp": 181,
+        "minPick": 135,
+        "maxPick": 274,
+        "draftPct": 10
+      },
+      "12186": {
+        "adp": 115.78,
+        "minPick": 22,
+        "maxPick": 214,
+        "draftPct": 30
+      },
+      "12437": {
+        "adp": 122.5,
+        "minPick": 53,
+        "maxPick": 266,
+        "draftPct": 31
+      },
+      "12611": {
+        "adp": 81.93,
+        "minPick": 7,
+        "maxPick": 128,
+        "draftPct": 36
+      },
+      "12616": {
+        "adp": 139.71,
+        "minPick": 44,
+        "maxPick": 248,
+        "draftPct": 18
+      },
+      "12620": {
+        "adp": 63,
+        "minPick": 6,
+        "maxPick": 100,
+        "draftPct": 36
+      },
+      "12626": {
+        "adp": 21.55,
+        "minPick": 7,
+        "maxPick": 43,
+        "draftPct": 40
+      },
+      "12676": {
+        "adp": 122.44,
+        "minPick": 76,
+        "maxPick": 155,
+        "draftPct": 32
+      },
+      "12860": {
+        "adp": 120.83,
+        "minPick": 42,
+        "maxPick": 208,
+        "draftPct": 31
+      },
+      "12956": {
+        "adp": 147.75,
+        "minPick": 87,
+        "maxPick": 243,
+        "draftPct": 21
+      },
+      "13113": {
+        "adp": 127.6,
+        "minPick": 32,
+        "maxPick": 270,
+        "draftPct": 13
+      },
+      "13116": {
+        "adp": 76.23,
+        "minPick": 35,
+        "maxPick": 121,
+        "draftPct": 40
+      },
+      "13130": {
+        "adp": 8.97,
+        "minPick": 3,
+        "maxPick": 31,
+        "draftPct": 38
+      },
+      "13132": {
+        "adp": 138.07,
+        "minPick": 68,
+        "maxPick": 205,
+        "draftPct": 19
+      },
+      "13146": {
+        "adp": 138.75,
+        "minPick": 52,
+        "maxPick": 231,
+        "draftPct": 10
+      },
+      "13163": {
+        "adp": 90.24,
+        "minPick": 36,
+        "maxPick": 149,
+        "draftPct": 43
+      },
+      "13164": {
+        "adp": 124.85,
+        "minPick": 26,
+        "maxPick": 224,
+        "draftPct": 17
+      },
+      "13189": {
+        "adp": 147,
+        "minPick": 24,
+        "maxPick": 295,
+        "draftPct": 9
+      },
+      "13192": {
+        "adp": 193.8,
+        "minPick": 153,
+        "maxPick": 262,
+        "draftPct": 6
+      },
+      "13299": {
+        "adp": 84.52,
+        "minPick": 22,
+        "maxPick": 141,
+        "draftPct": 38
+      },
+      "13303": {
+        "adp": 162.75,
+        "minPick": 108,
+        "maxPick": 246,
+        "draftPct": 10
+      },
+      "13319": {
+        "adp": 122.7,
+        "minPick": 63,
+        "maxPick": 254,
+        "draftPct": 35
+      },
+      "13354": {
+        "adp": 127.42,
+        "minPick": 42,
+        "maxPick": 216,
+        "draftPct": 15
+      },
+      "13589": {
+        "adp": 6.65,
+        "minPick": 1,
+        "maxPick": 44,
+        "draftPct": 34
+      },
+      "13590": {
+        "adp": 99.58,
+        "minPick": 54,
+        "maxPick": 186,
+        "draftPct": 34
+      },
+      "13592": {
+        "adp": 98.05,
+        "minPick": 8,
+        "maxPick": 233,
+        "draftPct": 26
+      },
+      "13593": {
+        "adp": 23.73,
+        "minPick": 1,
+        "maxPick": 74,
+        "draftPct": 39
+      },
+      "13604": {
+        "adp": 18.83,
+        "minPick": 4,
+        "maxPick": 34,
+        "draftPct": 39
+      },
+      "13630": {
+        "adp": 79.61,
+        "minPick": 41,
+        "maxPick": 115,
+        "draftPct": 40
+      },
+      "13635": {
+        "adp": 63.17,
+        "minPick": 36,
+        "maxPick": 114,
+        "draftPct": 39
+      },
+      "13671": {
+        "adp": 114.4,
+        "minPick": 28,
+        "maxPick": 185,
+        "draftPct": 39
+      },
+      "13674": {
+        "adp": 83.07,
+        "minPick": 41,
+        "maxPick": 153,
+        "draftPct": 39
+      },
+      "13719": {
+        "adp": 128.36,
+        "minPick": 41,
+        "maxPick": 205,
+        "draftPct": 14
+      },
+      "13772": {
+        "adp": 151.83,
+        "minPick": 44,
+        "maxPick": 237,
+        "draftPct": 15
+      },
+      "14056": {
+        "adp": 98.61,
+        "minPick": 16,
+        "maxPick": 206,
+        "draftPct": 36
+      },
+      "14059": {
+        "adp": 119.21,
+        "minPick": 48,
+        "maxPick": 176,
+        "draftPct": 18
+      },
+      "14071": {
+        "adp": 63.65,
+        "minPick": 21,
+        "maxPick": 120,
+        "draftPct": 40
+      },
+      "14073": {
+        "adp": 41.66,
+        "minPick": 9,
+        "maxPick": 103,
+        "draftPct": 42
+      },
+      "14085": {
+        "adp": 86,
+        "minPick": 45,
+        "maxPick": 144,
+        "draftPct": 43
+      },
+      "14086": {
+        "adp": 128.43,
+        "minPick": 29,
+        "maxPick": 294,
+        "draftPct": 9
+      },
+      "14102": {
+        "adp": 85.23,
+        "minPick": 46,
+        "maxPick": 121,
+        "draftPct": 40
+      },
+      "14104": {
+        "adp": 23.42,
+        "minPick": 4,
+        "maxPick": 59,
+        "draftPct": 43
+      },
+      "14109": {
+        "adp": 56.56,
+        "minPick": 26,
+        "maxPick": 94,
+        "draftPct": 44
+      },
+      "14122": {
+        "adp": 178.17,
+        "minPick": 135,
+        "maxPick": 249,
+        "draftPct": 7
+      },
+      "14127": {
+        "adp": 126.3,
+        "minPick": 72,
+        "maxPick": 259,
+        "draftPct": 30
+      },
+      "14136": {
+        "adp": 124.68,
+        "minPick": 34,
+        "maxPick": 203,
+        "draftPct": 28
+      },
+      "14138": {
+        "adp": 127.21,
+        "minPick": 36,
+        "maxPick": 198,
+        "draftPct": 25
+      },
+      "14717": {
+        "adp": 158,
+        "minPick": 102,
+        "maxPick": 226,
+        "draftPct": 13
+      },
+      "14777": {
+        "adp": 33.67,
+        "minPick": 5,
+        "maxPick": 93,
+        "draftPct": 39
+      },
+      "14778": {
+        "adp": 189.86,
+        "minPick": 127,
+        "maxPick": 283,
+        "draftPct": 9
+      },
+      "14779": {
+        "adp": 57.31,
+        "minPick": 6,
+        "maxPick": 124,
+        "draftPct": 42
+      },
+      "14782": {
+        "adp": 93.79,
+        "minPick": 15,
+        "maxPick": 172,
+        "draftPct": 31
+      },
+      "14783": {
+        "adp": 41.63,
+        "minPick": 13,
+        "maxPick": 75,
+        "draftPct": 39
+      },
+      "14797": {
+        "adp": 56.9,
+        "minPick": 23,
+        "maxPick": 100,
+        "draftPct": 39
+      },
+      "14800": {
+        "adp": 93.15,
+        "minPick": 53,
+        "maxPick": 136,
+        "draftPct": 34
+      },
+      "14802": {
+        "adp": 9.62,
+        "minPick": 3,
+        "maxPick": 25,
+        "draftPct": 38
+      },
+      "14823": {
+        "adp": 98.69,
+        "minPick": 48,
+        "maxPick": 176,
+        "draftPct": 38
+      },
+      "14832": {
+        "adp": 13.5,
+        "minPick": 5,
+        "maxPick": 25,
+        "draftPct": 39
+      },
+      "14833": {
+        "adp": 138.5,
+        "minPick": 64,
+        "maxPick": 239,
+        "draftPct": 23
+      },
+      "14835": {
+        "adp": 43.62,
+        "minPick": 10,
+        "maxPick": 64,
+        "draftPct": 42
+      },
+      "14836": {
+        "adp": 14.32,
+        "minPick": 6,
+        "maxPick": 25,
+        "draftPct": 40
+      },
+      "14842": {
+        "adp": 115.26,
+        "minPick": 47,
+        "maxPick": 229,
+        "draftPct": 30
+      },
+      "14860": {
+        "adp": 153.3,
+        "minPick": 22,
+        "maxPick": 258,
+        "draftPct": 13
+      },
+      "14861": {
+        "adp": 123.5,
+        "minPick": 90,
+        "maxPick": 161,
+        "draftPct": 23
+      },
+      "14871": {
+        "adp": 126.38,
+        "minPick": 11,
+        "maxPick": 254,
+        "draftPct": 17
+      },
+      "14983": {
+        "adp": 160.38,
+        "minPick": 97,
+        "maxPick": 255,
+        "draftPct": 10
+      },
+      "15237": {
+        "adp": 70.1,
+        "minPick": 17,
+        "maxPick": 114,
+        "draftPct": 39
+      },
+      "15253": {
+        "adp": 41.27,
+        "minPick": 9,
+        "maxPick": 90,
+        "draftPct": 39
+      },
+      "15255": {
+        "adp": 102.86,
+        "minPick": 47,
+        "maxPick": 171,
+        "draftPct": 38
+      },
+      "15256": {
+        "adp": 37.19,
+        "minPick": 11,
+        "maxPick": 62,
+        "draftPct": 40
+      },
+      "15259": {
+        "adp": 73.78,
+        "minPick": 15,
+        "maxPick": 129,
+        "draftPct": 35
+      },
+      "15261": {
+        "adp": 92.27,
+        "minPick": 52,
+        "maxPick": 133,
+        "draftPct": 39
+      },
+      "15281": {
+        "adp": 4,
+        "minPick": 1,
+        "maxPick": 11,
+        "draftPct": 36
+      },
+      "15282": {
+        "adp": 36.03,
+        "minPick": 8,
+        "maxPick": 55,
+        "draftPct": 40
+      },
+      "15284": {
+        "adp": 56.09,
+        "minPick": 18,
+        "maxPick": 97,
+        "draftPct": 42
+      },
+      "15287": {
+        "adp": 8.04,
+        "minPick": 3,
+        "maxPick": 14,
+        "draftPct": 36
+      },
+      "15290": {
+        "adp": 27.59,
+        "minPick": 9,
+        "maxPick": 41,
+        "draftPct": 38
+      },
+      "15329": {
+        "adp": 68.83,
+        "minPick": 22,
+        "maxPick": 121,
+        "draftPct": 39
+      },
+      "15331": {
+        "adp": 133.14,
+        "minPick": 22,
+        "maxPick": 219,
+        "draftPct": 9
+      },
+      "15368": {
+        "adp": 175.43,
+        "minPick": 88,
+        "maxPick": 269,
+        "draftPct": 9
+      },
+      "15694": {
+        "adp": 85.54,
+        "minPick": 4,
+        "maxPick": 208,
+        "draftPct": 31
+      },
+      "15698": {
+        "adp": 89.85,
+        "minPick": 35,
+        "maxPick": 153,
+        "draftPct": 35
+      },
+      "15708": {
+        "adp": 37.79,
+        "minPick": 11,
+        "maxPick": 65,
+        "draftPct": 43
+      },
+      "15710": {
+        "adp": 29.96,
+        "minPick": 12,
+        "maxPick": 52,
+        "draftPct": 36
+      },
+      "15711": {
+        "adp": 23,
+        "minPick": 2,
+        "maxPick": 38,
+        "draftPct": 42
+      },
+      "15712": {
+        "adp": 152,
+        "minPick": 110,
+        "maxPick": 192,
+        "draftPct": 15
+      },
+      "15715": {
+        "adp": 12.23,
+        "minPick": 1,
+        "maxPick": 35,
+        "draftPct": 39
+      },
+      "15716": {
+        "adp": 160.2,
+        "minPick": 24,
+        "maxPick": 220,
+        "draftPct": 13
+      },
+      "15721": {
+        "adp": 125,
+        "minPick": 85,
+        "maxPick": 224,
+        "draftPct": 31
+      },
+      "15742": {
+        "adp": 72.93,
+        "minPick": 2,
+        "maxPick": 178,
+        "draftPct": 39
+      },
+      "15749": {
+        "adp": 156.5,
+        "minPick": 82,
+        "maxPick": 215,
+        "draftPct": 15
+      },
+      "15751": {
+        "adp": 20.16,
+        "minPick": 7,
+        "maxPick": 42,
+        "draftPct": 40
+      },
+      "15753": {
+        "adp": 40.87,
+        "minPick": 18,
+        "maxPick": 60,
+        "draftPct": 40
+      },
+      "15754": {
+        "adp": 33.97,
+        "minPick": 18,
+        "maxPick": 49,
+        "draftPct": 39
+      },
+      "15756": {
+        "adp": 58.29,
+        "minPick": 25,
+        "maxPick": 81,
+        "draftPct": 40
+      },
+      "15757": {
+        "adp": 116.52,
+        "minPick": 38,
+        "maxPick": 164,
+        "draftPct": 32
+      },
+      "15761": {
+        "adp": 112.12,
+        "minPick": 27,
+        "maxPick": 167,
+        "draftPct": 31
+      },
+      "15762": {
+        "adp": 26.77,
+        "minPick": 10,
+        "maxPick": 51,
+        "draftPct": 39
+      },
+      "15768": {
+        "adp": 95.23,
+        "minPick": 42,
+        "maxPick": 150,
+        "draftPct": 39
+      },
+      "15779": {
+        "adp": 135.07,
+        "minPick": 72,
+        "maxPick": 189,
+        "draftPct": 18
+      },
+      "15786": {
+        "adp": 118.45,
+        "minPick": 45,
+        "maxPick": 228,
+        "draftPct": 14
+      },
+      "15787": {
+        "adp": 159.5,
+        "minPick": 48,
+        "maxPick": 298,
+        "draftPct": 7
+      },
+      "15789": {
+        "adp": 73.23,
+        "minPick": 35,
+        "maxPick": 110,
+        "draftPct": 39
+      },
+      "15794": {
+        "adp": 22.45,
+        "minPick": 7,
+        "maxPick": 50,
+        "draftPct": 38
+      },
+      "15797": {
+        "adp": 87.53,
+        "minPick": 10,
+        "maxPick": 226,
+        "draftPct": 22
+      },
+      "15798": {
+        "adp": 97,
+        "minPick": 31,
+        "maxPick": 149,
+        "draftPct": 40
+      },
+      "15799": {
+        "adp": 101.69,
+        "minPick": 68,
+        "maxPick": 207,
+        "draftPct": 38
+      },
+      "15802": {
+        "adp": 187.89,
+        "minPick": 115,
+        "maxPick": 267,
+        "draftPct": 11
+      },
+      "15889": {
+        "adp": 128.53,
+        "minPick": 30,
+        "maxPick": 219,
+        "draftPct": 19
+      },
+      "15972": {
+        "adp": 116.5,
+        "minPick": 58,
+        "maxPick": 198,
+        "draftPct": 31
+      },
+      "15979": {
+        "adp": 120.87,
+        "minPick": 77,
+        "maxPick": 177,
+        "draftPct": 30
+      },
+      "16036": {
+        "adp": 138.33,
+        "minPick": 38,
+        "maxPick": 208,
+        "draftPct": 11
+      },
+      "16080": {
+        "adp": 138.88,
+        "minPick": 22,
+        "maxPick": 218,
+        "draftPct": 21
+      },
+      "16148": {
+        "adp": 121.21,
+        "minPick": 68,
+        "maxPick": 175,
+        "draftPct": 18
+      },
+      "16150": {
+        "adp": 113,
+        "minPick": 57,
+        "maxPick": 260,
+        "draftPct": 26
+      },
+      "16161": {
+        "adp": 2.66,
+        "minPick": 1,
+        "maxPick": 7,
+        "draftPct": 38
+      },
+      "16162": {
+        "adp": 2.31,
+        "minPick": 1,
+        "maxPick": 6,
+        "draftPct": 38
+      },
+      "16164": {
+        "adp": 149.36,
+        "minPick": 44,
+        "maxPick": 205,
+        "draftPct": 14
+      },
+      "16165": {
+        "adp": 143.45,
+        "minPick": 16,
+        "maxPick": 196,
+        "draftPct": 14
+      },
+      "16167": {
+        "adp": 15.61,
+        "minPick": 4,
+        "maxPick": 30,
+        "draftPct": 36
+      },
+      "16169": {
+        "adp": 121.77,
+        "minPick": 62,
+        "maxPick": 225,
+        "draftPct": 34
+      },
+      "16174": {
+        "adp": 142.94,
+        "minPick": 41,
+        "maxPick": 203,
+        "draftPct": 21
+      },
+      "16178": {
+        "adp": 144.55,
+        "minPick": 33,
+        "maxPick": 230,
+        "draftPct": 14
+      },
+      "16181": {
+        "adp": 16.27,
+        "minPick": 1,
+        "maxPick": 27,
+        "draftPct": 39
+      },
+      "16184": {
+        "adp": 124.93,
+        "minPick": 64,
+        "maxPick": 171,
+        "draftPct": 19
+      },
+      "16185": {
+        "adp": 7.11,
+        "minPick": 4,
+        "maxPick": 12,
+        "draftPct": 35
+      },
+      "16186": {
+        "adp": 120.95,
+        "minPick": 64,
+        "maxPick": 147,
+        "draftPct": 27
+      },
+      "16187": {
+        "adp": 104.42,
+        "minPick": 70,
+        "maxPick": 197,
+        "draftPct": 31
+      },
+      "16188": {
+        "adp": 102.23,
+        "minPick": 21,
+        "maxPick": 157,
+        "draftPct": 34
+      },
+      "16190": {
+        "adp": 36.19,
+        "minPick": 6,
+        "maxPick": 57,
+        "draftPct": 40
+      },
+      "16192": {
+        "adp": 66.33,
+        "minPick": 12,
+        "maxPick": 112,
+        "draftPct": 43
+      },
+      "16193": {
+        "adp": 162,
+        "minPick": 107,
+        "maxPick": 240,
+        "draftPct": 10
+      },
+      "16194": {
+        "adp": 28.3,
+        "minPick": 5,
+        "maxPick": 46,
+        "draftPct": 39
+      },
+      "16195": {
+        "adp": 176.38,
+        "minPick": 41,
+        "maxPick": 242,
+        "draftPct": 10
+      },
+      "16204": {
+        "adp": 169,
+        "minPick": 8,
+        "maxPick": 252,
+        "draftPct": 11
+      },
+      "16206": {
+        "adp": 88.38,
+        "minPick": 29,
+        "maxPick": 148,
+        "draftPct": 38
+      },
+      "16211": {
+        "adp": 5.3,
+        "minPick": 1,
+        "maxPick": 13,
+        "draftPct": 35
+      },
+      "16213": {
+        "adp": 111.28,
+        "minPick": 51,
+        "maxPick": 165,
+        "draftPct": 32
+      },
+      "16214": {
+        "adp": 68.65,
+        "minPick": 20,
+        "maxPick": 115,
+        "draftPct": 40
+      },
+      "16222": {
+        "adp": 72.59,
+        "minPick": 38,
+        "maxPick": 151,
+        "draftPct": 35
+      },
+      "16269": {
+        "adp": 142.4,
+        "minPick": 105,
+        "maxPick": 216,
+        "draftPct": 19
+      },
+      "16287": {
+        "adp": 170.25,
+        "minPick": 104,
+        "maxPick": 255,
+        "draftPct": 10
+      },
+      "16414": {
+        "adp": 89.19,
+        "minPick": 44,
+        "maxPick": 170,
+        "draftPct": 27
+      },
+      "16444": {
+        "adp": 162.6,
+        "minPick": 92,
+        "maxPick": 233,
+        "draftPct": 6
+      },
+      "16579": {
+        "adp": 42.52,
+        "minPick": 2,
+        "maxPick": 99,
+        "draftPct": 40
+      },
+      "16580": {
+        "adp": 29.75,
+        "minPick": 2,
+        "maxPick": 70,
+        "draftPct": 36
+      },
+      "16581": {
+        "adp": 42.55,
+        "minPick": 9,
+        "maxPick": 131,
+        "draftPct": 40
+      },
+      "16582": {
+        "adp": 73.7,
+        "minPick": 7,
+        "maxPick": 132,
+        "draftPct": 39
+      },
+      "16583": {
+        "adp": 191.83,
+        "minPick": 142,
+        "maxPick": 245,
+        "draftPct": 7
+      },
+      "16593": {
+        "adp": 109.76,
+        "minPick": 55,
+        "maxPick": 173,
+        "draftPct": 38
+      },
+      "16596": {
+        "adp": 126.86,
+        "minPick": 46,
+        "maxPick": 213,
+        "draftPct": 9
+      },
+      "16597": {
+        "adp": 98.83,
+        "minPick": 6,
+        "maxPick": 226,
+        "draftPct": 38
+      },
+      "16598": {
+        "adp": 52.18,
+        "minPick": 25,
+        "maxPick": 90,
+        "draftPct": 36
+      },
+      "16603": {
+        "adp": 141.56,
+        "minPick": 51,
+        "maxPick": 222,
+        "draftPct": 11
+      },
+      "16604": {
+        "adp": 116.22,
+        "minPick": 26,
+        "maxPick": 174,
+        "draftPct": 11
+      },
+      "16614": {
+        "adp": 75.27,
+        "minPick": 39,
+        "maxPick": 140,
+        "draftPct": 39
+      },
+      "16615": {
+        "adp": 30.22,
+        "minPick": 13,
+        "maxPick": 46,
+        "draftPct": 42
+      },
+      "16616": {
+        "adp": 67.66,
+        "minPick": 44,
+        "maxPick": 123,
+        "draftPct": 42
+      },
+      "16618": {
+        "adp": 78.47,
+        "minPick": 31,
+        "maxPick": 121,
+        "draftPct": 39
+      },
+      "16620": {
+        "adp": 135.35,
+        "minPick": 87,
+        "maxPick": 236,
+        "draftPct": 26
+      },
+      "16626": {
+        "adp": 195.6,
+        "minPick": 179,
+        "maxPick": 220,
+        "draftPct": 6
+      },
+      "16627": {
+        "adp": 46.93,
+        "minPick": 21,
+        "maxPick": 64,
+        "draftPct": 38
+      },
+      "16628": {
+        "adp": 153.75,
+        "minPick": 47,
+        "maxPick": 241,
+        "draftPct": 15
+      },
+      "16641": {
+        "adp": 22.42,
+        "minPick": 3,
+        "maxPick": 45,
+        "draftPct": 34
+      },
+      "16680": {
+        "adp": 123.25,
+        "minPick": 38,
+        "maxPick": 241,
+        "draftPct": 31
+      },
+      "16681": {
+        "adp": 176.3,
+        "minPick": 115,
+        "maxPick": 293,
+        "draftPct": 13
+      },
+      "16684": {
+        "adp": 119.15,
+        "minPick": 24,
+        "maxPick": 209,
+        "draftPct": 26
+      },
+      "16723": {
+        "adp": 157.14,
+        "minPick": 48,
+        "maxPick": 228,
+        "draftPct": 9
+      },
+      "16747": {
+        "adp": 131.7,
+        "minPick": 40,
+        "maxPick": 261,
+        "draftPct": 26
+      },
+      "16757": {
+        "adp": 197.2,
+        "minPick": 168,
+        "maxPick": 227,
+        "draftPct": 6
+      },
+      "16778": {
+        "adp": 142.36,
+        "minPick": 23,
+        "maxPick": 226,
+        "draftPct": 14
+      },
+      "16809": {
+        "adp": 142.5,
+        "minPick": 43,
+        "maxPick": 193,
+        "draftPct": 15
+      },
+      "16843": {
+        "adp": 136.19,
+        "minPick": 76,
+        "maxPick": 217,
+        "draftPct": 27
+      },
+      "16846": {
+        "adp": 131.68,
+        "minPick": 35,
+        "maxPick": 245,
+        "draftPct": 32
+      },
+      "17030": {
+        "adp": 115.81,
+        "minPick": 37,
+        "maxPick": 177,
+        "draftPct": 21
+      },
+      "17031": {
+        "adp": 149,
+        "minPick": 48,
+        "maxPick": 206,
+        "draftPct": 7
+      },
+      "17032": {
+        "adp": 76.03,
+        "minPick": 19,
+        "maxPick": 120,
+        "draftPct": 38
+      },
+      "17039": {
+        "adp": 103.95,
+        "minPick": 36,
+        "maxPick": 247,
+        "draftPct": 28
+      },
+      "17042": {
+        "adp": 14.93,
+        "minPick": 2,
+        "maxPick": 29,
+        "draftPct": 36
+      },
+      "17043": {
+        "adp": 56.62,
+        "minPick": 8,
+        "maxPick": 95,
+        "draftPct": 38
+      },
+      "17044": {
+        "adp": 20.14,
+        "minPick": 6,
+        "maxPick": 34,
+        "draftPct": 36
+      },
+      "17045": {
+        "adp": 37.24,
+        "minPick": 12,
+        "maxPick": 60,
+        "draftPct": 32
+      },
+      "17047": {
+        "adp": 144.22,
+        "minPick": 27,
+        "maxPick": 192,
+        "draftPct": 11
+      },
+      "17051": {
+        "adp": 56.69,
+        "minPick": 12,
+        "maxPick": 115,
+        "draftPct": 38
+      },
+      "17052": {
+        "adp": 57.43,
+        "minPick": 11,
+        "maxPick": 89,
+        "draftPct": 39
+      },
+      "17053": {
+        "adp": 140.39,
+        "minPick": 101,
+        "maxPick": 187,
+        "draftPct": 23
+      },
+      "17055": {
+        "adp": 99.25,
+        "minPick": 21,
+        "maxPick": 200,
+        "draftPct": 15
+      },
+      "17066": {
+        "adp": 109.11,
+        "minPick": 31,
+        "maxPick": 169,
+        "draftPct": 36
+      },
+      "17068": {
+        "adp": 91.89,
+        "minPick": 48,
+        "maxPick": 209,
+        "draftPct": 36
+      },
+      "17069": {
+        "adp": 155.86,
+        "minPick": 35,
+        "maxPick": 228,
+        "draftPct": 9
+      },
+      "17070": {
+        "adp": 68.65,
+        "minPick": 3,
+        "maxPick": 113,
+        "draftPct": 40
+      },
+      "17071": {
+        "adp": 43.42,
+        "minPick": 5,
+        "maxPick": 82,
+        "draftPct": 43
+      },
+      "17072": {
+        "adp": 187.17,
+        "minPick": 104,
+        "maxPick": 260,
+        "draftPct": 7
+      },
+      "17074": {
+        "adp": 137.82,
+        "minPick": 19,
+        "maxPick": 214,
+        "draftPct": 14
+      },
+      "17075": {
+        "adp": 130.68,
+        "minPick": 89,
+        "maxPick": 175,
+        "draftPct": 28
+      },
+      "17080": {
+        "adp": 176.8,
+        "minPick": 51,
+        "maxPick": 250,
+        "draftPct": 6
+      },
+      "17081": {
+        "adp": 39.11,
+        "minPick": 7,
+        "maxPick": 67,
+        "draftPct": 36
+      },
+      "17082": {
+        "adp": 161,
+        "minPick": 49,
+        "maxPick": 240,
+        "draftPct": 9
+      },
+      "17083": {
+        "adp": 130.5,
+        "minPick": 63,
+        "maxPick": 257,
+        "draftPct": 21
+      },
+      "17099": {
+        "adp": 138.14,
+        "minPick": 81,
+        "maxPick": 198,
+        "draftPct": 18
+      },
+      "17102": {
+        "adp": 48.94,
+        "minPick": 13,
+        "maxPick": 85,
+        "draftPct": 42
+      },
+      "17103": {
+        "adp": 74.39,
+        "minPick": 32,
+        "maxPick": 124,
+        "draftPct": 40
+      },
+      "17104": {
+        "adp": 39.17,
+        "minPick": 15,
+        "maxPick": 62,
+        "draftPct": 39
+      },
+      "17105": {
+        "adp": 151.38,
+        "minPick": 35,
+        "maxPick": 232,
+        "draftPct": 10
+      },
+      "17106": {
+        "adp": 178,
+        "minPick": 62,
+        "maxPick": 247,
+        "draftPct": 6
+      },
+      "17107": {
+        "adp": 161.12,
+        "minPick": 111,
+        "maxPick": 190,
+        "draftPct": 10
+      },
+      "17157": {
+        "adp": 178.4,
+        "minPick": 57,
+        "maxPick": 236,
+        "draftPct": 6
+      },
+      "17220": {
+        "adp": 143.5,
+        "minPick": 45,
+        "maxPick": 228,
+        "draftPct": 7
+      },
+      "17222": {
+        "adp": 150,
+        "minPick": 51,
+        "maxPick": 253,
+        "draftPct": 22
+      },
+      "17256": {
+        "adp": 116.62,
+        "minPick": 75,
+        "maxPick": 188,
+        "draftPct": 34
+      },
+      "17462": {
+        "adp": 36.3,
+        "minPick": 1,
+        "maxPick": 209,
+        "draftPct": 71
+      },
+      "17463": {
+        "adp": 28.67,
+        "minPick": 6,
+        "maxPick": 149,
+        "draftPct": 56
+      },
+      "17466": {
+        "adp": 39.59,
+        "minPick": 7,
+        "maxPick": 194,
+        "draftPct": 51
+      },
+      "17467": {
+        "adp": 58.91,
+        "minPick": 23,
+        "maxPick": 238,
+        "draftPct": 30
+      },
+      "17468": {
+        "adp": 50.59,
+        "minPick": 12,
+        "maxPick": 252,
+        "draftPct": 35
+      },
+      "17472": {
+        "adp": 12.45,
+        "minPick": 1,
+        "maxPick": 57,
+        "draftPct": 97
+      },
+      "17473": {
+        "adp": 34.45,
+        "minPick": 1,
+        "maxPick": 123,
+        "draftPct": 98
+      },
+      "17474": {
+        "adp": 37.84,
+        "minPick": 8,
+        "maxPick": 182,
+        "draftPct": 57
+      },
+      "17475": {
+        "adp": 58.05,
+        "minPick": 32,
+        "maxPick": 224,
+        "draftPct": 28
+      },
+      "17476": {
+        "adp": 39.96,
+        "minPick": 10,
+        "maxPick": 223,
+        "draftPct": 63
+      },
+      "17477": {
+        "adp": 43.33,
+        "minPick": 5,
+        "maxPick": 227,
+        "draftPct": 71
+      },
+      "17478": {
+        "adp": 40.11,
+        "minPick": 10,
+        "maxPick": 220,
+        "draftPct": 59
+      },
+      "17481": {
+        "adp": 43.93,
+        "minPick": 20,
+        "maxPick": 169,
+        "draftPct": 53
+      },
+      "17482": {
+        "adp": 51.12,
+        "minPick": 5,
+        "maxPick": 256,
+        "draftPct": 68
+      },
+      "17485": {
+        "adp": 47.23,
+        "minPick": 11,
+        "maxPick": 230,
+        "draftPct": 57
+      },
+      "17486": {
+        "adp": 62.88,
+        "minPick": 43,
+        "maxPick": 131,
+        "draftPct": 10
+      },
+      "17497": {
+        "adp": 30.88,
+        "minPick": 2,
+        "maxPick": 119,
+        "draftPct": 96
+      },
+      "17498": {
+        "adp": 42.22,
+        "minPick": 1,
+        "maxPick": 183,
+        "draftPct": 89
+      },
+      "17499": {
+        "adp": 44.76,
+        "minPick": 1,
+        "maxPick": 164,
+        "draftPct": 89
+      },
+      "17500": {
+        "adp": 38.83,
+        "minPick": 4,
+        "maxPick": 200,
+        "draftPct": 69
+      },
+      "17501": {
+        "adp": 49.53,
+        "minPick": 6,
+        "maxPick": 184,
+        "draftPct": 81
+      },
+      "17502": {
+        "adp": 24.52,
+        "minPick": 7,
+        "maxPick": 201,
+        "draftPct": 60
+      },
+      "17503": {
+        "adp": 35.11,
+        "minPick": 11,
+        "maxPick": 179,
+        "draftPct": 61
+      },
+      "17504": {
+        "adp": 47.58,
+        "minPick": 20,
+        "maxPick": 63,
+        "draftPct": 15
+      },
+      "17505": {
+        "adp": 47.94,
+        "minPick": 8,
+        "maxPick": 277,
+        "draftPct": 46
+      },
+      "17506": {
+        "adp": 29.52,
+        "minPick": 11,
+        "maxPick": 176,
+        "draftPct": 55
+      },
+      "17507": {
+        "adp": 41.62,
+        "minPick": 9,
+        "maxPick": 169,
+        "draftPct": 59
+      },
+      "17508": {
+        "adp": 51.76,
+        "minPick": 11,
+        "maxPick": 284,
+        "draftPct": 38
+      },
+      "17509": {
+        "adp": 54.77,
+        "minPick": 29,
+        "maxPick": 244,
+        "draftPct": 34
+      },
+      "17510": {
+        "adp": 52.12,
+        "minPick": 38,
+        "maxPick": 85,
+        "draftPct": 10
+      },
+      "17511": {
+        "adp": 35.45,
+        "minPick": 12,
+        "maxPick": 225,
+        "draftPct": 55
+      },
+      "17512": {
+        "adp": 45.12,
+        "minPick": 5,
+        "maxPick": 264,
+        "draftPct": 65
+      },
+      "17514": {
+        "adp": 47.73,
+        "minPick": 7,
+        "maxPick": 258,
+        "draftPct": 77
+      },
+      "17517": {
+        "adp": 41.04,
+        "minPick": 7,
+        "maxPick": 180,
+        "draftPct": 59
+      },
+      "17518": {
+        "adp": 58.93,
+        "minPick": 6,
+        "maxPick": 227,
+        "draftPct": 56
+      },
+      "17519": {
+        "adp": 57.38,
+        "minPick": 26,
+        "maxPick": 297,
+        "draftPct": 27
+      },
+      "17520": {
+        "adp": 42,
+        "minPick": 13,
+        "maxPick": 231,
+        "draftPct": 59
+      },
+      "17521": {
+        "adp": 47.38,
+        "minPick": 22,
+        "maxPick": 232,
+        "draftPct": 27
+      },
+      "17528": {
+        "adp": 60.33,
+        "minPick": 16,
+        "maxPick": 217,
+        "draftPct": 15
+      },
+      "17529": {
+        "adp": 38.25,
+        "minPick": 21,
+        "maxPick": 65,
+        "draftPct": 26
+      },
+      "17541": {
+        "adp": 68.88,
+        "minPick": 32,
+        "maxPick": 218,
+        "draftPct": 10
+      },
+      "17542": {
+        "adp": 48.9,
+        "minPick": 35,
+        "maxPick": 74,
+        "draftPct": 13
+      },
+      "17543": {
+        "adp": 40.08,
+        "minPick": 2,
+        "maxPick": 153,
+        "draftPct": 78
+      },
+      "17544": {
+        "adp": 27.04,
+        "minPick": 4,
+        "maxPick": 151,
+        "draftPct": 60
+      },
+      "17547": {
+        "adp": 40.25,
+        "minPick": 14,
+        "maxPick": 216,
+        "draftPct": 42
+      },
+      "17548": {
+        "adp": 42.41,
+        "minPick": 26,
+        "maxPick": 60,
+        "draftPct": 28
+      },
+      "17550": {
+        "adp": 30.95,
+        "minPick": 14,
+        "maxPick": 108,
+        "draftPct": 26
+      },
+      "17551": {
+        "adp": 25.15,
+        "minPick": 9,
+        "maxPick": 71,
+        "draftPct": 26
+      },
+      "17552": {
+        "adp": 47.8,
+        "minPick": 20,
+        "maxPick": 75,
+        "draftPct": 6
+      },
+      "17553": {
+        "adp": 49.6,
+        "minPick": 38,
+        "maxPick": 72,
+        "draftPct": 6
+      },
+      "17556": {
+        "adp": 19.55,
+        "minPick": 7,
+        "maxPick": 101,
+        "draftPct": 26
+      },
+      "17557": {
+        "adp": 20.43,
+        "minPick": 2,
+        "maxPick": 165,
+        "draftPct": 27
+      },
+      "17558": {
+        "adp": 21.5,
+        "minPick": 3,
+        "maxPick": 60,
+        "draftPct": 26
+      },
+      "17560": {
+        "adp": 46.69,
+        "minPick": 14,
+        "maxPick": 230,
+        "draftPct": 21
+      },
+      "17562": {
+        "adp": 43.92,
+        "minPick": 19,
+        "maxPick": 125,
+        "draftPct": 15
+      },
+      "17563": {
+        "adp": 27.14,
+        "minPick": 3,
+        "maxPick": 138,
+        "draftPct": 27
+      },
+      "17567": {
+        "adp": 50.98,
+        "minPick": 18,
+        "maxPick": 251,
+        "draftPct": 55
+      },
+      "17568": {
+        "adp": 36.92,
+        "minPick": 19,
+        "maxPick": 55,
+        "draftPct": 15
+      },
+      "17571": {
+        "adp": 39.5,
+        "minPick": 14,
+        "maxPick": 56,
+        "draftPct": 15
+      },
+      "17575": {
+        "adp": 41.22,
+        "minPick": 16,
+        "maxPick": 66,
+        "draftPct": 11
+      },
+      "17576": {
+        "adp": 33.4,
+        "minPick": 11,
+        "maxPick": 110,
+        "draftPct": 26
+      },
+      "17580": {
+        "adp": 38,
+        "minPick": 13,
+        "maxPick": 65,
+        "draftPct": 13
+      },
+      "17586": {
+        "adp": 36.42,
+        "minPick": 6,
+        "maxPick": 212,
+        "draftPct": 25
+      },
+      "17588": {
+        "adp": 50,
+        "minPick": 32,
+        "maxPick": 81,
+        "draftPct": 6
+      },
+      "17589": {
+        "adp": 41,
+        "minPick": 15,
+        "maxPick": 146,
+        "draftPct": 18
+      },
+      "17591": {
+        "adp": 41.91,
+        "minPick": 25,
+        "maxPick": 65,
+        "draftPct": 14
+      },
+      "17593": {
+        "adp": 47.2,
+        "minPick": 33,
+        "maxPick": 77,
+        "draftPct": 13
+      },
+      "17599": {
+        "adp": 43.19,
+        "minPick": 16,
+        "maxPick": 243,
+        "draftPct": 47
+      },
+      "17601": {
+        "adp": 46.21,
+        "minPick": 25,
+        "maxPick": 144,
+        "draftPct": 18
+      },
+      "17605": {
+        "adp": 95.2,
+        "minPick": 35,
+        "maxPick": 276,
+        "draftPct": 6
+      },
+      "17607": {
+        "adp": 35.05,
+        "minPick": 17,
+        "maxPick": 112,
+        "draftPct": 50
+      },
+      "17623": {
+        "adp": 46.12,
+        "minPick": 17,
+        "maxPick": 107,
+        "draftPct": 10
+      },
+      "17627": {
+        "adp": 50.12,
+        "minPick": 35,
+        "maxPick": 70,
+        "draftPct": 10
+      },
+      "17629": {
+        "adp": 51.23,
+        "minPick": 25,
+        "maxPick": 162,
+        "draftPct": 17
+      },
+      "17644": {
+        "adp": 52.8,
+        "minPick": 35,
+        "maxPick": 73,
+        "draftPct": 6
+      },
+      "17648": {
+        "adp": 48,
+        "minPick": 41,
+        "maxPick": 68,
+        "draftPct": 6
+      },
+      "17652": {
+        "adp": 41.87,
+        "minPick": 20,
+        "maxPick": 197,
+        "draftPct": 39
+      },
+      "17654": {
+        "adp": 52.8,
+        "minPick": 40,
+        "maxPick": 69,
+        "draftPct": 6
+      },
+      "17657": {
+        "adp": 48,
+        "minPick": 36,
+        "maxPick": 67,
+        "draftPct": 9
+      },
+      "17665": {
+        "adp": 30.4,
+        "minPick": 17,
+        "maxPick": 41,
+        "draftPct": 6
+      },
+      "17668": {
+        "adp": 95.7,
+        "minPick": 25,
+        "maxPick": 221,
+        "draftPct": 13
+      },
+      "17685": {
+        "adp": 47.44,
+        "minPick": 29,
+        "maxPick": 61,
+        "draftPct": 11
+      },
+      "17706": {
+        "adp": 44.88,
+        "minPick": 27,
+        "maxPick": 66,
+        "draftPct": 10
+      },
+      "17713": {
+        "adp": 96.71,
+        "minPick": 37,
+        "maxPick": 299,
+        "draftPct": 9
+      },
+      "0532": {
+        "adp": 87.67,
+        "minPick": 24,
+        "maxPick": 166,
+        "draftPct": 27
+      },
+      "0515": {
+        "adp": 94.83,
+        "minPick": 28,
+        "maxPick": 184,
+        "draftPct": 31
+      },
+      "0511": {
+        "adp": 101.95,
+        "minPick": 31,
+        "maxPick": 179,
+        "draftPct": 27
+      },
+      "0528": {
+        "adp": 104.09,
+        "minPick": 36,
+        "maxPick": 181,
+        "draftPct": 30
+      },
+      "0523": {
+        "adp": 110.2,
+        "minPick": 36,
+        "maxPick": 179,
+        "draftPct": 6
+      },
+      "0510": {
+        "adp": 111.72,
+        "minPick": 3,
+        "maxPick": 185,
+        "draftPct": 23
+      },
+      "0524": {
+        "adp": 126.88,
+        "minPick": 44,
+        "maxPick": 247,
+        "draftPct": 22
+      },
+      "0530": {
+        "adp": 127.22,
+        "minPick": 40,
+        "maxPick": 263,
+        "draftPct": 11
+      },
+      "0504": {
+        "adp": 129.05,
+        "minPick": 63,
+        "maxPick": 235,
+        "draftPct": 27
+      },
+      "0507": {
+        "adp": 132.23,
+        "minPick": 101,
+        "maxPick": 185,
+        "draftPct": 17
+      },
+      "0518": {
+        "adp": 133.59,
+        "minPick": 47,
+        "maxPick": 234,
+        "draftPct": 28
+      },
+      "0514": {
+        "adp": 134.55,
+        "minPick": 78,
+        "maxPick": 272,
+        "draftPct": 26
+      },
+      "0522": {
+        "adp": 140.31,
+        "minPick": 86,
+        "maxPick": 227,
+        "draftPct": 21
+      },
+      "0531": {
+        "adp": 141.65,
+        "minPick": 39,
+        "maxPick": 239,
+        "draftPct": 26
+      },
+      "0509": {
+        "adp": 143.81,
+        "minPick": 26,
+        "maxPick": 271,
+        "draftPct": 21
+      },
+      "0501": {
+        "adp": 144.38,
+        "minPick": 71,
+        "maxPick": 245,
+        "draftPct": 10
+      },
+      "0512": {
+        "adp": 151.2,
+        "minPick": 124,
+        "maxPick": 177,
+        "draftPct": 6
+      },
+      "0529": {
+        "adp": 155.8,
+        "minPick": 108,
+        "maxPick": 189,
+        "draftPct": 6
+      }
+    },
+    "meta": {
+      "count": 320,
+      "period": "RECENT",
+      "teams": 10,
+      "ppr": true,
+      "keeper": false,
+      "mock": false,
+      "cutoff": 5
+    }
+  }
+}
