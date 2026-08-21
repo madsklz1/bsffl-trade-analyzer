@@ -1,3587 +1,3612 @@
 {
-  "savedAt": "2026-08-19T01:31:25.764Z",
+  "savedAt": "2026-08-21T12:52:15.864Z",
   "data": {
     "players": {
       "7836": {
         "name": "Aaron Rodgers",
         "position": "QB",
-        "redraft": 64,
-        "redraftRank": 166,
-        "trend30Day": 42,
-        "dynasty": 727,
-        "dynastyRank": 228
+        "redraft": 75,
+        "redraftRank": 168,
+        "trend30Day": -19,
+        "dynasty": 688,
+        "dynastyRank": 230
       },
       "9064": {
         "name": "Joe Flacco",
         "position": "QB",
-        "dynasty": 223,
-        "dynastyRank": 294,
-        "trend30Day": 62
+        "dynasty": 138,
+        "dynastyRank": 325,
+        "trend30Day": 6
       },
       "9431": {
         "name": "Matthew Stafford",
         "position": "QB",
-        "redraft": 1100,
-        "redraftRank": 94,
-        "trend30Day": -39,
-        "dynasty": 1527,
-        "dynastyRank": 139
-      },
-      "10313": {
-        "name": "Andy Dalton",
-        "position": "QB",
-        "dynasty": 13,
-        "dynastyRank": 386,
-        "trend30Day": -6
+        "redraft": 1333,
+        "redraftRank": 86,
+        "trend30Day": -30,
+        "dynasty": 1488,
+        "dynastyRank": 145
       },
       "10413": {
         "name": "Tyrod Taylor",
         "position": "QB",
-        "dynasty": 7,
-        "dynastyRank": 390,
-        "trend30Day": -58
+        "dynasty": 22,
+        "dynastyRank": 388,
+        "trend30Day": -7
       },
       "10700": {
         "name": "Kirk Cousins",
         "position": "QB",
-        "redraft": 24,
-        "redraftRank": 178,
-        "trend30Day": 90,
-        "dynasty": 655,
-        "dynastyRank": 240
+        "redraft": 42,
+        "redraftRank": 177,
+        "trend30Day": 33,
+        "dynasty": 635,
+        "dynastyRank": 237
       },
       "11150": {
         "name": "Geno Smith",
         "position": "QB",
-        "redraft": 29,
-        "redraftRank": 176,
-        "trend30Day": -77,
-        "dynasty": 715,
-        "dynastyRank": 232
+        "redraft": 39,
+        "redraftRank": 178,
+        "trend30Day": -89,
+        "dynasty": 687,
+        "dynastyRank": 231
       },
       "11222": {
         "name": "Keenan Allen",
         "position": "WR",
-        "dynasty": 863,
-        "dynastyRank": 209,
-        "trend30Day": 706
+        "redraft": 152,
+        "redraftRank": 155,
+        "trend30Day": 871,
+        "dynasty": 1097,
+        "dynastyRank": 200
       },
       "11244": {
         "name": "Travis Kelce",
         "position": "TE",
-        "redraft": 1335,
-        "redraftRank": 87,
-        "trend30Day": 7,
-        "dynasty": 1478,
-        "dynastyRank": 142
+        "redraft": 1281,
+        "redraftRank": 90,
+        "trend30Day": -27,
+        "dynasty": 1496,
+        "dynastyRank": 144
+      },
+      "11247": {
+        "name": "Zach Ertz",
+        "position": "TE",
+        "dynasty": 49,
+        "dynastyRank": 371,
+        "trend30Day": -33
       },
       "11671": {
         "name": "Mike Evans",
         "position": "WR",
-        "redraft": 2272,
-        "redraftRank": 61,
-        "trend30Day": -92,
-        "dynasty": 1832,
-        "dynastyRank": 106
+        "redraft": 2157,
+        "redraftRank": 65,
+        "trend30Day": -126,
+        "dynasty": 1890,
+        "dynastyRank": 103
       },
       "11675": {
         "name": "Davante Adams",
         "position": "WR",
-        "redraft": 2723,
-        "redraftRank": 55,
-        "trend30Day": 28,
-        "dynasty": 2100,
-        "dynastyRank": 90
+        "redraft": 2795,
+        "redraftRank": 54,
+        "trend30Day": 185,
+        "dynasty": 2216,
+        "dynastyRank": 82
       },
       "11679": {
         "name": "Odell Beckham",
         "position": "WR",
-        "dynasty": 179,
-        "dynastyRank": 308,
-        "trend30Day": -17
+        "dynasty": 137,
+        "dynastyRank": 326,
+        "trend30Day": 26
       },
       "12140": {
         "name": "Jameis Winston",
         "position": "QB",
-        "dynasty": 158,
-        "dynastyRank": 316,
-        "trend30Day": 45
+        "dynasty": 120,
+        "dynastyRank": 333,
+        "trend30Day": -22
       },
       "12141": {
         "name": "Marcus Mariota",
         "position": "QB",
-        "dynasty": 114,
-        "dynastyRank": 331,
-        "trend30Day": 6
+        "dynasty": 137,
+        "dynastyRank": 327,
+        "trend30Day": -4
       },
       "12186": {
         "name": "Stefon Diggs",
         "position": "WR",
-        "redraft": 1035,
-        "redraftRank": 97,
-        "trend30Day": 119,
-        "dynasty": 1363,
-        "dynastyRank": 162
+        "redraft": 932,
+        "redraftRank": 104,
+        "trend30Day": 248,
+        "dynasty": 1525,
+        "dynastyRank": 141
       },
       "12263": {
         "name": "Darren Waller",
         "position": "TE",
-        "dynasty": 581,
+        "dynasty": 570,
         "dynastyRank": 248,
-        "trend30Day": 516
+        "trend30Day": 519
       },
       "12610": {
         "name": "Carson Wentz",
         "position": "QB",
-        "dynasty": 6,
-        "dynastyRank": 391,
-        "trend30Day": 7
+        "dynasty": 25,
+        "dynastyRank": 382,
+        "trend30Day": 28
       },
       "12611": {
         "name": "Jared Goff",
         "position": "QB",
-        "redraft": 672,
-        "redraftRank": 117,
-        "trend30Day": -11,
-        "dynasty": 1745,
-        "dynastyRank": 117
+        "redraft": 950,
+        "redraftRank": 101,
+        "trend30Day": 133,
+        "dynasty": 1904,
+        "dynastyRank": 101
       },
       "12616": {
         "name": "Jacoby Brissett",
         "position": "QB",
-        "redraft": 60,
-        "redraftRank": 167,
-        "trend30Day": -32,
-        "dynasty": 748,
-        "dynastyRank": 225
+        "redraft": 63,
+        "redraftRank": 169,
+        "trend30Day": -24,
+        "dynasty": 722,
+        "dynastyRank": 224
       },
       "12620": {
         "name": "Dak Prescott",
         "position": "QB",
-        "redraft": 1573,
-        "redraftRank": 80,
-        "trend30Day": -64,
-        "dynasty": 2106,
-        "dynastyRank": 89
+        "redraft": 1802,
+        "redraftRank": 75,
+        "trend30Day": 37,
+        "dynasty": 2098,
+        "dynastyRank": 88
       },
       "12626": {
         "name": "Derrick Henry",
         "position": "RB",
-        "redraft": 5659,
-        "redraftRank": 22,
-        "trend30Day": 392,
-        "dynasty": 3482,
-        "dynastyRank": 48
+        "redraft": 5906,
+        "redraftRank": 19,
+        "trend30Day": 167,
+        "dynasty": 3334,
+        "dynastyRank": 55
       },
       "12676": {
         "name": "Hunter Henry",
         "position": "TE",
-        "redraft": 249,
-        "redraftRank": 141,
-        "trend30Day": 80,
-        "dynasty": 1218,
-        "dynastyRank": 183
+        "redraft": 280,
+        "redraftRank": 137,
+        "trend30Day": -13,
+        "dynasty": 1147,
+        "dynastyRank": 195
       },
       "12801": {
         "name": "Tyreek Hill",
         "position": "WR",
-        "dynasty": 616,
-        "dynastyRank": 246,
-        "trend30Day": -535
+        "dynasty": 768,
+        "dynastyRank": 217,
+        "trend30Day": -295
       },
       "13113": {
         "name": "Deshaun Watson",
         "position": "QB",
-        "dynasty": 648,
-        "dynastyRank": 241,
-        "trend30Day": -13
+        "dynasty": 636,
+        "dynastyRank": 235,
+        "trend30Day": -23
       },
       "13116": {
         "name": "Patrick Mahomes",
         "position": "QB",
-        "redraft": 1944,
-        "redraftRank": 71,
-        "trend30Day": -169,
-        "dynasty": 2801,
-        "dynastyRank": 66
+        "redraft": 1924,
+        "redraftRank": 72,
+        "trend30Day": -186,
+        "dynasty": 2816,
+        "dynastyRank": 69
+      },
+      "13119": {
+        "name": "Joshua Dobbs",
+        "position": "QB",
+        "dynasty": 18,
+        "dynastyRank": 394,
+        "trend30Day": 20
       },
       "13130": {
         "name": "Christian McCaffrey",
         "position": "RB",
-        "redraft": 8800,
-        "redraftRank": 5,
-        "trend30Day": 142,
-        "dynasty": 4836,
-        "dynastyRank": 21
-      },
-      "13131": {
-        "name": "Joe Mixon",
-        "position": "RB",
-        "dynasty": 36,
-        "dynastyRank": 374,
-        "trend30Day": -294
+        "redraft": 9046,
+        "redraftRank": 4,
+        "trend30Day": 135,
+        "dynasty": 4816,
+        "dynastyRank": 22
       },
       "13132": {
         "name": "Alvin Kamara",
         "position": "RB",
-        "redraft": 163,
-        "redraftRank": 152,
-        "trend30Day": 69,
-        "dynasty": 1283,
-        "dynastyRank": 177
+        "redraft": 138,
+        "redraftRank": 158,
+        "trend30Day": 19,
+        "dynasty": 1284,
+        "dynastyRank": 176
       },
       "13133": {
         "name": "Samaje Perine",
         "position": "RB",
-        "dynasty": 125,
-        "dynastyRank": 326,
-        "trend30Day": -30
+        "dynasty": 156,
+        "dynastyRank": 318,
+        "trend30Day": 37
+      },
+      "13138": {
+        "name": "Kareem Hunt",
+        "position": "RB",
+        "dynasty": 74,
+        "dynastyRank": 350,
+        "trend30Day": -12
       },
       "13146": {
         "name": "James Conner",
         "position": "RB",
-        "dynasty": 687,
-        "dynastyRank": 234,
-        "trend30Day": -81
+        "dynasty": 617,
+        "dynastyRank": 243,
+        "trend30Day": 40
       },
       "13163": {
         "name": "Chris Godwin",
         "position": "WR",
-        "redraft": 845,
-        "redraftRank": 110,
-        "trend30Day": 78,
-        "dynasty": 1600,
-        "dynastyRank": 135
+        "redraft": 925,
+        "redraftRank": 106,
+        "trend30Day": -19,
+        "dynasty": 1617,
+        "dynastyRank": 131
       },
       "13164": {
         "name": "Cooper Kupp",
         "position": "WR",
-        "dynasty": 665,
-        "dynastyRank": 238,
-        "trend30Day": 68
+        "dynasty": 598,
+        "dynastyRank": 245,
+        "trend30Day": -99
       },
       "13189": {
         "name": "Evan Engram",
         "position": "TE",
-        "dynasty": 509,
-        "dynastyRank": 256,
-        "trend30Day": -23
+        "dynasty": 461,
+        "dynastyRank": 259,
+        "trend30Day": -84
       },
       "13192": {
         "name": "David Njoku",
         "position": "TE",
-        "dynasty": 804,
-        "dynastyRank": 217,
-        "trend30Day": -140
+        "dynasty": 635,
+        "dynastyRank": 236,
+        "trend30Day": -404
+      },
+      "13193": {
+        "name": "Jonnu Smith",
+        "position": "TE",
+        "dynasty": 48,
+        "dynastyRank": 373,
+        "trend30Day": 51
       },
       "13289": {
         "name": "Mack Hollins",
         "position": "WR",
-        "dynasty": 24,
-        "dynastyRank": 379,
-        "trend30Day": 25
+        "dynasty": 33,
+        "dynastyRank": 377,
+        "trend30Day": 38
       },
       "13299": {
         "name": "George Kittle",
         "position": "TE",
-        "redraft": 1389,
-        "redraftRank": 84,
-        "trend30Day": -21,
-        "dynasty": 1970,
-        "dynastyRank": 97
+        "redraft": 1468,
+        "redraftRank": 83,
+        "trend30Day": 105,
+        "dynasty": 2064,
+        "dynastyRank": 94
       },
       "13319": {
         "name": "Aaron Jones",
         "position": "RB",
-        "redraft": 779,
-        "redraftRank": 113,
-        "trend30Day": 3,
-        "dynasty": 1357,
-        "dynastyRank": 163
+        "redraft": 465,
+        "redraftRank": 127,
+        "trend30Day": -48,
+        "dynasty": 1317,
+        "dynastyRank": 173
+      },
+      "13404": {
+        "name": "Austin Ekeler",
+        "position": "RB",
+        "dynasty": 19,
+        "dynastyRank": 392,
+        "trend30Day": -59
       },
       "13418": {
         "name": "Kendrick Bourne",
         "position": "WR",
-        "dynasty": 67,
-        "dynastyRank": 353,
-        "trend30Day": -20
+        "dynasty": 24,
+        "dynastyRank": 386,
+        "trend30Day": -27
       },
       "13589": {
         "name": "Josh Allen",
         "position": "QB",
-        "redraft": 5974,
-        "redraftRank": 19,
-        "trend30Day": 41,
-        "dynasty": 5265,
+        "redraft": 5688,
+        "redraftRank": 20,
+        "trend30Day": -53,
+        "dynasty": 5309,
         "dynastyRank": 19
       },
       "13590": {
         "name": "Baker Mayfield",
         "position": "QB",
-        "redraft": 943,
-        "redraftRank": 99,
-        "trend30Day": 6,
-        "dynasty": 1687,
-        "dynastyRank": 126
+        "redraft": 1053,
+        "redraftRank": 96,
+        "trend30Day": 37,
+        "dynasty": 1734,
+        "dynastyRank": 118
       },
       "13592": {
         "name": "Sam Darnold",
         "position": "QB",
-        "redraft": 263,
-        "redraftRank": 138,
-        "trend30Day": -14,
-        "dynasty": 1461,
-        "dynastyRank": 144
+        "redraft": 305,
+        "redraftRank": 136,
+        "trend30Day": 97,
+        "dynasty": 1581,
+        "dynastyRank": 138
       },
       "13593": {
         "name": "Lamar Jackson",
         "position": "QB",
-        "redraft": 4272,
+        "redraft": 4463,
         "redraftRank": 32,
-        "trend30Day": 10,
-        "dynasty": 3823,
-        "dynastyRank": 37
+        "trend30Day": 51,
+        "dynasty": 3804,
+        "dynastyRank": 39
       },
       "13604": {
         "name": "Saquon Barkley",
         "position": "RB",
-        "redraft": 6643,
-        "redraftRank": 16,
-        "trend30Day": -214,
-        "dynasty": 4067,
-        "dynastyRank": 32
+        "redraft": 6596,
+        "redraftRank": 15,
+        "trend30Day": 101,
+        "dynasty": 4483,
+        "dynastyRank": 27
       },
       "13610": {
         "name": "Nick Chubb",
         "position": "RB",
-        "dynasty": 51,
-        "dynastyRank": 363,
-        "trend30Day": 15
+        "dynasty": 29,
+        "dynastyRank": 381,
+        "trend30Day": -7
       },
       "13629": {
         "name": "Calvin Ridley",
         "position": "WR",
-        "dynasty": 580,
+        "dynasty": 564,
         "dynastyRank": 249,
-        "trend30Day": -127
+        "trend30Day": -161
       },
       "13630": {
         "name": "Courtland Sutton",
         "position": "WR",
-        "redraft": 880,
-        "redraftRank": 107,
-        "trend30Day": 75,
-        "dynasty": 1647,
-        "dynastyRank": 134
+        "redraft": 901,
+        "redraftRank": 108,
+        "trend30Day": 32,
+        "dynasty": 1613,
+        "dynastyRank": 132
       },
       "13633": {
         "name": "Christian Kirk",
         "position": "WR",
-        "dynasty": 255,
-        "dynastyRank": 290,
-        "trend30Day": -61
+        "dynasty": 275,
+        "dynastyRank": 286,
+        "trend30Day": -83
       },
       "13635": {
         "name": "DJ Moore",
         "position": "WR",
-        "redraft": 2215,
-        "redraftRank": 64,
-        "trend30Day": 139,
-        "dynasty": 2422,
-        "dynastyRank": 78
+        "redraft": 2379,
+        "redraftRank": 60,
+        "trend30Day": 251,
+        "dynasty": 2520,
+        "dynastyRank": 77
       },
       "13671": {
         "name": "Mark Andrews",
         "position": "TE",
-        "redraft": 656,
-        "redraftRank": 118,
-        "trend30Day": -68,
-        "dynasty": 1424,
-        "dynastyRank": 147
+        "redraft": 715,
+        "redraftRank": 116,
+        "trend30Day": 129,
+        "dynasty": 1510,
+        "dynastyRank": 143
       },
       "13672": {
         "name": "Mike Gesicki",
         "position": "TE",
-        "dynasty": 225,
-        "dynastyRank": 293,
-        "trend30Day": -28
+        "dynasty": 212,
+        "dynastyRank": 298,
+        "trend30Day": -111
       },
       "13674": {
         "name": "Dallas Goedert",
         "position": "TE",
-        "redraft": 424,
-        "redraftRank": 129,
-        "trend30Day": 205,
-        "dynasty": 1477,
-        "dynastyRank": 143
+        "redraft": 368,
+        "redraftRank": 133,
+        "trend30Day": 30,
+        "dynasty": 1375,
+        "dynastyRank": 165
       },
       "13772": {
         "name": "Dalton Schultz",
         "position": "TE",
-        "redraft": 47,
-        "redraftRank": 171,
-        "trend30Day": -262,
-        "dynasty": 787,
-        "dynastyRank": 223
+        "redraft": 108,
+        "redraftRank": 164,
+        "trend30Day": 91,
+        "dynasty": 1116,
+        "dynastyRank": 198
       },
       "14056": {
         "name": "Kyler Murray",
         "position": "QB",
-        "redraft": 576,
-        "redraftRank": 121,
-        "trend30Day": 171,
-        "dynasty": 1651,
-        "dynastyRank": 132
+        "redraft": 824,
+        "redraftRank": 112,
+        "trend30Day": 167,
+        "dynasty": 1595,
+        "dynastyRank": 137
       },
       "14059": {
         "name": "Daniel Jones",
         "position": "QB",
-        "redraft": 165,
-        "redraftRank": 151,
-        "trend30Day": -9,
-        "dynasty": 1215,
-        "dynastyRank": 185
+        "redraft": 177,
+        "redraftRank": 152,
+        "trend30Day": 17,
+        "dynasty": 1277,
+        "dynastyRank": 179
       },
       "14063": {
         "name": "Jarrett Stidham",
         "position": "QB",
-        "dynasty": 11,
-        "dynastyRank": 388,
-        "trend30Day": 12
+        "dynasty": 15,
+        "dynastyRank": 395,
+        "trend30Day": 17
       },
       "14067": {
         "name": "Gardner Minshew",
         "position": "QB",
-        "dynasty": 28,
-        "dynastyRank": 377,
-        "trend30Day": -64
+        "dynasty": 55,
+        "dynastyRank": 365,
+        "trend30Day": -40
       },
       "14071": {
         "name": "David Montgomery",
         "position": "RB",
-        "redraft": 3255,
-        "redraftRank": 45,
-        "trend30Day": 93,
-        "dynasty": 2543,
-        "dynastyRank": 76
+        "redraft": 3134,
+        "redraftRank": 50,
+        "trend30Day": 173,
+        "dynasty": 2645,
+        "dynastyRank": 72
       },
       "14073": {
         "name": "Josh Jacobs",
         "position": "RB",
-        "redraft": 4837,
-        "redraftRank": 28,
-        "trend30Day": -32,
-        "dynasty": 3054,
-        "dynastyRank": 59
+        "redraft": 4853,
+        "redraftRank": 29,
+        "trend30Day": 82,
+        "dynasty": 3140,
+        "dynastyRank": 58
       },
       "14080": {
         "name": "Devin Singletary",
         "position": "RB",
-        "dynasty": 114,
-        "dynastyRank": 332,
-        "trend30Day": -33
+        "dynasty": 69,
+        "dynastyRank": 356,
+        "trend30Day": -48
       },
       "14085": {
         "name": "Tony Pollard",
         "position": "RB",
-        "redraft": 1160,
-        "redraftRank": 92,
-        "trend30Day": -157,
-        "dynasty": 1660,
-        "dynastyRank": 129
+        "redraft": 1325,
+        "redraftRank": 87,
+        "trend30Day": -122,
+        "dynasty": 1708,
+        "dynastyRank": 123
       },
       "14086": {
         "name": "Justice Hill",
         "position": "RB",
-        "dynasty": 331,
-        "dynastyRank": 279,
-        "trend30Day": 0
-      },
-      "14095": {
-        "name": "Ty Johnson",
-        "position": "RB",
-        "dynasty": 82,
-        "dynastyRank": 349,
-        "trend30Day": 1
+        "dynasty": 231,
+        "dynastyRank": 293,
+        "trend30Day": -32
       },
       "14102": {
         "name": "DK Metcalf",
         "position": "WR",
-        "redraft": 1377,
-        "redraftRank": 85,
-        "trend30Day": -12,
-        "dynasty": 1924,
-        "dynastyRank": 101
+        "redraft": 1232,
+        "redraftRank": 92,
+        "trend30Day": -117,
+        "dynasty": 1896,
+        "dynastyRank": 102
       },
       "14104": {
         "name": "A.J. Brown",
         "position": "WR",
-        "redraft": 5656,
-        "redraftRank": 23,
-        "trend30Day": -73,
-        "dynasty": 3802,
-        "dynastyRank": 39
+        "redraft": 5625,
+        "redraftRank": 21,
+        "trend30Day": -159,
+        "dynasty": 3825,
+        "dynastyRank": 36
       },
       "14105": {
         "name": "Marquise Brown",
         "position": "WR",
-        "dynasty": 212,
-        "dynastyRank": 299,
-        "trend30Day": -14
+        "dynasty": 161,
+        "dynastyRank": 315,
+        "trend30Day": -52
+      },
+      "14108": {
+        "name": "Greg Dortch",
+        "position": "WR",
+        "dynasty": 11,
+        "dynastyRank": 397,
+        "trend30Day": -20
       },
       "14109": {
         "name": "Terry McLaurin",
         "position": "WR",
-        "redraft": 2443,
-        "redraftRank": 59,
-        "trend30Day": -25,
-        "dynasty": 2119,
-        "dynastyRank": 87
+        "redraft": 2350,
+        "redraftRank": 61,
+        "trend30Day": 19,
+        "dynasty": 2181,
+        "dynastyRank": 84
       },
       "14122": {
         "name": "Darius Slayton",
         "position": "WR",
-        "dynasty": 61,
-        "dynastyRank": 357,
-        "trend30Day": -152
+        "dynasty": 142,
+        "dynastyRank": 324,
+        "trend30Day": 4
       },
       "14127": {
         "name": "Jakobi Meyers",
         "position": "WR",
-        "redraft": 437,
-        "redraftRank": 126,
-        "trend30Day": -201,
-        "dynasty": 1307,
-        "dynastyRank": 173
+        "redraft": 412,
+        "redraftRank": 130,
+        "trend30Day": -84,
+        "dynasty": 1399,
+        "dynastyRank": 156
       },
       "14136": {
         "name": "Deebo Samuel",
         "position": "WR",
-        "redraft": 529,
-        "redraftRank": 123,
-        "trend30Day": 341,
-        "dynasty": 1241,
-        "dynastyRank": 180
+        "redraft": 495,
+        "redraftRank": 124,
+        "trend30Day": 527,
+        "dynasty": 1215,
+        "dynastyRank": 187
+      },
+      "14137": {
+        "name": "Noah Fant",
+        "position": "TE",
+        "dynasty": 43,
+        "dynastyRank": 375,
+        "trend30Day": -12
       },
       "14138": {
         "name": "T.J. Hockenson",
         "position": "TE",
-        "redraft": 176,
+        "redraft": 182,
         "redraftRank": 150,
-        "trend30Day": 39,
-        "dynasty": 1335,
-        "dynastyRank": 168
+        "trend30Day": 76,
+        "dynasty": 1368,
+        "dynastyRank": 166
       },
       "14143": {
         "name": "Dawson Knox",
         "position": "TE",
-        "dynasty": 124,
-        "dynastyRank": 327,
-        "trend30Day": 89
+        "dynasty": 132,
+        "dynastyRank": 329,
+        "trend30Day": 6
       },
       "14358": {
         "name": "Jake Browning",
         "position": "QB",
-        "dynasty": 2,
-        "dynastyRank": 395,
-        "trend30Day": 3
+        "dynasty": 30,
+        "dynastyRank": 380,
+        "trend30Day": 35
       },
       "14592": {
         "name": "Olamide Zaccheaus",
         "position": "WR",
-        "dynasty": 73,
-        "dynastyRank": 352,
-        "trend30Day": 28
+        "dynasty": 60,
+        "dynastyRank": 362,
+        "trend30Day": -49
       },
       "14777": {
         "name": "Joe Burrow",
         "position": "QB",
-        "redraft": 3257,
-        "redraftRank": 44,
-        "trend30Day": 40,
-        "dynasty": 3475,
-        "dynastyRank": 50
+        "redraft": 3240,
+        "redraftRank": 47,
+        "trend30Day": 171,
+        "dynasty": 3613,
+        "dynastyRank": 43
       },
       "14778": {
         "name": "Tua Tagovailoa",
         "position": "QB",
-        "redraft": 47,
-        "redraftRank": 172,
-        "trend30Day": -54,
-        "dynasty": 798,
-        "dynastyRank": 219
+        "redraft": 53,
+        "redraftRank": 173,
+        "trend30Day": -9,
+        "dynasty": 838,
+        "dynastyRank": 214
       },
       "14779": {
         "name": "Justin Herbert",
         "position": "QB",
-        "redraft": 2134,
-        "redraftRank": 65,
-        "trend30Day": -2,
-        "dynasty": 3072,
-        "dynastyRank": 58
+        "redraft": 2229,
+        "redraftRank": 64,
+        "trend30Day": -33,
+        "dynasty": 3043,
+        "dynastyRank": 60
       },
       "14782": {
         "name": "Jordan Love",
         "position": "QB",
-        "redraft": 890,
-        "redraftRank": 106,
-        "trend30Day": -7,
-        "dynasty": 2135,
-        "dynastyRank": 86
+        "redraft": 931,
+        "redraftRank": 105,
+        "trend30Day": -54,
+        "dynasty": 2093,
+        "dynastyRank": 91
       },
       "14783": {
         "name": "Jalen Hurts",
         "position": "QB",
-        "redraft": 2661,
-        "redraftRank": 56,
-        "trend30Day": -79,
-        "dynasty": 2744,
-        "dynastyRank": 69
+        "redraft": 2597,
+        "redraftRank": 57,
+        "trend30Day": 121,
+        "dynasty": 2959,
+        "dynastyRank": 64
+      },
+      "14789": {
+        "name": "Tyler Huntley",
+        "position": "QB",
+        "dynasty": 48,
+        "dynastyRank": 372,
+        "trend30Day": -8
       },
       "14797": {
         "name": "D'Andre Swift",
         "position": "RB",
-        "redraft": 2864,
-        "redraftRank": 52,
-        "trend30Day": 150,
-        "dynasty": 2615,
-        "dynastyRank": 72
+        "redraft": 2744,
+        "redraftRank": 55,
+        "trend30Day": 194,
+        "dynasty": 2684,
+        "dynastyRank": 71
       },
       "14800": {
         "name": "J.K. Dobbins",
         "position": "RB",
-        "redraft": 1084,
-        "redraftRank": 96,
-        "trend30Day": -42,
-        "dynasty": 1698,
-        "dynastyRank": 124
+        "redraft": 1035,
+        "redraftRank": 97,
+        "trend30Day": -57,
+        "dynasty": 1688,
+        "dynastyRank": 125
       },
       "14802": {
         "name": "Jonathan Taylor",
         "position": "RB",
-        "redraft": 8254,
+        "redraft": 8088,
         "redraftRank": 7,
-        "trend30Day": 370,
-        "dynasty": 6123,
+        "trend30Day": 358,
+        "dynasty": 6161,
         "dynastyRank": 15
       },
-      "14817": {
-        "name": "Patrick Taylor",
+      "14805": {
+        "name": "AJ Dillon",
         "position": "RB",
-        "dynasty": 3,
-        "dynastyRank": 393,
-        "trend30Day": 3
+        "dynasty": 21,
+        "dynastyRank": 390,
+        "trend30Day": 25
       },
       "14823": {
         "name": "Rico Dowdle",
         "position": "RB",
-        "redraft": 1538,
-        "redraftRank": 81,
-        "trend30Day": -138,
-        "dynasty": 1776,
-        "dynastyRank": 112
+        "redraft": 1659,
+        "redraftRank": 78,
+        "trend30Day": -67,
+        "dynasty": 1757,
+        "dynastyRank": 117
       },
       "14832": {
         "name": "CeeDee Lamb",
         "position": "WR",
-        "redraft": 7379,
+        "redraft": 7462,
         "redraftRank": 11,
-        "trend30Day": 68,
-        "dynasty": 6318,
+        "trend30Day": 141,
+        "dynasty": 6415,
         "dynastyRank": 14
       },
       "14833": {
         "name": "Jerry Jeudy",
         "position": "WR",
-        "redraft": 18,
-        "redraftRank": 182,
-        "trend30Day": -146,
-        "dynasty": 1026,
-        "dynastyRank": 200
+        "redraft": 22,
+        "redraftRank": 183,
+        "trend30Day": -162,
+        "dynasty": 986,
+        "dynastyRank": 203
       },
       "14835": {
         "name": "Tee Higgins",
         "position": "WR",
-        "redraft": 4037,
-        "redraftRank": 33,
-        "trend30Day": 319,
-        "dynasty": 3427,
-        "dynastyRank": 54
+        "redraft": 4203,
+        "redraftRank": 34,
+        "trend30Day": 242,
+        "dynasty": 3514,
+        "dynastyRank": 47
       },
       "14836": {
         "name": "Justin Jefferson",
         "position": "WR",
-        "redraft": 7344,
+        "redraft": 7193,
         "redraftRank": 12,
-        "trend30Day": -183,
-        "dynasty": 6742,
-        "dynastyRank": 10
+        "trend30Day": -245,
+        "dynasty": 6675,
+        "dynastyRank": 11
       },
       "14840": {
         "name": "Brandon Aiyuk",
         "position": "WR",
-        "dynasty": 722,
-        "dynastyRank": 231,
-        "trend30Day": -481
+        "dynasty": 677,
+        "dynastyRank": 232,
+        "trend30Day": -548
       },
       "14842": {
         "name": "Michael Pittman",
         "position": "WR",
-        "redraft": 1154,
-        "redraftRank": 93,
-        "trend30Day": 45,
-        "dynasty": 1774,
-        "dynastyRank": 113
+        "redraft": 1185,
+        "redraftRank": 94,
+        "trend30Day": -55,
+        "dynasty": 1832,
+        "dynastyRank": 108
       },
       "14860": {
         "name": "Jauan Jennings",
         "position": "WR",
-        "redraft": 87,
-        "redraftRank": 165,
-        "trend30Day": -61,
-        "dynasty": 1047,
-        "dynastyRank": 197
+        "redraft": 113,
+        "redraftRank": 161,
+        "trend30Day": -155,
+        "dynasty": 961,
+        "dynastyRank": 205
       },
       "14861": {
         "name": "Juwan Johnson",
         "position": "TE",
-        "redraft": 191,
-        "redraftRank": 147,
-        "trend30Day": 32,
-        "dynasty": 1173,
-        "dynastyRank": 191
+        "redraft": 253,
+        "redraftRank": 139,
+        "trend30Day": 68,
+        "dynasty": 1244,
+        "dynastyRank": 184
       },
       "14867": {
         "name": "Cole Kmet",
         "position": "TE",
-        "dynasty": 216,
-        "dynastyRank": 297,
-        "trend30Day": -137
+        "dynasty": 227,
+        "dynastyRank": 294,
+        "trend30Day": -138
       },
       "14871": {
         "name": "Colby Parkinson",
         "position": "TE",
-        "dynasty": 330,
-        "dynastyRank": 280,
-        "trend30Day": -234
+        "dynasty": 364,
+        "dynastyRank": 274,
+        "trend30Day": -240
       },
       "14974": {
         "name": "Darnell Mooney",
         "position": "WR",
-        "dynasty": 501,
-        "dynastyRank": 257,
-        "trend30Day": -113
-      },
-      "15109": {
-        "name": "Nick Westbrook-Ikhine",
-        "position": "WR",
-        "dynasty": 15,
-        "dynastyRank": 385,
-        "trend30Day": -20
+        "dynasty": 362,
+        "dynastyRank": 276,
+        "trend30Day": -280
       },
       "15237": {
         "name": "Trevor Lawrence",
         "position": "QB",
-        "redraft": 2066,
-        "redraftRank": 68,
-        "trend30Day": 143,
-        "dynasty": 2686,
-        "dynastyRank": 70
+        "redraft": 2139,
+        "redraftRank": 66,
+        "trend30Day": -8,
+        "dynasty": 2618,
+        "dynastyRank": 74
       },
       "15238": {
         "name": "Justin Fields",
         "position": "QB",
-        "dynasty": 357,
-        "dynastyRank": 275,
-        "trend30Day": -268
+        "dynasty": 335,
+        "dynastyRank": 278,
+        "trend30Day": -300
       },
-      "15239": {
-        "name": "Zach Wilson",
+      "15240": {
+        "name": "Trey Lance",
         "position": "QB",
-        "dynasty": 22,
-        "dynastyRank": 381,
-        "trend30Day": -11
+        "dynasty": 51,
+        "dynastyRank": 368,
+        "trend30Day": 55
       },
       "15241": {
         "name": "Mac Jones",
         "position": "QB",
-        "dynasty": 394,
-        "dynastyRank": 270,
-        "trend30Day": -267
+        "dynasty": 421,
+        "dynastyRank": 265,
+        "trend30Day": -232
       },
       "15252": {
         "name": "Davis Mills",
         "position": "QB",
-        "dynasty": 60,
-        "dynastyRank": 358,
-        "trend30Day": -32
+        "dynasty": 94,
+        "dynastyRank": 339,
+        "trend30Day": 8
       },
       "15253": {
         "name": "Travis Etienne",
         "position": "RB",
-        "redraft": 2914,
-        "redraftRank": 51,
-        "trend30Day": -388,
-        "dynasty": 2863,
-        "dynastyRank": 65
+        "redraft": 3212,
+        "redraftRank": 49,
+        "trend30Day": 114,
+        "dynasty": 3244,
+        "dynastyRank": 56
       },
       "15254": {
         "name": "Najee Harris",
         "position": "RB",
-        "dynasty": 476,
-        "dynastyRank": 260,
-        "trend30Day": 211
+        "dynasty": 942,
+        "dynastyRank": 207,
+        "trend30Day": 585
       },
       "15255": {
         "name": "Kenny Gainwell",
         "position": "RB",
-        "redraft": 922,
-        "redraftRank": 103,
-        "trend30Day": 9,
-        "dynasty": 1663,
+        "redraft": 1018,
+        "redraftRank": 98,
+        "trend30Day": -58,
+        "dynasty": 1645,
         "dynastyRank": 128
       },
       "15256": {
         "name": "Javonte Williams",
         "position": "RB",
-        "redraft": 4385,
-        "redraftRank": 31,
-        "trend30Day": 127,
-        "dynasty": 3453,
-        "dynastyRank": 52
+        "redraft": 4646,
+        "redraftRank": 30,
+        "trend30Day": 102,
+        "dynasty": 3378,
+        "dynastyRank": 53
       },
       "15258": {
         "name": "Michael Carter",
         "position": "RB",
-        "dynasty": 55,
-        "dynastyRank": 359,
-        "trend30Day": 55
+        "dynasty": 54,
+        "dynastyRank": 366,
+        "trend30Day": -3
       },
       "15259": {
         "name": "Rhamondre Stevenson",
         "position": "RB",
-        "redraft": 1223,
-        "redraftRank": 90,
-        "trend30Day": 190,
-        "dynasty": 1899,
-        "dynastyRank": 103
+        "redraft": 1284,
+        "redraftRank": 89,
+        "trend30Day": 140,
+        "dynasty": 1858,
+        "dynastyRank": 105
       },
       "15261": {
         "name": "Chuba Hubbard",
         "position": "RB",
-        "redraft": 1467,
-        "redraftRank": 83,
-        "trend30Day": 30,
-        "dynasty": 2010,
-        "dynastyRank": 95
-      },
-      "15271": {
-        "name": "Khalil Herbert",
-        "position": "RB",
-        "dynasty": 52,
-        "dynastyRank": 362,
-        "trend30Day": 52
+        "redraft": 1526,
+        "redraftRank": 81,
+        "trend30Day": -38,
+        "dynasty": 2006,
+        "dynastyRank": 98
       },
       "15281": {
         "name": "Ja'Marr Chase",
         "position": "WR",
-        "redraft": 9258,
+        "redraft": 9261,
         "redraftRank": 3,
-        "trend30Day": -336,
-        "dynasty": 9485,
+        "trend30Day": -415,
+        "dynasty": 9444,
         "dynastyRank": 3
       },
       "15282": {
         "name": "DeVonta Smith",
         "position": "WR",
-        "redraft": 3766,
+        "redraft": 4011,
         "redraftRank": 37,
-        "trend30Day": 419,
-        "dynasty": 3672,
-        "dynastyRank": 43
+        "trend30Day": 132,
+        "dynasty": 3594,
+        "dynastyRank": 44
       },
       "15284": {
         "name": "Jaylen Waddle",
         "position": "WR",
-        "redraft": 3039,
-        "redraftRank": 50,
-        "trend30Day": -113,
-        "dynasty": 3182,
+        "redraft": 3021,
+        "redraftRank": 51,
+        "trend30Day": 98,
+        "dynasty": 3237,
         "dynastyRank": 57
       },
       "15287": {
         "name": "Amon-Ra St. Brown",
         "position": "WR",
-        "redraft": 7781,
-        "redraftRank": 9,
-        "trend30Day": 297,
-        "dynasty": 7385,
+        "redraft": 7842,
+        "redraftRank": 8,
+        "trend30Day": 386,
+        "dynasty": 7378,
         "dynastyRank": 7
+      },
+      "15288": {
+        "name": "Elijah Moore",
+        "position": "WR",
+        "dynasty": 40,
+        "dynastyRank": 376,
+        "trend30Day": 0
       },
       "15290": {
         "name": "Nico Collins",
         "position": "WR",
-        "redraft": 5352,
-        "redraftRank": 24,
-        "trend30Day": 31,
-        "dynasty": 4226,
-        "dynastyRank": 29
-      },
-      "15292": {
-        "name": "Dyami Brown",
-        "position": "WR",
-        "dynasty": 37,
-        "dynastyRank": 373,
-        "trend30Day": -33
+        "redraft": 5205,
+        "redraftRank": 25,
+        "trend30Day": 299,
+        "dynasty": 4528,
+        "dynastyRank": 26
       },
       "15293": {
         "name": "Rashod Bateman",
         "position": "WR",
-        "dynasty": 520,
-        "dynastyRank": 253,
-        "trend30Day": 75
+        "dynasty": 466,
+        "dynastyRank": 257,
+        "trend30Day": 23
+      },
+      "15301": {
+        "name": "Tutu Atwell",
+        "position": "WR",
+        "dynasty": 77,
+        "dynastyRank": 348,
+        "trend30Day": -38
       },
       "15319": {
         "name": "Joshua Palmer",
         "position": "WR",
-        "dynasty": 47,
-        "dynastyRank": 366,
-        "trend30Day": -23
+        "dynasty": 32,
+        "dynastyRank": 379,
+        "trend30Day": 37
       },
       "15329": {
         "name": "Kyle Pitts",
         "position": "TE",
-        "redraft": 1814,
-        "redraftRank": 73,
-        "trend30Day": 22,
-        "dynasty": 2661,
-        "dynastyRank": 71
+        "redraft": 1700,
+        "redraftRank": 76,
+        "trend30Day": 64,
+        "dynasty": 2632,
+        "dynastyRank": 73
       },
       "15331": {
         "name": "Pat Freiermuth",
         "position": "TE",
-        "dynasty": 724,
-        "dynastyRank": 230,
-        "trend30Day": -210
+        "dynasty": 712,
+        "dynastyRank": 226,
+        "trend30Day": -274
       },
       "15337": {
         "name": "Noah Gray",
         "position": "TE",
-        "dynasty": 111,
-        "dynastyRank": 336,
-        "trend30Day": -33
+        "dynasty": 71,
+        "dynastyRank": 355,
+        "trend30Day": -76
       },
       "15692": {
         "name": "Kenny Pickett",
         "position": "QB",
+        "dynasty": 32,
+        "dynastyRank": 378,
+        "trend30Day": -6
+      },
+      "15693": {
+        "name": "Sam Howell",
+        "position": "QB",
         "dynasty": 20,
-        "dynastyRank": 382,
-        "trend30Day": -3
+        "dynastyRank": 391,
+        "trend30Day": 0
       },
       "15694": {
         "name": "Malik Willis",
         "position": "QB",
-        "redraft": 153,
-        "redraftRank": 155,
-        "trend30Day": -33,
-        "dynasty": 1235,
-        "dynastyRank": 182
+        "redraft": 159,
+        "redraftRank": 154,
+        "trend30Day": 97,
+        "dynasty": 1336,
+        "dynastyRank": 171
       },
       "15698": {
         "name": "Brock Purdy",
         "position": "QB",
-        "redraft": 1257,
-        "redraftRank": 88,
-        "trend30Day": -173,
-        "dynasty": 2170,
-        "dynastyRank": 84
+        "redraft": 1203,
+        "redraftRank": 93,
+        "trend30Day": -188,
+        "dynasty": 2094,
+        "dynastyRank": 89
       },
       "15702": {
         "name": "Tanner McKee",
         "position": "QB",
-        "dynasty": 18,
+        "dynasty": 25,
         "dynastyRank": 383,
-        "trend30Day": -27
+        "trend30Day": -30
       },
       "15708": {
         "name": "Breece Hall",
         "position": "RB",
-        "redraft": 3997,
+        "redraft": 4081,
         "redraftRank": 35,
-        "trend30Day": -159,
-        "dynasty": 4050,
-        "dynastyRank": 33
+        "trend30Day": -118,
+        "dynasty": 4037,
+        "dynastyRank": 34
       },
       "15710": {
         "name": "Kyren Williams",
         "position": "RB",
-        "redraft": 4400,
-        "redraftRank": 30,
-        "trend30Day": -117,
-        "dynasty": 3537,
-        "dynastyRank": 46
+        "redraft": 4898,
+        "redraftRank": 27,
+        "trend30Day": 83,
+        "dynasty": 3791,
+        "dynastyRank": 40
       },
       "15711": {
         "name": "Kenneth Walker",
         "position": "RB",
-        "redraft": 6337,
-        "redraftRank": 17,
-        "trend30Day": 278,
-        "dynasty": 4920,
+        "redraft": 6045,
+        "redraftRank": 18,
+        "trend30Day": 379,
+        "dynasty": 5046,
         "dynastyRank": 20
       },
       "15712": {
         "name": "Tyler Allgeier",
         "position": "RB",
-        "redraft": 257,
-        "redraftRank": 140,
+        "redraft": 215,
+        "redraftRank": 142,
         "trend30Day": 159,
-        "dynasty": 1647,
-        "dynastyRank": 133
-      },
-      "15713": {
-        "name": "Jerome Ford",
-        "position": "RB",
-        "dynasty": 104,
-        "dynastyRank": 339,
-        "trend30Day": -22
-      },
-      "15714": {
-        "name": "Zamir White",
-        "position": "RB",
-        "dynasty": 64,
-        "dynastyRank": 355,
-        "trend30Day": 64
+        "dynasty": 1597,
+        "dynastyRank": 136
       },
       "15715": {
         "name": "James Cook",
         "position": "RB",
-        "redraft": 7853,
-        "redraftRank": 8,
-        "trend30Day": -11,
-        "dynasty": 5719,
+        "redraft": 7647,
+        "redraftRank": 9,
+        "trend30Day": 466,
+        "dynasty": 6020,
         "dynastyRank": 16
       },
       "15716": {
         "name": "Brian Robinson",
         "position": "RB",
-        "redraft": 111,
-        "redraftRank": 162,
-        "trend30Day": 73,
-        "dynasty": 1375,
-        "dynastyRank": 157
+        "redraft": 122,
+        "redraftRank": 159,
+        "trend30Day": -109,
+        "dynasty": 1264,
+        "dynastyRank": 181
       },
       "15721": {
         "name": "Rachaad White",
         "position": "RB",
-        "redraft": 643,
-        "redraftRank": 120,
-        "trend30Day": -210,
-        "dynasty": 1526,
-        "dynastyRank": 140
+        "redraft": 683,
+        "redraftRank": 118,
+        "trend30Day": -164,
+        "dynasty": 1603,
+        "dynastyRank": 135
       },
       "15738": {
         "name": "Malik Davis",
         "position": "RB",
-        "dynasty": 184,
-        "dynastyRank": 306,
-        "trend30Day": -204
+        "dynasty": 71,
+        "dynastyRank": 354,
+        "trend30Day": -214
       },
       "15742": {
         "name": "Jaylen Warren",
         "position": "RB",
-        "redraft": 1993,
-        "redraftRank": 70,
-        "trend30Day": 100,
-        "dynasty": 2110,
-        "dynastyRank": 88
+        "redraft": 2103,
+        "redraftRank": 68,
+        "trend30Day": -28,
+        "dynasty": 2065,
+        "dynastyRank": 93
       },
       "15749": {
         "name": "Isiah Pacheco",
         "position": "RB",
-        "redraft": 147,
-        "redraftRank": 157,
-        "trend30Day": -106,
-        "dynasty": 1237,
-        "dynastyRank": 181
+        "redraft": 112,
+        "redraftRank": 162,
+        "trend30Day": -160,
+        "dynasty": 1212,
+        "dynastyRank": 189
       },
       "15751": {
         "name": "Drake London",
         "position": "WR",
-        "redraft": 5698,
-        "redraftRank": 21,
-        "trend30Day": -198,
-        "dynasty": 5459,
+        "redraft": 5517,
+        "redraftRank": 23,
+        "trend30Day": -86,
+        "dynasty": 5645,
         "dynastyRank": 18
       },
       "15752": {
         "name": "Treylon Burks",
         "position": "WR",
-        "dynasty": 126,
-        "dynastyRank": 325,
-        "trend30Day": -112
+        "dynasty": 142,
+        "dynastyRank": 323,
+        "trend30Day": -99
       },
       "15753": {
         "name": "Garrett Wilson",
         "position": "WR",
-        "redraft": 3064,
-        "redraftRank": 48,
-        "trend30Day": 0,
-        "dynasty": 4009,
-        "dynastyRank": 35
+        "redraft": 3309,
+        "redraftRank": 45,
+        "trend30Day": 236,
+        "dynasty": 4109,
+        "dynastyRank": 32
       },
       "15754": {
         "name": "Chris Olave",
         "position": "WR",
-        "redraft": 4715,
-        "redraftRank": 29,
-        "trend30Day": 473,
-        "dynasty": 4201,
+        "redraft": 4629,
+        "redraftRank": 31,
+        "trend30Day": 578,
+        "dynasty": 4316,
         "dynastyRank": 30
       },
       "15755": {
         "name": "Jahan Dotson",
         "position": "WR",
-        "dynasty": 177,
-        "dynastyRank": 310,
-        "trend30Day": -68
+        "dynasty": 159,
+        "dynastyRank": 317,
+        "trend30Day": -13
       },
       "15756": {
         "name": "Jameson Williams",
         "position": "WR",
-        "redraft": 2225,
-        "redraftRank": 63,
-        "trend30Day": 145,
-        "dynasty": 2886,
-        "dynastyRank": 64
+        "redraft": 2066,
+        "redraftRank": 69,
+        "trend30Day": 240,
+        "dynasty": 2913,
+        "dynastyRank": 66
       },
       "15757": {
         "name": "Wan'Dale Robinson",
         "position": "WR",
-        "redraft": 675,
-        "redraftRank": 115,
-        "trend30Day": -95,
-        "dynasty": 1785,
-        "dynastyRank": 110
+        "redraft": 762,
+        "redraftRank": 114,
+        "trend30Day": -71,
+        "dynasty": 1768,
+        "dynastyRank": 116
       },
       "15759": {
         "name": "John Metchie",
         "position": "WR",
-        "dynasty": 52,
-        "dynastyRank": 360,
-        "trend30Day": -68
+        "dynasty": 63,
+        "dynastyRank": 361,
+        "trend30Day": -93
       },
       "15761": {
         "name": "Khalil Shakir",
         "position": "WR",
-        "redraft": 384,
-        "redraftRank": 132,
-        "trend30Day": 66,
-        "dynasty": 1374,
-        "dynastyRank": 159
+        "redraft": 365,
+        "redraftRank": 134,
+        "trend30Day": 109,
+        "dynasty": 1393,
+        "dynastyRank": 157
       },
       "15762": {
         "name": "George Pickens",
         "position": "WR",
-        "redraft": 5301,
-        "redraftRank": 25,
-        "trend30Day": 99,
-        "dynasty": 4767,
+        "redraft": 5347,
+        "redraftRank": 24,
+        "trend30Day": 106,
+        "dynasty": 4806,
         "dynastyRank": 23
+      },
+      "15766": {
+        "name": "Skyy Moore",
+        "position": "WR",
+        "dynasty": 24,
+        "dynastyRank": 385,
+        "trend30Day": 15
       },
       "15768": {
         "name": "Alec Pierce",
         "position": "WR",
-        "redraft": 1017,
-        "redraftRank": 98,
-        "trend30Day": -244,
-        "dynasty": 1955,
-        "dynastyRank": 98
+        "redraft": 997,
+        "redraftRank": 100,
+        "trend30Day": -220,
+        "dynasty": 1983,
+        "dynastyRank": 99
       },
       "15777": {
         "name": "Calvin Austin",
         "position": "WR",
-        "dynasty": 41,
-        "dynastyRank": 371,
-        "trend30Day": -93
+        "dynasty": 125,
+        "dynastyRank": 331,
+        "trend30Day": -33
       },
       "15779": {
         "name": "Romeo Doubs",
         "position": "WR",
-        "redraft": 374,
-        "redraftRank": 133,
-        "trend30Day": 83,
-        "dynasty": 1550,
-        "dynastyRank": 138
+        "redraft": 457,
+        "redraftRank": 128,
+        "trend30Day": 67,
+        "dynasty": 1577,
+        "dynastyRank": 139
       },
       "15786": {
         "name": "Jalen Nailor",
         "position": "WR",
-        "redraft": 215,
-        "redraftRank": 145,
-        "trend30Day": 22,
-        "dynasty": 1188,
-        "dynastyRank": 189
+        "redraft": 209,
+        "redraftRank": 143,
+        "trend30Day": 124,
+        "dynasty": 1265,
+        "dynastyRank": 180
       },
       "15787": {
         "name": "Tyquan Thornton",
         "position": "WR",
-        "dynasty": 261,
-        "dynastyRank": 286,
-        "trend30Day": 30
+        "dynasty": 207,
+        "dynastyRank": 299,
+        "trend30Day": -61
       },
       "15788": {
         "name": "Jalen Tolbert",
         "position": "WR",
-        "dynasty": 147,
-        "dynastyRank": 320,
-        "trend30Day": -51
+        "dynasty": 166,
+        "dynastyRank": 314,
+        "trend30Day": 5
       },
       "15789": {
         "name": "Christian Watson",
         "position": "WR",
-        "redraft": 1686,
-        "redraftRank": 75,
-        "trend30Day": 67,
-        "dynasty": 2228,
-        "dynastyRank": 81
+        "redraft": 1841,
+        "redraftRank": 73,
+        "trend30Day": -37,
+        "dynasty": 2323,
+        "dynastyRank": 80
       },
       "15794": {
         "name": "Trey McBride",
         "position": "TE",
-        "redraft": 5838,
-        "redraftRank": 20,
-        "trend30Day": -271,
-        "dynasty": 5671,
+        "redraft": 5617,
+        "redraftRank": 22,
+        "trend30Day": -185,
+        "dynasty": 5695,
         "dynastyRank": 17
       },
       "15795": {
         "name": "Charlie Kolar",
         "position": "TE",
-        "dynasty": 32,
-        "dynastyRank": 375,
-        "trend30Day": 33
+        "dynasty": 65,
+        "dynastyRank": 359,
+        "trend30Day": 54
       },
       "15797": {
         "name": "Greg Dulcich",
         "position": "TE",
-        "dynasty": 889,
-        "dynastyRank": 208,
-        "trend30Day": -112
+        "dynasty": 945,
+        "dynastyRank": 206,
+        "trend30Day": -55
       },
       "15798": {
         "name": "Isaiah Likely",
         "position": "TE",
-        "redraft": 652,
+        "redraft": 664,
         "redraftRank": 119,
-        "trend30Day": -24,
-        "dynasty": 1773,
-        "dynastyRank": 114
+        "trend30Day": 92,
+        "dynasty": 1809,
+        "dynastyRank": 111
       },
       "15799": {
         "name": "Jake Ferguson",
         "position": "TE",
-        "redraft": 862,
-        "redraftRank": 108,
-        "trend30Day": -71,
-        "dynasty": 1685,
-        "dynastyRank": 127
+        "redraft": 891,
+        "redraftRank": 109,
+        "trend30Day": -74,
+        "dynasty": 1626,
+        "dynastyRank": 130
       },
       "15802": {
         "name": "Cade Otton",
         "position": "TE",
-        "redraft": 2,
-        "redraftRank": 185,
-        "trend30Day": -185,
-        "dynasty": 862,
-        "dynastyRank": 210
+        "dynasty": 756,
+        "dynastyRank": 219,
+        "trend30Day": -329
+      },
+      "15873": {
+        "name": "Daniel Bellinger",
+        "position": "TE",
+        "dynasty": 18,
+        "dynastyRank": 393,
+        "trend30Day": 23
       },
       "15889": {
         "name": "Chig Okonkwo",
         "position": "TE",
-        "redraft": 262,
-        "redraftRank": 139,
-        "trend30Day": -55,
-        "dynasty": 1419,
-        "dynastyRank": 149
+        "redraft": 201,
+        "redraftRank": 145,
+        "trend30Day": 41,
+        "dynasty": 1483,
+        "dynastyRank": 146
       },
       "15972": {
         "name": "Jordan Mason",
         "position": "RB",
-        "redraft": 773,
-        "redraftRank": 114,
-        "trend30Day": 140,
-        "dynasty": 1652,
-        "dynastyRank": 131
+        "redraft": 727,
+        "redraftRank": 115,
+        "trend30Day": 166,
+        "dynasty": 1687,
+        "dynastyRank": 126
       },
       "15981": {
         "name": "KaVontae Turpin",
         "position": "WR",
-        "dynasty": 66,
-        "dynastyRank": 354,
-        "trend30Day": -42
+        "dynasty": 60,
+        "dynastyRank": 363,
+        "trend30Day": 67
       },
       "16036": {
         "name": "Jake Tonges",
         "position": "TE",
-        "dynasty": 562,
-        "dynastyRank": 251,
-        "trend30Day": 6
+        "dynasty": 456,
+        "dynastyRank": 261,
+        "trend30Day": -145
       },
       "16080": {
         "name": "Rashid Shaheed",
         "position": "WR",
-        "redraft": 160,
-        "redraftRank": 153,
-        "trend30Day": -18,
-        "dynasty": 1333,
-        "dynastyRank": 169
+        "redraft": 189,
+        "redraftRank": 149,
+        "trend30Day": 18,
+        "dynasty": 1357,
+        "dynastyRank": 168
       },
       "16148": {
         "name": "Bryce Young",
         "position": "QB",
-        "redraft": 190,
-        "redraftRank": 148,
-        "trend30Day": -37,
-        "dynasty": 1347,
-        "dynastyRank": 164
+        "redraft": 181,
+        "redraftRank": 151,
+        "trend30Day": 12,
+        "dynasty": 1391,
+        "dynastyRank": 159
       },
       "16150": {
         "name": "C.J. Stroud",
         "position": "QB",
-        "redraft": 340,
-        "redraftRank": 135,
-        "trend30Day": -87,
-        "dynasty": 1721,
-        "dynastyRank": 121
+        "redraft": 392,
+        "redraftRank": 132,
+        "trend30Day": -131,
+        "dynasty": 1685,
+        "dynastyRank": 127
       },
       "16152": {
         "name": "Anthony Richardson",
         "position": "QB",
-        "dynasty": 419,
-        "dynastyRank": 266,
-        "trend30Day": -101
+        "dynasty": 444,
+        "dynastyRank": 263,
+        "trend30Day": -45
+      },
+      "16153": {
+        "name": "Stetson Bennett",
+        "position": "QB",
+        "dynasty": 8,
+        "dynastyRank": 398,
+        "trend30Day": 10
       },
       "16161": {
         "name": "Bijan Robinson",
         "position": "RB",
-        "redraft": 10407,
+        "redraft": 10656,
         "redraftRank": 2,
-        "trend30Day": -231,
-        "dynasty": 11130,
-        "dynastyRank": 2
+        "trend30Day": -58,
+        "dynasty": 11224,
+        "dynastyRank": 1
       },
       "16162": {
         "name": "Jahmyr Gibbs",
         "position": "RB",
-        "redraft": 10773,
+        "redraft": 10772,
         "redraftRank": 1,
-        "trend30Day": 740,
-        "dynasty": 11285,
-        "dynastyRank": 1
+        "trend30Day": 194,
+        "dynasty": 10935,
+        "dynastyRank": 2
       },
       "16164": {
         "name": "Tank Bigsby",
         "position": "RB",
-        "redraft": 37,
-        "redraftRank": 174,
-        "trend30Day": 223,
-        "dynasty": 1553,
-        "dynastyRank": 137
+        "redraft": 43,
+        "redraftRank": 176,
+        "trend30Day": 130,
+        "dynasty": 1467,
+        "dynastyRank": 149
       },
       "16165": {
         "name": "Tyjae Spears",
         "position": "RB",
-        "redraft": 105,
-        "redraftRank": 163,
-        "trend30Day": 21,
-        "dynasty": 1287,
-        "dynastyRank": 175
+        "redraft": 120,
+        "redraftRank": 160,
+        "trend30Day": 57,
+        "dynasty": 1350,
+        "dynastyRank": 169
       },
       "16166": {
         "name": "Sean Tucker",
         "position": "RB",
-        "dynasty": 544,
-        "dynastyRank": 252,
-        "trend30Day": -207
+        "dynasty": 472,
+        "dynastyRank": 256,
+        "trend30Day": -330
       },
       "16167": {
         "name": "De'Von Achane",
         "position": "RB",
-        "redraft": 7658,
+        "redraft": 7617,
         "redraftRank": 10,
-        "trend30Day": 337,
-        "dynasty": 6704,
-        "dynastyRank": 11
+        "trend30Day": 686,
+        "dynasty": 7047,
+        "dynastyRank": 9
       },
       "16169": {
         "name": "Zach Charbonnet",
         "position": "RB",
-        "redraft": 436,
-        "redraftRank": 127,
-        "trend30Day": -35,
-        "dynasty": 1771,
+        "redraft": 452,
+        "redraftRank": 129,
+        "trend30Day": -26,
+        "dynasty": 1768,
         "dynastyRank": 115
       },
       "16171": {
         "name": "Kendre Miller",
         "position": "RB",
-        "dynasty": 127,
-        "dynastyRank": 324,
-        "trend30Day": -64
+        "dynasty": 156,
+        "dynastyRank": 319,
+        "trend30Day": -50
       },
       "16174": {
         "name": "Chris Rodriguez",
         "position": "RB",
-        "redraft": 247,
-        "redraftRank": 142,
-        "trend30Day": 41,
-        "dynasty": 1401,
-        "dynastyRank": 152
+        "redraft": 258,
+        "redraftRank": 138,
+        "trend30Day": 10,
+        "dynasty": 1407,
+        "dynastyRank": 153
       },
       "16175": {
         "name": "Roschon Johnson",
         "position": "RB",
-        "dynasty": 93,
-        "dynastyRank": 343,
-        "trend30Day": 93
+        "dynasty": 74,
+        "dynastyRank": 352,
+        "trend30Day": 0
       },
       "16178": {
         "name": "Keaton Mitchell",
         "position": "RB",
-        "redraft": 135,
-        "redraftRank": 159,
-        "trend30Day": -9,
-        "dynasty": 1338,
-        "dynastyRank": 167
+        "redraft": 139,
+        "redraftRank": 157,
+        "trend30Day": 78,
+        "dynasty": 1390,
+        "dynastyRank": 160
       },
       "16181": {
         "name": "Chase Brown",
         "position": "RB",
-        "redraft": 6715,
-        "redraftRank": 15,
-        "trend30Day": 453,
-        "dynasty": 4785,
-        "dynastyRank": 22
+        "redraft": 6854,
+        "redraftRank": 14,
+        "trend30Day": 552,
+        "dynasty": 4999,
+        "dynastyRank": 21
       },
       "16184": {
         "name": "Jayden Reed",
         "position": "WR",
-        "redraft": 929,
-        "redraftRank": 101,
-        "trend30Day": 180,
-        "dynasty": 1736,
-        "dynastyRank": 119
+        "redraft": 945,
+        "redraftRank": 102,
+        "trend30Day": 130,
+        "dynasty": 1732,
+        "dynastyRank": 120
       },
       "16185": {
         "name": "Jaxon Smith-Njigba",
         "position": "WR",
-        "redraft": 8753,
+        "redraft": 8425,
         "redraftRank": 6,
-        "trend30Day": 79,
-        "dynasty": 8697,
+        "trend30Day": -109,
+        "dynasty": 8690,
         "dynastyRank": 4
       },
       "16186": {
         "name": "Jordan Addison",
         "position": "WR",
-        "redraft": 787,
-        "redraftRank": 112,
-        "trend30Day": 20,
-        "dynasty": 2037,
-        "dynastyRank": 92
+        "redraft": 826,
+        "redraftRank": 111,
+        "trend30Day": 145,
+        "dynasty": 2118,
+        "dynastyRank": 87
       },
       "16187": {
         "name": "Josh Downs",
         "position": "WR",
         "redraft": 915,
-        "redraftRank": 105,
-        "trend30Day": 106,
-        "dynasty": 1930,
-        "dynastyRank": 100
+        "redraftRank": 107,
+        "trend30Day": 182,
+        "dynasty": 2030,
+        "dynastyRank": 96
       },
       "16188": {
         "name": "Quentin Johnston",
         "position": "WR",
-        "redraft": 672,
-        "redraftRank": 116,
-        "trend30Day": -159,
-        "dynasty": 1842,
+        "redraft": 710,
+        "redraftRank": 117,
+        "trend30Day": -162,
+        "dynasty": 1886,
         "dynastyRank": 104
       },
       "16189": {
         "name": "Marvin Mims",
         "position": "WR",
-        "dynasty": 368,
-        "dynastyRank": 274,
-        "trend30Day": -11
+        "dynasty": 303,
+        "dynastyRank": 281,
+        "trend30Day": -81
       },
       "16190": {
         "name": "Zay Flowers",
         "position": "WR",
-        "redraft": 3660,
-        "redraftRank": 39,
-        "trend30Day": 330,
-        "dynasty": 3789,
-        "dynastyRank": 40
+        "redraft": 3454,
+        "redraftRank": 42,
+        "trend30Day": 285,
+        "dynasty": 3816,
+        "dynastyRank": 37
       },
       "16191": {
         "name": "Cedric Tillman",
         "position": "WR",
-        "dynasty": 18,
-        "dynastyRank": 384,
-        "trend30Day": -113
+        "dynasty": 64,
+        "dynastyRank": 360,
+        "trend30Day": -69
       },
       "16192": {
         "name": "Parker Washington",
         "position": "WR",
-        "redraft": 1489,
+        "redraft": 1468,
         "redraftRank": 82,
-        "trend30Day": 553,
-        "dynasty": 2551,
-        "dynastyRank": 74
+        "trend30Day": 493,
+        "dynasty": 2508,
+        "dynastyRank": 78
       },
       "16193": {
         "name": "Kayshon Boutte",
         "position": "WR",
-        "dynasty": 1048,
-        "dynastyRank": 196,
-        "trend30Day": 109
+        "dynasty": 1120,
+        "dynastyRank": 197,
+        "trend30Day": 160
       },
       "16194": {
         "name": "Rashee Rice",
         "position": "WR",
-        "redraft": 4021,
-        "redraftRank": 34,
-        "trend30Day": 147,
-        "dynasty": 3806,
-        "dynastyRank": 38
+        "redraft": 4333,
+        "redraftRank": 33,
+        "trend30Day": -140,
+        "dynasty": 3442,
+        "dynastyRank": 51
       },
       "16195": {
         "name": "Dontayvion Wicks",
         "position": "WR",
-        "dynasty": 1217,
-        "dynastyRank": 184,
-        "trend30Day": 259
+        "dynasty": 1242,
+        "dynastyRank": 185,
+        "trend30Day": 379
+      },
+      "16201": {
+        "name": "Xavier Hutchinson",
+        "position": "WR",
+        "dynasty": 180,
+        "dynastyRank": 308,
+        "trend30Day": 107
       },
       "16204": {
         "name": "Tank Dell",
         "position": "WR",
-        "redraft": 60,
-        "redraftRank": 168,
-        "trend30Day": 4,
-        "dynasty": 1211,
-        "dynastyRank": 186
+        "redraft": 92,
+        "redraftRank": 166,
+        "trend30Day": 93,
+        "dynasty": 1392,
+        "dynastyRank": 158
       },
       "16206": {
         "name": "Michael Wilson",
         "position": "WR",
-        "redraft": 1230,
-        "redraftRank": 89,
-        "trend30Day": 175,
-        "dynasty": 2011,
-        "dynastyRank": 94
+        "redraft": 1413,
+        "redraftRank": 85,
+        "trend30Day": 203,
+        "dynasty": 2065,
+        "dynastyRank": 92
       },
       "16207": {
         "name": "Andrei Iosivas",
         "position": "WR",
-        "dynasty": 158,
-        "dynastyRank": 317,
-        "trend30Day": -58
+        "dynasty": 148,
+        "dynastyRank": 322,
+        "trend30Day": -204
       },
       "16211": {
         "name": "Puka Nacua",
         "position": "WR",
-        "redraft": 8800,
-        "redraftRank": 4,
-        "trend30Day": -363,
-        "dynasty": 8287,
+        "redraft": 8977,
+        "redraftRank": 5,
+        "trend30Day": -218,
+        "dynasty": 8261,
         "dynastyRank": 5
       },
       "16212": {
         "name": "Michael Mayer",
         "position": "TE",
-        "dynasty": 622,
-        "dynastyRank": 244,
-        "trend30Day": 28
+        "dynasty": 633,
+        "dynastyRank": 239,
+        "trend30Day": -56
       },
       "16213": {
         "name": "Dalton Kincaid",
         "position": "TE",
-        "redraft": 434,
-        "redraftRank": 128,
-        "trend30Day": 104,
-        "dynasty": 1710,
-        "dynastyRank": 123
+        "redraft": 471,
+        "redraftRank": 126,
+        "trend30Day": 64,
+        "dynasty": 1728,
+        "dynastyRank": 121
       },
       "16214": {
         "name": "Sam LaPorta",
         "position": "TE",
-        "redraft": 1844,
-        "redraftRank": 72,
-        "trend30Day": 177,
-        "dynasty": 2887,
-        "dynastyRank": 63
+        "redraft": 2018,
+        "redraftRank": 71,
+        "trend30Day": 142,
+        "dynasty": 2875,
+        "dynastyRank": 67
       },
       "16215": {
         "name": "Luke Musgrave",
         "position": "TE",
-        "dynasty": 111,
-        "dynastyRank": 335,
-        "trend30Day": -32
+        "dynasty": 96,
+        "dynastyRank": 338,
+        "trend30Day": -84
       },
       "16216": {
         "name": "Darnell Washington",
         "position": "TE",
-        "dynasty": 198,
-        "dynastyRank": 301,
-        "trend30Day": -162
-      },
-      "16221": {
-        "name": "Luke Schoonmaker",
-        "position": "TE",
-        "dynasty": 11,
-        "dynastyRank": 389,
-        "trend30Day": 12
+        "dynasty": 181,
+        "dynastyRank": 307,
+        "trend30Day": -168
       },
       "16222": {
         "name": "Tucker Kraft",
         "position": "TE",
-        "redraft": 2030,
-        "redraftRank": 69,
-        "trend30Day": 36,
-        "dynasty": 3010,
-        "dynastyRank": 60
+        "redraft": 2252,
+        "redraftRank": 63,
+        "trend30Day": 46,
+        "dynasty": 3040,
+        "dynastyRank": 61
       },
       "16269": {
         "name": "Brenton Strange",
         "position": "TE",
-        "redraft": 234,
-        "redraftRank": 144,
-        "trend30Day": -121,
-        "dynasty": 1408,
-        "dynastyRank": 150
+        "redraft": 219,
+        "redraftRank": 141,
+        "trend30Day": -68,
+        "dynasty": 1400,
+        "dynastyRank": 155
       },
       "16287": {
         "name": "Tre Tucker",
         "position": "WR",
-        "redraft": 56,
-        "redraftRank": 169,
-        "trend30Day": 39,
-        "dynasty": 1114,
-        "dynastyRank": 193
+        "redraft": 61,
+        "redraftRank": 170,
+        "trend30Day": 182,
+        "dynasty": 1165,
+        "dynastyRank": 194
+      },
+      "16333": {
+        "name": "Elijah Higgins",
+        "position": "TE",
+        "dynasty": 4,
+        "dynastyRank": 399,
+        "trend30Day": 9
       },
       "16342": {
         "name": "DeMario Douglas",
         "position": "WR",
-        "dynasty": 205,
-        "dynastyRank": 300,
-        "trend30Day": 20
+        "dynasty": 277,
+        "dynastyRank": 284,
+        "trend30Day": 81
       },
       "16384": {
         "name": "Tyson Bagent",
         "position": "QB",
         "dynasty": 85,
-        "dynastyRank": 345,
-        "trend30Day": -9
+        "dynastyRank": 344,
+        "trend30Day": -36
       },
       "16385": {
         "name": "Emari Demercado",
         "position": "RB",
-        "dynasty": 40,
-        "dynastyRank": 372,
-        "trend30Day": -161
+        "dynasty": 102,
+        "dynastyRank": 336,
+        "trend30Day": -39
       },
       "16387": {
         "name": "Chris Brooks",
         "position": "RB",
-        "dynasty": 215,
-        "dynastyRank": 298,
-        "trend30Day": -195
-      },
-      "16390": {
-        "name": "Jaleel McLaughlin",
-        "position": "RB",
-        "dynasty": 28,
-        "dynastyRank": 378,
-        "trend30Day": 28
+        "dynasty": 176,
+        "dynastyRank": 310,
+        "trend30Day": -204
       },
       "16432": {
         "name": "Emanuel Wilson",
         "position": "RB",
-        "dynasty": 286,
-        "dynastyRank": 284,
-        "trend30Day": -361
+        "dynasty": 401,
+        "dynastyRank": 270,
+        "trend30Day": -298
       },
       "16579": {
         "name": "Caleb Williams",
         "position": "QB",
-        "redraft": 2824,
+        "redraft": 2834,
         "redraftRank": 53,
-        "trend30Day": -3,
-        "dynasty": 3681,
+        "trend30Day": 32,
+        "dynasty": 3655,
         "dynastyRank": 42
       },
       "16580": {
         "name": "Drake Maye",
         "position": "QB",
-        "redraft": 3416,
-        "redraftRank": 43,
-        "trend30Day": 112,
-        "dynasty": 4433,
-        "dynastyRank": 27
+        "redraft": 3528,
+        "redraftRank": 41,
+        "trend30Day": -89,
+        "dynasty": 4407,
+        "dynastyRank": 29
       },
       "16581": {
         "name": "Jayden Daniels",
         "position": "QB",
-        "redraft": 2629,
-        "redraftRank": 57,
-        "trend30Day": -247,
-        "dynasty": 3547,
-        "dynastyRank": 45
+        "redraft": 2727,
+        "redraftRank": 56,
+        "trend30Day": -212,
+        "dynasty": 3503,
+        "dynastyRank": 49
       },
       "16582": {
         "name": "Bo Nix",
         "position": "QB",
-        "redraft": 1617,
-        "redraftRank": 78,
-        "trend30Day": -11,
-        "dynasty": 2484,
-        "dynastyRank": 77
+        "redraft": 1563,
+        "redraftRank": 80,
+        "trend30Day": 78,
+        "dynasty": 2568,
+        "dynastyRank": 76
       },
       "16583": {
         "name": "Michael Penix",
         "position": "QB",
-        "dynasty": 812,
-        "dynastyRank": 216,
-        "trend30Day": -82
+        "dynasty": 727,
+        "dynastyRank": 223,
+        "trend30Day": -123
       },
       "16584": {
         "name": "J.J. McCarthy",
         "position": "QB",
-        "dynasty": 729,
-        "dynastyRank": 227,
-        "trend30Day": -140
+        "dynasty": 763,
+        "dynastyRank": 218,
+        "trend30Day": -73
       },
       "16585": {
         "name": "Joe Milton",
         "position": "QB",
-        "dynasty": 109,
-        "dynastyRank": 337,
-        "trend30Day": -34
+        "dynasty": 74,
+        "dynastyRank": 351,
+        "trend30Day": -43
       },
       "16586": {
         "name": "Spencer Rattler",
         "position": "QB",
-        "dynasty": 96,
-        "dynastyRank": 341,
-        "trend30Day": 19
+        "dynasty": 69,
+        "dynastyRank": 357,
+        "trend30Day": -71
       },
       "16593": {
         "name": "Blake Corum",
         "position": "RB",
-        "redraft": 1096,
+        "redraft": 1059,
         "redraftRank": 95,
-        "trend30Day": 28,
-        "dynasty": 1947,
-        "dynastyRank": 99
+        "trend30Day": -34,
+        "dynasty": 1911,
+        "dynastyRank": 100
       },
       "16594": {
         "name": "Trey Benson",
         "position": "RB",
-        "dynasty": 624,
-        "dynastyRank": 243,
-        "trend30Day": -381
+        "dynasty": 634,
+        "dynastyRank": 238,
+        "trend30Day": -360
       },
       "16595": {
         "name": "Audric Estime",
         "position": "RB",
-        "dynasty": 87,
-        "dynastyRank": 344,
-        "trend30Day": 23
+        "dynasty": 23,
+        "dynastyRank": 387,
+        "trend30Day": -70
       },
       "16596": {
         "name": "Braelon Allen",
         "position": "RB",
-        "redraft": 26,
-        "redraftRank": 177,
-        "trend30Day": -14,
-        "dynasty": 1331,
-        "dynastyRank": 170
+        "redraft": 49,
+        "redraftRank": 175,
+        "trend30Day": 45,
+        "dynasty": 1389,
+        "dynastyRank": 161
       },
       "16597": {
         "name": "Jonathon Brooks",
         "position": "RB",
-        "redraft": 919,
-        "redraftRank": 104,
-        "trend30Day": 137,
-        "dynasty": 2208,
-        "dynastyRank": 82
+        "redraft": 933,
+        "redraftRank": 103,
+        "trend30Day": 35,
+        "dynasty": 2028,
+        "dynastyRank": 97
       },
       "16598": {
         "name": "Bucky Irving",
         "position": "RB",
-        "redraft": 3061,
-        "redraftRank": 49,
-        "trend30Day": 31,
-        "dynasty": 3442,
-        "dynastyRank": 53
+        "redraft": 2977,
+        "redraftRank": 52,
+        "trend30Day": 72,
+        "dynasty": 3528,
+        "dynastyRank": 46
       },
-      "16599": {
-        "name": "Frank Gore",
+      "16601": {
+        "name": "Will Shipley",
         "position": "RB",
-        "dynasty": 3,
-        "dynastyRank": 392,
-        "trend30Day": 3
+        "dynasty": 92,
+        "dynastyRank": 340,
+        "trend30Day": -20
       },
       "16603": {
         "name": "Ray Davis",
         "position": "RB",
-        "dynasty": 790,
-        "dynastyRank": 221,
-        "trend30Day": 96
+        "dynasty": 672,
+        "dynastyRank": 233,
+        "trend30Day": -183
       },
       "16604": {
         "name": "MarShawn Lloyd",
         "position": "RB",
-        "redraft": 12,
-        "redraftRank": 183,
-        "trend30Day": 174,
-        "dynasty": 1260,
+        "redraft": 25,
+        "redraftRank": 182,
+        "trend30Day": 78,
+        "dynasty": 1277,
         "dynastyRank": 178
       },
       "16608": {
         "name": "George Holani",
         "position": "RB",
-        "dynasty": 392,
-        "dynastyRank": 271,
-        "trend30Day": 63
+        "dynasty": 305,
+        "dynastyRank": 279,
+        "trend30Day": 39
       },
       "16610": {
         "name": "Jaylen Wright",
         "position": "RB",
-        "dynasty": 843,
-        "dynastyRank": 212,
-        "trend30Day": -14
+        "dynasty": 691,
+        "dynastyRank": 229,
+        "trend30Day": -252
       },
       "16614": {
         "name": "Marvin Harrison Jr",
         "position": "WR",
-        "redraft": 1574,
-        "redraftRank": 79,
-        "trend30Day": -10,
-        "dynasty": 3197,
-        "dynastyRank": 55
+        "redraft": 1466,
+        "redraftRank": 84,
+        "trend30Day": -112,
+        "dynasty": 3074,
+        "dynastyRank": 59
       },
       "16615": {
         "name": "Malik Nabers",
         "position": "WR",
-        "redraft": 5066,
-        "redraftRank": 27,
-        "trend30Day": -202,
-        "dynasty": 6369,
-        "dynastyRank": 13
+        "redraft": 4873,
+        "redraftRank": 28,
+        "trend30Day": 213,
+        "dynasty": 6605,
+        "dynastyRank": 12
       },
       "16616": {
         "name": "Rome Odunze",
         "position": "WR",
-        "redraft": 2093,
-        "redraftRank": 66,
-        "trend30Day": -87,
-        "dynasty": 3183,
-        "dynastyRank": 56
+        "redraft": 2110,
+        "redraftRank": 67,
+        "trend30Day": 157,
+        "dynasty": 3422,
+        "dynastyRank": 52
       },
       "16617": {
         "name": "Keon Coleman",
         "position": "WR",
-        "dynasty": 1187,
-        "dynastyRank": 190,
-        "trend30Day": 64
+        "dynasty": 1108,
+        "dynastyRank": 199,
+        "trend30Day": -52
       },
       "16618": {
         "name": "Brian Thomas",
         "position": "WR",
-        "redraft": 1696,
-        "redraftRank": 74,
-        "trend30Day": -194,
-        "dynasty": 2905,
-        "dynastyRank": 62
+        "redraft": 1596,
+        "redraftRank": 79,
+        "trend30Day": -167,
+        "dynasty": 2978,
+        "dynastyRank": 63
       },
       "16619": {
         "name": "Troy Franklin",
         "position": "WR",
-        "dynasty": 963,
-        "dynastyRank": 203,
-        "trend30Day": -106
+        "dynasty": 940,
+        "dynastyRank": 208,
+        "trend30Day": -206
       },
       "16620": {
         "name": "Xavier Worthy",
         "position": "WR",
-        "redraft": 388,
+        "redraft": 396,
         "redraftRank": 131,
-        "trend30Day": -107,
-        "dynasty": 1689,
-        "dynastyRank": 125
-      },
-      "16621": {
-        "name": "Devontez Walker",
-        "position": "WR",
-        "dynasty": 45,
-        "dynastyRank": 367,
-        "trend30Day": 15
+        "trend30Day": -169,
+        "dynasty": 1642,
+        "dynastyRank": 129
       },
       "16622": {
         "name": "Ricky Pearsall",
         "position": "WR",
-        "dynasty": 1374,
-        "dynastyRank": 158,
-        "trend30Day": -410
+        "dynasty": 1438,
+        "dynastyRank": 151,
+        "trend30Day": -432
       },
       "16626": {
         "name": "Adonai Mitchell",
         "position": "WR",
-        "dynasty": 1059,
-        "dynastyRank": 195,
-        "trend30Day": -138
+        "dynasty": 1179,
+        "dynastyRank": 192,
+        "trend30Day": -15
       },
       "16627": {
         "name": "Ladd McConkey",
         "position": "WR",
-        "redraft": 3419,
-        "redraftRank": 42,
-        "trend30Day": 191,
-        "dynasty": 3934,
-        "dynastyRank": 36
+        "redraft": 3656,
+        "redraftRank": 39,
+        "trend30Day": 22,
+        "dynasty": 3813,
+        "dynastyRank": 38
       },
       "16628": {
         "name": "Jalen McMillan",
         "position": "WR",
-        "redraft": 41,
-        "redraftRank": 173,
-        "trend30Day": -101,
-        "dynasty": 1364,
-        "dynastyRank": 161
+        "redraft": 38,
+        "redraftRank": 179,
+        "trend30Day": -54,
+        "dynasty": 1375,
+        "dynastyRank": 164
       },
       "16629": {
         "name": "Roman Wilson",
         "position": "WR",
-        "dynasty": 167,
-        "dynastyRank": 314,
-        "trend30Day": 32
-      },
-      "16633": {
-        "name": "Jordan Whittington",
-        "position": "WR",
-        "dynasty": 43,
-        "dynastyRank": 370,
-        "trend30Day": -29
+        "dynasty": 180,
+        "dynastyRank": 309,
+        "trend30Day": 70
       },
       "16635": {
         "name": "Luke McCaffrey",
         "position": "WR",
-        "dynasty": 45,
-        "dynastyRank": 368,
-        "trend30Day": -91
+        "dynasty": 103,
+        "dynastyRank": 335,
+        "trend30Day": -41
+      },
+      "16636": {
+        "name": "Malachi Corley",
+        "position": "WR",
+        "dynasty": 15,
+        "dynastyRank": 396,
+        "trend30Day": 10
       },
       "16639": {
         "name": "Xavier Legette",
         "position": "WR",
-        "dynasty": 511,
-        "dynastyRank": 255,
+        "dynasty": 410,
+        "dynastyRank": 267,
+        "trend30Day": -112
+      },
+      "16640": {
+        "name": "Jacob Cowing",
+        "position": "WR",
+        "dynasty": 25,
+        "dynastyRank": 384,
         "trend30Day": 0
       },
       "16641": {
         "name": "Brock Bowers",
         "position": "TE",
-        "redraft": 6146,
-        "redraftRank": 18,
-        "trend30Day": 222,
-        "dynasty": 7066,
-        "dynastyRank": 9
-      },
-      "16642": {
-        "name": "Cade Stover",
-        "position": "TE",
-        "dynasty": 48,
-        "dynastyRank": 364,
-        "trend30Day": 49
+        "redraft": 6174,
+        "redraftRank": 17,
+        "trend30Day": 111,
+        "dynasty": 6992,
+        "dynastyRank": 10
       },
       "16643": {
         "name": "Ja'Tavion Sanders",
         "position": "TE",
-        "dynasty": 326,
-        "dynastyRank": 281,
-        "trend30Day": -100
+        "dynasty": 260,
+        "dynastyRank": 288,
+        "trend30Day": -131
       },
       "16644": {
         "name": "Ben Sinnott",
         "position": "TE",
-        "dynasty": 190,
-        "dynastyRank": 303,
-        "trend30Day": -11
+        "dynasty": 160,
+        "dynastyRank": 316,
+        "trend30Day": -62
       },
       "16645": {
         "name": "Erick All",
         "position": "TE",
-        "dynasty": 140,
-        "dynastyRank": 321,
-        "trend30Day": 26
+        "dynasty": 193,
+        "dynastyRank": 303,
+        "trend30Day": 102
       },
       "16649": {
         "name": "Theo Johnson",
         "position": "TE",
-        "dynasty": 428,
-        "dynastyRank": 265,
-        "trend30Day": -231
+        "dynasty": 436,
+        "dynastyRank": 264,
+        "trend30Day": -192
       },
       "16684": {
         "name": "Malik Washington",
         "position": "WR",
-        "redraft": 33,
-        "redraftRank": 175,
-        "trend30Day": 68,
-        "dynasty": 1190,
-        "dynastyRank": 188
+        "redraft": 49,
+        "redraftRank": 174,
+        "trend30Day": 94,
+        "dynasty": 1205,
+        "dynastyRank": 190
       },
       "16688": {
         "name": "Isaac Guerendo",
         "position": "RB",
-        "dynasty": 80,
-        "dynastyRank": 350,
-        "trend30Day": -56
+        "dynasty": 87,
+        "dynastyRank": 342,
+        "trend30Day": -18
       },
       "16723": {
         "name": "AJ Barner",
         "position": "TE",
-        "redraft": 117,
-        "redraftRank": 160,
-        "trend30Day": 42,
-        "dynasty": 1378,
-        "dynastyRank": 156
+        "redraft": 111,
+        "redraftRank": 163,
+        "trend30Day": 78,
+        "dynasty": 1387,
+        "dynastyRank": 163
+      },
+      "16746": {
+        "name": "Rasheen Ali",
+        "position": "RB",
+        "dynasty": 22,
+        "dynastyRank": 389,
+        "trend30Day": 14
       },
       "16747": {
         "name": "Tyrone Tracy",
         "position": "RB",
-        "redraft": 236,
-        "redraftRank": 143,
-        "trend30Day": -107,
-        "dynasty": 1286,
-        "dynastyRank": 176
+        "redraft": 191,
+        "redraftRank": 148,
+        "trend30Day": -98,
+        "dynasty": 1261,
+        "dynastyRank": 182
       },
       "16752": {
         "name": "Isaiah Davis",
         "position": "RB",
-        "dynasty": 647,
-        "dynastyRank": 242,
-        "trend30Day": 299
+        "dynasty": 521,
+        "dynastyRank": 250,
+        "trend30Day": 163
       },
       "16757": {
         "name": "Kimani Vidal",
         "position": "RB",
-        "dynasty": 798,
-        "dynastyRank": 218,
-        "trend30Day": -262
+        "dynasty": 740,
+        "dynastyRank": 221,
+        "trend30Day": -235
       },
       "16778": {
         "name": "Ryan Flournoy",
         "position": "WR",
-        "dynasty": 726,
-        "dynastyRank": 229,
-        "trend30Day": 0
+        "dynasty": 651,
+        "dynastyRank": 234,
+        "trend30Day": -107
       },
       "16788": {
         "name": "Devaughn Vele",
         "position": "WR",
-        "dynasty": 312,
-        "dynastyRank": 282,
-        "trend30Day": 81
+        "dynasty": 417,
+        "dynastyRank": 266,
+        "trend30Day": 228
       },
       "16809": {
         "name": "Jalen Coker",
         "position": "WR",
-        "redraft": 441,
+        "redraft": 476,
         "redraftRank": 125,
-        "trend30Day": 217,
-        "dynasty": 1658,
-        "dynastyRank": 130
+        "trend30Day": 124,
+        "dynasty": 1537,
+        "dynastyRank": 140
       },
       "17030": {
         "name": "Cam Ward",
         "position": "QB",
-        "redraft": 373,
-        "redraftRank": 134,
-        "trend30Day": -198,
-        "dynasty": 1827,
-        "dynastyRank": 107
+        "redraft": 346,
+        "redraftRank": 135,
+        "trend30Day": -176,
+        "dynasty": 1825,
+        "dynastyRank": 109
       },
       "17031": {
         "name": "Shedeur Sanders",
         "position": "QB",
-        "dynasty": 789,
+        "dynasty": 727,
         "dynastyRank": 222,
-        "trend30Day": -20
+        "trend30Day": -66
       },
       "17032": {
         "name": "Jaxson Dart",
         "position": "QB",
-        "redraft": 1669,
-        "redraftRank": 76,
-        "trend30Day": -210,
-        "dynasty": 2547,
+        "redraft": 1807,
+        "redraftRank": 74,
+        "trend30Day": -107,
+        "dynasty": 2595,
         "dynastyRank": 75
       },
       "17033": {
         "name": "Jalen Milroe",
         "position": "QB",
-        "dynasty": 276,
-        "dynastyRank": 285,
-        "trend30Day": -23
+        "dynasty": 256,
+        "dynastyRank": 289,
+        "trend30Day": -52
       },
       "17034": {
         "name": "Quinn Ewers",
         "position": "QB",
-        "dynasty": 107,
-        "dynastyRank": 338,
-        "trend30Day": -46
+        "dynasty": 132,
+        "dynastyRank": 330,
+        "trend30Day": -91
       },
       "17035": {
         "name": "Riley Leonard",
         "position": "QB",
-        "dynasty": 118,
-        "dynastyRank": 330,
-        "trend30Day": -50
+        "dynasty": 81,
+        "dynastyRank": 346,
+        "trend30Day": -111
       },
       "17036": {
         "name": "Will Howard",
         "position": "QB",
-        "dynasty": 179,
-        "dynastyRank": 309,
-        "trend30Day": -81
+        "dynasty": 148,
+        "dynastyRank": 321,
+        "trend30Day": -37
       },
       "17037": {
         "name": "Dillon Gabriel",
         "position": "QB",
-        "dynasty": 32,
-        "dynastyRank": 376,
-        "trend30Day": -9
+        "dynasty": 50,
+        "dynastyRank": 370,
+        "trend30Day": 37
       },
       "17039": {
         "name": "Tyler Shough",
         "position": "QB",
-        "redraft": 851,
-        "redraftRank": 109,
-        "trend30Day": 64,
-        "dynasty": 1739,
-        "dynastyRank": 118
+        "redraft": 650,
+        "redraftRank": 120,
+        "trend30Day": -142,
+        "dynasty": 1732,
+        "dynastyRank": 119
       },
       "17042": {
         "name": "Ashton Jeanty",
         "position": "RB",
-        "redraft": 7296,
+        "redraft": 6923,
         "redraftRank": 13,
-        "trend30Day": -100,
-        "dynasty": 7526,
+        "trend30Day": 121,
+        "dynasty": 7665,
         "dynastyRank": 6
       },
       "17043": {
         "name": "TreVeyon Henderson",
         "position": "RB",
-        "redraft": 2818,
-        "redraftRank": 54,
-        "trend30Day": -332,
-        "dynasty": 3712,
+        "redraft": 3213,
+        "redraftRank": 48,
+        "trend30Day": -203,
+        "dynasty": 3687,
         "dynastyRank": 41
       },
       "17044": {
         "name": "Omarion Hampton",
         "position": "RB",
-        "redraft": 6749,
-        "redraftRank": 14,
-        "trend30Day": -171,
-        "dynasty": 6409,
-        "dynastyRank": 12
+        "redraft": 6595,
+        "redraftRank": 16,
+        "trend30Day": 34,
+        "dynasty": 6481,
+        "dynastyRank": 13
       },
       "17045": {
         "name": "Cam Skattebo",
         "position": "RB",
-        "redraft": 3863,
+        "redraft": 4022,
         "redraftRank": 36,
-        "trend30Day": -74,
-        "dynasty": 3480,
-        "dynastyRank": 49
+        "trend30Day": 10,
+        "dynasty": 3477,
+        "dynastyRank": 50
       },
       "17046": {
         "name": "Devin Neal",
         "position": "RB",
-        "dynasty": 342,
-        "dynastyRank": 278,
-        "trend30Day": -78
+        "dynasty": 393,
+        "dynastyRank": 271,
+        "trend30Day": -57
       },
       "17047": {
         "name": "Dylan Sampson",
         "position": "RB",
-        "redraft": 55,
-        "redraftRank": 170,
-        "trend30Day": -110,
-        "dynasty": 1372,
-        "dynastyRank": 160
+        "redraft": 54,
+        "redraftRank": 172,
+        "trend30Day": -102,
+        "dynasty": 1404,
+        "dynastyRank": 154
       },
       "17048": {
         "name": "Kaleb Johnson",
         "position": "RB",
-        "dynasty": 1025,
-        "dynastyRank": 201,
-        "trend30Day": -171
+        "dynasty": 991,
+        "dynastyRank": 202,
+        "trend30Day": -161
       },
       "17049": {
         "name": "Brashard Smith",
         "position": "RB",
-        "dynasty": 123,
-        "dynastyRank": 328,
-        "trend30Day": -219
-      },
-      "17050": {
-        "name": "Kalel Mullings",
-        "position": "RB",
-        "dynasty": 13,
-        "dynastyRank": 387,
-        "trend30Day": 13
+        "dynasty": 196,
+        "dynastyRank": 302,
+        "trend30Day": -89
       },
       "17051": {
         "name": "Quinshon Judkins",
         "position": "RB",
-        "redraft": 3131,
+        "redraft": 3257,
         "redraftRank": 46,
-        "trend30Day": -166,
-        "dynasty": 4034,
-        "dynastyRank": 34
+        "trend30Day": -250,
+        "dynasty": 4002,
+        "dynastyRank": 35
       },
       "17052": {
         "name": "Bhayshul Tuten",
         "position": "RB",
-        "redraft": 2396,
-        "redraftRank": 60,
-        "trend30Day": 192,
-        "dynasty": 2746,
+        "redraft": 2534,
+        "redraftRank": 58,
+        "trend30Day": 268,
+        "dynasty": 2871,
         "dynastyRank": 68
       },
       "17053": {
         "name": "Woody Marks",
         "position": "RB",
-        "redraft": 188,
-        "redraftRank": 149,
-        "trend30Day": -111,
-        "dynasty": 1312,
-        "dynastyRank": 172
+        "redraft": 196,
+        "redraftRank": 147,
+        "trend30Day": 29,
+        "dynasty": 1458,
+        "dynastyRank": 150
       },
       "17055": {
         "name": "Jordan James",
         "position": "RB",
-        "dynasty": 742,
-        "dynastyRank": 226,
-        "trend30Day": -112
+        "dynasty": 709,
+        "dynastyRank": 228,
+        "trend30Day": -140
       },
       "17056": {
         "name": "Trevor Etienne",
         "position": "RB",
-        "dynasty": 260,
-        "dynastyRank": 287,
-        "trend30Day": -185
-      },
-      "17057": {
-        "name": "Donovan Edwards",
-        "position": "RB",
-        "dynasty": 23,
-        "dynastyRank": 380,
-        "trend30Day": 23
+        "dynasty": 237,
+        "dynastyRank": 292,
+        "trend30Day": -165
       },
       "17058": {
         "name": "Tahj Brooks",
         "position": "RB",
-        "dynasty": 222,
-        "dynastyRank": 295,
-        "trend30Day": -253
+        "dynasty": 304,
+        "dynastyRank": 280,
+        "trend30Day": -41
       },
       "17059": {
         "name": "Ollie Gordon",
         "position": "RB",
-        "dynasty": 919,
-        "dynastyRank": 206,
-        "trend30Day": 78
+        "dynasty": 620,
+        "dynastyRank": 242,
+        "trend30Day": -307
       },
       "17060": {
         "name": "DJ Giddens",
         "position": "RB",
-        "dynasty": 483,
-        "dynastyRank": 259,
-        "trend30Day": -189
+        "dynasty": 482,
+        "dynastyRank": 255,
+        "trend30Day": -111
       },
       "17061": {
         "name": "LeQuint Allen",
         "position": "RB",
-        "dynasty": 444,
-        "dynastyRank": 262,
-        "trend30Day": -116
-      },
-      "17062": {
-        "name": "Raheim Sanders",
-        "position": "RB",
-        "dynasty": 47,
-        "dynastyRank": 365,
-        "trend30Day": 47
+        "dynasty": 403,
+        "dynastyRank": 269,
+        "trend30Day": -120
       },
       "17063": {
         "name": "Phil Mafah",
         "position": "RB",
-        "dynasty": 84,
-        "dynastyRank": 347,
-        "trend30Day": -32
+        "dynasty": 90,
+        "dynastyRank": 341,
+        "trend30Day": -3
       },
       "17064": {
         "name": "Jarquez Hunter",
         "position": "RB",
-        "dynasty": 138,
-        "dynastyRank": 322,
-        "trend30Day": -77
+        "dynasty": 124,
+        "dynastyRank": 332,
+        "trend30Day": -47
       },
       "17066": {
         "name": "Kyle Monangai",
         "position": "RB",
-        "redraft": 925,
-        "redraftRank": 102,
-        "trend30Day": -98,
-        "dynasty": 2032,
-        "dynastyRank": 93
+        "redraft": 848,
+        "redraftRank": 110,
+        "trend30Day": -293,
+        "dynasty": 1853,
+        "dynastyRank": 106
       },
       "17068": {
         "name": "RJ Harvey",
         "position": "RB",
-        "redraft": 1185,
+        "redraft": 1260,
         "redraftRank": 91,
-        "trend30Day": 86,
-        "dynasty": 2191,
-        "dynastyRank": 83
+        "trend30Day": -107,
+        "dynasty": 2141,
+        "dynastyRank": 85
       },
       "17069": {
         "name": "Jaydon Blue",
         "position": "RB",
-        "dynasty": 949,
-        "dynastyRank": 204,
-        "trend30Day": 21
+        "dynasty": 913,
+        "dynastyRank": 210,
+        "trend30Day": -135
       },
       "17070": {
         "name": "Luther Burden",
         "position": "WR",
-        "redraft": 2526,
-        "redraftRank": 58,
-        "trend30Day": 99,
-        "dynasty": 3600,
-        "dynastyRank": 44
+        "redraft": 2397,
+        "redraftRank": 59,
+        "trend30Day": 86,
+        "dynasty": 3513,
+        "dynastyRank": 48
       },
       "17071": {
         "name": "Tetairoa McMillan",
         "position": "WR",
-        "redraft": 3521,
-        "redraftRank": 41,
-        "trend30Day": -326,
-        "dynasty": 4531,
-        "dynastyRank": 26
+        "redraft": 3812,
+        "redraftRank": 38,
+        "trend30Day": -289,
+        "dynasty": 4599,
+        "dynastyRank": 25
       },
       "17072": {
         "name": "Tre' Harris",
         "position": "WR",
-        "dynasty": 1343,
-        "dynastyRank": 165,
-        "trend30Day": 142
+        "dynasty": 1363,
+        "dynastyRank": 167,
+        "trend30Day": 129
       },
       "17073": {
         "name": "Elic Ayomanor",
         "position": "WR",
-        "dynasty": 835,
-        "dynastyRank": 214,
-        "trend30Day": -56
+        "dynasty": 751,
+        "dynastyRank": 220,
+        "trend30Day": 20
       },
       "17074": {
         "name": "Travis Hunter",
         "position": "WR",
-        "redraft": 207,
+        "redraft": 199,
         "redraftRank": 146,
-        "trend30Day": -334,
-        "dynasty": 1727,
-        "dynastyRank": 120
+        "trend30Day": -304,
+        "dynasty": 1720,
+        "dynastyRank": 122
       },
       "17075": {
         "name": "Matthew Golden",
         "position": "WR",
-        "redraft": 483,
-        "redraftRank": 124,
-        "trend30Day": 72,
-        "dynasty": 1983,
-        "dynastyRank": 96
+        "redraft": 499,
+        "redraftRank": 123,
+        "trend30Day": 147,
+        "dynasty": 2055,
+        "dynastyRank": 95
       },
       "17076": {
         "name": "Isaiah Bond",
         "position": "WR",
-        "dynasty": 433,
-        "dynastyRank": 264,
-        "trend30Day": -133
+        "dynasty": 487,
+        "dynastyRank": 253,
+        "trend30Day": -71
       },
       "17078": {
         "name": "Jack Bech",
         "position": "WR",
-        "dynasty": 854,
-        "dynastyRank": 211,
-        "trend30Day": -255
+        "dynasty": 920,
+        "dynastyRank": 209,
+        "trend30Day": -223
       },
       "17079": {
         "name": "Tez Johnson",
         "position": "WR",
-        "dynasty": 369,
+        "dynasty": 374,
         "dynastyRank": 273,
-        "trend30Day": -48
+        "trend30Day": -93
       },
       "17080": {
         "name": "Jaylin Noel",
         "position": "WR",
-        "dynasty": 668,
-        "dynastyRank": 237,
-        "trend30Day": -446
+        "dynasty": 1146,
+        "dynastyRank": 196,
+        "trend30Day": 96
       },
       "17081": {
         "name": "Emeka Egbuka",
         "position": "WR",
-        "redraft": 3657,
-        "redraftRank": 40,
-        "trend30Day": -18,
-        "dynasty": 4537,
-        "dynastyRank": 25
+        "redraft": 3381,
+        "redraftRank": 44,
+        "trend30Day": -30,
+        "dynasty": 4478,
+        "dynastyRank": 28
       },
       "17082": {
         "name": "Pat Bryant",
         "position": "WR",
-        "dynasty": 1319,
-        "dynastyRank": 171,
-        "trend30Day": 306
+        "dynasty": 1468,
+        "dynastyRank": 148,
+        "trend30Day": 632
       },
       "17083": {
         "name": "Jayden Higgins",
         "position": "WR",
-        "redraft": 289,
-        "redraftRank": 136,
-        "trend30Day": 161,
-        "dynasty": 1914,
-        "dynastyRank": 102
+        "dynasty": 1845,
+        "dynastyRank": 107,
+        "trend30Day": 76
       },
       "17086": {
         "name": "Jalen Royals",
         "position": "WR",
-        "dynasty": 221,
+        "dynasty": 220,
         "dynastyRank": 296,
-        "trend30Day": -94
+        "trend30Day": -119
       },
       "17087": {
         "name": "Dont'e Thornton",
         "position": "WR",
-        "dynasty": 227,
-        "dynastyRank": 292,
-        "trend30Day": -155
+        "dynasty": 238,
+        "dynastyRank": 291,
+        "trend30Day": -135
       },
       "17096": {
         "name": "Savion Williams",
         "position": "WR",
-        "dynasty": 111,
-        "dynastyRank": 334,
-        "trend30Day": -42
+        "dynasty": 170,
+        "dynastyRank": 313,
+        "trend30Day": -7
+      },
+      "17097": {
+        "name": "Tai Felton",
+        "position": "WR",
+        "dynasty": 50,
+        "dynastyRank": 369,
+        "trend30Day": -9
       },
       "17098": {
         "name": "Tory Horton",
         "position": "WR",
-        "dynasty": 980,
-        "dynastyRank": 202,
-        "trend30Day": -131
+        "dynasty": 852,
+        "dynastyRank": 213,
+        "trend30Day": -240
       },
       "17099": {
         "name": "Oronde Gadsden",
         "position": "TE",
-        "redraft": 287,
-        "redraftRank": 137,
-        "trend30Day": -259,
+        "redraft": 245,
+        "redraftRank": 140,
+        "trend30Day": -307,
         "dynasty": 1520,
-        "dynastyRank": 141
+        "dynastyRank": 142
       },
       "17102": {
         "name": "Tyler Warren",
         "position": "TE",
-        "redraft": 3078,
-        "redraftRank": 47,
-        "trend30Day": -48,
-        "dynasty": 4152,
+        "redraft": 3388,
+        "redraftRank": 43,
+        "trend30Day": -127,
+        "dynasty": 4149,
         "dynastyRank": 31
       },
       "17103": {
         "name": "Harold Fannin",
         "position": "TE",
-        "redraft": 1655,
+        "redraft": 1662,
         "redraftRank": 77,
-        "trend30Day": -122,
-        "dynasty": 2789,
-        "dynastyRank": 67
+        "trend30Day": 67,
+        "dynasty": 2984,
+        "dynastyRank": 62
       },
       "17104": {
         "name": "Colston Loveland",
         "position": "TE",
-        "redraft": 3688,
-        "redraftRank": 38,
-        "trend30Day": 33,
-        "dynasty": 4627,
+        "redraft": 3626,
+        "redraftRank": 40,
+        "trend30Day": 159,
+        "dynasty": 4787,
         "dynastyRank": 24
       },
       "17105": {
         "name": "Gunnar Helm",
         "position": "TE",
-        "dynasty": 1290,
-        "dynastyRank": 174,
-        "trend30Day": 75
+        "redraft": 1,
+        "redraftRank": 187,
+        "trend30Day": 36,
+        "dynasty": 1282,
+        "dynastyRank": 177
       },
       "17106": {
         "name": "Mason Taylor",
         "position": "TE",
-        "dynasty": 694,
-        "dynastyRank": 233,
-        "trend30Day": -170
+        "dynasty": 718,
+        "dynastyRank": 225,
+        "trend30Day": -127
       },
       "17107": {
         "name": "Terrance Ferguson",
         "position": "TE",
-        "dynasty": 1382,
-        "dynastyRank": 155,
-        "trend30Day": 191
+        "dynasty": 1388,
+        "dynastyRank": 162,
+        "trend30Day": 151
       },
       "17108": {
         "name": "Elijah Arroyo",
         "position": "TE",
-        "dynasty": 664,
-        "dynastyRank": 239,
-        "trend30Day": 4
+        "dynasty": 604,
+        "dynastyRank": 244,
+        "trend30Day": 19
       },
       "17134": {
         "name": "Kyle Williams",
         "position": "WR",
-        "dynasty": 596,
-        "dynastyRank": 247,
-        "trend30Day": -80
+        "dynasty": 444,
+        "dynastyRank": 262,
+        "trend30Day": -239
       },
       "17157": {
         "name": "Isaac TeSlaa",
         "position": "WR",
-        "redraft": 22,
+        "redraft": 29,
         "redraftRank": 180,
-        "trend30Day": 127,
-        "dynasty": 1251,
-        "dynastyRank": 179
+        "trend30Day": 43,
+        "dynasty": 1181,
+        "dynastyRank": 191
       },
       "17171": {
         "name": "Chimere Dike",
         "position": "WR",
-        "dynasty": 576,
-        "dynastyRank": 250,
-        "trend30Day": -267
+        "dynasty": 593,
+        "dynastyRank": 246,
+        "trend30Day": -258
       },
       "17184": {
         "name": "Jaylin Lane",
         "position": "WR",
-        "dynasty": 170,
-        "dynastyRank": 312,
-        "trend30Day": -56
+        "dynasty": 86,
+        "dynastyRank": 343,
+        "trend30Day": -97
       },
       "17205": {
         "name": "KeAndre Lambert-Smith",
         "position": "WR",
-        "dynasty": 52,
-        "dynastyRank": 361,
-        "trend30Day": -57
+        "dynasty": 46,
+        "dynastyRank": 374,
+        "trend30Day": -59
+      },
+      "17234": {
+        "name": "Jimmy Horn",
+        "position": "WR",
+        "dynasty": 67,
+        "dynastyRank": 358,
+        "trend30Day": 33
       },
       "17256": {
         "name": "Jacory Croskey-Merritt",
         "position": "RB",
-        "redraft": 808,
-        "redraftRank": 111,
-        "trend30Day": 198,
-        "dynasty": 1768,
-        "dynastyRank": 116
-      },
-      "17269": {
-        "name": "Efton Chism",
-        "position": "WR",
-        "dynasty": 44,
-        "dynastyRank": 369,
-        "trend30Day": 12
+        "redraft": 809,
+        "redraftRank": 113,
+        "trend30Day": 193,
+        "dynasty": 1819,
+        "dynastyRank": 110
       },
       "17353": {
         "name": "Jahdae Walker",
         "position": "WR",
-        "dynasty": 76,
-        "dynastyRank": 351,
-        "trend30Day": 77
-      },
-      "17360": {
-        "name": "Myles Price",
-        "position": "WR",
-        "dynasty": 2,
-        "dynastyRank": 394,
-        "trend30Day": 3
+        "dynasty": 52,
+        "dynastyRank": 367,
+        "trend30Day": -10
       },
       "17462": {
         "name": "Fernando Mendoza",
         "position": "QB",
-        "redraft": 116,
-        "redraftRank": 161,
-        "trend30Day": -45,
-        "dynasty": 2137,
-        "dynastyRank": 85
+        "redraft": 102,
+        "redraftRank": 165,
+        "trend30Day": 5,
+        "dynasty": 2122,
+        "dynastyRank": 86
       },
       "17463": {
         "name": "Ty Simpson",
         "position": "QB",
-        "dynasty": 1157,
-        "dynastyRank": 192,
-        "trend30Day": 21
+        "dynasty": 1214,
+        "dynastyRank": 188,
+        "trend30Day": 109
       },
       "17465": {
         "name": "Garrett Nussmeier",
         "position": "QB",
-        "dynasty": 120,
-        "dynastyRank": 329,
-        "trend30Day": -62
+        "dynasty": 75,
+        "dynastyRank": 349,
+        "trend30Day": -2
       },
       "17466": {
         "name": "Carson Beck",
         "position": "QB",
-        "dynasty": 946,
-        "dynastyRank": 205,
-        "trend30Day": 456
+        "dynasty": 820,
+        "dynastyRank": 216,
+        "trend30Day": 342
       },
       "17467": {
         "name": "Cade Klubnik",
         "position": "QB",
-        "dynasty": 345,
-        "dynastyRank": 276,
-        "trend30Day": 18
+        "dynasty": 378,
+        "dynastyRank": 272,
+        "trend30Day": 52
       },
       "17468": {
         "name": "Drew Allar",
         "position": "QB",
         "dynasty": 836,
-        "dynastyRank": 213,
-        "trend30Day": 583
+        "dynastyRank": 215,
+        "trend30Day": 540
       },
       "17472": {
         "name": "Jeremiyah Love",
         "position": "RB",
-        "redraft": 5121,
+        "redraft": 4968,
         "redraftRank": 26,
-        "trend30Day": -124,
-        "dynasty": 7332,
+        "trend30Day": -24,
+        "dynasty": 7355,
         "dynastyRank": 8
       },
       "17473": {
         "name": "Jadarian Price",
         "position": "RB",
-        "redraft": 2251,
+        "redraft": 2291,
         "redraftRank": 62,
-        "trend30Day": 98,
-        "dynasty": 3457,
-        "dynastyRank": 51
+        "trend30Day": 209,
+        "dynasty": 3568,
+        "dynastyRank": 45
       },
       "17474": {
         "name": "Emmett Johnson",
         "position": "RB",
-        "dynasty": 1205,
-        "dynastyRank": 187,
-        "trend30Day": -135
+        "redraft": 25,
+        "redraftRank": 181,
+        "trend30Day": 280,
+        "dynasty": 1337,
+        "dynastyRank": 170
       },
       "17475": {
         "name": "Seth McGowan",
         "position": "RB",
-        "dynasty": 416,
-        "dynastyRank": 267,
-        "trend30Day": -116
+        "dynasty": 362,
+        "dynastyRank": 275,
+        "trend30Day": -87
       },
       "17476": {
         "name": "Nicholas Singleton",
         "position": "RB",
-        "dynasty": 1719,
-        "dynastyRank": 122,
-        "trend30Day": 1
+        "dynasty": 1693,
+        "dynastyRank": 124,
+        "trend30Day": -49
       },
       "17477": {
         "name": "Jonah Coleman",
         "position": "RB",
-        "redraft": 138,
-        "redraftRank": 158,
-        "trend30Day": 222,
-        "dynasty": 2053,
-        "dynastyRank": 91
+        "redraft": 147,
+        "redraftRank": 156,
+        "trend30Day": 278,
+        "dynasty": 2093,
+        "dynastyRank": 90
       },
       "17478": {
         "name": "Kaytron Allen",
         "position": "RB",
-        "dynasty": 1026,
-        "dynastyRank": 199,
-        "trend30Day": -122
+        "dynasty": 906,
+        "dynastyRank": 211,
+        "trend30Day": -40
       },
       "17481": {
         "name": "Demond Claiborne",
         "position": "RB",
-        "dynasty": 1043,
-        "dynastyRank": 198,
-        "trend30Day": -164
+        "dynasty": 1051,
+        "dynastyRank": 201,
+        "trend30Day": -209
       },
       "17482": {
         "name": "Mike Washington",
         "position": "RB",
-        "redraft": 23,
-        "redraftRank": 179,
-        "trend30Day": 516,
-        "dynasty": 1576,
-        "dynastyRank": 136
+        "redraft": 20,
+        "redraftRank": 184,
+        "trend30Day": 672,
+        "dynasty": 1607,
+        "dynastyRank": 133
       },
       "17485": {
         "name": "Kaelon Black",
         "position": "RB",
-        "dynasty": 918,
-        "dynastyRank": 207,
-        "trend30Day": -190
+        "dynasty": 1309,
+        "dynastyRank": 175,
+        "trend30Day": 289
       },
       "17486": {
         "name": "Jam Miller",
         "position": "RB",
-        "dynasty": 299,
-        "dynastyRank": 283,
-        "trend30Day": 124
+        "dynasty": 181,
+        "dynastyRank": 306,
+        "trend30Day": -48
       },
       "17487": {
         "name": "J'Mari Taylor",
         "position": "RB",
-        "dynasty": 188,
-        "dynastyRank": 305,
-        "trend30Day": -173
+        "dynasty": 199,
+        "dynastyRank": 301,
+        "trend30Day": -104
       },
       "17497": {
         "name": "Carnell Tate",
         "position": "WR",
-        "redraft": 2080,
-        "redraftRank": 67,
-        "trend30Day": -81,
-        "dynasty": 4335,
-        "dynastyRank": 28
+        "redraft": 2019,
+        "redraftRank": 70,
+        "trend30Day": -324,
+        "dynasty": 4087,
+        "dynastyRank": 33
       },
       "17498": {
         "name": "Jordyn Tyson",
         "position": "WR",
-        "redraft": 1374,
-        "redraftRank": 86,
-        "trend30Day": -296,
-        "dynasty": 3489,
-        "dynastyRank": 47
+        "redraft": 1306,
+        "redraftRank": 88,
+        "trend30Day": -493,
+        "dynasty": 3373,
+        "dynastyRank": 54
       },
       "17499": {
         "name": "Makai Lemon",
         "position": "WR",
-        "redraft": 936,
-        "redraftRank": 100,
-        "trend30Day": -254,
-        "dynasty": 2969,
-        "dynastyRank": 61
+        "redraft": 1011,
+        "redraftRank": 99,
+        "trend30Day": -260,
+        "dynasty": 2917,
+        "dynastyRank": 65
       },
       "17500": {
         "name": "Denzel Boston",
         "position": "WR",
-        "redraft": 150,
-        "redraftRank": 156,
-        "trend30Day": 303,
-        "dynasty": 2252,
+        "redraft": 206,
+        "redraftRank": 144,
+        "trend30Day": 455,
+        "dynasty": 2354,
         "dynastyRank": 79
       },
       "17501": {
         "name": "KC Concepcion",
         "position": "WR",
-        "redraft": 532,
+        "redraft": 565,
         "redraftRank": 122,
-        "trend30Day": 196,
-        "dynasty": 2586,
-        "dynastyRank": 73
+        "trend30Day": 323,
+        "dynasty": 2717,
+        "dynastyRank": 70
       },
       "17502": {
         "name": "Omar Cooper",
         "position": "WR",
-        "redraft": 93,
-        "redraftRank": 164,
-        "trend30Day": -230,
-        "dynasty": 1793,
-        "dynastyRank": 109
+        "redraft": 83,
+        "redraftRank": 167,
+        "trend30Day": -143,
+        "dynasty": 1804,
+        "dynastyRank": 112
       },
       "17503": {
         "name": "Germie Bernard",
         "position": "WR",
-        "dynasty": 1422,
-        "dynastyRank": 148,
-        "trend30Day": 19
+        "dynasty": 1316,
+        "dynastyRank": 174,
+        "trend30Day": 111
       },
       "17504": {
         "name": "CJ Daniels",
         "position": "WR",
-        "dynasty": 82,
-        "dynastyRank": 348,
-        "trend30Day": -12
+        "dynasty": 226,
+        "dynastyRank": 295,
+        "trend30Day": 86
       },
       "17505": {
         "name": "Elijah Sarratt",
         "position": "WR",
-        "dynasty": 827,
-        "dynastyRank": 215,
-        "trend30Day": -300
+        "dynasty": 854,
+        "dynastyRank": 212,
+        "trend30Day": -226
       },
       "17506": {
         "name": "Chris Bell",
         "position": "WR",
-        "dynasty": 1394,
-        "dynastyRank": 153,
-        "trend30Day": 30
+        "dynasty": 1233,
+        "dynastyRank": 186,
+        "trend30Day": -259
       },
       "17507": {
         "name": "Zachariah Branch",
         "position": "WR",
-        "dynasty": 1431,
-        "dynastyRank": 146,
-        "trend30Day": 233
+        "redraft": 15,
+        "redraftRank": 185,
+        "trend30Day": 263,
+        "dynasty": 1329,
+        "dynastyRank": 172
       },
       "17508": {
         "name": "Skyler Bell",
         "position": "WR",
-        "dynasty": 683,
-        "dynastyRank": 235,
-        "trend30Day": -216
+        "dynasty": 628,
+        "dynastyRank": 240,
+        "trend30Day": -195
       },
       "17509": {
         "name": "Chris Brazzell",
         "position": "WR",
-        "dynasty": 620,
-        "dynastyRank": 245,
-        "trend30Day": -144
+        "dynasty": 490,
+        "dynastyRank": 252,
+        "trend30Day": -290
       },
       "17510": {
         "name": "Deion Burks",
         "position": "WR",
-        "dynasty": 113,
-        "dynastyRank": 333,
-        "trend30Day": -87
+        "dynasty": 111,
+        "dynastyRank": 334,
+        "trend30Day": -207
       },
       "17511": {
         "name": "Malachi Fields",
         "position": "WR",
-        "dynasty": 1404,
-        "dynastyRank": 151,
-        "trend30Day": 231
+        "dynasty": 1422,
+        "dynastyRank": 152,
+        "trend30Day": 357
       },
       "17512": {
         "name": "Antonio Williams",
         "position": "WR",
-        "redraft": 6,
-        "redraftRank": 184,
-        "trend30Day": -48,
-        "dynasty": 1449,
-        "dynastyRank": 145
+        "dynasty": 1471,
+        "dynastyRank": 147,
+        "trend30Day": -16
       },
       "17514": {
         "name": "De'Zhaun Stribling",
         "position": "WR",
-        "redraft": 392,
-        "redraftRank": 130,
-        "trend30Day": 592,
-        "dynasty": 1836,
-        "dynastyRank": 105
+        "redraft": 575,
+        "redraftRank": 121,
+        "trend30Day": 749,
+        "dynasty": 2203,
+        "dynastyRank": 83
       },
       "17517": {
         "name": "Ja'Kobi Lane",
         "position": "WR",
-        "redraft": 19,
-        "redraftRank": 181,
-        "trend30Day": 986,
-        "dynasty": 1822,
-        "dynastyRank": 108
+        "redraft": 56,
+        "redraftRank": 171,
+        "trend30Day": 896,
+        "dynasty": 1785,
+        "dynastyRank": 113
       },
       "17518": {
         "name": "Cyrus Allen",
         "position": "WR",
-        "dynasty": 1383,
-        "dynastyRank": 154,
-        "trend30Day": 904
+        "redraft": 3,
+        "redraftRank": 186,
+        "trend30Day": 1127,
+        "dynasty": 1605,
+        "dynastyRank": 134
       },
       "17519": {
         "name": "Bryce Lance",
         "position": "WR",
-        "dynasty": 373,
-        "dynastyRank": 272,
-        "trend30Day": -85
+        "dynasty": 573,
+        "dynastyRank": 247,
+        "trend30Day": 28
       },
       "17520": {
         "name": "Ted Hurst",
         "position": "WR",
-        "dynasty": 1094,
-        "dynastyRank": 194,
-        "trend30Day": 30
+        "dynasty": 1175,
+        "dynastyRank": 193,
+        "trend30Day": 99
       },
       "17521": {
         "name": "Zavion Thomas",
         "position": "WR",
-        "dynasty": 437,
-        "dynastyRank": 263,
-        "trend30Day": -143
+        "dynasty": 404,
+        "dynastyRank": 268,
+        "trend30Day": -64
       },
       "17523": {
         "name": "Jeff Caldwell",
         "position": "WR",
-        "dynasty": 147,
-        "dynastyRank": 319,
-        "trend30Day": -12
-      },
-      "17526": {
-        "name": "Reggie Virgil",
-        "position": "WR",
-        "dynasty": 98,
-        "dynastyRank": 340,
-        "trend30Day": 99
-      },
-      "17527": {
-        "name": "Josh Cameron",
-        "position": "WR",
-        "dynasty": 84,
-        "dynastyRank": 346,
-        "trend30Day": 85
+        "dynasty": 59,
+        "dynastyRank": 364,
+        "trend30Day": -121
       },
       "17528": {
         "name": "Kevin Coleman",
         "position": "WR",
-        "dynasty": 234,
-        "dynastyRank": 291,
-        "trend30Day": -44
+        "dynasty": 298,
+        "dynastyRank": 282,
+        "trend30Day": 46
       },
       "17529": {
         "name": "Brenen Thompson",
         "position": "WR",
-        "dynasty": 255,
-        "dynastyRank": 289,
-        "trend30Day": -105
+        "dynasty": 276,
+        "dynastyRank": 285,
+        "trend30Day": -31
+      },
+      "17530": {
+        "name": "Lewis Bond",
+        "position": "WR",
+        "dynasty": 201,
+        "dynastyRank": 300,
+        "trend30Day": 215
       },
       "17541": {
         "name": "Barion Brown",
         "position": "WR",
-        "dynasty": 516,
-        "dynastyRank": 254,
-        "trend30Day": 519
+        "dynasty": 462,
+        "dynastyRank": 258,
+        "trend30Day": 412
       },
       "17542": {
         "name": "Colbie Young",
         "position": "WR",
-        "dynasty": 189,
-        "dynastyRank": 304,
-        "trend30Day": -45
+        "dynasty": 273,
+        "dynastyRank": 287,
+        "trend30Day": 15
       },
       "17543": {
         "name": "Kenyon Sadiq",
         "position": "TE",
-        "redraft": 157,
-        "redraftRank": 154,
-        "trend30Day": 6,
-        "dynasty": 2239,
-        "dynastyRank": 80
+        "redraft": 159,
+        "redraftRank": 153,
+        "trend30Day": 62,
+        "dynasty": 2280,
+        "dynastyRank": 81
       },
       "17544": {
         "name": "Eli Stowers",
         "position": "TE",
-        "dynasty": 1779,
-        "dynastyRank": 111,
-        "trend30Day": -113
+        "dynasty": 1780,
+        "dynastyRank": 114,
+        "trend30Day": -82
       },
       "17545": {
         "name": "Jack Endries",
         "position": "TE",
-        "dynasty": 192,
-        "dynastyRank": 302,
-        "trend30Day": -77
+        "dynasty": 175,
+        "dynastyRank": 311,
+        "trend30Day": -28
       },
       "17546": {
         "name": "Michael Trigg",
         "position": "TE",
-        "dynasty": 180,
-        "dynastyRank": 307,
-        "trend30Day": -13
+        "dynasty": 216,
+        "dynastyRank": 297,
+        "trend30Day": -42
       },
       "17547": {
         "name": "Max Klare",
         "position": "TE",
-        "dynasty": 407,
-        "dynastyRank": 268,
-        "trend30Day": -241
+        "dynasty": 484,
+        "dynastyRank": 254,
+        "trend30Day": -78
       },
       "17548": {
         "name": "Justin Joly",
         "position": "TE",
-        "dynasty": 445,
-        "dynastyRank": 261,
-        "trend30Day": -149
+        "dynasty": 460,
+        "dynastyRank": 260,
+        "trend30Day": -99
       },
       "17549": {
         "name": "Sam Roush",
         "position": "TE",
-        "dynasty": 161,
-        "dynastyRank": 315,
-        "trend30Day": 22
+        "dynasty": 72,
+        "dynastyRank": 353,
+        "trend30Day": 4
       },
       "17567": {
         "name": "Oscar Delp",
         "position": "TE",
-        "dynasty": 673,
-        "dynastyRank": 236,
-        "trend30Day": -90
+        "dynasty": 622,
+        "dynastyRank": 241,
+        "trend30Day": -159
       },
       "17593": {
         "name": "Marlin Klein",
         "position": "TE",
-        "dynasty": 167,
-        "dynastyRank": 313,
-        "trend30Day": -11
+        "dynasty": 183,
+        "dynastyRank": 305,
+        "trend30Day": 74
       },
       "17599": {
         "name": "Caleb Douglas",
         "position": "WR",
-        "dynasty": 1339,
-        "dynastyRank": 166,
-        "trend30Day": 739
+        "dynasty": 1256,
+        "dynastyRank": 183,
+        "trend30Day": 662
       },
       "17605": {
         "name": "Will Kacmarek",
         "position": "TE",
-        "dynasty": 172,
-        "dynastyRank": 311,
-        "trend30Day": -42
+        "dynasty": 173,
+        "dynastyRank": 312,
+        "trend30Day": -20
       },
       "17607": {
         "name": "Eli Raridon",
         "position": "TE",
-        "dynasty": 791,
-        "dynastyRank": 220,
-        "trend30Day": -126
+        "dynasty": 971,
+        "dynastyRank": 204,
+        "trend30Day": 154
       },
       "17644": {
         "name": "Tanner Koziol",
         "position": "TE",
-        "dynasty": 131,
-        "dynastyRank": 323,
-        "trend30Day": -8
+        "dynasty": 154,
+        "dynastyRank": 320,
+        "trend30Day": -11
+      },
+      "17651": {
+        "name": "Josh Cuevas",
+        "position": "TE",
+        "dynasty": 79,
+        "dynastyRank": 347,
+        "trend30Day": 92
       },
       "17652": {
         "name": "Adam Randall",
         "position": "RB",
-        "dynasty": 771,
-        "dynastyRank": 224,
-        "trend30Day": -6
+        "dynasty": 709,
+        "dynastyRank": 227,
+        "trend30Day": -55
       },
       "17654": {
         "name": "Cole Payton",
         "position": "QB",
-        "dynasty": 61,
-        "dynastyRank": 356,
-        "trend30Day": 64
+        "dynasty": 84,
+        "dynastyRank": 345,
+        "trend30Day": 92
       },
       "17657": {
         "name": "Taylen Green",
         "position": "QB",
-        "dynasty": 149,
-        "dynastyRank": 318,
-        "trend30Day": -111
+        "dynasty": 132,
+        "dynastyRank": 328,
+        "trend30Day": -50
       },
       "17685": {
         "name": "Eli Heidenreich",
         "position": "RB",
-        "dynasty": 344,
-        "dynastyRank": 277,
-        "trend30Day": -109
+        "dynasty": 287,
+        "dynastyRank": 283,
+        "trend30Day": -193
       },
       "17706": {
         "name": "Malik Benson",
         "position": "WR",
-        "dynasty": 485,
-        "dynastyRank": 258,
-        "trend30Day": 214
+        "dynasty": 504,
+        "dynastyRank": 251,
+        "trend30Day": 145
       },
       "17709": {
         "name": "Robert Henry",
         "position": "RB",
-        "dynasty": 255,
-        "dynastyRank": 288,
-        "trend30Day": 253
+        "dynasty": 238,
+        "dynastyRank": 290,
+        "trend30Day": 245
       },
       "17713": {
         "name": "Haynes King",
         "position": "QB",
-        "dynasty": 95,
-        "dynastyRank": 342,
-        "trend30Day": 99
+        "dynasty": 96,
+        "dynastyRank": 337,
+        "trend30Day": 107
       },
       "FP_2027_early_0": {
         "name": "2027 1st (Early)",
         "position": "PICK",
-        "dynasty": 4359,
-        "dynastyRank": 28,
-        "trend30Day": 5
+        "dynasty": 4310,
+        "dynastyRank": 31,
+        "trend30Day": -49
       },
       "FP_2026_1": {
         "name": "2026 1st",
         "position": "PICK",
-        "dynasty": 2889,
-        "dynastyRank": 63,
-        "trend30Day": -30
+        "dynasty": 2890,
+        "dynastyRank": 67,
+        "trend30Day": -25
       },
       "FP_2027_mid_0": {
         "name": "2027 1st (Mid)",
         "position": "PICK",
-        "dynasty": 2870,
-        "dynastyRank": 65,
-        "trend30Day": 3
+        "dynasty": 2837,
+        "dynastyRank": 69,
+        "trend30Day": -32
       },
       "FP_2027_1": {
         "name": "2027 1st",
         "position": "PICK",
-        "dynasty": 2772,
-        "dynastyRank": 68,
-        "trend30Day": 3
+        "dynasty": 2740,
+        "dynastyRank": 70,
+        "trend30Day": -31
       },
       "FP_2027_late_0": {
         "name": "2027 1st (Late)",
         "position": "PICK",
-        "dynasty": 2213,
-        "dynastyRank": 82,
-        "trend30Day": 14
+        "dynasty": 2210,
+        "dynastyRank": 83,
+        "trend30Day": 5
       },
       "FP_2028_1": {
         "name": "2028 1st",
         "position": "PICK",
-        "dynasty": 1978,
-        "dynastyRank": 97,
-        "trend30Day": -37
+        "dynasty": 1997,
+        "dynastyRank": 99,
+        "trend30Day": -29
       },
       "FP_2027_early_1": {
         "name": "2027 2nd (Early)",
         "position": "PICK",
-        "dynasty": 1779,
-        "dynastyRank": 111,
-        "trend30Day": 21
+        "dynasty": 1796,
+        "dynastyRank": 113,
+        "trend30Day": 29
       },
       "FP_2029_1": {
         "name": "2029 1st",
         "position": "PICK",
-        "dynasty": 1767,
-        "dynastyRank": 117,
-        "trend30Day": 6
-      },
-      "FP_2026_2": {
-        "name": "2026 2nd",
-        "position": "PICK",
-        "dynasty": 1491,
-        "dynastyRank": 142,
-        "trend30Day": -59
+        "dynasty": 1790,
+        "dynastyRank": 113,
+        "trend30Day": 43
       },
       "FP_2027_mid_1": {
         "name": "2027 2nd (Mid)",
         "position": "PICK",
-        "dynasty": 1477,
-        "dynastyRank": 143,
-        "trend30Day": 25
+        "dynasty": 1509,
+        "dynastyRank": 144,
+        "trend30Day": 46
+      },
+      "FP_2026_2": {
+        "name": "2026 2nd",
+        "position": "PICK",
+        "dynasty": 1488,
+        "dynastyRank": 145,
+        "trend30Day": -57
       },
       "FP_2027_2": {
         "name": "2027 2nd",
         "position": "PICK",
-        "dynasty": 1453,
-        "dynastyRank": 145,
-        "trend30Day": 25
-      },
-      "FP_2028_2": {
-        "name": "2028 2nd",
-        "position": "PICK",
-        "dynasty": 1285,
-        "dynastyRank": 177,
-        "trend30Day": 66
+        "dynasty": 1484,
+        "dynastyRank": 146,
+        "trend30Day": 45
       },
       "FP_2027_late_1": {
         "name": "2027 2nd (Late)",
         "position": "PICK",
-        "dynasty": 1277,
-        "dynastyRank": 178,
-        "trend30Day": 16
+        "dynasty": 1301,
+        "dynastyRank": 176,
+        "trend30Day": 37
+      },
+      "FP_2028_2": {
+        "name": "2028 2nd",
+        "position": "PICK",
+        "dynasty": 1275,
+        "dynastyRank": 180,
+        "trend30Day": 56
       },
       "FP_2029_2": {
         "name": "2029 2nd",
         "position": "PICK",
-        "dynasty": 1204,
-        "dynastyRank": 188,
-        "trend30Day": 47
+        "dynasty": 1209,
+        "dynastyRank": 190,
+        "trend30Day": 44
       },
       "FP_2027_early_2": {
         "name": "2027 3rd (Early)",
         "position": "PICK",
-        "dynasty": 1125,
-        "dynastyRank": 193,
-        "trend30Day": 9
+        "dynasty": 1143,
+        "dynastyRank": 197,
+        "trend30Day": 30
       },
       "FP_2027_mid_2": {
         "name": "2027 3rd (Mid)",
         "position": "PICK",
-        "dynasty": 1006,
+        "dynasty": 1020,
         "dynastyRank": 202,
-        "trend30Day": 4
-      },
-      "FP_2026_3": {
-        "name": "2026 3rd",
-        "position": "PICK",
-        "dynasty": 1005,
-        "dynastyRank": 202,
-        "trend30Day": -50
+        "trend30Day": 25
       },
       "FP_2027_3": {
         "name": "2027 3rd",
         "position": "PICK",
-        "dynasty": 1001,
+        "dynasty": 1014,
         "dynastyRank": 202,
-        "trend30Day": 4
+        "trend30Day": 25
+      },
+      "FP_2026_3": {
+        "name": "2026 3rd",
+        "position": "PICK",
+        "dynasty": 1002,
+        "dynastyRank": 202,
+        "trend30Day": -49
       },
       "FP_2027_late_2": {
         "name": "2027 3rd (Late)",
         "position": "PICK",
-        "dynasty": 918,
-        "dynastyRank": 207,
-        "trend30Day": 1
-      },
-      "FP_2029_3": {
-        "name": "2029 3rd",
-        "position": "PICK",
-        "dynasty": 899,
-        "dynastyRank": 208,
-        "trend30Day": 6
+        "dynasty": 924,
+        "dynastyRank": 209,
+        "trend30Day": 13
       },
       "FP_2028_3": {
         "name": "2028 3rd",
         "position": "PICK",
-        "dynasty": 898,
-        "dynastyRank": 208,
-        "trend30Day": 9
+        "dynasty": 909,
+        "dynastyRank": 211,
+        "trend30Day": 13
+      },
+      "FP_2029_3": {
+        "name": "2029 3rd",
+        "position": "PICK",
+        "dynasty": 896,
+        "dynastyRank": 212,
+        "trend30Day": 0
       },
       "FP_2027_early_3": {
         "name": "2027 4th (Early)",
         "position": "PICK",
         "dynasty": 847,
-        "dynastyRank": 212,
-        "trend30Day": -1
+        "dynastyRank": 214,
+        "trend30Day": 4
       },
       "FP_2027_mid_3": {
         "name": "2027 4th (Mid)",
         "position": "PICK",
-        "dynasty": 788,
-        "dynastyRank": 223,
-        "trend30Day": -2
+        "dynasty": 782,
+        "dynastyRank": 217,
+        "trend30Day": -5
       },
       "FP_2027_4": {
         "name": "2027 4th",
         "position": "PICK",
-        "dynasty": 788,
-        "dynastyRank": 223,
-        "trend30Day": -2
-      },
-      "FP_2026_4": {
-        "name": "2026 4th",
-        "position": "PICK",
-        "dynasty": 758,
-        "dynastyRank": 225,
-        "trend30Day": -42
-      },
-      "FP_2029_4": {
-        "name": "2029 4th",
-        "position": "PICK",
-        "dynasty": 751,
-        "dynastyRank": 225,
-        "trend30Day": -9
+        "dynasty": 782,
+        "dynastyRank": 217,
+        "trend30Day": -5
       },
       "FP_2028_4": {
         "name": "2028 4th",
         "position": "PICK",
-        "dynasty": 745,
-        "dynastyRank": 226,
-        "trend30Day": -5
+        "dynasty": 758,
+        "dynastyRank": 219,
+        "trend30Day": 5
+      },
+      "FP_2026_4": {
+        "name": "2026 4th",
+        "position": "PICK",
+        "dynasty": 756,
+        "dynastyRank": 219,
+        "trend30Day": -41
+      },
+      "FP_2029_4": {
+        "name": "2029 4th",
+        "position": "PICK",
+        "dynasty": 748,
+        "dynastyRank": 221,
+        "trend30Day": -10
       },
       "FP_2027_late_3": {
         "name": "2027 4th (Late)",
         "position": "PICK",
-        "dynasty": 728,
-        "dynastyRank": 228,
-        "trend30Day": -3
+        "dynasty": 724,
+        "dynastyRank": 224,
+        "trend30Day": -4
       },
       "UNK": {
         "name": "Matt Hibner",
         "position": "TE",
-        "dynasty": 396,
-        "dynastyRank": 269,
-        "trend30Day": 122
+        "dynasty": 185,
+        "dynastyRank": 304,
+        "trend30Day": 180
       }
     },
     "picks": {
       "2026-1.01": {
         "name": "2026 Pick 1.01",
-        "dynasty": 6781,
-        "dynastyRank": 10
+        "dynasty": 6802,
+        "dynastyRank": 11
       },
       "2026-1.02": {
         "name": "2026 Pick 1.02",
-        "dynasty": 4271,
-        "dynastyRank": 29
+        "dynasty": 4269,
+        "dynastyRank": 31
       },
       "2026-1.03": {
         "name": "2026 Pick 1.03",
-        "dynasty": 3732,
+        "dynasty": 3739,
         "dynastyRank": 41
       },
       "2026-1.04": {
         "name": "2026 Pick 1.04",
-        "dynasty": 3425,
-        "dynastyRank": 55
+        "dynasty": 3424,
+        "dynastyRank": 52
       },
       "2026-1.05": {
         "name": "2026 Pick 1.05",
-        "dynasty": 3173,
+        "dynasty": 3179,
         "dynastyRank": 58
       },
       "2026-1.06": {
         "name": "2026 Pick 1.06",
-        "dynasty": 3002,
-        "dynastyRank": 61
+        "dynasty": 3003,
+        "dynastyRank": 62
       },
       "2026-1.07": {
         "name": "2026 Pick 1.07",
-        "dynasty": 2776,
-        "dynastyRank": 68
+        "dynasty": 2777,
+        "dynastyRank": 70
       },
       "2026-1.08": {
         "name": "2026 Pick 1.08",
         "dynasty": 2582,
-        "dynastyRank": 74
+        "dynastyRank": 76
       },
       "2026-1.09": {
         "name": "2026 Pick 1.09",
-        "dynasty": 2414,
+        "dynasty": 2413,
         "dynastyRank": 79
       },
       "2026-1.10": {
         "name": "2026 Pick 1.10",
-        "dynasty": 2266,
-        "dynastyRank": 79
+        "dynasty": 2264,
+        "dynastyRank": 82
       },
       "2026-1.11": {
         "name": "2026 Pick 1.11",
-        "dynasty": 2136,
+        "dynasty": 2134,
         "dynastyRank": 86
       },
       "2026-1.12": {
         "name": "2026 Pick 1.12",
-        "dynasty": 2019,
-        "dynastyRank": 94
+        "dynasty": 2017,
+        "dynastyRank": 98
       },
       "2026-2.01": {
         "name": "2026 Pick 2.01",
-        "dynasty": 1914,
-        "dynastyRank": 102
+        "dynasty": 1912,
+        "dynastyRank": 100
       },
       "2026-2.02": {
         "name": "2026 Pick 2.02",
-        "dynasty": 1820,
-        "dynastyRank": 109
+        "dynasty": 1818,
+        "dynastyRank": 111
       },
       "2026-2.03": {
         "name": "2026 Pick 2.03",
-        "dynasty": 1735,
-        "dynastyRank": 120
+        "dynasty": 1732,
+        "dynastyRank": 119
       },
       "2026-2.04": {
         "name": "2026 Pick 2.04",
-        "dynasty": 1658,
-        "dynastyRank": 130
+        "dynasty": 1655,
+        "dynastyRank": 128
       },
       "2026-2.05": {
         "name": "2026 Pick 2.05",
-        "dynasty": 1586,
-        "dynastyRank": 136
+        "dynasty": 1583,
+        "dynastyRank": 138
       },
       "2026-2.06": {
         "name": "2026 Pick 2.06",
-        "dynasty": 1521,
-        "dynastyRank": 141
+        "dynasty": 1518,
+        "dynastyRank": 143
       },
       "2026-2.07": {
         "name": "2026 Pick 2.07",
-        "dynasty": 1461,
-        "dynastyRank": 144
+        "dynasty": 1458,
+        "dynastyRank": 150
       },
       "2026-2.08": {
         "name": "2026 Pick 2.08",
-        "dynasty": 1406,
-        "dynastyRank": 151
+        "dynasty": 1403,
+        "dynastyRank": 155
       },
       "2026-2.09": {
         "name": "2026 Pick 2.09",
-        "dynasty": 1354,
-        "dynastyRank": 164
+        "dynasty": 1351,
+        "dynastyRank": 169
       },
       "2026-2.10": {
         "name": "2026 Pick 2.10",
-        "dynasty": 1306,
-        "dynastyRank": 174
+        "dynasty": 1303,
+        "dynastyRank": 176
       },
       "2026-2.11": {
         "name": "2026 Pick 2.11",
-        "dynasty": 1261,
-        "dynastyRank": 178
+        "dynasty": 1258,
+        "dynastyRank": 183
       },
       "2026-2.12": {
         "name": "2026 Pick 2.12",
-        "dynasty": 1220,
-        "dynastyRank": 183
+        "dynasty": 1217,
+        "dynastyRank": 187
       },
       "2026-3.01": {
         "name": "2026 Pick 3.01",
-        "dynasty": 1181,
-        "dynastyRank": 191
+        "dynasty": 1178,
+        "dynastyRank": 193
       },
       "2026-3.02": {
         "name": "2026 Pick 3.02",
-        "dynasty": 1145,
-        "dynastyRank": 193
+        "dynasty": 1142,
+        "dynastyRank": 197
       },
       "2026-3.03": {
         "name": "2026 Pick 3.03",
-        "dynasty": 1110,
-        "dynastyRank": 194
+        "dynasty": 1107,
+        "dynastyRank": 200
       },
       "2026-3.04": {
         "name": "2026 Pick 3.04",
-        "dynasty": 1078,
-        "dynastyRank": 195
+        "dynasty": 1075,
+        "dynastyRank": 201
       },
       "2026-3.05": {
         "name": "2026 Pick 3.05",
-        "dynasty": 1048,
-        "dynastyRank": 196
+        "dynasty": 1045,
+        "dynastyRank": 202
       },
       "2026-3.06": {
         "name": "2026 Pick 3.06",
-        "dynasty": 1019,
+        "dynasty": 1016,
         "dynastyRank": 202
       },
       "2026-3.07": {
         "name": "2026 Pick 3.07",
-        "dynasty": 992,
-        "dynastyRank": 202
+        "dynasty": 989,
+        "dynastyRank": 203
       },
       "2026-3.08": {
         "name": "2026 Pick 3.08",
-        "dynasty": 965,
-        "dynastyRank": 203
+        "dynasty": 962,
+        "dynastyRank": 205
       },
       "2026-3.09": {
         "name": "2026 Pick 3.09",
-        "dynasty": 940,
-        "dynastyRank": 206
+        "dynasty": 938,
+        "dynastyRank": 209
       },
       "2026-3.10": {
         "name": "2026 Pick 3.10",
-        "dynasty": 917,
-        "dynastyRank": 208
+        "dynasty": 914,
+        "dynastyRank": 210
       },
       "2026-3.11": {
         "name": "2026 Pick 3.11",
-        "dynasty": 895,
-        "dynastyRank": 208
+        "dynasty": 892,
+        "dynastyRank": 212
       },
       "2026-3.12": {
         "name": "2026 Pick 3.12",
-        "dynasty": 874,
-        "dynastyRank": 209
+        "dynasty": 871,
+        "dynastyRank": 212
       },
       "2026-4.01": {
         "name": "2026 Pick 4.01",
-        "dynasty": 854,
-        "dynastyRank": 211
+        "dynasty": 851,
+        "dynastyRank": 214
       },
       "2026-4.02": {
         "name": "2026 Pick 4.02",
-        "dynasty": 835,
-        "dynastyRank": 214
+        "dynasty": 832,
+        "dynastyRank": 216
       },
       "2026-4.03": {
         "name": "2026 Pick 4.03",
-        "dynasty": 816,
-        "dynastyRank": 216
+        "dynasty": 814,
+        "dynastyRank": 217
       },
       "2026-4.04": {
         "name": "2026 Pick 4.04",
-        "dynasty": 799,
-        "dynastyRank": 218
+        "dynasty": 796,
+        "dynastyRank": 217
       },
       "2026-4.05": {
         "name": "2026 Pick 4.05",
-        "dynasty": 782,
-        "dynastyRank": 224
+        "dynasty": 779,
+        "dynastyRank": 217
       },
       "2026-4.06": {
         "name": "2026 Pick 4.06",
-        "dynasty": 766,
-        "dynastyRank": 225
+        "dynasty": 763,
+        "dynastyRank": 218
       },
       "2026-4.07": {
         "name": "2026 Pick 4.07",
-        "dynasty": 750,
-        "dynastyRank": 225
+        "dynasty": 748,
+        "dynastyRank": 221
       },
       "2026-4.08": {
         "name": "2026 Pick 4.08",
-        "dynasty": 735,
-        "dynastyRank": 227
+        "dynasty": 733,
+        "dynastyRank": 222
       },
       "2026-4.09": {
         "name": "2026 Pick 4.09",
-        "dynasty": 721,
-        "dynastyRank": 232
+        "dynasty": 719,
+        "dynastyRank": 225
       },
       "2026-4.10": {
         "name": "2026 Pick 4.10",
-        "dynasty": 707,
-        "dynastyRank": 233
+        "dynasty": 705,
+        "dynastyRank": 229
       },
       "2026-4.11": {
         "name": "2026 Pick 4.11",
-        "dynasty": 694,
-        "dynastyRank": 233
+        "dynasty": 692,
+        "dynastyRank": 229
       },
       "2026-4.12": {
         "name": "2026 Pick 4.12",
-        "dynasty": 681,
-        "dynastyRank": 236
+        "dynasty": 679,
+        "dynastyRank": 232
       }
     },
     "meta": {
-      "mappedPlayers": 423,
+      "mappedPlayers": 426,
       "exactPicks": 48,
-      "redraftCount": 185,
-      "dynastyCount": 471,
-      "maxDynastyPlayer": 11285
+      "redraftCount": 187,
+      "dynastyCount": 475,
+      "maxDynastyPlayer": 11224
     }
   }
 }

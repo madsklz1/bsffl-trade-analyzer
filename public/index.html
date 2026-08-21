@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>BSFFL Trade Analyzer v3.0</title>
+<title>BSFFL Trade Analyzer v3.7</title>
 <style>
 :root{--bg:#06110a;--panel:#0d2115;--line:#285139;--muted:#a4b9aa;--text:#eef8f0;--accent:#79bd83;--good:#78d89c;--warn:#e6c875;--bad:#ef8989}
 *{box-sizing:border-box} body{margin:0;font-family:Inter,Segoe UI,Arial,sans-serif;background:linear-gradient(135deg,#051008 0%,#0b2012 48%,#12301c 72%,#07150c 100%);background-attachment:fixed;color:var(--text)}
@@ -314,7 +314,7 @@ function seasonWeights(){
 function rankToMarketValue(rank){
   rank=Number(rank||9999);
   if(rank<=0||rank>=9999)return 0;
-  return Math.max(0,100*Math.exp(-(rank-1)/72));
+  return Math.max(0,100*Math.exp(-(rank-1)/50));
 }
 function fpRanks(p){
   const rec=FP?.players?.[String(p.id)]||{};
@@ -328,35 +328,80 @@ function playerBaseValue(p){
   const w=seasonWeights();
   const redSources=[], dynSources=[];
 
-  // FantasyPros: expert consensus. Free tier may omit most players.
+  // v3.7 source blend: keep expert consensus and market data balanced instead
+  // of allowing a single available source to inherit the weight of missing ones.
+  // Current-season target weights: FP 40%, FantasyCalc 40%, MFL ADP 20%.
+  // Dynasty target weights: FP 50%, FantasyCalc 50%.
   if(fp && (fp.redraft||fp.dynasty)){
-    if(fp.redraft)redSources.push({v:Number(fp.redraft),wt:.25});
-    if(fp.dynasty)dynSources.push({v:Number(fp.dynasty),wt:.25});
+    if(fp.redraft)redSources.push({v:rankToMarketValue(Number(fp.redraft)),wt:.40,src:"FantasyPros"});
+    if(fp.dynasty)dynSources.push({v:rankToMarketValue(Number(fp.dynasty)),wt:.50,src:"FantasyPros"});
   }
 
-  // FantasyCalc: actual trade-market value; strongest market signal.
+  // FantasyCalc remains a major market signal, but it no longer automatically
+  // dominates FantasyPros merely because its nominal weight was larger.
   if(fc && (fc.redraft||fc.dynasty)){
     const all=Object.values(FC?.players||{});
     const maxR=Math.max(1,...all.map(x=>Number(x.redraft||0)));
     const maxD=Math.max(1,...all.map(x=>Number(x.dynasty||0)));
-    if(fc.redraft)redSources.push({v:100*Number(fc.redraft)/maxR,wt:.50});
-    if(fc.dynasty)dynSources.push({v:100*Number(fc.dynasty)/maxD,wt:.50});
+    if(fc.redraft)redSources.push({v:100*Number(fc.redraft)/maxR,wt:.40,src:"FantasyCalc"});
+    if(fc.dynasty)dynSources.push({v:100*Number(fc.dynasty)/maxD,wt:.50,src:"FantasyCalc"});
   }
 
-  // MFL ADP: actual draft market. Current-season only, deliberately moderate weight.
-  if(adp?.adp)redSources.push({v:rankToMarketValue(Number(adp.adp)),wt:.25});
+  // MFL ADP is current-season evidence only.
+  if(adp?.adp)redSources.push({v:rankToMarketValue(Number(adp.adp)),wt:.20,src:"MFL ADP"});
 
-  function weighted(srcs){
+  function weightedWithCoverage(srcs,plannedWeight){
     if(!srcs.length)return null;
-    const denom=srcs.reduce((a,x)=>a+x.wt,0);
-    return srcs.reduce((a,x)=>a+x.v*x.wt,0)/denom;
+    const available=srcs.reduce((a,x)=>a+x.wt,0);
+    const avg=srcs.reduce((a,x)=>a+x.v*x.wt,0)/available;
+    // Missing independent sources should not make the remaining source look
+    // artificially more authoritative. Apply a modest evidence-coverage
+    // discount instead of renormalizing sparse data to 100% confidence.
+    const coverage=Math.max(0,Math.min(1,available/plannedWeight));
+    const coverageMultiplier=0.75 + 0.25*coverage;
+    return avg*coverageMultiplier;
   }
 
-  const red=weighted(redSources), dyn=weighted(dynSources);
+  const red=weightedWithCoverage(redSources,1.00), dyn=weightedWithCoverage(dynSources,1.00);
   if(red===null && dyn===null)return null;
   const current=red!==null?red:dyn, dynasty=dyn!==null?dyn:red;
   return current*w.current + dynasty*w.dynasty;
 }
+
+function playerSourceConfidence(p){
+  const id=String(p.id), fp=FP?.players?.[id]||null, fc=FC?.players?.[id]||null, adp=MADP?.players?.[id]||null;
+  const vals=[];
+  const providers=new Set();
+
+  if(fp?.redraft){vals.push(rankToMarketValue(Number(fp.redraft)));providers.add("fp")}
+  if(fp?.dynasty){vals.push(rankToMarketValue(Number(fp.dynasty)));providers.add("fp")}
+
+  if(fc){
+    const all=Object.values(FC?.players||{});
+    const maxR=Math.max(1,...all.map(x=>Number(x.redraft||0)));
+    const maxD=Math.max(1,...all.map(x=>Number(x.dynasty||0)));
+    if(fc.redraft){vals.push(100*Number(fc.redraft)/maxR);providers.add("fc")}
+    if(fc.dynasty){vals.push(100*Number(fc.dynasty)/maxD);providers.add("fc")}
+  }
+
+  if(adp?.adp){vals.push(rankToMarketValue(Number(adp.adp)));providers.add("adp")}
+
+  if(!vals.length)return {confidence:0.25,spread:100,providers:0};
+  const spread=Math.max(...vals)-Math.min(...vals);
+  const n=providers.size;
+
+  // Confidence is highest when multiple independent markets agree.
+  // Large disagreement or sparse coverage lowers confidence, but never
+  // zeroes a player's football value.
+  let confidence;
+  if(n>=3) confidence=1-(spread/115);
+  else if(n===2) confidence=0.82-(spread/125);
+  else confidence=0.42;
+
+  confidence=Math.max(0.30,Math.min(1,confidence));
+  return {confidence,spread,providers:n};
+}
+
 function posNormForCap(p){
   const x=String(p?._pos||p?.position||"").toUpperCase();
   if(x==="PK"||x==="K")return "K";
@@ -449,13 +494,36 @@ function contractSurplusInfo(p,base){
   const cfg=bsfflSettings();
   const marketSalary=(justifiedAnnual*1e6) + (justifiedAnnual*1e6*cfg.futureSalaryWeight);
   const actualSalary=Number(p.salary||0) + player2027Salary(p)*cfg.futureSalaryWeight;
-  const surplusDollar=marketSalary-actualSalary;
+  let surplusDollar=marketSalary-actualSalary;
+  const sourceInfo=playerSourceConfidence(p);
 
-  // Convert cap surplus to trade-value points. Cheap elite players receive a strong
-  // premium; overpaid replaceable players take a strong penalty.
+  // A cheap contract is only a major asset when the PLAYER is an asset.
+  // If the blended football value is at/below league replacement level,
+  // do not award positive "surplus" for occupying a cheap roster spot.
+  // The contract may still be dead money if actual cost exceeds justified cost.
+  if(base<=prof.replacementValue && surplusDollar>0){
+    surplusDollar=0;
+  }
+
+  // Convert cap surplus to trade-value points. Positive surplus is discounted
+  // when independent ranking/market sources strongly disagree, preventing one
+  // optimistic source from creating a huge cheap-contract bonus. Contract
+  // deficits are not discounted as aggressively because the cash obligation is real.
   let points=(surplusDollar/1e6)*cfg.contractPointsPerMillion;
+  if(points>0){
+    const confidenceMultiplier=0.35 + 0.65*sourceInfo.confidence;
+    points*=confidenceMultiplier;
+  }else if(points<0){
+    const deficitMultiplier=0.80 + 0.20*sourceInfo.confidence;
+    points*=deficitMultiplier;
+  }
+
   points=Math.max(-cfg.maxContractAdjustment,Math.min(cfg.maxContractAdjustment,points));
-  return {points,surplusDollar,marketSalary,actualSalary,pos,replacementValue:prof.replacementValue,justifiedAnnual};
+  return {
+    points,surplusDollar,marketSalary,actualSalary,pos,
+    replacementValue:prof.replacementValue,justifiedAnnual,
+    sourceConfidence:sourceInfo.confidence,sourceSpread:sourceInfo.spread
+  };
 }
 function contractMarketModifier(p,base){
   return contractSurplusInfo(p,base).points;
@@ -522,14 +590,43 @@ function salaryImpactWord(v){return v>0?"added":v<0?"saved":"difference"}
 function salaryImpactHtml(v){
   return `<span class="${salaryImpactClass(v)}">${fmt(Math.abs(v))} ${salaryImpactWord(v)}</span>`;
 }
-function tradeSalaryValueAdjustment(impact){
-  // Contract surplus is the primary salary valuation. This smaller second layer
-  // prices the optionality of cap room that can be redeployed elsewhere without
-  // double-counting the full contract difference.
+function receivedAssetUtility(o){
+  // Cap savings only have full strategic value when the cheaper football assets
+  // coming back are actually usable above positional replacement. This prevents
+  // a cheap bench/backup asset from turning a large salary saving into an elite
+  // player's equivalent value. It is deliberately player-agnostic and uses the
+  // same live replacement baselines as contract surplus.
+  const profs=replacementProfile();
+  const usable=[];
+  for(const p of (o?.players||[])){
+    const base=playerBaseValue(p);
+    const prof=profs[posNormForCap(p)];
+    if(base===null || !prof)continue;
+    const denom=Math.max(8,100-prof.replacementValue);
+    const above=(base-prof.replacementValue)/denom;
+    // Below replacement: only 15% of trade-level cap optionality. From
+    // replacement to clearly useful starter, ramp smoothly to full credit.
+    usable.push(Math.max(0.15,Math.min(1,0.15+above*3.4)));
+  }
+  if(!usable.length)return 1;
+  return usable.reduce((a,b)=>a+b,0)/usable.length;
+}
+function tradeSalaryValueAdjustment(impact,receivedAssets){
+  // Contract surplus is the primary salary valuation. This second layer prices
+  // the optionality of cap room that can be redeployed elsewhere.
   const cfg=bsfflSettings();
   const weightedMillions=(impact.d26 + cfg.futureSalaryWeight*impact.d27)/1_000_000;
-  let points=-weightedMillions*cfg.capFlexPointsPerMillion;
-  return Math.max(-cfg.maxCapFlexAdjustment,Math.min(cfg.maxCapFlexAdjustment,points));
+  const magnitude=Math.abs(weightedMillions);
+  let scale=0.75;
+  if(magnitude>2) scale=1.00;
+  if(magnitude>5) scale=1.35;
+  if(magnitude>10) scale=2.00;
+  let points=-weightedMillions*cfg.capFlexPointsPerMillion*scale;
+  // Only positive cap-flex value (salary SAVINGS) is usefulness-gated. Taking
+  // on salary remains a real obligation regardless of the incoming player's tier.
+  if(points>0) points*=receivedAssetUtility(receivedAssets);
+  const progressiveCap=Math.max(cfg.maxCapFlexAdjustment,32);
+  return Math.max(-progressiveCap,Math.min(progressiveCap,points));
 }
 
 function tradeDiagnostic(rawA,rawB,valA,valB,impactA,impactB){
@@ -555,7 +652,7 @@ function analyze(){
   if(!A.players.length&&!A.picks.length&&!B.players.length&&!B.picks.length){document.getElementById("result").innerHTML='<div class="note bad">Select at least one asset.</div>';return}
   const tradeSalA=outgoingSalaryByYear(A), tradeSalB=outgoingSalaryByYear(B);
   const impactA=salaryTradeImpact(tradeSalB,tradeSalA), impactB=salaryTradeImpact(tradeSalA,tradeSalB);
-  const tradeSalaryAdjA=tradeSalaryValueAdjustment(impactA), tradeSalaryAdjB=tradeSalaryValueAdjustment(impactB);
+  const tradeSalaryAdjA=tradeSalaryValueAdjustment(impactA,B), tradeSalaryAdjB=tradeSalaryValueAdjustment(impactB,A);
   const salA0=salaryTotal(state.A.team),salB0=salaryTotal(state.B.team);
   const salA1=salA0-A.salary+B.salary, salB1=salB0-B.salary+A.salary;
   const legalA=salA1<=CAP, legalB=salB1<=CAP;
@@ -608,7 +705,7 @@ function analyze(){
       <div class="metric">${teamName(state.B.team)} post-trade salary<b>${fmt(salB1)}</b><span class="${legalB?'ok':'bad'}">${fmt(CAP-salB1)} cap room</span></div>
       <div class="metric">Assets selected<b>${A.players.length+A.picks.length} ↔ ${B.players.length+B.picks.length}</b></div>
     </div>
-    <div class="note"><b>Valuation status:</b> The engine uses weighted FantasyPros/FantasyCalc market data plus MFL ADP, dynamic redraft/dynasty weighting, BSFFL replacement-cost contract surplus/deficit, bounded 2026/2027 cap-flexibility adjustments, and exact-slot 2026 rookie-pick values with future-pick discounting. Player values use live market/consensus sources when available. The BSFFL Model Rank provides an additional league-specific reference point but is not currently included directly in the trade score. Trade advantage percentages are confidence-scaled to prevent salary or smaller asset differences from producing exaggerated gaps. Draft-pick valuation has been calibrated against usable BSFFL trade history; franchise-tag transactions where salary rules materially forced the trade are excluded from calibration.<br><br><b>Roster rules:</b> This analyzer enforces the $40M cap. Position-minimum and transaction-rule checks are not currently enforced because they require BSFFL-specific rule logic beyond MFL's generic roster limits.</div>
+    <div class="note"><b>Valuation status:</b> The engine converts FantasyPros rankings, FantasyCalc market values, and MFL ADP onto a common value scale, applies provider-balanced source weighting with a modest sparse-coverage discount, then applies dynamic redraft/dynasty weighting, BSFFL replacement-cost contract surplus/deficit, progressive 2026/2027 cap-flexibility adjustments, and exact-slot 2026 rookie-pick values with future-pick discounting. Contract surplus is tied to football value above replacement and is confidence-weighted when independent market sources disagree. The BSFFL Model Rank provides an additional league-specific reference point but is not currently included directly in the trade score. Trade advantage percentages are confidence-scaled to prevent salary or smaller asset differences from producing exaggerated gaps. Draft-pick valuation has been calibrated against usable BSFFL trade history; franchise-tag transactions where salary rules materially forced the trade are excluded from calibration.<br><br><b>Roster rules:</b> This analyzer enforces the $40M cap. Position-minimum and transaction-rule checks are not currently enforced because they require BSFFL-specific rule logic beyond MFL's generic roster limits.</div>
     ${(A.players.length||B.players.length)?`<details open><summary>Salary & Contracts</summary><p>
       <span class="salaryline"><b>${teamName(state.A.team)}</b> sends <b>${fmt(tradeSalA.total)} total</b> (${fmt(tradeSalA.y26)} in 2026 and ${fmt(tradeSalA.y27)} in 2027) and receives <b>${fmt(tradeSalB.total)} total</b>. Net: ${salaryImpactHtml(impactA.total)}. <span class="salarydetail">2026: ${salaryImpactHtml(impactA.d26)}; 2027: ${salaryImpactHtml(impactA.d27)}.</span></span>
       <span class="salaryline"><b>${teamName(state.B.team)}</b> sends <b>${fmt(tradeSalB.total)} total</b> (${fmt(tradeSalB.y26)} in 2026 and ${fmt(tradeSalB.y27)} in 2027) and receives <b>${fmt(tradeSalA.total)} total</b>. Net: ${salaryImpactHtml(impactB.total)}. <span class="salarydetail">2026: ${salaryImpactHtml(impactB.d26)}; 2027: ${salaryImpactHtml(impactB.d27)}.</span></span>
@@ -626,7 +723,8 @@ function analyze(){
         const c=contractSurplusInfo(p,base);
         const cls=c.surplusDollar>0?"contract-surplus":c.surplusDollar<0?"contract-deficit":"contract-neutral";
         const label=c.surplusDollar>0?"surplus":"deficit";
-        return `${p._name}: <span class="${cls}">${fmt(Math.abs(c.surplusDollar))} ${label}</span> <span class="surplus-detail">(${c.pos}, justified annual cost ≈ ${fmt(c.justifiedAnnual*1e6)}, actual 2026+weighted-2027 cost ${fmt(c.actualSalary)})</span>`;
+        const conf=c.sourceConfidence!==undefined?`, source confidence ${Math.round(c.sourceConfidence*100)}%`:"";
+        return `${p._name}: <span class="${cls}">${fmt(Math.abs(c.surplusDollar))} ${label}</span> <span class="surplus-detail">(${c.pos}, justified annual cost ≈ ${fmt(c.justifiedAnnual*1e6)}, actual 2026+weighted-2027 cost ${fmt(c.actualSalary)}${conf})</span>`;
       }).join("<br>")}</p>
       ${diagnostics.length?`<p><b>Model diagnostics</b><br>${diagnostics.map(x=>`⚠ ${x}`).join("<br>")}</p>`:""}
       <p><b>Source verification</b><br>

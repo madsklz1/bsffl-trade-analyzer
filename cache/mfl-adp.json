@@ -1,1930 +1,1972 @@
 {
-  "savedAt": "2026-08-19T01:31:25.785Z",
+  "savedAt": "2026-08-21T12:52:15.731Z",
   "data": {
     "players": {
       "7836": {
-        "adp": 130.5,
-        "minPick": 8,
+        "adp": 138.5,
+        "minPick": 95,
         "maxPick": 199,
-        "draftPct": 13
+        "draftPct": 15
       },
       "9431": {
-        "adp": 63.11,
+        "adp": 56.89,
         "minPick": 4,
         "maxPick": 116,
-        "draftPct": 36
+        "draftPct": 38
       },
       "10700": {
-        "adp": 127.9,
+        "adp": 132.27,
         "minPick": 15,
         "maxPick": 234,
-        "draftPct": 13
+        "draftPct": 12
       },
       "11150": {
-        "adp": 150,
+        "adp": 140.71,
         "minPick": 18,
         "maxPick": 289,
-        "draftPct": 13
+        "draftPct": 15
+      },
+      "11222": {
+        "adp": 145.6,
+        "minPick": 61,
+        "maxPick": 182,
+        "draftPct": 5
       },
       "11244": {
-        "adp": 86.84,
+        "adp": 81.83,
         "minPick": 36,
         "maxPick": 133,
-        "draftPct": 40
+        "draftPct": 43
       },
       "11671": {
-        "adp": 69.15,
-        "minPick": 26,
+        "adp": 63.32,
+        "minPick": 12,
         "maxPick": 127,
-        "draftPct": 44
+        "draftPct": 48
       },
       "11675": {
-        "adp": 52.59,
-        "minPick": 27,
+        "adp": 49.05,
+        "minPick": 13,
         "maxPick": 108,
-        "draftPct": 42
+        "draftPct": 43
       },
       "11936": {
-        "adp": 148.08,
-        "minPick": 33,
+        "adp": 145,
+        "minPick": 82,
         "maxPick": 251,
-        "draftPct": 17
+        "draftPct": 18
       },
       "11945": {
-        "adp": 181,
+        "adp": 176.71,
         "minPick": 135,
         "maxPick": 274,
-        "draftPct": 10
+        "draftPct": 7
       },
       "12186": {
-        "adp": 115.78,
+        "adp": 103,
         "minPick": 22,
         "maxPick": 214,
-        "draftPct": 30
+        "draftPct": 38
       },
       "12437": {
-        "adp": 122.5,
-        "minPick": 53,
+        "adp": 111.69,
+        "minPick": 52,
         "maxPick": 266,
         "draftPct": 31
       },
       "12611": {
-        "adp": 81.93,
+        "adp": 72.69,
         "minPick": 7,
         "maxPick": 128,
-        "draftPct": 36
+        "draftPct": 39
       },
       "12616": {
-        "adp": 139.71,
+        "adp": 132.37,
         "minPick": 44,
         "maxPick": 248,
-        "draftPct": 18
+        "draftPct": 20
       },
       "12620": {
-        "adp": 63,
+        "adp": 54.61,
         "minPick": 6,
-        "maxPick": 100,
-        "draftPct": 36
+        "maxPick": 99,
+        "draftPct": 39
       },
       "12626": {
-        "adp": 21.55,
+        "adp": 23.17,
         "minPick": 7,
         "maxPick": 43,
-        "draftPct": 40
+        "draftPct": 39
       },
       "12676": {
-        "adp": 122.44,
-        "minPick": 76,
-        "maxPick": 155,
-        "draftPct": 32
+        "adp": 114.23,
+        "minPick": 68,
+        "maxPick": 154,
+        "draftPct": 34
       },
       "12860": {
-        "adp": 120.83,
+        "adp": 111.75,
         "minPick": 42,
         "maxPick": 208,
-        "draftPct": 31
+        "draftPct": 30
       },
       "12956": {
-        "adp": 147.75,
-        "minPick": 87,
+        "adp": 139.83,
+        "minPick": 78,
         "maxPick": 243,
-        "draftPct": 21
-      },
-      "13113": {
-        "adp": 127.6,
-        "minPick": 32,
-        "maxPick": 270,
-        "draftPct": 13
-      },
-      "13116": {
-        "adp": 76.23,
-        "minPick": 35,
-        "maxPick": 121,
-        "draftPct": 40
-      },
-      "13130": {
-        "adp": 8.97,
-        "minPick": 3,
-        "maxPick": 31,
-        "draftPct": 38
-      },
-      "13132": {
-        "adp": 138.07,
-        "minPick": 68,
-        "maxPick": 205,
         "draftPct": 19
       },
+      "13113": {
+        "adp": 119.67,
+        "minPick": 32,
+        "maxPick": 270,
+        "draftPct": 16
+      },
+      "13116": {
+        "adp": 69.03,
+        "minPick": 25,
+        "maxPick": 121,
+        "draftPct": 39
+      },
+      "13130": {
+        "adp": 8.89,
+        "minPick": 1,
+        "maxPick": 31,
+        "draftPct": 39
+      },
+      "13132": {
+        "adp": 142.53,
+        "minPick": 68,
+        "maxPick": 215,
+        "draftPct": 20
+      },
       "13146": {
-        "adp": 138.75,
+        "adp": 142.67,
         "minPick": 52,
         "maxPick": 231,
-        "draftPct": 10
-      },
-      "13163": {
-        "adp": 90.24,
-        "minPick": 36,
-        "maxPick": 149,
-        "draftPct": 43
-      },
-      "13164": {
-        "adp": 124.85,
-        "minPick": 26,
-        "maxPick": 224,
-        "draftPct": 17
-      },
-      "13189": {
-        "adp": 147,
-        "minPick": 24,
-        "maxPick": 295,
         "draftPct": 9
       },
+      "13163": {
+        "adp": 81.76,
+        "minPick": 31,
+        "maxPick": 149,
+        "draftPct": 45
+      },
+      "13164": {
+        "adp": 134.29,
+        "minPick": 26,
+        "maxPick": 220,
+        "draftPct": 15
+      },
+      "13189": {
+        "adp": 144.33,
+        "minPick": 24,
+        "maxPick": 295,
+        "draftPct": 6
+      },
       "13192": {
-        "adp": 193.8,
+        "adp": 193.67,
         "minPick": 153,
         "maxPick": 262,
         "draftPct": 6
       },
       "13299": {
-        "adp": 84.52,
+        "adp": 79.68,
         "minPick": 22,
         "maxPick": 141,
-        "draftPct": 38
+        "draftPct": 40
       },
       "13303": {
-        "adp": 162.75,
+        "adp": 159.75,
         "minPick": 108,
         "maxPick": 246,
-        "draftPct": 10
+        "draftPct": 8
       },
       "13319": {
-        "adp": 122.7,
-        "minPick": 63,
+        "adp": 119.12,
+        "minPick": 48,
         "maxPick": 254,
-        "draftPct": 35
+        "draftPct": 36
       },
       "13354": {
-        "adp": 127.42,
+        "adp": 114.93,
         "minPick": 42,
-        "maxPick": 216,
+        "maxPick": 150,
         "draftPct": 15
       },
       "13589": {
-        "adp": 6.65,
+        "adp": 5.57,
         "minPick": 1,
         "maxPick": 44,
-        "draftPct": 34
+        "draftPct": 32
       },
       "13590": {
-        "adp": 99.58,
-        "minPick": 54,
+        "adp": 89.62,
+        "minPick": 48,
         "maxPick": 186,
-        "draftPct": 34
+        "draftPct": 35
       },
       "13592": {
-        "adp": 98.05,
+        "adp": 91.15,
         "minPick": 8,
         "maxPick": 233,
-        "draftPct": 26
+        "draftPct": 29
       },
       "13593": {
-        "adp": 23.73,
+        "adp": 21.91,
         "minPick": 1,
         "maxPick": 74,
-        "draftPct": 39
+        "draftPct": 37
       },
       "13604": {
-        "adp": 18.83,
+        "adp": 17.89,
         "minPick": 4,
         "maxPick": 34,
-        "draftPct": 39
+        "draftPct": 38
+      },
+      "13629": {
+        "adp": 181,
+        "minPick": 87,
+        "maxPick": 256,
+        "draftPct": 5
       },
       "13630": {
-        "adp": 79.61,
+        "adp": 76.78,
         "minPick": 41,
-        "maxPick": 115,
-        "draftPct": 40
+        "maxPick": 113,
+        "draftPct": 43
       },
       "13635": {
-        "adp": 63.17,
-        "minPick": 36,
+        "adp": 58.74,
+        "minPick": 20,
         "maxPick": 114,
-        "draftPct": 39
+        "draftPct": 46
       },
       "13671": {
-        "adp": 114.4,
+        "adp": 110.34,
         "minPick": 28,
         "maxPick": 185,
-        "draftPct": 39
+        "draftPct": 38
       },
       "13674": {
-        "adp": 83.07,
+        "adp": 82.08,
         "minPick": 41,
         "maxPick": 153,
-        "draftPct": 39
+        "draftPct": 40
       },
       "13719": {
-        "adp": 128.36,
+        "adp": 115.58,
         "minPick": 41,
-        "maxPick": 205,
-        "draftPct": 14
+        "maxPick": 183,
+        "draftPct": 13
       },
       "13772": {
-        "adp": 151.83,
-        "minPick": 44,
+        "adp": 142.29,
+        "minPick": 34,
         "maxPick": 237,
         "draftPct": 15
       },
       "14056": {
-        "adp": 98.61,
+        "adp": 89.08,
         "minPick": 16,
         "maxPick": 206,
-        "draftPct": 36
+        "draftPct": 40
       },
       "14059": {
-        "adp": 119.21,
+        "adp": 118.33,
         "minPick": 48,
         "maxPick": 176,
-        "draftPct": 18
+        "draftPct": 19
       },
       "14071": {
-        "adp": 63.65,
-        "minPick": 21,
+        "adp": 59.44,
+        "minPick": 11,
         "maxPick": 120,
-        "draftPct": 40
+        "draftPct": 47
       },
       "14073": {
-        "adp": 41.66,
+        "adp": 41.61,
         "minPick": 9,
         "maxPick": 103,
-        "draftPct": 42
+        "draftPct": 41
       },
       "14085": {
-        "adp": 86,
-        "minPick": 45,
+        "adp": 85.59,
+        "minPick": 37,
         "maxPick": 144,
-        "draftPct": 43
+        "draftPct": 48
       },
       "14086": {
-        "adp": 128.43,
+        "adp": 137.43,
         "minPick": 29,
         "maxPick": 294,
-        "draftPct": 9
+        "draftPct": 7
       },
       "14102": {
-        "adp": 85.23,
-        "minPick": 46,
+        "adp": 78,
+        "minPick": 31,
         "maxPick": 121,
-        "draftPct": 40
+        "draftPct": 41
       },
       "14104": {
-        "adp": 23.42,
-        "minPick": 4,
+        "adp": 22.1,
+        "minPick": 2,
         "maxPick": 59,
         "draftPct": 43
       },
       "14109": {
-        "adp": 56.56,
-        "minPick": 26,
+        "adp": 52.82,
+        "minPick": 16,
         "maxPick": 94,
-        "draftPct": 44
+        "draftPct": 48
       },
       "14122": {
-        "adp": 178.17,
-        "minPick": 135,
+        "adp": 161,
+        "minPick": 67,
         "maxPick": 249,
-        "draftPct": 7
+        "draftPct": 9
       },
       "14127": {
-        "adp": 126.3,
-        "minPick": 72,
+        "adp": 125.19,
+        "minPick": 71,
         "maxPick": 259,
-        "draftPct": 30
-      },
-      "14136": {
-        "adp": 124.68,
-        "minPick": 34,
-        "maxPick": 203,
         "draftPct": 28
       },
+      "14136": {
+        "adp": 122.74,
+        "minPick": 36,
+        "maxPick": 203,
+        "draftPct": 29
+      },
       "14138": {
-        "adp": 127.21,
+        "adp": 133.78,
         "minPick": 36,
         "maxPick": 198,
         "draftPct": 25
       },
       "14717": {
-        "adp": 158,
-        "minPick": 102,
-        "maxPick": 226,
-        "draftPct": 13
-      },
-      "14777": {
-        "adp": 33.67,
-        "minPick": 5,
-        "maxPick": 93,
-        "draftPct": 39
-      },
-      "14778": {
-        "adp": 189.86,
-        "minPick": 127,
-        "maxPick": 283,
+        "adp": 157.56,
+        "minPick": 84,
+        "maxPick": 214,
         "draftPct": 9
       },
+      "14777": {
+        "adp": 31.09,
+        "minPick": 5,
+        "maxPick": 93,
+        "draftPct": 36
+      },
+      "14778": {
+        "adp": 179.29,
+        "minPick": 127,
+        "maxPick": 283,
+        "draftPct": 7
+      },
       "14779": {
-        "adp": 57.31,
+        "adp": 52.97,
         "minPick": 6,
         "maxPick": 124,
-        "draftPct": 42
+        "draftPct": 41
       },
       "14782": {
-        "adp": 93.79,
+        "adp": 85.59,
         "minPick": 15,
         "maxPick": 172,
-        "draftPct": 31
+        "draftPct": 35
       },
       "14783": {
-        "adp": 41.63,
+        "adp": 36.22,
         "minPick": 13,
         "maxPick": 75,
         "draftPct": 39
       },
       "14797": {
-        "adp": 56.9,
-        "minPick": 23,
+        "adp": 53.6,
+        "minPick": 14,
         "maxPick": 100,
-        "draftPct": 39
+        "draftPct": 46
       },
       "14800": {
-        "adp": 93.15,
-        "minPick": 53,
+        "adp": 91.76,
+        "minPick": 32,
         "maxPick": 136,
-        "draftPct": 34
+        "draftPct": 36
       },
       "14802": {
-        "adp": 9.62,
+        "adp": 9.57,
         "minPick": 3,
         "maxPick": 25,
         "draftPct": 38
       },
       "14823": {
-        "adp": 98.69,
-        "minPick": 48,
+        "adp": 93.64,
+        "minPick": 43,
         "maxPick": 176,
-        "draftPct": 38
+        "draftPct": 39
       },
       "14832": {
-        "adp": 13.5,
+        "adp": 13.17,
         "minPick": 5,
-        "maxPick": 25,
+        "maxPick": 23,
         "draftPct": 39
       },
       "14833": {
-        "adp": 138.5,
+        "adp": 136.14,
         "minPick": 64,
         "maxPick": 239,
         "draftPct": 23
       },
       "14835": {
-        "adp": 43.62,
-        "minPick": 10,
-        "maxPick": 64,
-        "draftPct": 42
+        "adp": 41.05,
+        "minPick": 9,
+        "maxPick": 66,
+        "draftPct": 43
       },
       "14836": {
-        "adp": 14.32,
-        "minPick": 6,
+        "adp": 14.08,
+        "minPick": 2,
         "maxPick": 25,
-        "draftPct": 40
+        "draftPct": 39
       },
       "14842": {
-        "adp": 115.26,
+        "adp": 112.31,
         "minPick": 47,
         "maxPick": 229,
-        "draftPct": 30
+        "draftPct": 31
       },
       "14860": {
-        "adp": 153.3,
+        "adp": 160.08,
         "minPick": 22,
         "maxPick": 258,
         "draftPct": 13
       },
       "14861": {
-        "adp": 123.5,
+        "adp": 126.14,
         "minPick": 90,
         "maxPick": 161,
         "draftPct": 23
       },
       "14871": {
-        "adp": 126.38,
+        "adp": 126.33,
         "minPick": 11,
         "maxPick": 254,
-        "draftPct": 17
+        "draftPct": 16
       },
       "14983": {
-        "adp": 160.38,
+        "adp": 150.12,
         "minPick": 97,
         "maxPick": 255,
-        "draftPct": 10
+        "draftPct": 8
       },
       "15237": {
-        "adp": 70.1,
+        "adp": 62.21,
         "minPick": 17,
         "maxPick": 114,
-        "draftPct": 39
+        "draftPct": 41
       },
       "15253": {
-        "adp": 41.27,
+        "adp": 41.3,
         "minPick": 9,
         "maxPick": 90,
-        "draftPct": 39
+        "draftPct": 40
       },
       "15255": {
-        "adp": 102.86,
+        "adp": 99.57,
         "minPick": 47,
         "maxPick": 171,
         "draftPct": 38
       },
       "15256": {
-        "adp": 37.19,
-        "minPick": 11,
+        "adp": 34.97,
+        "minPick": 8,
         "maxPick": 62,
-        "draftPct": 40
+        "draftPct": 41
       },
       "15259": {
-        "adp": 73.78,
+        "adp": 68.59,
         "minPick": 15,
         "maxPick": 129,
-        "draftPct": 35
+        "draftPct": 40
       },
       "15261": {
-        "adp": 92.27,
-        "minPick": 52,
+        "adp": 88.26,
+        "minPick": 30,
         "maxPick": 133,
-        "draftPct": 39
+        "draftPct": 41
       },
       "15281": {
         "adp": 4,
         "minPick": 1,
         "maxPick": 11,
-        "draftPct": 36
+        "draftPct": 37
       },
       "15282": {
-        "adp": 36.03,
+        "adp": 36.08,
         "minPick": 8,
         "maxPick": 55,
         "draftPct": 40
       },
       "15284": {
-        "adp": 56.09,
-        "minPick": 18,
+        "adp": 51.98,
+        "minPick": 15,
         "maxPick": 97,
-        "draftPct": 42
+        "draftPct": 46
       },
       "15287": {
-        "adp": 8.04,
+        "adp": 8.15,
         "minPick": 3,
         "maxPick": 14,
         "draftPct": 36
       },
       "15290": {
-        "adp": 27.59,
-        "minPick": 9,
+        "adp": 25.77,
+        "minPick": 4,
         "maxPick": 41,
         "draftPct": 38
       },
       "15329": {
-        "adp": 68.83,
-        "minPick": 22,
+        "adp": 65.23,
+        "minPick": 21,
         "maxPick": 121,
-        "draftPct": 39
+        "draftPct": 42
       },
       "15331": {
-        "adp": 133.14,
+        "adp": 117.88,
         "minPick": 22,
-        "maxPick": 219,
-        "draftPct": 9
+        "maxPick": 201,
+        "draftPct": 8
       },
       "15368": {
-        "adp": 175.43,
+        "adp": 152.11,
         "minPick": 88,
         "maxPick": 269,
         "draftPct": 9
       },
       "15694": {
-        "adp": 85.54,
+        "adp": 81.89,
         "minPick": 4,
         "maxPick": 208,
-        "draftPct": 31
+        "draftPct": 30
       },
       "15698": {
-        "adp": 89.85,
+        "adp": 77.43,
         "minPick": 35,
         "maxPick": 153,
-        "draftPct": 35
+        "draftPct": 40
       },
       "15708": {
-        "adp": 37.79,
-        "minPick": 11,
-        "maxPick": 65,
-        "draftPct": 43
+        "adp": 37.57,
+        "minPick": 8,
+        "maxPick": 80,
+        "draftPct": 46
       },
       "15710": {
-        "adp": 29.96,
-        "minPick": 12,
+        "adp": 26.16,
+        "minPick": 3,
         "maxPick": 52,
-        "draftPct": 36
+        "draftPct": 41
       },
       "15711": {
-        "adp": 23,
+        "adp": 22.26,
         "minPick": 2,
         "maxPick": 38,
         "draftPct": 42
       },
       "15712": {
-        "adp": 152,
-        "minPick": 110,
+        "adp": 145.62,
+        "minPick": 36,
         "maxPick": 192,
-        "draftPct": 15
+        "draftPct": 14
       },
       "15715": {
-        "adp": 12.23,
+        "adp": 11.64,
         "minPick": 1,
         "maxPick": 35,
         "draftPct": 39
       },
       "15716": {
-        "adp": 160.2,
+        "adp": 167.1,
         "minPick": 24,
         "maxPick": 220,
-        "draftPct": 13
+        "draftPct": 10
       },
       "15721": {
-        "adp": 125,
-        "minPick": 85,
+        "adp": 119.07,
+        "minPick": 34,
         "maxPick": 224,
-        "draftPct": 31
-      },
-      "15742": {
-        "adp": 72.93,
-        "minPick": 2,
-        "maxPick": 178,
-        "draftPct": 39
-      },
-      "15749": {
-        "adp": 156.5,
-        "minPick": 82,
-        "maxPick": 215,
-        "draftPct": 15
-      },
-      "15751": {
-        "adp": 20.16,
-        "minPick": 7,
-        "maxPick": 42,
-        "draftPct": 40
-      },
-      "15753": {
-        "adp": 40.87,
-        "minPick": 18,
-        "maxPick": 60,
-        "draftPct": 40
-      },
-      "15754": {
-        "adp": 33.97,
-        "minPick": 18,
-        "maxPick": 49,
-        "draftPct": 39
-      },
-      "15756": {
-        "adp": 58.29,
-        "minPick": 25,
-        "maxPick": 81,
-        "draftPct": 40
-      },
-      "15757": {
-        "adp": 116.52,
-        "minPick": 38,
-        "maxPick": 164,
         "draftPct": 32
       },
+      "15742": {
+        "adp": 73.33,
+        "minPick": 33,
+        "maxPick": 178,
+        "draftPct": 42
+      },
+      "15749": {
+        "adp": 161,
+        "minPick": 82,
+        "maxPick": 215,
+        "draftPct": 13
+      },
+      "15751": {
+        "adp": 19.18,
+        "minPick": 1,
+        "maxPick": 42,
+        "draftPct": 41
+      },
+      "15753": {
+        "adp": 39.95,
+        "minPick": 11,
+        "maxPick": 60,
+        "draftPct": 42
+      },
+      "15754": {
+        "adp": 33.57,
+        "minPick": 4,
+        "maxPick": 70,
+        "draftPct": 40
+      },
+      "15756": {
+        "adp": 55.54,
+        "minPick": 13,
+        "maxPick": 81,
+        "draftPct": 45
+      },
+      "15757": {
+        "adp": 116.07,
+        "minPick": 38,
+        "maxPick": 164,
+        "draftPct": 30
+      },
       "15761": {
-        "adp": 112.12,
+        "adp": 106.7,
         "minPick": 27,
         "maxPick": 167,
-        "draftPct": 31
+        "draftPct": 29
       },
       "15762": {
-        "adp": 26.77,
-        "minPick": 10,
+        "adp": 26.14,
+        "minPick": 1,
         "maxPick": 51,
-        "draftPct": 39
+        "draftPct": 40
       },
       "15768": {
-        "adp": 95.23,
-        "minPick": 42,
+        "adp": 88.72,
+        "minPick": 29,
         "maxPick": 150,
-        "draftPct": 39
+        "draftPct": 42
       },
       "15779": {
-        "adp": 135.07,
-        "minPick": 72,
+        "adp": 124.06,
+        "minPick": 49,
         "maxPick": 189,
-        "draftPct": 18
+        "draftPct": 19
       },
       "15786": {
-        "adp": 118.45,
-        "minPick": 45,
+        "adp": 130.31,
+        "minPick": 46,
         "maxPick": 228,
         "draftPct": 14
       },
       "15787": {
-        "adp": 159.5,
+        "adp": 165.67,
         "minPick": 48,
         "maxPick": 298,
-        "draftPct": 7
+        "draftPct": 6
+      },
+      "15788": {
+        "adp": 88,
+        "minPick": 40,
+        "maxPick": 167,
+        "draftPct": 5
       },
       "15789": {
-        "adp": 73.23,
-        "minPick": 35,
+        "adp": 67.12,
+        "minPick": 29,
         "maxPick": 110,
-        "draftPct": 39
+        "draftPct": 46
       },
       "15794": {
-        "adp": 22.45,
-        "minPick": 7,
+        "adp": 22.4,
+        "minPick": 4,
         "maxPick": 50,
         "draftPct": 38
       },
       "15797": {
-        "adp": 87.53,
+        "adp": 88.62,
         "minPick": 10,
         "maxPick": 226,
-        "draftPct": 22
+        "draftPct": 23
       },
       "15798": {
-        "adp": 97,
+        "adp": 93.41,
         "minPick": 31,
         "maxPick": 149,
-        "draftPct": 40
+        "draftPct": 42
       },
       "15799": {
-        "adp": 101.69,
-        "minPick": 68,
+        "adp": 99.81,
+        "minPick": 24,
         "maxPick": 207,
-        "draftPct": 38
+        "draftPct": 40
       },
       "15802": {
-        "adp": 187.89,
-        "minPick": 115,
+        "adp": 177.55,
+        "minPick": 110,
         "maxPick": 267,
-        "draftPct": 11
+        "draftPct": 12
       },
       "15889": {
-        "adp": 128.53,
+        "adp": 128.4,
         "minPick": 30,
         "maxPick": 219,
-        "draftPct": 19
+        "draftPct": 16
       },
       "15972": {
-        "adp": 116.5,
-        "minPick": 58,
+        "adp": 108.29,
+        "minPick": 32,
         "maxPick": 198,
-        "draftPct": 31
+        "draftPct": 34
       },
       "15979": {
-        "adp": 120.87,
-        "minPick": 77,
+        "adp": 115.93,
+        "minPick": 63,
         "maxPick": 177,
-        "draftPct": 30
+        "draftPct": 29
       },
       "16036": {
-        "adp": 138.33,
+        "adp": 123.56,
         "minPick": 38,
-        "maxPick": 208,
-        "draftPct": 11
+        "maxPick": 190,
+        "draftPct": 9
       },
       "16080": {
-        "adp": 138.88,
+        "adp": 139.06,
         "minPick": 22,
         "maxPick": 218,
-        "draftPct": 21
+        "draftPct": 17
       },
       "16148": {
-        "adp": 121.21,
-        "minPick": 68,
+        "adp": 115.68,
+        "minPick": 55,
         "maxPick": 175,
-        "draftPct": 18
+        "draftPct": 20
       },
       "16150": {
-        "adp": 113,
+        "adp": 111.14,
         "minPick": 57,
         "maxPick": 260,
-        "draftPct": 26
+        "draftPct": 24
       },
       "16161": {
-        "adp": 2.66,
+        "adp": 2.6,
         "minPick": 1,
         "maxPick": 7,
         "draftPct": 38
       },
       "16162": {
-        "adp": 2.31,
+        "adp": 2.2,
         "minPick": 1,
         "maxPick": 6,
         "draftPct": 38
       },
       "16164": {
-        "adp": 149.36,
-        "minPick": 44,
+        "adp": 147.07,
+        "minPick": 39,
         "maxPick": 205,
-        "draftPct": 14
+        "draftPct": 15
       },
       "16165": {
-        "adp": 143.45,
+        "adp": 143.08,
         "minPick": 16,
         "maxPick": 196,
         "draftPct": 14
       },
       "16167": {
-        "adp": 15.61,
-        "minPick": 4,
+        "adp": 14.74,
+        "minPick": 1,
         "maxPick": 30,
-        "draftPct": 36
+        "draftPct": 37
       },
       "16169": {
-        "adp": 121.77,
+        "adp": 119.59,
         "minPick": 62,
         "maxPick": 225,
-        "draftPct": 34
+        "draftPct": 31
       },
       "16174": {
-        "adp": 142.94,
-        "minPick": 41,
+        "adp": 132.06,
+        "minPick": 17,
         "maxPick": 203,
-        "draftPct": 21
-      },
-      "16178": {
-        "adp": 144.55,
-        "minPick": 33,
-        "maxPick": 230,
-        "draftPct": 14
-      },
-      "16181": {
-        "adp": 16.27,
-        "minPick": 1,
-        "maxPick": 27,
-        "draftPct": 39
-      },
-      "16184": {
-        "adp": 124.93,
-        "minPick": 64,
-        "maxPick": 171,
         "draftPct": 19
       },
+      "16178": {
+        "adp": 146,
+        "minPick": 33,
+        "maxPick": 230,
+        "draftPct": 13
+      },
+      "16181": {
+        "adp": 15.73,
+        "minPick": 1,
+        "maxPick": 26,
+        "draftPct": 40
+      },
+      "16184": {
+        "adp": 125,
+        "minPick": 64,
+        "maxPick": 171,
+        "draftPct": 17
+      },
       "16185": {
-        "adp": 7.11,
-        "minPick": 4,
+        "adp": 7.19,
+        "minPick": 1,
         "maxPick": 12,
         "draftPct": 35
       },
       "16186": {
-        "adp": 120.95,
+        "adp": 120.78,
         "minPick": 64,
-        "maxPick": 147,
-        "draftPct": 27
+        "maxPick": 151,
+        "draftPct": 25
       },
       "16187": {
-        "adp": 104.42,
-        "minPick": 70,
+        "adp": 94.88,
+        "minPick": 43,
         "maxPick": 197,
-        "draftPct": 31
+        "draftPct": 35
       },
       "16188": {
-        "adp": 102.23,
+        "adp": 100.85,
         "minPick": 21,
         "maxPick": 157,
-        "draftPct": 34
+        "draftPct": 37
       },
       "16190": {
-        "adp": 36.19,
+        "adp": 35.75,
         "minPick": 6,
-        "maxPick": 57,
-        "draftPct": 40
-      },
-      "16192": {
-        "adp": 66.33,
-        "minPick": 12,
-        "maxPick": 112,
+        "maxPick": 58,
         "draftPct": 43
       },
+      "16192": {
+        "adp": 62.07,
+        "minPick": 12,
+        "maxPick": 112,
+        "draftPct": 45
+      },
       "16193": {
-        "adp": 162,
+        "adp": 159.55,
         "minPick": 107,
         "maxPick": 240,
-        "draftPct": 10
+        "draftPct": 12
       },
       "16194": {
-        "adp": 28.3,
-        "minPick": 5,
-        "maxPick": 46,
-        "draftPct": 39
+        "adp": 28.11,
+        "minPick": 4,
+        "maxPick": 47,
+        "draftPct": 38
       },
       "16195": {
-        "adp": 176.38,
+        "adp": 174.44,
         "minPick": 41,
         "maxPick": 242,
-        "draftPct": 10
+        "draftPct": 9
       },
       "16204": {
-        "adp": 169,
+        "adp": 141.82,
         "minPick": 8,
         "maxPick": 252,
-        "draftPct": 11
+        "draftPct": 12
       },
       "16206": {
-        "adp": 88.38,
-        "minPick": 29,
+        "adp": 87.17,
+        "minPick": 48,
         "maxPick": 148,
         "draftPct": 38
       },
       "16211": {
-        "adp": 5.3,
+        "adp": 5.62,
         "minPick": 1,
         "maxPick": 13,
         "draftPct": 35
       },
       "16213": {
-        "adp": 111.28,
+        "adp": 108.67,
         "minPick": 51,
         "maxPick": 165,
         "draftPct": 32
       },
       "16214": {
-        "adp": 68.65,
+        "adp": 62.92,
         "minPick": 20,
         "maxPick": 115,
-        "draftPct": 40
+        "draftPct": 43
       },
       "16222": {
-        "adp": 72.59,
-        "minPick": 38,
+        "adp": 68.49,
+        "minPick": 26,
         "maxPick": 151,
-        "draftPct": 35
+        "draftPct": 38
       },
       "16269": {
-        "adp": 142.4,
+        "adp": 147.5,
         "minPick": 105,
-        "maxPick": 216,
-        "draftPct": 19
+        "maxPick": 217,
+        "draftPct": 17
       },
       "16287": {
-        "adp": 170.25,
-        "minPick": 104,
+        "adp": 153.45,
+        "minPick": 41,
         "maxPick": 255,
-        "draftPct": 10
+        "draftPct": 12
       },
       "16414": {
-        "adp": 89.19,
-        "minPick": 44,
+        "adp": 85.75,
+        "minPick": 34,
         "maxPick": 170,
-        "draftPct": 27
-      },
-      "16444": {
-        "adp": 162.6,
-        "minPick": 92,
-        "maxPick": 233,
-        "draftPct": 6
+        "draftPct": 26
       },
       "16579": {
-        "adp": 42.52,
+        "adp": 38.18,
         "minPick": 2,
         "maxPick": 99,
-        "draftPct": 40
+        "draftPct": 42
       },
       "16580": {
-        "adp": 29.75,
+        "adp": 27.27,
         "minPick": 2,
         "maxPick": 70,
         "draftPct": 36
       },
       "16581": {
-        "adp": 42.55,
+        "adp": 39.03,
         "minPick": 9,
         "maxPick": 131,
-        "draftPct": 40
-      },
-      "16582": {
-        "adp": 73.7,
-        "minPick": 7,
-        "maxPick": 132,
         "draftPct": 39
       },
+      "16582": {
+        "adp": 65.53,
+        "minPick": 7,
+        "maxPick": 132,
+        "draftPct": 41
+      },
       "16583": {
-        "adp": 191.83,
-        "minPick": 142,
-        "maxPick": 245,
+        "adp": 171.86,
+        "minPick": 126,
+        "maxPick": 208,
         "draftPct": 7
       },
       "16593": {
-        "adp": 109.76,
-        "minPick": 55,
+        "adp": 102.8,
+        "minPick": 28,
         "maxPick": 173,
         "draftPct": 38
       },
       "16596": {
-        "adp": 126.86,
-        "minPick": 46,
-        "maxPick": 213,
-        "draftPct": 9
+        "adp": 117.9,
+        "minPick": 44,
+        "maxPick": 197,
+        "draftPct": 10
       },
       "16597": {
-        "adp": 98.83,
+        "adp": 88.76,
         "minPick": 6,
         "maxPick": 226,
-        "draftPct": 38
+        "draftPct": 45
       },
       "16598": {
-        "adp": 52.18,
-        "minPick": 25,
+        "adp": 48.76,
+        "minPick": 11,
         "maxPick": 90,
-        "draftPct": 36
+        "draftPct": 45
       },
       "16603": {
-        "adp": 141.56,
-        "minPick": 51,
+        "adp": 159.38,
+        "minPick": 54,
         "maxPick": 222,
-        "draftPct": 11
+        "draftPct": 8
       },
       "16604": {
-        "adp": 116.22,
+        "adp": 123.82,
         "minPick": 26,
-        "maxPick": 174,
-        "draftPct": 11
+        "maxPick": 193,
+        "draftPct": 12
+      },
+      "16608": {
+        "adp": 102.86,
+        "minPick": 28,
+        "maxPick": 268,
+        "draftPct": 7
       },
       "16614": {
-        "adp": 75.27,
-        "minPick": 39,
+        "adp": 70.97,
+        "minPick": 21,
         "maxPick": 140,
-        "draftPct": 39
+        "draftPct": 42
       },
       "16615": {
-        "adp": 30.22,
-        "minPick": 13,
+        "adp": 30.41,
+        "minPick": 6,
         "maxPick": 46,
-        "draftPct": 42
+        "draftPct": 40
       },
       "16616": {
-        "adp": 67.66,
-        "minPick": 44,
+        "adp": 65.23,
+        "minPick": 27,
         "maxPick": 123,
-        "draftPct": 42
+        "draftPct": 47
       },
       "16618": {
-        "adp": 78.47,
-        "minPick": 31,
+        "adp": 77.95,
+        "minPick": 25,
         "maxPick": 121,
-        "draftPct": 39
+        "draftPct": 41
       },
       "16620": {
-        "adp": 135.35,
-        "minPick": 87,
+        "adp": 132.38,
+        "minPick": 43,
         "maxPick": 236,
-        "draftPct": 26
+        "draftPct": 28
       },
       "16626": {
-        "adp": 195.6,
-        "minPick": 179,
-        "maxPick": 220,
-        "draftPct": 6
+        "adp": 167.88,
+        "minPick": 65,
+        "maxPick": 207,
+        "draftPct": 8
       },
       "16627": {
-        "adp": 46.93,
-        "minPick": 21,
-        "maxPick": 64,
-        "draftPct": 38
+        "adp": 43.1,
+        "minPick": 12,
+        "maxPick": 71,
+        "draftPct": 43
       },
       "16628": {
-        "adp": 153.75,
-        "minPick": 47,
-        "maxPick": 241,
-        "draftPct": 15
+        "adp": 138.2,
+        "minPick": 34,
+        "maxPick": 214,
+        "draftPct": 16
       },
       "16641": {
-        "adp": 22.42,
+        "adp": 21.41,
         "minPick": 3,
         "maxPick": 45,
-        "draftPct": 34
+        "draftPct": 37
       },
       "16680": {
-        "adp": 123.25,
-        "minPick": 38,
+        "adp": 113.04,
+        "minPick": 37,
         "maxPick": 241,
-        "draftPct": 31
+        "draftPct": 30
       },
       "16681": {
-        "adp": 176.3,
+        "adp": 167.75,
         "minPick": 115,
         "maxPick": 293,
         "draftPct": 13
       },
       "16684": {
-        "adp": 119.15,
+        "adp": 111.13,
         "minPick": 24,
         "maxPick": 209,
-        "draftPct": 26
+        "draftPct": 25
       },
       "16723": {
-        "adp": 157.14,
+        "adp": 161,
         "minPick": 48,
         "maxPick": 228,
-        "draftPct": 9
+        "draftPct": 10
       },
       "16747": {
-        "adp": 131.7,
+        "adp": 135.55,
         "minPick": 40,
         "maxPick": 261,
-        "draftPct": 26
+        "draftPct": 24
       },
       "16757": {
-        "adp": 197.2,
-        "minPick": 168,
+        "adp": 192.5,
+        "minPick": 134,
         "maxPick": 227,
-        "draftPct": 6
+        "draftPct": 8
       },
       "16778": {
-        "adp": 142.36,
-        "minPick": 23,
+        "adp": 127.86,
+        "minPick": 11,
         "maxPick": 226,
-        "draftPct": 14
-      },
-      "16809": {
-        "adp": 142.5,
-        "minPick": 43,
-        "maxPick": 193,
         "draftPct": 15
       },
+      "16809": {
+        "adp": 130.93,
+        "minPick": 43,
+        "maxPick": 193,
+        "draftPct": 16
+      },
       "16843": {
-        "adp": 136.19,
-        "minPick": 76,
+        "adp": 126.73,
+        "minPick": 66,
         "maxPick": 217,
-        "draftPct": 27
-      },
-      "16846": {
-        "adp": 131.68,
-        "minPick": 35,
-        "maxPick": 245,
-        "draftPct": 32
-      },
-      "17030": {
-        "adp": 115.81,
-        "minPick": 37,
-        "maxPick": 177,
-        "draftPct": 21
-      },
-      "17031": {
-        "adp": 149,
-        "minPick": 48,
-        "maxPick": 206,
-        "draftPct": 7
-      },
-      "17032": {
-        "adp": 76.03,
-        "minPick": 19,
-        "maxPick": 120,
-        "draftPct": 38
-      },
-      "17039": {
-        "adp": 103.95,
-        "minPick": 36,
-        "maxPick": 247,
         "draftPct": 28
       },
+      "16846": {
+        "adp": 127.93,
+        "minPick": 42,
+        "maxPick": 245,
+        "draftPct": 31
+      },
+      "17030": {
+        "adp": 114.37,
+        "minPick": 37,
+        "maxPick": 177,
+        "draftPct": 20
+      },
+      "17031": {
+        "adp": 146.33,
+        "minPick": 48,
+        "maxPick": 206,
+        "draftPct": 6
+      },
+      "17032": {
+        "adp": 70.5,
+        "minPick": 19,
+        "maxPick": 120,
+        "draftPct": 39
+      },
+      "17039": {
+        "adp": 96.86,
+        "minPick": 25,
+        "maxPick": 247,
+        "draftPct": 31
+      },
       "17042": {
-        "adp": 14.93,
+        "adp": 14.67,
         "minPick": 2,
         "maxPick": 29,
         "draftPct": 36
       },
       "17043": {
-        "adp": 56.62,
+        "adp": 56.25,
         "minPick": 8,
-        "maxPick": 95,
-        "draftPct": 38
-      },
-      "17044": {
-        "adp": 20.14,
-        "minPick": 6,
-        "maxPick": 34,
-        "draftPct": 36
-      },
-      "17045": {
-        "adp": 37.24,
-        "minPick": 12,
-        "maxPick": 60,
-        "draftPct": 32
-      },
-      "17047": {
-        "adp": 144.22,
-        "minPick": 27,
-        "maxPick": 192,
-        "draftPct": 11
-      },
-      "17051": {
-        "adp": 56.69,
-        "minPick": 12,
-        "maxPick": 115,
-        "draftPct": 38
-      },
-      "17052": {
-        "adp": 57.43,
-        "minPick": 11,
-        "maxPick": 89,
-        "draftPct": 39
-      },
-      "17053": {
-        "adp": 140.39,
-        "minPick": 101,
-        "maxPick": 187,
-        "draftPct": 23
-      },
-      "17055": {
-        "adp": 99.25,
-        "minPick": 21,
-        "maxPick": 200,
-        "draftPct": 15
-      },
-      "17066": {
-        "adp": 109.11,
-        "minPick": 31,
-        "maxPick": 169,
-        "draftPct": 36
-      },
-      "17068": {
-        "adp": 91.89,
-        "minPick": 48,
-        "maxPick": 209,
-        "draftPct": 36
-      },
-      "17069": {
-        "adp": 155.86,
-        "minPick": 35,
-        "maxPick": 228,
-        "draftPct": 9
-      },
-      "17070": {
-        "adp": 68.65,
-        "minPick": 3,
-        "maxPick": 113,
-        "draftPct": 40
-      },
-      "17071": {
-        "adp": 43.42,
-        "minPick": 5,
-        "maxPick": 82,
+        "maxPick": 96,
         "draftPct": 43
       },
+      "17044": {
+        "adp": 20,
+        "minPick": 1,
+        "maxPick": 34,
+        "draftPct": 38
+      },
+      "17045": {
+        "adp": 36.36,
+        "minPick": 7,
+        "maxPick": 67,
+        "draftPct": 36
+      },
+      "17047": {
+        "adp": 156.2,
+        "minPick": 27,
+        "maxPick": 192,
+        "draftPct": 10
+      },
+      "17051": {
+        "adp": 54.16,
+        "minPick": 12,
+        "maxPick": 115,
+        "draftPct": 41
+      },
+      "17052": {
+        "adp": 53.83,
+        "minPick": 11,
+        "maxPick": 89,
+        "draftPct": 46
+      },
+      "17053": {
+        "adp": 144.35,
+        "minPick": 101,
+        "maxPick": 211,
+        "draftPct": 21
+      },
+      "17055": {
+        "adp": 110.25,
+        "minPick": 21,
+        "maxPick": 200,
+        "draftPct": 13
+      },
+      "17066": {
+        "adp": 101.49,
+        "minPick": 31,
+        "maxPick": 169,
+        "draftPct": 38
+      },
+      "17068": {
+        "adp": 88.41,
+        "minPick": 35,
+        "maxPick": 209,
+        "draftPct": 37
+      },
+      "17069": {
+        "adp": 145.7,
+        "minPick": 35,
+        "maxPick": 228,
+        "draftPct": 10
+      },
+      "17070": {
+        "adp": 66.24,
+        "minPick": 3,
+        "maxPick": 113,
+        "draftPct": 46
+      },
+      "17071": {
+        "adp": 43.68,
+        "minPick": 16,
+        "maxPick": 82,
+        "draftPct": 45
+      },
       "17072": {
-        "adp": 187.17,
+        "adp": 180.25,
         "minPick": 104,
         "maxPick": 260,
-        "draftPct": 7
+        "draftPct": 8
       },
       "17074": {
-        "adp": 137.82,
+        "adp": 135.36,
         "minPick": 19,
-        "maxPick": 214,
-        "draftPct": 14
+        "maxPick": 200,
+        "draftPct": 12
       },
       "17075": {
-        "adp": 130.68,
+        "adp": 127.43,
         "minPick": 89,
         "maxPick": 175,
-        "draftPct": 28
+        "draftPct": 25
       },
       "17080": {
-        "adp": 176.8,
+        "adp": 181.17,
         "minPick": 51,
         "maxPick": 250,
         "draftPct": 6
       },
       "17081": {
-        "adp": 39.11,
-        "minPick": 7,
-        "maxPick": 67,
-        "draftPct": 36
+        "adp": 37.05,
+        "minPick": 5,
+        "maxPick": 75,
+        "draftPct": 41
       },
       "17082": {
-        "adp": 161,
+        "adp": 154.25,
         "minPick": 49,
-        "maxPick": 240,
-        "draftPct": 9
+        "maxPick": 232,
+        "draftPct": 8
       },
       "17083": {
-        "adp": 130.5,
-        "minPick": 63,
+        "adp": 131.56,
+        "minPick": 94,
         "maxPick": 257,
-        "draftPct": 21
+        "draftPct": 17
       },
       "17099": {
-        "adp": 138.14,
+        "adp": 146.2,
         "minPick": 81,
-        "maxPick": 198,
-        "draftPct": 18
+        "maxPick": 210,
+        "draftPct": 16
       },
       "17102": {
-        "adp": 48.94,
+        "adp": 46.2,
         "minPick": 13,
         "maxPick": 85,
-        "draftPct": 42
+        "draftPct": 45
       },
       "17103": {
-        "adp": 74.39,
-        "minPick": 32,
-        "maxPick": 124,
-        "draftPct": 40
+        "adp": 76.34,
+        "minPick": 31,
+        "maxPick": 126,
+        "draftPct": 41
       },
       "17104": {
-        "adp": 39.17,
-        "minPick": 15,
-        "maxPick": 62,
-        "draftPct": 39
+        "adp": 37.77,
+        "minPick": 12,
+        "maxPick": 63,
+        "draftPct": 42
       },
       "17105": {
-        "adp": 151.38,
+        "adp": 146.12,
         "minPick": 35,
-        "maxPick": 232,
-        "draftPct": 10
+        "maxPick": 194,
+        "draftPct": 8
       },
       "17106": {
         "adp": 178,
         "minPick": 62,
         "maxPick": 247,
-        "draftPct": 6
+        "draftPct": 5
       },
       "17107": {
-        "adp": 161.12,
+        "adp": 162.88,
         "minPick": 111,
         "maxPick": 190,
-        "draftPct": 10
+        "draftPct": 8
       },
       "17157": {
-        "adp": 178.4,
+        "adp": 169.5,
         "minPick": 57,
-        "maxPick": 236,
+        "maxPick": 223,
         "draftPct": 6
       },
       "17220": {
-        "adp": 143.5,
+        "adp": 122.29,
         "minPick": 45,
-        "maxPick": 228,
+        "maxPick": 187,
         "draftPct": 7
       },
       "17222": {
-        "adp": 150,
+        "adp": 135.65,
         "minPick": 51,
         "maxPick": 253,
-        "draftPct": 22
+        "draftPct": 21
       },
       "17256": {
-        "adp": 116.62,
-        "minPick": 75,
+        "adp": 115.09,
+        "minPick": 60,
         "maxPick": 188,
-        "draftPct": 34
+        "draftPct": 35
       },
       "17462": {
-        "adp": 36.3,
+        "adp": 39.88,
         "minPick": 1,
-        "maxPick": 209,
+        "maxPick": 204,
         "draftPct": 71
       },
       "17463": {
-        "adp": 28.67,
+        "adp": 32.86,
         "minPick": 6,
-        "maxPick": 149,
+        "maxPick": 200,
         "draftPct": 56
       },
+      "17465": {
+        "adp": 102.2,
+        "minPick": 45,
+        "maxPick": 291,
+        "draftPct": 5
+      },
       "17466": {
-        "adp": 39.59,
-        "minPick": 7,
+        "adp": 38.8,
+        "minPick": 10,
         "maxPick": 194,
-        "draftPct": 51
+        "draftPct": 48
       },
       "17467": {
-        "adp": 58.91,
-        "minPick": 23,
+        "adp": 58.04,
+        "minPick": 22,
         "maxPick": 238,
-        "draftPct": 30
+        "draftPct": 29
       },
       "17468": {
-        "adp": 50.59,
-        "minPick": 12,
+        "adp": 47.35,
+        "minPick": 15,
         "maxPick": 252,
-        "draftPct": 35
+        "draftPct": 37
       },
       "17472": {
-        "adp": 12.45,
+        "adp": 13.14,
         "minPick": 1,
         "maxPick": 57,
-        "draftPct": 97
+        "draftPct": 95
       },
       "17473": {
-        "adp": 34.45,
+        "adp": 32.69,
         "minPick": 1,
         "maxPick": 123,
-        "draftPct": 98
+        "draftPct": 96
       },
       "17474": {
-        "adp": 37.84,
+        "adp": 46.24,
         "minPick": 8,
-        "maxPick": 182,
-        "draftPct": 57
+        "maxPick": 195,
+        "draftPct": 60
       },
       "17475": {
-        "adp": 58.05,
+        "adp": 54.24,
         "minPick": 32,
         "maxPick": 224,
-        "draftPct": 28
+        "draftPct": 31
       },
       "17476": {
-        "adp": 39.96,
-        "minPick": 10,
+        "adp": 42.35,
+        "minPick": 9,
         "maxPick": 223,
-        "draftPct": 63
+        "draftPct": 59
       },
       "17477": {
-        "adp": 43.33,
+        "adp": 43.45,
         "minPick": 5,
         "maxPick": 227,
         "draftPct": 71
       },
       "17478": {
-        "adp": 40.11,
+        "adp": 39.16,
         "minPick": 10,
         "maxPick": 220,
-        "draftPct": 59
+        "draftPct": 54
+      },
+      "17480": {
+        "adp": 52,
+        "minPick": 38,
+        "maxPick": 71,
+        "draftPct": 5
       },
       "17481": {
-        "adp": 43.93,
+        "adp": 47.31,
         "minPick": 20,
-        "maxPick": 169,
-        "draftPct": 53
+        "maxPick": 197,
+        "draftPct": 52
       },
       "17482": {
-        "adp": 51.12,
+        "adp": 52.72,
         "minPick": 5,
         "maxPick": 256,
-        "draftPct": 68
+        "draftPct": 63
       },
       "17485": {
-        "adp": 47.23,
+        "adp": 49.76,
         "minPick": 11,
-        "maxPick": 230,
-        "draftPct": 57
+        "maxPick": 221,
+        "draftPct": 56
       },
       "17486": {
-        "adp": 62.88,
+        "adp": 62.25,
         "minPick": 43,
         "maxPick": 131,
-        "draftPct": 10
+        "draftPct": 8
       },
       "17497": {
-        "adp": 30.88,
-        "minPick": 2,
+        "adp": 33.76,
+        "minPick": 1,
         "maxPick": 119,
         "draftPct": 96
       },
       "17498": {
-        "adp": 42.22,
+        "adp": 43.62,
         "minPick": 1,
         "maxPick": 183,
-        "draftPct": 89
+        "draftPct": 85
       },
       "17499": {
-        "adp": 44.76,
-        "minPick": 1,
+        "adp": 43.82,
+        "minPick": 3,
         "maxPick": 164,
-        "draftPct": 89
+        "draftPct": 85
       },
       "17500": {
-        "adp": 38.83,
-        "minPick": 4,
-        "maxPick": 200,
-        "draftPct": 69
+        "adp": 42.64,
+        "minPick": 7,
+        "maxPick": 186,
+        "draftPct": 67
       },
       "17501": {
-        "adp": 49.53,
-        "minPick": 6,
+        "adp": 46.99,
+        "minPick": 4,
         "maxPick": 184,
-        "draftPct": 81
+        "draftPct": 79
       },
       "17502": {
-        "adp": 24.52,
+        "adp": 28.23,
         "minPick": 7,
-        "maxPick": 201,
-        "draftPct": 60
+        "maxPick": 194,
+        "draftPct": 58
       },
       "17503": {
-        "adp": 35.11,
-        "minPick": 11,
-        "maxPick": 179,
-        "draftPct": 61
+        "adp": 36.34,
+        "minPick": 6,
+        "maxPick": 185,
+        "draftPct": 58
       },
       "17504": {
-        "adp": 47.58,
+        "adp": 49.78,
         "minPick": 20,
         "maxPick": 63,
-        "draftPct": 15
+        "draftPct": 9
       },
       "17505": {
-        "adp": 47.94,
-        "minPick": 8,
+        "adp": 48.61,
+        "minPick": 16,
         "maxPick": 277,
-        "draftPct": 46
+        "draftPct": 45
       },
       "17506": {
-        "adp": 29.52,
+        "adp": 32.71,
         "minPick": 11,
-        "maxPick": 176,
-        "draftPct": 55
+        "maxPick": 203,
+        "draftPct": 53
       },
       "17507": {
-        "adp": 41.62,
-        "minPick": 9,
-        "maxPick": 169,
-        "draftPct": 59
+        "adp": 41.96,
+        "minPick": 15,
+        "maxPick": 208,
+        "draftPct": 54
       },
       "17508": {
-        "adp": 51.76,
-        "minPick": 11,
+        "adp": 51.54,
+        "minPick": 20,
         "maxPick": 284,
-        "draftPct": 38
+        "draftPct": 40
       },
       "17509": {
-        "adp": 54.77,
-        "minPick": 29,
+        "adp": 55.13,
+        "minPick": 24,
         "maxPick": 244,
         "draftPct": 34
       },
       "17510": {
-        "adp": 52.12,
+        "adp": 50.6,
         "minPick": 38,
         "maxPick": 85,
         "draftPct": 10
       },
       "17511": {
-        "adp": 35.45,
+        "adp": 34.79,
         "minPick": 12,
         "maxPick": 225,
-        "draftPct": 55
+        "draftPct": 52
       },
       "17512": {
-        "adp": 45.12,
-        "minPick": 5,
+        "adp": 42.15,
+        "minPick": 7,
         "maxPick": 264,
-        "draftPct": 65
+        "draftPct": 60
       },
       "17514": {
-        "adp": 47.73,
-        "minPick": 7,
+        "adp": 44.47,
+        "minPick": 8,
         "maxPick": 258,
-        "draftPct": 77
+        "draftPct": 72
       },
       "17517": {
-        "adp": 41.04,
+        "adp": 43.29,
         "minPick": 7,
-        "maxPick": 180,
-        "draftPct": 59
+        "maxPick": 203,
+        "draftPct": 56
       },
       "17518": {
-        "adp": 58.93,
-        "minPick": 6,
-        "maxPick": 227,
+        "adp": 60.24,
+        "minPick": 11,
+        "maxPick": 211,
         "draftPct": 56
       },
       "17519": {
-        "adp": 57.38,
-        "minPick": 26,
+        "adp": 57,
+        "minPick": 31,
         "maxPick": 297,
         "draftPct": 27
       },
       "17520": {
-        "adp": 42,
+        "adp": 42.69,
         "minPick": 13,
         "maxPick": 231,
-        "draftPct": 59
+        "draftPct": 56
       },
       "17521": {
-        "adp": 47.38,
+        "adp": 49.57,
         "minPick": 22,
         "maxPick": 232,
-        "draftPct": 27
+        "draftPct": 25
       },
       "17528": {
-        "adp": 60.33,
+        "adp": 63.64,
         "minPick": 16,
         "maxPick": 217,
-        "draftPct": 15
+        "draftPct": 12
       },
       "17529": {
-        "adp": 38.25,
-        "minPick": 21,
+        "adp": 42.41,
+        "minPick": 27,
         "maxPick": 65,
-        "draftPct": 26
+        "draftPct": 29
       },
       "17541": {
-        "adp": 68.88,
+        "adp": 68.9,
         "minPick": 32,
         "maxPick": 218,
         "draftPct": 10
       },
       "17542": {
-        "adp": 48.9,
-        "minPick": 35,
+        "adp": 49.5,
+        "minPick": 39,
         "maxPick": 74,
-        "draftPct": 13
+        "draftPct": 8
       },
       "17543": {
-        "adp": 40.08,
+        "adp": 44.58,
         "minPick": 2,
-        "maxPick": 153,
-        "draftPct": 78
+        "maxPick": 186,
+        "draftPct": 75
       },
       "17544": {
-        "adp": 27.04,
-        "minPick": 4,
-        "maxPick": 151,
-        "draftPct": 60
+        "adp": 29,
+        "minPick": 7,
+        "maxPick": 201,
+        "draftPct": 57
       },
       "17547": {
-        "adp": 40.25,
+        "adp": 43.35,
         "minPick": 14,
         "maxPick": 216,
-        "draftPct": 42
+        "draftPct": 40
       },
       "17548": {
-        "adp": 42.41,
+        "adp": 44.78,
         "minPick": 26,
-        "maxPick": 60,
-        "draftPct": 28
+        "maxPick": 70,
+        "draftPct": 25
       },
       "17550": {
-        "adp": 30.95,
+        "adp": 29.73,
         "minPick": 14,
         "maxPick": 108,
-        "draftPct": 26
+        "draftPct": 24
       },
       "17551": {
-        "adp": 25.15,
+        "adp": 27,
         "minPick": 9,
         "maxPick": 71,
-        "draftPct": 26
+        "draftPct": 24
       },
       "17552": {
-        "adp": 47.8,
+        "adp": 52.14,
         "minPick": 20,
         "maxPick": 75,
-        "draftPct": 6
+        "draftPct": 7
       },
       "17553": {
-        "adp": 49.6,
+        "adp": 54.17,
         "minPick": 38,
         "maxPick": 72,
         "draftPct": 6
       },
       "17556": {
-        "adp": 19.55,
+        "adp": 19.61,
         "minPick": 7,
         "maxPick": 101,
-        "draftPct": 26
+        "draftPct": 25
       },
       "17557": {
-        "adp": 20.43,
+        "adp": 20.8,
         "minPick": 2,
         "maxPick": 165,
         "draftPct": 27
       },
       "17558": {
-        "adp": 21.5,
+        "adp": 21.3,
         "minPick": 3,
         "maxPick": 60,
-        "draftPct": 26
+        "draftPct": 25
       },
       "17560": {
-        "adp": 46.69,
+        "adp": 45.44,
         "minPick": 14,
         "maxPick": 230,
-        "draftPct": 21
+        "draftPct": 19
       },
       "17562": {
-        "adp": 43.92,
-        "minPick": 19,
+        "adp": 47.62,
+        "minPick": 23,
         "maxPick": 125,
-        "draftPct": 15
+        "draftPct": 14
       },
       "17563": {
-        "adp": 27.14,
-        "minPick": 3,
+        "adp": 27.67,
+        "minPick": 8,
         "maxPick": 138,
-        "draftPct": 27
-      },
-      "17567": {
-        "adp": 50.98,
-        "minPick": 18,
-        "maxPick": 251,
-        "draftPct": 55
-      },
-      "17568": {
-        "adp": 36.92,
-        "minPick": 19,
-        "maxPick": 55,
-        "draftPct": 15
-      },
-      "17571": {
-        "adp": 39.5,
-        "minPick": 14,
-        "maxPick": 56,
-        "draftPct": 15
-      },
-      "17575": {
-        "adp": 41.22,
-        "minPick": 16,
-        "maxPick": 66,
-        "draftPct": 11
-      },
-      "17576": {
-        "adp": 33.4,
-        "minPick": 11,
-        "maxPick": 110,
         "draftPct": 26
       },
+      "17567": {
+        "adp": 50.79,
+        "minPick": 18,
+        "maxPick": 251,
+        "draftPct": 52
+      },
+      "17568": {
+        "adp": 44.13,
+        "minPick": 19,
+        "maxPick": 81,
+        "draftPct": 16
+      },
+      "17571": {
+        "adp": 39.69,
+        "minPick": 21,
+        "maxPick": 56,
+        "draftPct": 14
+      },
+      "17575": {
+        "adp": 50,
+        "minPick": 25,
+        "maxPick": 79,
+        "draftPct": 10
+      },
+      "17576": {
+        "adp": 33.78,
+        "minPick": 11,
+        "maxPick": 110,
+        "draftPct": 25
+      },
+      "17578": {
+        "adp": 61.2,
+        "minPick": 49,
+        "maxPick": 80,
+        "draftPct": 5
+      },
       "17580": {
-        "adp": 38,
-        "minPick": 13,
+        "adp": 44.75,
+        "minPick": 23,
         "maxPick": 65,
         "draftPct": 13
       },
       "17586": {
-        "adp": 36.42,
+        "adp": 33.62,
         "minPick": 6,
         "maxPick": 212,
-        "draftPct": 25
+        "draftPct": 23
       },
       "17588": {
-        "adp": 50,
-        "minPick": 32,
+        "adp": 55.8,
+        "minPick": 39,
         "maxPick": 81,
-        "draftPct": 6
+        "draftPct": 5
       },
       "17589": {
-        "adp": 41,
+        "adp": 39.25,
         "minPick": 15,
         "maxPick": 146,
-        "draftPct": 18
+        "draftPct": 17
       },
       "17591": {
-        "adp": 41.91,
+        "adp": 46.2,
         "minPick": 25,
-        "maxPick": 65,
-        "draftPct": 14
+        "maxPick": 82,
+        "draftPct": 10
       },
       "17593": {
-        "adp": 47.2,
+        "adp": 49.88,
         "minPick": 33,
         "maxPick": 77,
-        "draftPct": 13
+        "draftPct": 8
       },
       "17599": {
-        "adp": 43.19,
+        "adp": 51.4,
         "minPick": 16,
         "maxPick": 243,
-        "draftPct": 47
+        "draftPct": 49
       },
       "17601": {
-        "adp": 46.21,
-        "minPick": 25,
+        "adp": 46.06,
+        "minPick": 23,
         "maxPick": 144,
         "draftPct": 18
       },
       "17605": {
-        "adp": 95.2,
-        "minPick": 35,
+        "adp": 104.8,
+        "minPick": 47,
         "maxPick": 276,
-        "draftPct": 6
+        "draftPct": 5
+      },
+      "17606": {
+        "adp": 63,
+        "minPick": 47,
+        "maxPick": 84,
+        "draftPct": 5
       },
       "17607": {
-        "adp": 35.05,
+        "adp": 36.3,
         "minPick": 17,
         "maxPick": 112,
-        "draftPct": 50
+        "draftPct": 47
+      },
+      "17620": {
+        "adp": 48,
+        "minPick": 24,
+        "maxPick": 77,
+        "draftPct": 5
       },
       "17623": {
-        "adp": 46.12,
+        "adp": 48.45,
         "minPick": 17,
         "maxPick": 107,
-        "draftPct": 10
+        "draftPct": 12
       },
       "17627": {
-        "adp": 50.12,
-        "minPick": 35,
-        "maxPick": 70,
-        "draftPct": 10
+        "adp": 47.18,
+        "minPick": 26,
+        "maxPick": 68,
+        "draftPct": 12
       },
       "17629": {
-        "adp": 51.23,
+        "adp": 50.06,
         "minPick": 25,
         "maxPick": 162,
         "draftPct": 17
       },
-      "17644": {
-        "adp": 52.8,
-        "minPick": 35,
-        "maxPick": 73,
-        "draftPct": 6
-      },
       "17648": {
-        "adp": 48,
+        "adp": 52.57,
         "minPick": 41,
-        "maxPick": 68,
-        "draftPct": 6
+        "maxPick": 72,
+        "draftPct": 7
       },
       "17652": {
-        "adp": 41.87,
+        "adp": 43.42,
         "minPick": 20,
         "maxPick": 197,
         "draftPct": 39
       },
       "17654": {
-        "adp": 52.8,
+        "adp": 49.14,
         "minPick": 40,
-        "maxPick": 69,
-        "draftPct": 6
+        "maxPick": 64,
+        "draftPct": 7
       },
       "17657": {
-        "adp": 48,
-        "minPick": 36,
-        "maxPick": 67,
-        "draftPct": 9
+        "adp": 51.62,
+        "minPick": 41,
+        "maxPick": 69,
+        "draftPct": 8
       },
       "17665": {
-        "adp": 30.4,
-        "minPick": 17,
-        "maxPick": 41,
-        "draftPct": 6
+        "adp": 41.6,
+        "minPick": 24,
+        "maxPick": 73,
+        "draftPct": 5
       },
       "17668": {
-        "adp": 95.7,
-        "minPick": 25,
-        "maxPick": 221,
-        "draftPct": 13
+        "adp": 70.77,
+        "minPick": 21,
+        "maxPick": 219,
+        "draftPct": 14
       },
       "17685": {
-        "adp": 47.44,
-        "minPick": 29,
-        "maxPick": 61,
-        "draftPct": 11
+        "adp": 52.18,
+        "minPick": 41,
+        "maxPick": 86,
+        "draftPct": 12
       },
       "17706": {
-        "adp": 44.88,
-        "minPick": 27,
+        "adp": 49.36,
+        "minPick": 40,
         "maxPick": 66,
-        "draftPct": 10
+        "draftPct": 12
       },
       "17713": {
-        "adp": 96.71,
-        "minPick": 37,
+        "adp": 94.71,
+        "minPick": 28,
         "maxPick": 299,
-        "draftPct": 9
+        "draftPct": 7
       },
       "0532": {
-        "adp": 87.67,
+        "adp": 87,
         "minPick": 24,
         "maxPick": 166,
-        "draftPct": 27
+        "draftPct": 26
       },
       "0515": {
-        "adp": 94.83,
+        "adp": 94.57,
         "minPick": 28,
         "maxPick": 184,
-        "draftPct": 31
+        "draftPct": 30
       },
       "0511": {
-        "adp": 101.95,
+        "adp": 101.76,
         "minPick": 31,
         "maxPick": 179,
         "draftPct": 27
       },
       "0528": {
-        "adp": 104.09,
+        "adp": 105.22,
         "minPick": 36,
         "maxPick": 181,
-        "draftPct": 30
+        "draftPct": 29
+      },
+      "0510": {
+        "adp": 116.5,
+        "minPick": 56,
+        "maxPick": 199,
+        "draftPct": 26
       },
       "0523": {
-        "adp": 110.2,
+        "adp": 117.33,
         "minPick": 36,
         "maxPick": 179,
         "draftPct": 6
       },
-      "0510": {
-        "adp": 111.72,
-        "minPick": 3,
-        "maxPick": 185,
-        "draftPct": 23
+      "0504": {
+        "adp": 117.37,
+        "minPick": 55,
+        "maxPick": 235,
+        "draftPct": 29
       },
       "0524": {
-        "adp": 126.88,
+        "adp": 122.05,
         "minPick": 44,
         "maxPick": 247,
-        "draftPct": 22
+        "draftPct": 23
       },
       "0530": {
-        "adp": 127.22,
+        "adp": 122.64,
         "minPick": 40,
         "maxPick": 263,
-        "draftPct": 11
+        "draftPct": 12
       },
-      "0504": {
-        "adp": 129.05,
-        "minPick": 63,
-        "maxPick": 235,
-        "draftPct": 27
-      },
-      "0507": {
-        "adp": 132.23,
-        "minPick": 101,
-        "maxPick": 185,
-        "draftPct": 17
-      },
-      "0518": {
-        "adp": 133.59,
-        "minPick": 47,
-        "maxPick": 234,
+      "0531": {
+        "adp": 130.04,
+        "minPick": 39,
+        "maxPick": 239,
         "draftPct": 28
       },
       "0514": {
-        "adp": 134.55,
-        "minPick": 78,
+        "adp": 130.8,
+        "minPick": 47,
         "maxPick": 272,
+        "draftPct": 27
+      },
+      "0518": {
+        "adp": 131.29,
+        "minPick": 47,
+        "maxPick": 234,
         "draftPct": 26
       },
-      "0522": {
-        "adp": 140.31,
-        "minPick": 86,
-        "maxPick": 227,
-        "draftPct": 21
-      },
-      "0531": {
-        "adp": 141.65,
-        "minPick": 39,
-        "maxPick": 239,
-        "draftPct": 26
-      },
-      "0509": {
-        "adp": 143.81,
-        "minPick": 26,
-        "maxPick": 271,
-        "draftPct": 21
-      },
-      "0501": {
-        "adp": 144.38,
-        "minPick": 71,
-        "maxPick": 245,
-        "draftPct": 10
+      "0507": {
+        "adp": 131.33,
+        "minPick": 101,
+        "maxPick": 185,
+        "draftPct": 13
       },
       "0512": {
-        "adp": 151.2,
-        "minPick": 124,
+        "adp": 135.83,
+        "minPick": 59,
         "maxPick": 177,
         "draftPct": 6
+      },
+      "0509": {
+        "adp": 136.29,
+        "minPick": 26,
+        "maxPick": 271,
+        "draftPct": 23
+      },
+      "0522": {
+        "adp": 145.19,
+        "minPick": 86,
+        "maxPick": 227,
+        "draftPct": 17
+      },
+      "0501": {
+        "adp": 146,
+        "minPick": 71,
+        "maxPick": 245,
+        "draftPct": 9
       },
       "0529": {
         "adp": 155.8,
         "minPick": 108,
         "maxPick": 189,
-        "draftPct": 6
+        "draftPct": 5
       }
     },
     "meta": {
-      "count": 320,
+      "count": 327,
       "period": "RECENT",
       "teams": 10,
       "ppr": true,

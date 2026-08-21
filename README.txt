@@ -365,3 +365,30 @@ v3.2 advantage calibration update (2026-08-19)
 - Salary restoration ramps to a capped +0.18 display-confidence boost by a $10M weighted salary swing.
 - No player, pick, contract-surplus, or cap-flex underlying values changed.
 - Calibration targets: Charbonnet + 2026 1.02 for Javonte remains about 17-18%; Tuten for Jonathan Taylor with roughly $13M nominal two-year salary transfer returns toward 24-26%.
+
+V3.5 TALENT / CONTRACT BALANCE FIX
+- Corrects a major FantasyPros bug: FantasyPros ranks are now converted to market value before blending. Lower/better ranks now correctly produce higher value.
+- Adds independent-source confidence using FantasyPros, FantasyCalc and MFL ADP.
+- Positive contract surplus is confidence-weighted when sources disagree.
+- Players at or below league replacement level cannot earn a positive contract-surplus bonus merely for being cheap.
+- Contract deficits remain meaningful so expensive low-value/dead-money contracts are still penalized.
+- v3.2 headline advantage scaling is retained.
+- Intended test cases: Ollie Gordon should no longer turn a near-even trade into a blowout; Lamar Jackson should clearly outrank Justin Fields despite Fields' cheaper contract.
+
+
+V3.5 BENCHMARK CALIBRATION
+- Steeper rank-to-market curve (50-rank decay vs 72) to increase separation between elite players and fringe/backups.
+- Progressive cap-flex scale: <=$2M 0.75x, >$2M 1.0x, >$5M 1.35x, >$10M 2.0x; bounded at 32 points.
+- No player-specific exceptions or hard-coded benchmark players.
+- Contract-surplus replacement gate and source-confidence logic from v3.3 retained.
+
+
+V3.7 SOURCE-BLENDING FIX
+-------------------------
+- Built from v3.5, not v3.6.
+- Restores the v3.5 rank-to-market curve and salary/contract logic.
+- Rebalances current-player source weights to FantasyPros 40%, FantasyCalc 40%, MFL ADP 20%.
+- Rebalances dynasty source weights to FantasyPros 50%, FantasyCalc 50%.
+- Adds a modest sparse-coverage discount so a player with missing independent sources does not have the remaining source automatically renormalized to full authority.
+- No player-specific exceptions.
+- New benchmark: Woody Marks vs Tahj Brooks should show a meaningful Marks advantage while preserving Lamar/Fields, Achane/McMillan, Gordon addition, Tuten/Taylor, and Tuten/Gordon behavior.

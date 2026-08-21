@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-08-19T01:31:38.565Z",
+  "savedAt": "2026-08-21T12:52:27.921Z",
   "data": {
     "players": {
       "501": {
@@ -15,7 +15,7 @@
         "name": "Indianapolis Colts",
         "position": "DST",
         "team": "IND",
-        "redraft": 19,
+        "redraft": 18,
         "dynasty": null
       },
       "503": {
@@ -32,14 +32,6 @@
         "position": "DST",
         "team": "NE",
         "redraft": 6,
-        "dynasty": null
-      },
-      "505": {
-        "fpid": "8210",
-        "name": "New York Jets",
-        "position": "DST",
-        "team": "NYJ",
-        "redraft": 31,
         "dynasty": null
       },
       "506": {
@@ -79,7 +71,7 @@
         "name": "Pittsburgh Steelers",
         "position": "DST",
         "team": "PIT",
-        "redraft": 8,
+        "redraft": 7,
         "dynasty": null
       },
       "511": {
@@ -183,7 +175,7 @@
         "name": "Minnesota Vikings",
         "position": "DST",
         "team": "MIN",
-        "redraft": 7,
+        "redraft": 8,
         "dynasty": null
       },
       "525": {
@@ -231,7 +223,7 @@
         "name": "San Francisco 49ers",
         "position": "DST",
         "team": "SF",
-        "redraft": 18,
+        "redraft": 19,
         "dynasty": null
       },
       "531": {
@@ -287,7 +279,7 @@
         "name": "Kirk Cousins",
         "position": "QB",
         "team": "LV",
-        "redraft": 32,
+        "redraft": 33,
         "dynasty": 41
       },
       "11150": {
@@ -296,14 +288,14 @@
         "position": "QB",
         "team": "NYJ",
         "redraft": 28,
-        "dynasty": 33
+        "dynasty": 34
       },
       "11222": {
         "fpid": "11616",
         "name": "Keenan Allen",
         "position": "WR",
         "team": "IND",
-        "redraft": 91,
+        "redraft": 77,
         "dynasty": 112
       },
       "11232": {
@@ -311,7 +303,7 @@
         "name": "DeAndre Hopkins",
         "position": "WR",
         "team": "BAL",
-        "redraft": 158,
+        "redraft": 157,
         "dynasty": 149
       },
       "11244": {
@@ -327,8 +319,8 @@
         "name": "Zach Ertz",
         "position": "TE",
         "team": "FA",
-        "redraft": 70,
-        "dynasty": 64
+        "redraft": 71,
+        "dynasty": 62
       },
       "11367": {
         "fpid": "11798",
@@ -344,23 +336,23 @@
         "position": "WR",
         "team": "SF",
         "redraft": 26,
-        "dynasty": 45
+        "dynasty": 48
       },
       "11674": {
         "fpid": "12122",
         "name": "Brandin Cooks",
         "position": "WR",
         "team": "FA",
-        "redraft": 181,
-        "dynasty": 178
+        "redraft": 184,
+        "dynasty": 170
       },
       "11675": {
         "fpid": "12123",
         "name": "Davante Adams",
         "position": "WR",
         "team": "LAR",
-        "redraft": 25,
-        "dynasty": 42
+        "redraft": 24,
+        "dynasty": 43
       },
       "11679": {
         "fpid": "12127",
@@ -368,7 +360,7 @@
         "position": "WR",
         "team": "NYG",
         "redraft": 152,
-        "dynasty": 208
+        "dynasty": 207
       },
       "11936": {
         "fpid": "13029",
@@ -391,7 +383,7 @@
         "name": "Brandon McManus",
         "position": "K",
         "team": "FA",
-        "redraft": 33,
+        "redraft": 34,
         "dynasty": null
       },
       "12140": {
@@ -399,7 +391,7 @@
         "name": "Jameis Winston",
         "position": "QB",
         "team": "NYG",
-        "redraft": 42,
+        "redraft": 43,
         "dynasty": 50
       },
       "12141": {
@@ -415,8 +407,8 @@
         "name": "Stefon Diggs",
         "position": "WR",
         "team": "WAS",
-        "redraft": 48,
-        "dynasty": 66
+        "redraft": 47,
+        "dynasty": 67
       },
       "12187": {
         "fpid": "13971",
@@ -424,15 +416,15 @@
         "position": "WR",
         "team": "LV",
         "redraft": 164,
-        "dynasty": 168
+        "dynasty": 172
       },
       "12263": {
         "fpid": "14104",
         "name": "Darren Waller",
         "position": "TE",
         "team": "CAR",
-        "redraft": 47,
-        "dynasty": 66
+        "redraft": 42,
+        "dynasty": 65
       },
       "12437": {
         "fpid": "14003",
@@ -456,7 +448,7 @@
         "position": "QB",
         "team": "ARI",
         "redraft": 27,
-        "dynasty": 34
+        "dynasty": 33
       },
       "12620": {
         "fpid": "15600",
@@ -487,15 +479,15 @@
         "name": "Austin Hooper",
         "position": "TE",
         "team": "ATL",
-        "redraft": 62,
-        "dynasty": 72
+        "redraft": 61,
+        "dynasty": 73
       },
       "12678": {
         "fpid": "15623",
         "name": "Tyler Higbee",
         "position": "TE",
         "team": "LAR",
-        "redraft": 42,
+        "redraft": 43,
         "dynasty": 53
       },
       "12785": {
@@ -503,15 +495,15 @@
         "name": "Demarcus Robinson",
         "position": "WR",
         "team": "SF",
-        "redraft": 142,
-        "dynasty": 159
+        "redraft": 141,
+        "dynasty": 162
       },
       "12801": {
         "fpid": "15802",
         "name": "Tyreek Hill",
         "position": "WR",
         "team": "FA",
-        "redraft": 111,
+        "redraft": 110,
         "dynasty": 101
       },
       "12860": {
@@ -535,8 +527,8 @@
         "name": "Kalif Raymond",
         "position": "WR",
         "team": "CHI",
-        "redraft": 137,
-        "dynasty": 173
+        "redraft": 131,
+        "dynasty": 167
       },
       "13113": {
         "fpid": "16398",
@@ -568,14 +560,14 @@
         "position": "RB",
         "team": "FA",
         "redraft": 100,
-        "dynasty": 101
+        "dynasty": 100
       },
       "13132": {
         "fpid": "16421",
         "name": "Alvin Kamara",
         "position": "RB",
         "team": "NO",
-        "redraft": 49,
+        "redraft": 51,
         "dynasty": 59
       },
       "13133": {
@@ -583,7 +575,7 @@
         "name": "Samaje Perine",
         "position": "RB",
         "team": "CIN",
-        "redraft": 77,
+        "redraft": 78,
         "dynasty": 98
       },
       "13138": {
@@ -592,14 +584,14 @@
         "position": "RB",
         "team": "FA",
         "redraft": 99,
-        "dynasty": 100
+        "dynasty": 101
       },
       "13143": {
         "fpid": "16445",
         "name": "Jeremy McNichols",
         "position": "RB",
         "team": "WAS",
-        "redraft": 114,
+        "redraft": 119,
         "dynasty": 116
       },
       "13146": {
@@ -615,8 +607,8 @@
         "name": "JuJu Smith-Schuster",
         "position": "WR",
         "team": "FA",
-        "redraft": 177,
-        "dynasty": 191
+        "redraft": 178,
+        "dynasty": 183
       },
       "13163": {
         "fpid": "16406",
@@ -631,7 +623,7 @@
         "name": "Cooper Kupp",
         "position": "WR",
         "team": "SEA",
-        "redraft": 83,
+        "redraft": 82,
         "dynasty": 102
       },
       "13189": {
@@ -647,7 +639,7 @@
         "name": "David Njoku",
         "position": "TE",
         "team": "LAC",
-        "redraft": 31,
+        "redraft": 30,
         "dynasty": 33
       },
       "13193": {
@@ -655,8 +647,8 @@
         "name": "Jonnu Smith",
         "position": "TE",
         "team": "FA",
-        "redraft": 76,
-        "dynasty": 65
+        "redraft": 75,
+        "dynasty": 66
       },
       "13289": {
         "fpid": "16489",
@@ -664,7 +656,7 @@
         "position": "WR",
         "team": "NE",
         "redraft": 107,
-        "dynasty": 135
+        "dynasty": 136
       },
       "13299": {
         "fpid": "16499",
@@ -687,15 +679,15 @@
         "name": "Aaron Jones Sr.",
         "position": "RB",
         "team": "MIN",
-        "redraft": 39,
-        "dynasty": 50
+        "redraft": 40,
+        "dynasty": 51
       },
       "13347": {
         "fpid": "16548",
         "name": "Zane Gonzalez",
         "position": "K",
-        "team": "MIA",
-        "redraft": 25,
+        "team": "FA",
+        "redraft": 27,
         "dynasty": null
       },
       "13354": {
@@ -711,15 +703,15 @@
         "name": "Tim Patrick",
         "position": "WR",
         "team": "NYJ",
-        "redraft": 157,
-        "dynasty": 209
+        "redraft": 154,
+        "dynasty": 220
       },
       "13404": {
         "fpid": "16483",
         "name": "Austin Ekeler",
         "position": "RB",
         "team": "FA",
-        "redraft": 115,
+        "redraft": 113,
         "dynasty": 117
       },
       "13418": {
@@ -727,16 +719,16 @@
         "name": "Kendrick Bourne",
         "position": "WR",
         "team": "ARI",
-        "redraft": 125,
-        "dynasty": 141
+        "redraft": 127,
+        "dynasty": 139
       },
       "13424": {
         "fpid": "17115",
         "name": "Taysom Hill",
         "position": "TE",
         "team": "FA",
-        "redraft": 104,
-        "dynasty": 88
+        "redraft": 95,
+        "dynasty": 93
       },
       "13589": {
         "fpid": "17298",
@@ -783,7 +775,7 @@
         "name": "Nick Chubb",
         "position": "RB",
         "team": "FA",
-        "redraft": 108,
+        "redraft": 109,
         "dynasty": 112
       },
       "13629": {
@@ -791,7 +783,7 @@
         "name": "Calvin Ridley",
         "position": "WR",
         "team": "TEN",
-        "redraft": 73,
+        "redraft": 72,
         "dynasty": 98
       },
       "13630": {
@@ -799,7 +791,7 @@
         "name": "Courtland Sutton",
         "position": "WR",
         "team": "DEN",
-        "redraft": 39,
+        "redraft": 37,
         "dynasty": 47
       },
       "13633": {
@@ -807,7 +799,7 @@
         "name": "Christian Kirk",
         "position": "WR",
         "team": "SF",
-        "redraft": 97,
+        "redraft": 95,
         "dynasty": 99
       },
       "13635": {
@@ -815,8 +807,16 @@
         "name": "DJ Moore",
         "position": "WR",
         "team": "BUF",
-        "redraft": 24,
+        "redraft": 25,
         "dynasty": 34
+      },
+      "13652": {
+        "fpid": "17262",
+        "name": "Cedrick Wilson Jr.",
+        "position": "WR",
+        "team": "DET",
+        "redraft": 173,
+        "dynasty": 247
       },
       "13671": {
         "fpid": "17269",
@@ -839,7 +839,7 @@
         "name": "Dallas Goedert",
         "position": "TE",
         "team": "PHI",
-        "redraft": 14,
+        "redraft": 13,
         "dynasty": 18
       },
       "13675": {
@@ -847,7 +847,7 @@
         "name": "Tyler Conklin",
         "position": "TE",
         "team": "DET",
-        "redraft": 71,
+        "redraft": 72,
         "dynasty": 81
       },
       "13718": {
@@ -872,7 +872,7 @@
         "position": "TE",
         "team": "HOU",
         "redraft": 20,
-        "dynasty": 28
+        "dynasty": 27
       },
       "13793": {
         "fpid": "17528",
@@ -880,7 +880,7 @@
         "position": "WR",
         "team": "DAL",
         "redraft": 162,
-        "dynasty": 182
+        "dynasty": 200
       },
       "14056": {
         "fpid": "18600",
@@ -897,6 +897,14 @@
         "team": "IND",
         "redraft": 24,
         "dynasty": 26
+      },
+      "14067": {
+        "fpid": "18562",
+        "name": "Gardner Minshew II",
+        "position": "QB",
+        "team": "ARI",
+        "redraft": 49,
+        "dynasty": 59
       },
       "14071": {
         "fpid": "18239",
@@ -919,7 +927,7 @@
         "name": "Miles Sanders",
         "position": "RB",
         "team": "FA",
-        "redraft": 130,
+        "redraft": 131,
         "dynasty": 122
       },
       "14080": {
@@ -927,8 +935,16 @@
         "name": "Devin Singletary",
         "position": "RB",
         "team": "NYG",
-        "redraft": 86,
-        "dynasty": 92
+        "redraft": 88,
+        "dynasty": 90
+      },
+      "14083": {
+        "fpid": "18616",
+        "name": "Travis Homer",
+        "position": "RB",
+        "team": "PIT",
+        "redraft": 134,
+        "dynasty": 183
       },
       "14085": {
         "fpid": "18705",
@@ -943,7 +959,7 @@
         "name": "Justice Hill",
         "position": "RB",
         "team": "BAL",
-        "redraft": 71,
+        "redraft": 69,
         "dynasty": 91
       },
       "14095": {
@@ -951,7 +967,7 @@
         "name": "Ty Johnson",
         "position": "RB",
         "team": "BUF",
-        "redraft": 78,
+        "redraft": 76,
         "dynasty": 94
       },
       "14102": {
@@ -968,14 +984,14 @@
         "position": "WR",
         "team": "NE",
         "redraft": 8,
-        "dynasty": 20
+        "dynasty": 19
       },
       "14105": {
         "fpid": "18226",
         "name": "Hollywood Brown",
         "position": "WR",
         "team": "PHI",
-        "redraft": 106,
+        "redraft": 102,
         "dynasty": 108
       },
       "14108": {
@@ -983,7 +999,7 @@
         "name": "Greg Dortch",
         "position": "WR",
         "team": "DET",
-        "redraft": 149,
+        "redraft": 147,
         "dynasty": 153
       },
       "14109": {
@@ -994,12 +1010,28 @@
         "redraft": 22,
         "dynasty": 32
       },
+      "14110": {
+        "fpid": "18566",
+        "name": "David Sills V",
+        "position": "WR",
+        "team": "TB",
+        "redraft": 172,
+        "dynasty": null
+      },
+      "14118": {
+        "fpid": "18590",
+        "name": "Lil'Jordan Humphrey",
+        "position": "WR",
+        "team": "DEN",
+        "redraft": 161,
+        "dynasty": 190
+      },
       "14122": {
         "fpid": "18706",
         "name": "Darius Slayton",
         "position": "WR",
         "team": "NYG",
-        "redraft": 99,
+        "redraft": 97,
         "dynasty": 114
       },
       "14127": {
@@ -1007,7 +1039,7 @@
         "name": "Jakobi Meyers",
         "position": "WR",
         "team": "JAC",
-        "redraft": 44,
+        "redraft": 43,
         "dynasty": 51
       },
       "14136": {
@@ -1015,8 +1047,8 @@
         "name": "Deebo Samuel Sr.",
         "position": "WR",
         "team": "SF",
-        "redraft": 59,
-        "dynasty": 72
+        "redraft": 58,
+        "dynasty": 69
       },
       "14137": {
         "fpid": "17527",
@@ -1040,23 +1072,31 @@
         "position": "TE",
         "team": "BUF",
         "redraft": 49,
-        "dynasty": 56
+        "dynasty": 59
       },
       "14209": {
         "fpid": "18487",
         "name": "Josh Oliver",
         "position": "TE",
         "team": "MIN",
-        "redraft": 66,
+        "redraft": 65,
         "dynasty": 75
+      },
+      "14280": {
+        "fpid": "18714",
+        "name": "Scotty Miller",
+        "position": "WR",
+        "team": "CHI",
+        "redraft": 169,
+        "dynasty": 256
       },
       "14315": {
         "fpid": "18656",
         "name": "Ashton Dulin",
         "position": "WR",
         "team": "IND",
-        "redraft": 147,
-        "dynasty": 192
+        "redraft": 144,
+        "dynasty": 178
       },
       "14592": {
         "fpid": "18864",
@@ -1064,7 +1104,7 @@
         "position": "WR",
         "team": "ATL",
         "redraft": 120,
-        "dynasty": 147
+        "dynasty": 146
       },
       "14600": {
         "fpid": "19028",
@@ -1079,7 +1119,7 @@
         "name": "Chase McLaughlin",
         "position": "K",
         "team": "TB",
-        "redraft": 11,
+        "redraft": 12,
         "dynasty": null
       },
       "14777": {
@@ -1167,8 +1207,8 @@
         "name": "Jerry Jeudy",
         "position": "WR",
         "team": "CLE",
-        "redraft": 61,
-        "dynasty": 70
+        "redraft": 60,
+        "dynasty": 71
       },
       "14835": {
         "fpid": "19211",
@@ -1186,12 +1226,20 @@
         "redraft": 6,
         "dynasty": 5
       },
+      "14839": {
+        "fpid": "19219",
+        "name": "Jalen Reagor",
+        "position": "WR",
+        "team": "MIA",
+        "redraft": 176,
+        "dynasty": 252
+      },
       "14840": {
         "fpid": "19252",
         "name": "Brandon Aiyuk",
         "position": "WR",
         "team": "SF",
-        "redraft": 109,
+        "redraft": 108,
         "dynasty": 100
       },
       "14842": {
@@ -1200,15 +1248,15 @@
         "position": "WR",
         "team": "PIT",
         "redraft": 36,
-        "dynasty": 46
+        "dynasty": 45
       },
       "14852": {
         "fpid": "19624",
         "name": "Antonio Gibson",
         "position": "RB",
         "team": "FA",
-        "redraft": 124,
-        "dynasty": 120
+        "redraft": 133,
+        "dynasty": 121
       },
       "14858": {
         "fpid": "19483",
@@ -1216,15 +1264,15 @@
         "position": "WR",
         "team": "WAS",
         "redraft": 165,
-        "dynasty": 181
+        "dynasty": 188
       },
       "14860": {
         "fpid": "19590",
         "name": "Jauan Jennings",
         "position": "WR",
         "team": "MIN",
-        "redraft": 66,
-        "dynasty": 67
+        "redraft": 62,
+        "dynasty": 66
       },
       "14861": {
         "fpid": "19562",
@@ -1247,15 +1295,15 @@
         "name": "Adam Trautman",
         "position": "TE",
         "team": "DEN",
-        "redraft": 73,
-        "dynasty": 87
+        "redraft": 76,
+        "dynasty": 91
       },
       "14871": {
         "fpid": "19372",
         "name": "Colby Parkinson",
         "position": "TE",
         "team": "LAR",
-        "redraft": 30,
+        "redraft": 31,
         "dynasty": 47
       },
       "14974": {
@@ -1271,7 +1319,15 @@
         "name": "Tyler Bass",
         "position": "K",
         "team": "BUF",
-        "redraft": 21,
+        "redraft": 20,
+        "dynasty": null
+      },
+      "15103": {
+        "fpid": "19844",
+        "name": "Reggie Gilliam",
+        "position": "RB",
+        "team": "NE",
+        "redraft": 123,
         "dynasty": null
       },
       "15109": {
@@ -1280,7 +1336,7 @@
         "position": "WR",
         "team": "IND",
         "redraft": 138,
-        "dynasty": 157
+        "dynasty": 160
       },
       "15237": {
         "fpid": "19780",
@@ -1295,16 +1351,8 @@
         "name": "Justin Fields",
         "position": "QB",
         "team": "KC",
-        "redraft": 40,
+        "redraft": 39,
         "dynasty": 40
-      },
-      "15240": {
-        "fpid": "20082",
-        "name": "Trey Lance",
-        "position": "QB",
-        "team": "LAC",
-        "redraft": 54,
-        "dynasty": 61
       },
       "15241": {
         "fpid": "20156",
@@ -1312,7 +1360,7 @@
         "position": "QB",
         "team": "SF",
         "redraft": 38,
-        "dynasty": 36
+        "dynasty": 37
       },
       "15253": {
         "fpid": "19231",
@@ -1320,22 +1368,22 @@
         "position": "RB",
         "team": "NO",
         "redraft": 18,
-        "dynasty": 17
+        "dynasty": 18
       },
       "15254": {
         "fpid": "19302",
         "name": "Najee Harris",
         "position": "RB",
         "team": "NYG",
-        "redraft": 92,
-        "dynasty": 81
+        "redraft": 86,
+        "dynasty": 80
       },
       "15255": {
         "fpid": "23310",
         "name": "Kenny Gainwell",
         "position": "RB",
         "team": "TB",
-        "redraft": 34,
+        "redraft": 33,
         "dynasty": 38
       },
       "15256": {
@@ -1344,7 +1392,7 @@
         "position": "RB",
         "team": "DAL",
         "redraft": 16,
-        "dynasty": 19
+        "dynasty": 20
       },
       "15258": {
         "fpid": "22728",
@@ -1362,12 +1410,20 @@
         "redraft": 28,
         "dynasty": 33
       },
+      "15260": {
+        "fpid": "20155",
+        "name": "Jaret Patterson",
+        "position": "RB",
+        "team": "LAC",
+        "redraft": 143,
+        "dynasty": 154
+      },
       "15261": {
         "fpid": "19792",
         "name": "Chuba Hubbard",
         "position": "RB",
         "team": "CAR",
-        "redraft": 32,
+        "redraft": 34,
         "dynasty": 35
       },
       "15263": {
@@ -1375,16 +1431,16 @@
         "name": "Elijah Mitchell",
         "position": "RB",
         "team": "FA",
-        "redraft": 139,
-        "dynasty": 125
+        "redraft": 140,
+        "dynasty": 130
       },
       "15271": {
         "fpid": "22763",
         "name": "Khalil Herbert",
         "position": "RB",
-        "team": "FA",
-        "redraft": 126,
-        "dynasty": 131
+        "team": "SF",
+        "redraft": 124,
+        "dynasty": 124
       },
       "15281": {
         "fpid": "19788",
@@ -1418,6 +1474,14 @@
         "redraft": 4,
         "dynasty": 4
       },
+      "15288": {
+        "fpid": "20114",
+        "name": "Elijah Moore",
+        "position": "WR",
+        "team": "PHI",
+        "redraft": 153,
+        "dynasty": 166
+      },
       "15290": {
         "fpid": "20130",
         "name": "Nico Collins",
@@ -1440,22 +1504,22 @@
         "position": "WR",
         "team": "BAL",
         "redraft": 76,
-        "dynasty": 95
+        "dynasty": 94
       },
       "15301": {
         "fpid": "20126",
         "name": "Tutu Atwell",
         "position": "WR",
         "team": "MIA",
-        "redraft": 130,
-        "dynasty": 132
+        "redraft": 135,
+        "dynasty": 133
       },
       "15319": {
         "fpid": "22845",
         "name": "Joshua Palmer",
         "position": "WR",
         "team": "BUF",
-        "redraft": 124,
+        "redraft": 125,
         "dynasty": 119
       },
       "15329": {
@@ -1471,7 +1535,7 @@
         "name": "Pat Freiermuth",
         "position": "TE",
         "team": "PIT",
-        "redraft": 27,
+        "redraft": 25,
         "dynasty": 31
       },
       "15332": {
@@ -1479,23 +1543,23 @@
         "name": "Tommy Tremble",
         "position": "TE",
         "team": "CAR",
-        "redraft": 59,
-        "dynasty": 76
+        "redraft": 57,
+        "dynasty": 77
       },
       "15337": {
         "fpid": "19539",
         "name": "Noah Gray",
         "position": "TE",
         "team": "KC",
-        "redraft": 46,
-        "dynasty": 57
+        "redraft": 48,
+        "dynasty": 56
       },
       "15344": {
         "fpid": "22833",
         "name": "John Bates",
         "position": "TE",
         "team": "WAS",
-        "redraft": 57,
+        "redraft": 59,
         "dynasty": 123
       },
       "15368": {
@@ -1527,7 +1591,7 @@
         "name": "Breece Hall",
         "position": "RB",
         "team": "NYJ",
-        "redraft": 14,
+        "redraft": 13,
         "dynasty": 10
       },
       "15710": {
@@ -1551,7 +1615,7 @@
         "name": "Tyler Allgeier",
         "position": "RB",
         "team": "ARI",
-        "redraft": 44,
+        "redraft": 43,
         "dynasty": 42
       },
       "15713": {
@@ -1559,8 +1623,8 @@
         "name": "Jerome Ford",
         "position": "RB",
         "team": "WAS",
-        "redraft": 91,
-        "dynasty": 90
+        "redraft": 92,
+        "dynasty": 89
       },
       "15715": {
         "fpid": "22958",
@@ -1599,16 +1663,16 @@
         "name": "Ty Chandler",
         "position": "RB",
         "team": "NO",
-        "redraft": 122,
-        "dynasty": 130
+        "redraft": 127,
+        "dynasty": 135
       },
       "15726": {
         "fpid": "23986",
         "name": "Ronnie Rivers",
         "position": "RB",
         "team": "LAR",
-        "redraft": 136,
-        "dynasty": 166
+        "redraft": 122,
+        "dynasty": 165
       },
       "15727": {
         "fpid": "24901",
@@ -1616,7 +1680,7 @@
         "position": "RB",
         "team": "ARI",
         "redraft": 102,
-        "dynasty": 109
+        "dynasty": 111
       },
       "15730": {
         "fpid": "22976",
@@ -1624,15 +1688,15 @@
         "position": "RB",
         "team": "ATL",
         "redraft": 120,
-        "dynasty": 135
+        "dynasty": 138
       },
       "15738": {
         "fpid": "24205",
         "name": "Malik Davis",
         "position": "RB",
         "team": "DAL",
-        "redraft": 80,
-        "dynasty": 111
+        "redraft": 82,
+        "dynasty": 110
       },
       "15742": {
         "fpid": "24209",
@@ -1648,7 +1712,7 @@
         "position": "RB",
         "team": "DET",
         "redraft": 52,
-        "dynasty": 56
+        "dynasty": 57
       },
       "15751": {
         "fpid": "23163",
@@ -1664,7 +1728,7 @@
         "position": "WR",
         "team": "WAS",
         "redraft": 126,
-        "dynasty": 136
+        "dynasty": 132
       },
       "15753": {
         "fpid": "23072",
@@ -1679,7 +1743,7 @@
         "name": "Chris Olave",
         "position": "WR",
         "team": "NO",
-        "redraft": 11,
+        "redraft": 10,
         "dynasty": 13
       },
       "15755": {
@@ -1687,8 +1751,8 @@
         "name": "Jahan Dotson",
         "position": "WR",
         "team": "ATL",
-        "redraft": 114,
-        "dynasty": 130
+        "redraft": 111,
+        "dynasty": 127
       },
       "15756": {
         "fpid": "23677",
@@ -1711,15 +1775,15 @@
         "name": "John Metchie III",
         "position": "WR",
         "team": "CAR",
-        "redraft": 133,
-        "dynasty": 129
+        "redraft": 136,
+        "dynasty": 130
       },
       "15761": {
         "fpid": "23748",
         "name": "Khalil Shakir",
         "position": "WR",
         "team": "BUF",
-        "redraft": 51,
+        "redraft": 49,
         "dynasty": 57
       },
       "15762": {
@@ -1727,15 +1791,23 @@
         "name": "George Pickens",
         "position": "WR",
         "team": "DAL",
-        "redraft": 10,
+        "redraft": 11,
         "dynasty": 11
+      },
+      "15767": {
+        "fpid": "24214",
+        "name": "Velus Jones Jr.",
+        "position": "WR",
+        "team": "SEA",
+        "redraft": 187,
+        "dynasty": 249
       },
       "15768": {
         "fpid": "23791",
         "name": "Alec Pierce",
         "position": "WR",
         "team": "IND",
-        "redraft": 41,
+        "redraft": 42,
         "dynasty": 33
       },
       "15777": {
@@ -1743,24 +1815,24 @@
         "name": "Calvin Austin III",
         "position": "WR",
         "team": "NYG",
-        "redraft": 117,
-        "dynasty": 127
+        "redraft": 118,
+        "dynasty": 129
       },
       "15779": {
         "fpid": "23794",
         "name": "Romeo Doubs",
         "position": "WR",
         "team": "NE",
-        "redraft": 55,
-        "dynasty": 55
+        "redraft": 54,
+        "dynasty": 56
       },
       "15786": {
         "fpid": "24177",
         "name": "Jalen Nailor",
         "position": "WR",
         "team": "LV",
-        "redraft": 69,
-        "dynasty": 90
+        "redraft": 67,
+        "dynasty": 97
       },
       "15787": {
         "fpid": "22913",
@@ -1775,15 +1847,15 @@
         "name": "Jalen Tolbert",
         "position": "WR",
         "team": "MIA",
-        "redraft": 113,
-        "dynasty": 120
+        "redraft": 114,
+        "dynasty": 118
       },
       "15789": {
         "fpid": "23886",
         "name": "Christian Watson",
         "position": "WR",
         "team": "GB",
-        "redraft": 28,
+        "redraft": 29,
         "dynasty": 30
       },
       "15792": {
@@ -1791,7 +1863,7 @@
         "name": "Michael Woods II",
         "position": "WR",
         "team": "DEN",
-        "redraft": 183,
+        "redraft": 186,
         "dynasty": null
       },
       "15794": {
@@ -1815,7 +1887,7 @@
         "name": "Greg Dulcich",
         "position": "TE",
         "team": "MIA",
-        "redraft": 35,
+        "redraft": 36,
         "dynasty": 35
       },
       "15798": {
@@ -1823,7 +1895,7 @@
         "name": "Isaiah Likely",
         "position": "TE",
         "team": "NYG",
-        "redraft": 12,
+        "redraft": 14,
         "dynasty": 12
       },
       "15799": {
@@ -1831,7 +1903,7 @@
         "name": "Jake Ferguson",
         "position": "TE",
         "team": "DAL",
-        "redraft": 13,
+        "redraft": 12,
         "dynasty": 15
       },
       "15802": {
@@ -1848,7 +1920,7 @@
         "position": "TE",
         "team": "TEN",
         "redraft": 58,
-        "dynasty": 73
+        "dynasty": 70
       },
       "15889": {
         "fpid": "23982",
@@ -1879,8 +1951,8 @@
         "name": "KaVontae Turpin",
         "position": "WR",
         "team": "DAL",
-        "redraft": 140,
-        "dynasty": 144
+        "redraft": 137,
+        "dynasty": 142
       },
       "16036": {
         "fpid": "24778",
@@ -1895,7 +1967,7 @@
         "name": "Rashid Shaheed",
         "position": "WR",
         "team": "SEA",
-        "redraft": 58,
+        "redraft": 57,
         "dynasty": 63
       },
       "16148": {
@@ -1919,7 +1991,7 @@
         "name": "Anthony Richardson Sr.",
         "position": "QB",
         "team": "IND",
-        "redraft": 43,
+        "redraft": 42,
         "dynasty": 42
       },
       "16161": {
@@ -1944,15 +2016,15 @@
         "position": "RB",
         "team": "PHI",
         "redraft": 53,
-        "dynasty": 53
+        "dynasty": 56
       },
       "16165": {
         "fpid": "25323",
         "name": "Tyjae Spears",
         "position": "RB",
         "team": "TEN",
-        "redraft": 46,
-        "dynasty": 51
+        "redraft": 44,
+        "dynasty": 50
       },
       "16166": {
         "fpid": "23679",
@@ -1975,7 +2047,7 @@
         "name": "Zach Charbonnet",
         "position": "RB",
         "team": "SEA",
-        "redraft": 48,
+        "redraft": 49,
         "dynasty": 32
       },
       "16170": {
@@ -1984,7 +2056,7 @@
         "position": "RB",
         "team": "FA",
         "redraft": null,
-        "dynasty": 138
+        "dynasty": 133
       },
       "16171": {
         "fpid": "24360",
@@ -1992,14 +2064,14 @@
         "position": "RB",
         "team": "NO",
         "redraft": 89,
-        "dynasty": 85
+        "dynasty": 83
       },
       "16174": {
         "fpid": "22986",
         "name": "Chris Rodriguez Jr.",
         "position": "RB",
         "team": "JAC",
-        "redraft": 43,
+        "redraft": 42,
         "dynasty": 49
       },
       "16175": {
@@ -2015,8 +2087,8 @@
         "name": "Keaton Mitchell",
         "position": "RB",
         "team": "LAC",
-        "redraft": 50,
-        "dynasty": 57
+        "redraft": 48,
+        "dynasty": 52
       },
       "16181": {
         "fpid": "25324",
@@ -2031,8 +2103,8 @@
         "name": "Jayden Reed",
         "position": "WR",
         "team": "GB",
-        "redraft": 47,
-        "dynasty": 49
+        "redraft": 44,
+        "dynasty": 50
       },
       "16185": {
         "fpid": "23070",
@@ -2047,15 +2119,15 @@
         "name": "Jordan Addison",
         "position": "WR",
         "team": "MIN",
-        "redraft": 46,
-        "dynasty": 35
+        "redraft": 45,
+        "dynasty": 36
       },
       "16187": {
         "fpid": "24706",
         "name": "Josh Downs",
         "position": "WR",
         "team": "IND",
-        "redraft": 37,
+        "redraft": 39,
         "dynasty": 41
       },
       "16188": {
@@ -2063,8 +2135,8 @@
         "name": "Quentin Johnston",
         "position": "WR",
         "team": "LAC",
-        "redraft": 43,
-        "dynasty": 50
+        "redraft": 41,
+        "dynasty": 49
       },
       "16189": {
         "fpid": "23080",
@@ -2072,7 +2144,7 @@
         "position": "WR",
         "team": "DEN",
         "redraft": 100,
-        "dynasty": 96
+        "dynasty": 95
       },
       "16190": {
         "fpid": "22916",
@@ -2080,14 +2152,14 @@
         "position": "WR",
         "team": "BAL",
         "redraft": 15,
-        "dynasty": 17
+        "dynasty": 16
       },
       "16191": {
         "fpid": "25287",
         "name": "Cedric Tillman",
         "position": "WR",
         "team": "CLE",
-        "redraft": 115,
+        "redraft": 113,
         "dynasty": 109
       },
       "16192": {
@@ -2096,15 +2168,15 @@
         "position": "WR",
         "team": "JAC",
         "redraft": 30,
-        "dynasty": 36
+        "dynasty": 35
       },
       "16193": {
         "fpid": "22989",
         "name": "Kayshon Boutte",
         "position": "WR",
         "team": "NE",
-        "redraft": 74,
-        "dynasty": 79
+        "redraft": 73,
+        "dynasty": 78
       },
       "16194": {
         "fpid": "23113",
@@ -2119,15 +2191,15 @@
         "name": "Dontayvion Wicks",
         "position": "WR",
         "team": "PHI",
-        "redraft": 70,
-        "dynasty": 85
+        "redraft": 66,
+        "dynasty": 84
       },
       "16201": {
         "fpid": "25332",
         "name": "Xavier Hutchinson",
         "position": "WR",
         "team": "HOU",
-        "redraft": 134,
+        "redraft": 123,
         "dynasty": 148
       },
       "16204": {
@@ -2135,8 +2207,8 @@
         "name": "Tank Dell",
         "position": "WR",
         "team": "HOU",
-        "redraft": 79,
-        "dynasty": 83
+        "redraft": 75,
+        "dynasty": 81
       },
       "16206": {
         "fpid": "25333",
@@ -2144,15 +2216,15 @@
         "position": "WR",
         "team": "ARI",
         "redraft": 40,
-        "dynasty": 39
+        "dynasty": 38
       },
       "16207": {
         "fpid": "25335",
         "name": "Andrei Iosivas",
         "position": "WR",
         "team": "CIN",
-        "redraft": 110,
-        "dynasty": 118
+        "redraft": 109,
+        "dynasty": 120
       },
       "16211": {
         "fpid": "23180",
@@ -2176,7 +2248,7 @@
         "position": "TE",
         "team": "BUF",
         "redraft": 11,
-        "dynasty": 11
+        "dynasty": 10
       },
       "16214": {
         "fpid": "22978",
@@ -2191,7 +2263,7 @@
         "name": "Luke Musgrave",
         "position": "TE",
         "team": "GB",
-        "redraft": 56,
+        "redraft": 55,
         "dynasty": 61
       },
       "16216": {
@@ -2207,15 +2279,15 @@
         "name": "Luke Schoonmaker",
         "position": "TE",
         "team": "DAL",
-        "redraft": 68,
-        "dynasty": 84
+        "redraft": 70,
+        "dynasty": 83
       },
       "16222": {
         "fpid": "25298",
         "name": "Tucker Kraft",
         "position": "TE",
         "team": "GB",
-        "redraft": 5,
+        "redraft": 6,
         "dynasty": 5
       },
       "16269": {
@@ -2239,8 +2311,8 @@
         "name": "Tre Tucker",
         "position": "WR",
         "team": "LV",
-        "redraft": 60,
-        "dynasty": 94
+        "redraft": 59,
+        "dynasty": 93
       },
       "16292": {
         "fpid": "25354",
@@ -2256,46 +2328,54 @@
         "position": "TE",
         "team": "ARI",
         "redraft": 60,
-        "dynasty": 68
+        "dynasty": 67
       },
       "16342": {
         "fpid": "25304",
         "name": "DeMario Douglas",
         "position": "WR",
         "team": "NE",
-        "redraft": 116,
-        "dynasty": 104
+        "redraft": 112,
+        "dynasty": 106
+      },
+      "16359": {
+        "fpid": "25443",
+        "name": "Lew Nichols III",
+        "position": "RB",
+        "team": "PIT",
+        "redraft": 136,
+        "dynasty": 201
       },
       "16385": {
         "fpid": "25654",
         "name": "Emari Demercado",
         "position": "RB",
         "team": "KC",
-        "redraft": 82,
-        "dynasty": 96
+        "redraft": 87,
+        "dynasty": 97
       },
       "16387": {
         "fpid": "25823",
         "name": "Chris Brooks",
         "position": "RB",
         "team": "GB",
-        "redraft": 75,
-        "dynasty": 89
+        "redraft": 74,
+        "dynasty": 92
       },
       "16390": {
         "fpid": "25876",
         "name": "Jaleel McLaughlin",
         "position": "RB",
         "team": "DEN",
-        "redraft": 97,
-        "dynasty": 97
+        "redraft": 96,
+        "dynasty": 95
       },
       "16391": {
         "fpid": "25941",
         "name": "Hunter Luepke",
         "position": "RB",
         "team": "DAL",
-        "redraft": 132,
+        "redraft": 129,
         "dynasty": null
       },
       "16403": {
@@ -2303,8 +2383,8 @@
         "name": "Mitch Tinsley",
         "position": "WR",
         "team": "CIN",
-        "redraft": 153,
-        "dynasty": 198
+        "redraft": 158,
+        "dynasty": 195
       },
       "16414": {
         "fpid": "26068",
@@ -2319,8 +2399,8 @@
         "name": "Xavier Smith",
         "position": "WR",
         "team": "LAR",
-        "redraft": 156,
-        "dynasty": 233
+        "redraft": 159,
+        "dynasty": 222
       },
       "16432": {
         "fpid": "25885",
@@ -2328,14 +2408,22 @@
         "position": "RB",
         "team": "SEA",
         "redraft": 66,
-        "dynasty": 68
+        "dynasty": 67
       },
       "16444": {
         "fpid": "25533",
         "name": "Blake Grupe",
         "position": "K",
         "team": "IND",
-        "redraft": 20,
+        "redraft": 21,
+        "dynasty": null
+      },
+      "16499": {
+        "fpid": "22684",
+        "name": "Chris Blair",
+        "position": "WR",
+        "team": "ATL",
+        "redraft": 191,
         "dynasty": null
       },
       "16579": {
@@ -2367,7 +2455,7 @@
         "name": "Bo Nix",
         "position": "QB",
         "team": "DEN",
-        "redraft": 13,
+        "redraft": 12,
         "dynasty": 12
       },
       "16583": {
@@ -2375,7 +2463,7 @@
         "name": "Michael Penix Jr.",
         "position": "QB",
         "team": "ATL",
-        "redraft": 33,
+        "redraft": 32,
         "dynasty": 29
       },
       "16584": {
@@ -2391,7 +2479,7 @@
         "name": "Joe Milton III",
         "position": "QB",
         "team": "DAL",
-        "redraft": 48,
+        "redraft": 46,
         "dynasty": 58
       },
       "16593": {
@@ -2399,23 +2487,23 @@
         "name": "Blake Corum",
         "position": "RB",
         "team": "LAR",
-        "redraft": 38,
-        "dynasty": 29
+        "redraft": 37,
+        "dynasty": 31
       },
       "16594": {
         "fpid": "25388",
         "name": "Trey Benson",
         "position": "RB",
         "team": "ARI",
-        "redraft": 81,
-        "dynasty": 63
+        "redraft": 80,
+        "dynasty": 65
       },
       "16595": {
         "fpid": "23054",
         "name": "Audric Estime",
         "position": "RB",
         "team": "NO",
-        "redraft": 96,
+        "redraft": 97,
         "dynasty": 93
       },
       "16596": {
@@ -2424,7 +2512,7 @@
         "position": "RB",
         "team": "NYJ",
         "redraft": 55,
-        "dynasty": 54
+        "dynasty": 55
       },
       "16597": {
         "fpid": "26148",
@@ -2432,7 +2520,7 @@
         "position": "RB",
         "team": "CAR",
         "redraft": 31,
-        "dynasty": 31
+        "dynasty": 30
       },
       "16598": {
         "fpid": "25981",
@@ -2440,15 +2528,15 @@
         "position": "RB",
         "team": "TB",
         "redraft": 21,
-        "dynasty": 18
+        "dynasty": 17
       },
       "16599": {
         "fpid": "25980",
         "name": "Frank Gore Jr.",
         "position": "RB",
         "team": "BUF",
-        "redraft": 133,
-        "dynasty": 156
+        "redraft": 126,
+        "dynasty": 152
       },
       "16601": {
         "fpid": "22930",
@@ -2456,7 +2544,7 @@
         "position": "RB",
         "team": "PHI",
         "redraft": 98,
-        "dynasty": 88
+        "dynasty": 87
       },
       "16603": {
         "fpid": "26191",
@@ -2464,7 +2552,7 @@
         "position": "RB",
         "team": "BUF",
         "redraft": 57,
-        "dynasty": 65
+        "dynasty": 63
       },
       "16604": {
         "fpid": "23118",
@@ -2472,15 +2560,15 @@
         "position": "RB",
         "team": "GB",
         "redraft": 56,
-        "dynasty": 67
+        "dynasty": 70
       },
       "16608": {
         "fpid": "22915",
         "name": "George Holani",
         "position": "RB",
         "team": "SEA",
-        "redraft": 69,
-        "dynasty": 95
+        "redraft": 70,
+        "dynasty": 96
       },
       "16610": {
         "fpid": "25987",
@@ -2495,8 +2583,8 @@
         "name": "Dylan Laube",
         "position": "RB",
         "team": "LV",
-        "redraft": 123,
-        "dynasty": 133
+        "redraft": 130,
+        "dynasty": 129
       },
       "16614": {
         "fpid": "23064",
@@ -2519,7 +2607,7 @@
         "name": "Rome Odunze",
         "position": "WR",
         "team": "CHI",
-        "redraft": 29,
+        "redraft": 28,
         "dynasty": 26
       },
       "16617": {
@@ -2527,7 +2615,7 @@
         "name": "Keon Coleman",
         "position": "WR",
         "team": "BUF",
-        "redraft": 86,
+        "redraft": 87,
         "dynasty": 87
       },
       "16618": {
@@ -2543,32 +2631,32 @@
         "name": "Troy Franklin",
         "position": "WR",
         "team": "DEN",
-        "redraft": 75,
-        "dynasty": 68
+        "redraft": 78,
+        "dynasty": 75
       },
       "16620": {
         "fpid": "23019",
         "name": "Xavier Worthy",
         "position": "WR",
         "team": "KC",
-        "redraft": 54,
-        "dynasty": 48
+        "redraft": 52,
+        "dynasty": 46
       },
       "16621": {
         "fpid": "26011",
         "name": "Devontez Walker",
         "position": "WR",
         "team": "BAL",
-        "redraft": 144,
-        "dynasty": 143
+        "redraft": 143,
+        "dynasty": 144
       },
       "16626": {
         "fpid": "24357",
         "name": "Adonai Mitchell",
         "position": "WR",
         "team": "NYJ",
-        "redraft": 63,
-        "dynasty": 71
+        "redraft": 61,
+        "dynasty": 70
       },
       "16627": {
         "fpid": "26122",
@@ -2576,14 +2664,14 @@
         "position": "WR",
         "team": "LAC",
         "redraft": 18,
-        "dynasty": 16
+        "dynasty": 17
       },
       "16628": {
         "fpid": "23179",
         "name": "Jalen McMillan",
         "position": "WR",
         "team": "TB",
-        "redraft": 65,
+        "redraft": 63,
         "dynasty": 64
       },
       "16629": {
@@ -2591,15 +2679,23 @@
         "name": "Roman Wilson",
         "position": "WR",
         "team": "PIT",
-        "redraft": 141,
-        "dynasty": 167
+        "redraft": 139,
+        "dynasty": 165
+      },
+      "16630": {
+        "fpid": "26379",
+        "name": "Isaiah Williams",
+        "position": "WR",
+        "team": "NYJ",
+        "redraft": 156,
+        "dynasty": 219
       },
       "16633": {
         "fpid": "23135",
         "name": "Jordan Whittington",
         "position": "WR",
         "team": "LAR",
-        "redraft": 143,
+        "redraft": 142,
         "dynasty": 124
       },
       "16635": {
@@ -2607,7 +2703,7 @@
         "name": "Luke McCaffrey",
         "position": "WR",
         "team": "WAS",
-        "redraft": 119,
+        "redraft": 121,
         "dynasty": 122
       },
       "16639": {
@@ -2615,16 +2711,16 @@
         "name": "Xavier Legette",
         "position": "WR",
         "team": "CAR",
-        "redraft": 101,
-        "dynasty": 105
+        "redraft": 99,
+        "dynasty": 104
       },
       "16640": {
         "fpid": "25289",
         "name": "Jacob Cowing",
         "position": "WR",
         "team": "SF",
-        "redraft": 179,
-        "dynasty": 170
+        "redraft": 160,
+        "dynasty": 177
       },
       "16641": {
         "fpid": "22955",
@@ -2647,7 +2743,7 @@
         "name": "Ben Sinnott",
         "position": "TE",
         "team": "WAS",
-        "redraft": 55,
+        "redraft": 56,
         "dynasty": 46
       },
       "16645": {
@@ -2655,7 +2751,7 @@
         "name": "Erick All Jr.",
         "position": "TE",
         "team": "CIN",
-        "redraft": 50,
+        "redraft": 47,
         "dynasty": 55
       },
       "16649": {
@@ -2663,7 +2759,7 @@
         "name": "Theo Johnson",
         "position": "TE",
         "team": "NYG",
-        "redraft": 36,
+        "redraft": 34,
         "dynasty": 36
       },
       "16678": {
@@ -2671,8 +2767,8 @@
         "name": "Sione Vaki",
         "position": "RB",
         "team": "DET",
-        "redraft": 109,
-        "dynasty": 170
+        "redraft": 111,
+        "dynasty": null
       },
       "16680": {
         "fpid": "26475",
@@ -2695,8 +2791,8 @@
         "name": "Malik Washington",
         "position": "WR",
         "team": "MIA",
-        "redraft": 72,
-        "dynasty": 97
+        "redraft": 70,
+        "dynasty": 96
       },
       "16688": {
         "fpid": "26392",
@@ -2704,14 +2800,14 @@
         "position": "RB",
         "team": "SF",
         "redraft": 93,
-        "dynasty": 82
+        "dynasty": 84
       },
       "16723": {
         "fpid": "26335",
         "name": "AJ Barner",
         "position": "TE",
         "team": "SEA",
-        "redraft": 23,
+        "redraft": 22,
         "dynasty": 21
       },
       "16746": {
@@ -2719,15 +2815,15 @@
         "name": "Rasheen Ali",
         "position": "RB",
         "team": "BAL",
-        "redraft": 113,
-        "dynasty": 110
+        "redraft": 114,
+        "dynasty": 109
       },
       "16747": {
         "fpid": "22980",
         "name": "Tyrone Tracy Jr.",
         "position": "RB",
         "team": "NYG",
-        "redraft": 42,
+        "redraft": 46,
         "dynasty": 43
       },
       "16752": {
@@ -2736,7 +2832,7 @@
         "position": "RB",
         "team": "NYJ",
         "redraft": 72,
-        "dynasty": 78
+        "dynasty": 79
       },
       "16757": {
         "fpid": "26355",
@@ -2744,7 +2840,7 @@
         "position": "RB",
         "team": "LAC",
         "redraft": 62,
-        "dynasty": 64
+        "dynasty": 61
       },
       "16773": {
         "fpid": "26329",
@@ -2759,15 +2855,15 @@
         "name": "Ryan Flournoy",
         "position": "WR",
         "team": "DAL",
-        "redraft": 67,
-        "dynasty": 92
+        "redraft": 68,
+        "dynasty": 91
       },
       "16788": {
         "fpid": "26409",
         "name": "Devaughn Vele",
         "position": "WR",
         "team": "NO",
-        "redraft": 95,
+        "redraft": 93,
         "dynasty": 110
       },
       "16809": {
@@ -2775,15 +2871,15 @@
         "name": "Jalen Coker",
         "position": "WR",
         "team": "CAR",
-        "redraft": 52,
-        "dynasty": 56
+        "redraft": 51,
+        "dynasty": 55
       },
       "16843": {
         "fpid": "26638",
         "name": "Harrison Mevis",
         "position": "K",
         "team": "LAR",
-        "redraft": 12,
+        "redraft": 11,
         "dynasty": null
       },
       "16846": {
@@ -2794,20 +2890,12 @@
         "redraft": 10,
         "dynasty": null
       },
-      "16896": {
-        "fpid": "26763",
-        "name": "Spencer Shrader",
-        "position": "K",
-        "team": "IND",
-        "redraft": 34,
-        "dynasty": null
-      },
       "16957": {
         "fpid": "26964",
         "name": "Terrell Jennings",
         "position": "RB",
         "team": "FA",
-        "redraft": 119,
+        "redraft": 125,
         "dynasty": null
       },
       "17030": {
@@ -2831,7 +2919,7 @@
         "name": "Jaxson Dart",
         "position": "QB",
         "team": "NYG",
-        "redraft": 12,
+        "redraft": 13,
         "dynasty": 11
       },
       "17033": {
@@ -2839,7 +2927,7 @@
         "name": "Jalen Milroe",
         "position": "QB",
         "team": "SEA",
-        "redraft": 56,
+        "redraft": 52,
         "dynasty": 43
       },
       "17034": {
@@ -2847,7 +2935,7 @@
         "name": "Quinn Ewers",
         "position": "QB",
         "team": "MIA",
-        "redraft": 46,
+        "redraft": 47,
         "dynasty": 47
       },
       "17035": {
@@ -2855,7 +2943,7 @@
         "name": "Riley Leonard",
         "position": "QB",
         "team": "IND",
-        "redraft": 47,
+        "redraft": 48,
         "dynasty": 55
       },
       "17039": {
@@ -2903,8 +2991,8 @@
         "name": "Devin Neal",
         "position": "RB",
         "team": "NO",
-        "redraft": 83,
-        "dynasty": 70
+        "redraft": 81,
+        "dynasty": 69
       },
       "17047": {
         "fpid": "27102",
@@ -2919,8 +3007,8 @@
         "name": "Kaleb Johnson",
         "position": "RB",
         "team": "PIT",
-        "redraft": 88,
-        "dynasty": 61
+        "redraft": 90,
+        "dynasty": 62
       },
       "17049": {
         "fpid": "27259",
@@ -2928,14 +3016,14 @@
         "position": "RB",
         "team": "KC",
         "redraft": 85,
-        "dynasty": 73
+        "dynasty": 75
       },
       "17050": {
         "fpid": "27045",
         "name": "Kalel Mullings",
         "position": "RB",
         "team": "TEN",
-        "redraft": 134,
+        "redraft": 146,
         "dynasty": 134
       },
       "17051": {
@@ -2967,7 +3055,7 @@
         "name": "Damien Martinez",
         "position": "RB",
         "team": "GB",
-        "redraft": 117,
+        "redraft": 115,
         "dynasty": 118
       },
       "17055": {
@@ -2976,39 +3064,39 @@
         "position": "RB",
         "team": "SF",
         "redraft": 73,
-        "dynasty": 79
+        "dynasty": 81
       },
       "17056": {
         "fpid": "25393",
         "name": "Trevor Etienne",
         "position": "RB",
         "team": "CAR",
-        "redraft": 90,
-        "dynasty": 84
+        "redraft": 91,
+        "dynasty": 86
       },
       "17057": {
         "fpid": "23014",
         "name": "Donovan Edwards",
         "position": "RB",
         "team": "MIA",
-        "redraft": 131,
-        "dynasty": 153
+        "redraft": 139,
+        "dynasty": 144
       },
       "17058": {
         "fpid": "26212",
         "name": "Tahj Brooks",
         "position": "RB",
         "team": "CIN",
-        "redraft": 95,
-        "dynasty": 86
+        "redraft": 94,
+        "dynasty": 88
       },
       "17059": {
         "fpid": "25984",
         "name": "Ollie Gordon II",
         "position": "RB",
         "team": "MIA",
-        "redraft": 70,
-        "dynasty": 62
+        "redraft": 68,
+        "dynasty": 64
       },
       "17060": {
         "fpid": "27097",
@@ -3016,23 +3104,23 @@
         "position": "RB",
         "team": "IND",
         "redraft": 79,
-        "dynasty": 75
+        "dynasty": 73
       },
       "17061": {
         "fpid": "27285",
         "name": "LeQuint Allen Jr.",
         "position": "RB",
         "team": "JAC",
-        "redraft": 74,
-        "dynasty": 87
+        "redraft": 77,
+        "dynasty": 85
       },
       "17062": {
         "fpid": "24351",
         "name": "Raheim Sanders",
         "position": "RB",
         "team": "CLE",
-        "redraft": 107,
-        "dynasty": 106
+        "redraft": 108,
+        "dynasty": 105
       },
       "17063": {
         "fpid": "22928",
@@ -3047,23 +3135,23 @@
         "name": "Jarquez Hunter",
         "position": "RB",
         "team": "LAR",
-        "redraft": 94,
-        "dynasty": 76
+        "redraft": 95,
+        "dynasty": 77
       },
       "17066": {
         "fpid": "27131",
         "name": "Kyle Monangai",
         "position": "RB",
         "team": "CHI",
-        "redraft": 37,
-        "dynasty": 30
+        "redraft": 38,
+        "dynasty": 29
       },
       "17068": {
         "fpid": "27142",
         "name": "RJ Harvey",
         "position": "RB",
         "team": "DEN",
-        "redraft": 33,
+        "redraft": 32,
         "dynasty": 27
       },
       "17069": {
@@ -3072,7 +3160,7 @@
         "position": "RB",
         "team": "DAL",
         "redraft": 65,
-        "dynasty": 69
+        "dynasty": 68
       },
       "17070": {
         "fpid": "27016",
@@ -3080,7 +3168,7 @@
         "position": "WR",
         "team": "CHI",
         "redraft": 23,
-        "dynasty": 19
+        "dynasty": 20
       },
       "17071": {
         "fpid": "25417",
@@ -3096,22 +3184,22 @@
         "position": "WR",
         "team": "LAC",
         "redraft": 64,
-        "dynasty": 60
+        "dynasty": 61
       },
       "17073": {
         "fpid": "27059",
         "name": "Elic Ayomanor",
         "position": "WR",
         "team": "TEN",
-        "redraft": 89,
-        "dynasty": 81
+        "redraft": 88,
+        "dynasty": 79
       },
       "17074": {
         "fpid": "26034",
         "name": "Travis Hunter",
         "position": "WR",
         "team": "JAC",
-        "redraft": 68,
+        "redraft": 69,
         "dynasty": 58
       },
       "17075": {
@@ -3135,7 +3223,7 @@
         "name": "Xavier Restrepo",
         "position": "WR",
         "team": "TEN",
-        "redraft": 160,
+        "redraft": 155,
         "dynasty": 161
       },
       "17078": {
@@ -3144,23 +3232,23 @@
         "position": "WR",
         "team": "LV",
         "redraft": 85,
-        "dynasty": 78
+        "dynasty": 80
       },
       "17079": {
         "fpid": "27147",
         "name": "Tez Johnson",
         "position": "WR",
         "team": "TB",
-        "redraft": 112,
-        "dynasty": 106
+        "redraft": 117,
+        "dynasty": 105
       },
       "17080": {
         "fpid": "27122",
         "name": "Jaylin Noel",
         "position": "WR",
         "team": "HOU",
-        "redraft": 77,
-        "dynasty": 69
+        "redraft": 74,
+        "dynasty": 68
       },
       "17081": {
         "fpid": "23062",
@@ -3176,22 +3264,14 @@
         "position": "WR",
         "team": "DEN",
         "redraft": 71,
-        "dynasty": 74
-      },
-      "17083": {
-        "fpid": "27077",
-        "name": "Jayden Higgins",
-        "position": "WR",
-        "team": "HOU",
-        "redraft": 50,
-        "dynasty": 38
+        "dynasty": 73
       },
       "17086": {
         "fpid": "27076",
         "name": "Jalen Royals",
         "position": "WR",
         "team": "KC",
-        "redraft": 121,
+        "redraft": 115,
         "dynasty": 115
       },
       "17087": {
@@ -3199,7 +3279,7 @@
         "name": "Dont'e Thornton Jr.",
         "position": "WR",
         "team": "LV",
-        "redraft": 135,
+        "redraft": 133,
         "dynasty": 123
       },
       "17088": {
@@ -3207,8 +3287,8 @@
         "name": "Theo Wease Jr.",
         "position": "WR",
         "team": "MIA",
-        "redraft": 159,
-        "dynasty": 175
+        "redraft": 168,
+        "dynasty": 173
       },
       "17089": {
         "fpid": "27218",
@@ -3224,7 +3304,7 @@
         "position": "WR",
         "team": "GB",
         "redraft": 129,
-        "dynasty": 128
+        "dynasty": 131
       },
       "17097": {
         "fpid": "27182",
@@ -3232,7 +3312,7 @@
         "position": "WR",
         "team": "MIN",
         "redraft": 150,
-        "dynasty": 142
+        "dynasty": 143
       },
       "17098": {
         "fpid": "26022",
@@ -3240,14 +3320,14 @@
         "position": "WR",
         "team": "SEA",
         "redraft": 92,
-        "dynasty": 80
+        "dynasty": 82
       },
       "17099": {
         "fpid": "25997",
         "name": "Oronde Gadsden II",
         "position": "TE",
         "team": "LAC",
-        "redraft": 22,
+        "redraft": 23,
         "dynasty": 14
       },
       "17102": {
@@ -3263,7 +3343,7 @@
         "name": "Harold Fannin Jr.",
         "position": "TE",
         "team": "CLE",
-        "redraft": 6,
+        "redraft": 5,
         "dynasty": 6
       },
       "17104": {
@@ -3279,7 +3359,7 @@
         "name": "Gunnar Helm",
         "position": "TE",
         "team": "TEN",
-        "redraft": 25,
+        "redraft": 24,
         "dynasty": 25
       },
       "17106": {
@@ -3287,7 +3367,7 @@
         "name": "Mason Taylor",
         "position": "TE",
         "team": "NYJ",
-        "redraft": 34,
+        "redraft": 35,
         "dynasty": 30
       },
       "17107": {
@@ -3295,7 +3375,7 @@
         "name": "Terrance Ferguson",
         "position": "TE",
         "team": "LAR",
-        "redraft": 26,
+        "redraft": 27,
         "dynasty": 20
       },
       "17108": {
@@ -3312,7 +3392,7 @@
         "position": "TE",
         "team": "CAR",
         "redraft": 54,
-        "dynasty": 58
+        "dynasty": 57
       },
       "17134": {
         "fpid": "27487",
@@ -3327,15 +3407,15 @@
         "name": "Isaac TeSlaa",
         "position": "WR",
         "team": "DET",
-        "redraft": 78,
-        "dynasty": 77
+        "redraft": 79,
+        "dynasty": 76
       },
       "17171": {
         "fpid": "27315",
         "name": "Chimere Dike",
         "position": "WR",
         "team": "TEN",
-        "redraft": 87,
+        "redraft": 86,
         "dynasty": 89
       },
       "17184": {
@@ -3343,16 +3423,24 @@
         "name": "Jaylin Lane",
         "position": "WR",
         "team": "WAS",
-        "redraft": 131,
+        "redraft": 134,
         "dynasty": 125
+      },
+      "17192": {
+        "fpid": "27486",
+        "name": "Jordan Watkins",
+        "position": "WR",
+        "team": "SF",
+        "redraft": 174,
+        "dynasty": 152
       },
       "17213": {
         "fpid": "27469",
         "name": "Jackson Hawes",
         "position": "TE",
         "team": "BUF",
-        "redraft": 61,
-        "dynasty": 98
+        "redraft": 66,
+        "dynasty": 90
       },
       "17220": {
         "fpid": "27291",
@@ -3376,14 +3464,14 @@
         "position": "WR",
         "team": "CAR",
         "redraft": 166,
-        "dynasty": 156
+        "dynasty": 158
       },
       "17254": {
         "fpid": "27449",
         "name": "Konata Mumpfield",
         "position": "WR",
         "team": "LAR",
-        "redraft": 118,
+        "redraft": 116,
         "dynasty": 137
       },
       "17256": {
@@ -3391,7 +3479,7 @@
         "name": "Jacory Croskey-Merritt",
         "position": "RB",
         "team": "WAS",
-        "redraft": 40,
+        "redraft": 39,
         "dynasty": 39
       },
       "17277": {
@@ -3399,7 +3487,15 @@
         "name": "Ryan Fitzgerald",
         "position": "K",
         "team": "CAR",
-        "redraft": 26,
+        "redraft": 25,
+        "dynasty": null
+      },
+      "17307": {
+        "fpid": "23112",
+        "name": "Ulysses Bentley IV",
+        "position": "RB",
+        "team": "IND",
+        "redraft": 153,
         "dynasty": null
       },
       "17337": {
@@ -3407,8 +3503,16 @@
         "name": "Zavier Scott",
         "position": "RB",
         "team": "MIN",
-        "redraft": 118,
-        "dynasty": 168
+        "redraft": 117,
+        "dynasty": 156
+      },
+      "17348": {
+        "fpid": "27667",
+        "name": "Nathan Carter",
+        "position": "RB",
+        "team": "ATL",
+        "redraft": 148,
+        "dynasty": null
       },
       "17353": {
         "fpid": "27810",
@@ -3416,7 +3520,7 @@
         "position": "WR",
         "team": "CHI",
         "redraft": 151,
-        "dynasty": 184
+        "dynasty": 180
       },
       "17424": {
         "fpid": "26444",
@@ -3447,7 +3551,7 @@
         "name": "Ty Simpson",
         "position": "QB",
         "team": "LAR",
-        "redraft": 39,
+        "redraft": 40,
         "dynasty": 28
       },
       "17466": {
@@ -3456,7 +3560,7 @@
         "position": "QB",
         "team": "ARI",
         "redraft": 37,
-        "dynasty": 37
+        "dynasty": 36
       },
       "17467": {
         "fpid": "24361",
@@ -3471,7 +3575,7 @@
         "name": "Jeremiyah Love",
         "position": "RB",
         "team": "ARI",
-        "redraft": 13,
+        "redraft": 14,
         "dynasty": 4
       },
       "17473": {
@@ -3480,7 +3584,7 @@
         "position": "RB",
         "team": "SEA",
         "redraft": 26,
-        "dynasty": 20
+        "dynasty": 19
       },
       "17474": {
         "fpid": "28107",
@@ -3496,7 +3600,7 @@
         "position": "RB",
         "team": "IND",
         "redraft": 84,
-        "dynasty": 80
+        "dynasty": 78
       },
       "17476": {
         "fpid": "24343",
@@ -3511,7 +3615,7 @@
         "name": "Jonah Coleman",
         "position": "RB",
         "team": "DEN",
-        "redraft": 51,
+        "redraft": 50,
         "dynasty": 36
       },
       "17478": {
@@ -3520,14 +3624,14 @@
         "position": "RB",
         "team": "WAS",
         "redraft": 64,
-        "dynasty": 52
+        "dynasty": 53
       },
       "17480": {
         "fpid": "25394",
         "name": "Jaydn Ott",
         "position": "RB",
         "team": "KC",
-        "redraft": 135,
+        "redraft": 144,
         "dynasty": 104
       },
       "17481": {
@@ -3535,7 +3639,7 @@
         "name": "Demond Claiborne",
         "position": "RB",
         "team": "MIN",
-        "redraft": 68,
+        "redraft": 71,
         "dynasty": 60
       },
       "17482": {
@@ -3544,14 +3648,14 @@
         "position": "RB",
         "team": "LV",
         "redraft": 61,
-        "dynasty": 55
+        "dynasty": 54
       },
       "17483": {
         "fpid": "25387",
         "name": "Roman Hemby",
         "position": "RB",
         "team": "LV",
-        "redraft": 138,
+        "redraft": 135,
         "dynasty": 102
       },
       "17485": {
@@ -3559,16 +3663,16 @@
         "name": "Kaelon Black",
         "position": "RB",
         "team": "SF",
-        "redraft": 76,
-        "dynasty": 74
+        "redraft": 75,
+        "dynasty": 76
       },
       "17486": {
         "fpid": "27326",
         "name": "Jam Miller",
         "position": "RB",
         "team": "NE",
-        "redraft": 111,
-        "dynasty": 105
+        "redraft": 107,
+        "dynasty": 106
       },
       "17487": {
         "fpid": "28109",
@@ -3583,8 +3687,16 @@
         "name": "Noah Whittington",
         "position": "RB",
         "team": "HOU",
-        "redraft": 127,
+        "redraft": 121,
         "dynasty": 126
+      },
+      "17493": {
+        "fpid": "28124",
+        "name": "Cash Jones",
+        "position": "RB",
+        "team": "ATL",
+        "redraft": 128,
+        "dynasty": null
       },
       "17497": {
         "fpid": "26009",
@@ -3599,7 +3711,7 @@
         "name": "Jordyn Tyson",
         "position": "WR",
         "team": "NO",
-        "redraft": 42,
+        "redraft": 48,
         "dynasty": 21
       },
       "17499": {
@@ -3607,7 +3719,7 @@
         "name": "Makai Lemon",
         "position": "WR",
         "team": "PHI",
-        "redraft": 45,
+        "redraft": 46,
         "dynasty": 25
       },
       "17500": {
@@ -3615,15 +3727,15 @@
         "name": "Denzel Boston",
         "position": "WR",
         "team": "CLE",
-        "redraft": 57,
-        "dynasty": 43
+        "redraft": 56,
+        "dynasty": 42
       },
       "17501": {
         "fpid": "27331",
         "name": "KC Concepcion",
         "position": "WR",
         "team": "CLE",
-        "redraft": 49,
+        "redraft": 50,
         "dynasty": 31
       },
       "17502": {
@@ -3631,7 +3743,7 @@
         "name": "Omar Cooper Jr.",
         "position": "WR",
         "team": "NYJ",
-        "redraft": 62,
+        "redraft": 65,
         "dynasty": 44
       },
       "17503": {
@@ -3639,7 +3751,7 @@
         "name": "Germie Bernard",
         "position": "WR",
         "team": "PIT",
-        "redraft": 84,
+        "redraft": 83,
         "dynasty": 65
       },
       "17504": {
@@ -3647,8 +3759,8 @@
         "name": "CJ Daniels",
         "position": "WR",
         "team": "LAR",
-        "redraft": 139,
-        "dynasty": 133
+        "redraft": 140,
+        "dynasty": 135
       },
       "17505": {
         "fpid": "27463",
@@ -3656,14 +3768,14 @@
         "position": "WR",
         "team": "BAL",
         "redraft": 94,
-        "dynasty": 73
+        "dynasty": 77
       },
       "17506": {
         "fpid": "26038",
         "name": "Chris Bell",
         "position": "WR",
         "team": "MIA",
-        "redraft": 93,
+        "redraft": 91,
         "dynasty": 62
       },
       "17507": {
@@ -3672,31 +3784,31 @@
         "position": "WR",
         "team": "ATL",
         "redraft": 81,
-        "dynasty": 76
+        "dynasty": 74
       },
       "17508": {
         "fpid": "28126",
         "name": "Skyler Bell",
         "position": "WR",
         "team": "BUF",
-        "redraft": 105,
-        "dynasty": 93
+        "redraft": 106,
+        "dynasty": 90
       },
       "17509": {
         "fpid": "28047",
         "name": "Chris Brazzell II",
         "position": "WR",
         "team": "CAR",
-        "redraft": 127,
-        "dynasty": 91
+        "redraft": 122,
+        "dynasty": 92
       },
       "17510": {
         "fpid": "27093",
         "name": "Deion Burks",
         "position": "WR",
         "team": "IND",
-        "redraft": 145,
-        "dynasty": 126
+        "redraft": 146,
+        "dynasty": 128
       },
       "17511": {
         "fpid": "27994",
@@ -3704,14 +3816,14 @@
         "position": "WR",
         "team": "NYG",
         "redraft": 90,
-        "dynasty": 82
+        "dynasty": 83
       },
       "17512": {
         "fpid": "25418",
         "name": "Antonio Williams",
         "position": "WR",
         "team": "WAS",
-        "redraft": 82,
+        "redraft": 84,
         "dynasty": 59
       },
       "17514": {
@@ -3719,8 +3831,8 @@
         "name": "De'Zhaun Stribling",
         "position": "WR",
         "team": "SF",
-        "redraft": 56,
-        "dynasty": 61
+        "redraft": 55,
+        "dynasty": 60
       },
       "17517": {
         "fpid": "27337",
@@ -3728,14 +3840,14 @@
         "position": "WR",
         "team": "BAL",
         "redraft": 96,
-        "dynasty": 75
+        "dynasty": 72
       },
       "17518": {
         "fpid": "28424",
         "name": "Cyrus Allen",
         "position": "WR",
         "team": "KC",
-        "redraft": 108,
+        "redraft": 105,
         "dynasty": 113
       },
       "17519": {
@@ -3743,7 +3855,7 @@
         "name": "Bryce Lance",
         "position": "WR",
         "team": "NO",
-        "redraft": 122,
+        "redraft": 119,
         "dynasty": 103
       },
       "17520": {
@@ -3751,31 +3863,31 @@
         "name": "Ted Hurst III",
         "position": "WR",
         "team": "TB",
-        "redraft": 88,
-        "dynasty": 84
+        "redraft": 89,
+        "dynasty": 85
       },
       "17521": {
         "fpid": "28132",
         "name": "Zavion Thomas",
         "position": "WR",
         "team": "CHI",
-        "redraft": 136,
-        "dynasty": 131
+        "redraft": 132,
+        "dynasty": 126
       },
       "17526": {
         "fpid": "28141",
         "name": "Reggie Virgil",
         "position": "WR",
         "team": "ARI",
-        "redraft": 154,
-        "dynasty": 152
+        "redraft": 163,
+        "dynasty": 151
       },
       "17528": {
         "fpid": "28067",
         "name": "Kevin Coleman Jr.",
         "position": "WR",
         "team": "MIA",
-        "redraft": 128,
+        "redraft": 130,
         "dynasty": 116
       },
       "17529": {
@@ -3783,7 +3895,7 @@
         "name": "Brenen Thompson",
         "position": "WR",
         "team": "LAC",
-        "redraft": 123,
+        "redraft": 124,
         "dynasty": 117
       },
       "17541": {
@@ -3791,7 +3903,7 @@
         "name": "Barion Brown",
         "position": "WR",
         "team": "NO",
-        "redraft": 155,
+        "redraft": 149,
         "dynasty": 138
       },
       "17542": {
@@ -3799,15 +3911,15 @@
         "name": "Colbie Young",
         "position": "WR",
         "team": "CIN",
-        "redraft": 146,
-        "dynasty": 158
+        "redraft": 145,
+        "dynasty": 154
       },
       "17543": {
         "fpid": "26055",
         "name": "Kenyon Sadiq",
         "position": "TE",
         "team": "NYJ",
-        "redraft": 24,
+        "redraft": 26,
         "dynasty": 9
       },
       "17544": {
@@ -3815,15 +3927,15 @@
         "name": "Eli Stowers",
         "position": "TE",
         "team": "PHI",
-        "redraft": 32,
-        "dynasty": 10
+        "redraft": 33,
+        "dynasty": 11
       },
       "17546": {
         "fpid": "23167",
         "name": "Michael Trigg",
         "position": "TE",
         "team": "DAL",
-        "redraft": 75,
+        "redraft": 74,
         "dynasty": 52
       },
       "17547": {
@@ -3831,7 +3943,7 @@
         "name": "Max Klare",
         "position": "TE",
         "team": "LAR",
-        "redraft": 43,
+        "redraft": 45,
         "dynasty": 29
       },
       "17548": {
@@ -3839,7 +3951,7 @@
         "name": "Justin Joly",
         "position": "TE",
         "team": "DEN",
-        "redraft": 48,
+        "redraft": 50,
         "dynasty": 39
       },
       "17549": {
@@ -3847,7 +3959,7 @@
         "name": "Sam Roush",
         "position": "TE",
         "team": "CHI",
-        "redraft": 74,
+        "redraft": 73,
         "dynasty": 48
       },
       "17567": {
@@ -3855,39 +3967,47 @@
         "name": "Oscar Delp",
         "position": "TE",
         "team": "NO",
-        "redraft": 33,
-        "dynasty": 27
+        "redraft": 32,
+        "dynasty": 28
       },
       "17591": {
         "fpid": "28427",
         "name": "Nate Boerkircher",
         "position": "TE",
         "team": "JAC",
-        "redraft": 67,
-        "dynasty": 67
+        "redraft": 68,
+        "dynasty": 68
       },
       "17593": {
         "fpid": "28157",
         "name": "Marlin Klein",
         "position": "TE",
         "team": "HOU",
-        "redraft": 64,
-        "dynasty": 50
+        "redraft": 62,
+        "dynasty": 51
       },
       "17599": {
         "fpid": "28135",
         "name": "Caleb Douglas",
         "position": "WR",
         "team": "MIA",
-        "redraft": 102,
+        "redraft": 101,
         "dynasty": 111
+      },
+      "17605": {
+        "fpid": "28403",
+        "name": "Will Kacmarek",
+        "position": "TE",
+        "team": "MIA",
+        "redraft": 67,
+        "dynasty": 69
       },
       "17607": {
         "fpid": "28154",
         "name": "Eli Raridon",
         "position": "TE",
         "team": "NE",
-        "redraft": 45,
+        "redraft": 46,
         "dynasty": 34
       },
       "17627": {
@@ -3895,8 +4015,8 @@
         "name": "Matt Hibner",
         "position": "TE",
         "team": "BAL",
-        "redraft": 65,
-        "dynasty": 51
+        "redraft": 64,
+        "dynasty": 50
       },
       "17644": {
         "fpid": "27499",
@@ -3906,28 +4026,20 @@
         "redraft": 63,
         "dynasty": 49
       },
-      "17647": {
-        "fpid": "26044",
-        "name": "Kendrick Law",
-        "position": "WR",
-        "team": "DET",
-        "redraft": 167,
-        "dynasty": 163
-      },
       "17652": {
         "fpid": "24367",
         "name": "Adam Randall",
         "position": "RB",
         "team": "BAL",
-        "redraft": 87,
-        "dynasty": 77
+        "redraft": 83,
+        "dynasty": 74
       },
       "17668": {
         "fpid": "28507",
         "name": "Trey Smack",
         "position": "K",
         "team": "GB",
-        "redraft": 27,
+        "redraft": 26,
         "dynasty": null
       },
       "17685": {
@@ -3936,22 +4048,22 @@
         "position": "RB",
         "team": "PIT",
         "redraft": 101,
-        "dynasty": 83
+        "dynasty": 82
       },
       "17706": {
         "fpid": "26012",
         "name": "Malik Benson",
         "position": "WR",
         "team": "LV",
-        "redraft": 132,
-        "dynasty": 140
+        "redraft": 128,
+        "dynasty": 141
       },
       "17709": {
         "fpid": "28404",
         "name": "Robert Henry Jr.",
         "position": "RB",
         "team": "WAS",
-        "redraft": 121,
+        "redraft": 118,
         "dynasty": 107
       },
       "17718": {
@@ -3959,20 +4071,28 @@
         "name": "Myles Montgomery",
         "position": "RB",
         "team": "FA",
-        "redraft": 129,
+        "redraft": 132,
+        "dynasty": null
+      },
+      "17726": {
+        "fpid": "28175",
+        "name": "Drew Stevens",
+        "position": "K",
+        "team": "WAS",
+        "redraft": 36,
         "dynasty": null
       }
     },
     "meta": {
-      "mappedPlayers": 495,
-      "unmappedPlayers": 378,
-      "playerCrosswalk": 495,
-      "redraftRanked": 744,
-      "dynastyRanked": 712,
-      "redraftPlayers": 744,
-      "dynastyPlayers": 712,
-      "totalExpertsRedraft": 87,
-      "totalExpertsDynasty": 29,
+      "mappedPlayers": 510,
+      "unmappedPlayers": 381,
+      "playerCrosswalk": 510,
+      "redraftRanked": 771,
+      "dynastyRanked": 703,
+      "redraftPlayers": 771,
+      "dynastyPlayers": 703,
+      "totalExpertsRedraft": 97,
+      "totalExpertsDynasty": 27,
       "tier": "premium-production",
       "endpoint": "public/v2/json",
       "mapping": "FantasyPros fpid -> players external_ids=mfl"
